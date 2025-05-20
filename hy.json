@@ -1,0 +1,1440 @@
+{
+  "abbreviation": {
+    "noun": "հապավում"
+  },
+  "absolute": {
+    "adjective": "բացարձակ"
+  },
+  "access": {
+    "noun": "մուտք",
+    "verb": "մատչել"
+  },
+  "accessibility": {
+    "noun": "մատչելիության աջակցում"
+  },
+  "accessible": {
+    "adjective": "հասանելի, մատչելի"
+  },
+  "account": {
+    "noun": "հաշիվ"
+  },
+  "action": {
+    "noun": "գործողություն"
+  },
+  "activate": {
+    "verb": "ակտիվացնել"
+  },
+  "activated": {
+    "adjective": "ակտիվացված"
+  },
+  "activity": {
+    "noun": "գործունեություն"
+  },
+  "additional": {
+    "noun": "հավելյալ, լրացուցիչ"
+  },
+  "address bar": {
+    "expression": "հասցեագոտի"
+  },
+  "adjust": {
+    "verb": "կարգաբերել"
+  },
+  "administration": {
+    "noun": "կառավարում"
+  },
+  "administrator": {
+    "noun": "կայքի վարիչ"
+  },
+  "advanced": {
+    "adjective": "ընդլայնված, հավելյալ"
+  },
+  "align": {
+    "verb": "հավասարեցնել"
+  },
+  "alignment": {
+    "noun": "հավասարեցում"
+  },
+  "appearance": {
+    "noun": "արտաքին տեսք"
+  },
+  "apply": {
+    "verb": "կիրառել"
+  },
+  "approve": {
+    "verb": "հաստատել"
+  },
+  "approved": {
+    "adjective": "հաստատված"
+  },
+  "archive": {
+    "noun": "արխիվ",
+    "verb": "արխիվացնել"
+  },
+  "archived": {
+    "adjective": "արխիվացված"
+  },
+  "argument": {
+    "noun": "փաստարկ"
+  },
+  "ascending": {
+    "adjective": "ըստ աճման"
+  },
+  "aside": {
+    "noun": "նշում"
+  },
+  "aspect ratio": {
+    "expression": "կողմերի հարաբերություն"
+  },
+  "assign": {
+    "verb": "նշանակել, վերագրել, կապակցել"
+  },
+  "assigned": {
+    "adjective": "վերագրված, նշանակված"
+  },
+  "associate": {
+    "verb": "համակցել"
+  },
+  "associated": {
+    "adjective": "համակցված"
+  },
+  "attach": {
+    "verb": "կցել"
+  },
+  "attachment": {
+    "noun": "կցորդ"
+  },
+  "attribute": {
+    "noun": "հատկանիշ"
+  },
+  "audible": {
+    "adjective": "ձայնային"
+  },
+  "audio": {
+    "noun": "ձայնանյութ"
+  },
+  "authenticate": {
+    "verb": "վավերացնել"
+  },
+  "authentication": {
+    "noun": "վավերացում"
+  },
+  "authorization": {
+    "noun": "նույնացում"
+  },
+  "authorize": {
+    "noun": "լիազորել"
+  },
+  "auto": {
+    "adverb": "ինքնաբար"
+  },
+  "autoplay": {
+    "noun": "ինքնանվագում"
+  },
+  "availability": {
+    "noun": "առկայություն, հասանելիություն"
+  },
+  "available": {
+    "adjective": "առկա"
+  },
+  "avatar": {
+    "noun": "ավատար"
+  },
+  "background": {
+    "noun": "խորապատկեր"
+  },
+  "bar": {
+    "noun": "փեղկ"
+  },
+  "behaviour": {
+    "noun": "վարք"
+  },
+  "blank": {
+    "adjective": "դատարկ"
+  },
+  "block": {
+    "noun": "բաժին"
+  },
+  "blockquote": {
+    "noun": "մեջբերում"
+  },
+  "body": {
+    "noun": "հիմնական մաս"
+  },
+  "bold": {
+    "adjective": "թավ"
+  },
+  "bookmarklet": {
+    "noun": "էջանիշ"
+  },
+  "border": {
+    "noun": "եզրագիծ"
+  },
+  "bottom": {
+    "noun": "ներքևում"
+  },
+  "box": {
+    "noun": "վանդակ"
+  },
+  "browse": {
+    "verb": "զննել, դիտել, ընտրել"
+  },
+  "browser": {
+    "noun": "դիտարկիչ"
+  },
+  "buffered": {
+    "adjective": "պահնակված"
+  },
+  "buffering": {
+    "noun": "պահնակում"
+  },
+  "bulk": {
+    "adjective": "փաթեթային"
+  },
+  "bullet": {
+    "noun": "պարբերակ"
+  },
+  "button": {
+    "noun": "կոճակ"
+  },
+  "calendar": {
+    "noun": "օրացույց"
+  },
+  "cancel": {
+    "verb": "չեղարկել"
+  },
+  "capabilities": {
+    "noun": "հնարավորություններ"
+  },
+  "caption": {
+    "noun": "պատկերի խորագիր"
+  },
+  "categories": {
+    "noun": "կարգեր"
+  },
+  "category": {
+    "noun": "կարգ"
+  },
+  "cause": {
+    "noun": "հանգեցնել"
+  },
+  "cell": {
+    "noun": "վանդակ"
+  },
+  "change": {
+    "verb": "փոխել"
+  },
+  "changelog": {
+    "noun": "փոփոխացանկ"
+  },
+  "chat": {
+    "noun": "զրույց"
+  },
+  "checksum": {
+    "noun": "ստուգագումար"
+  },
+  "child": {
+    "noun": "ստորադաս"
+  },
+  "child theme": {
+    "noun": "ենթաթեմա"
+  },
+  "chronological": {
+    "adjective": "ժամանակագրական"
+  },
+  "clear": {
+    "verb": "մաքրել"
+  },
+  "click": {
+    "noun": "կտտոց",
+    "verb": "սեղմել, կտտացնել"
+  },
+  "close": {
+    "verb": "փակել"
+  },
+  "code": {
+    "noun": "կոդ"
+  },
+  "collapse": {
+    "verb": "կոծկել"
+  },
+  "color scheme": {
+    "expression": "գունավորում"
+  },
+  "cols": {
+    "noun": "սյունակներ"
+  },
+  "column": {
+    "noun": "սյունակ"
+  },
+  "columns": {
+    "noun": "սյունակներ"
+  },
+  "combination": {
+    "noun": "համակցություն"
+  },
+  "command": {
+    "noun": "հրահանգ"
+  },
+  "comment": {
+    "noun": "մեկնաբանություն"
+  },
+  "comments": {
+    "noun": "մեկնաբանություններ"
+  },
+  "compatibility": {
+    "noun": "համատեղելիություն"
+  },
+  "compatible": {
+    "adjective": "համատեղելի"
+  },
+  "configure": {
+    "verb": "կազմաձևել, կարգավորել"
+  },
+  "confirm": {
+    "verb": "հաստատել"
+  },
+  "confirmation": {
+    "noun": "հաստատում"
+  },
+  "conflict": {
+    "noun": "հակասություն"
+  },
+  "constant": {
+    "noun": "հաստատուն"
+  },
+  "content": {
+    "noun": "բովանդակություն"
+  },
+  "contributor": {
+    "noun": "աջակցող"
+  },
+  "control": {
+    "verb": "կառավարել հսկել"
+  },
+  "cookie": {
+    "noun": "թխուկ"
+  },
+  "copy": {
+    "verb": "կրկնապատկել, պատճենել"
+  },
+  "count": {
+    "noun": "քանակ"
+  },
+  "crop": {
+    "verb": "եզրատել"
+  },
+  "current": {
+    "adjective": "ընթացիկ"
+  },
+  "cursor": {
+    "noun": "նշորդ"
+  },
+  "custom": {
+    "adjective": "հատուկ, հայեցողական, ընտելական, կամայական"
+  },
+  "customize": {
+    "verb": "կազմաձևել, փոփոխել"
+  },
+  "customizer": {
+    "noun": "կազմաձևիչ"
+  },
+  "dashboard": {
+    "noun": "կառավարակետ"
+  },
+  "deactivate": {
+    "verb": "կասեցնել"
+  },
+  "debug": {
+    "noun": "վրիպազերծում",
+    "verb": "վրիպազերծել"
+  },
+  "default": {
+    "adjective": "լռելյայն",
+    "adverb": "լռելիությամբ"
+  },
+  "define": {
+    "verb": "սահմանել"
+  },
+  "delete": {
+    "verb": "ջնջել"
+  },
+  "deleted": {
+    "adjective": "ջնջված"
+  },
+  "deprecated": {
+    "adjective": "հնացած"
+  },
+  "descending": {
+    "adjective": "ըստ նվազման"
+  },
+  "designer": {
+    "noun": "ձևավորող"
+  },
+  "detach": {
+    "verb": "հանել"
+  },
+  "details": {
+    "noun": "մանրամասները"
+  },
+  "developer": {
+    "noun": "մշակող, ծրագրավորող"
+  },
+  "device": {
+    "noun": "սարքավորում"
+  },
+  "dimensions": {
+    "noun": "կողմերի չափերը"
+  },
+  "disable": {
+    "verb": "կասեցնել"
+  },
+  "discussion": {
+    "noun": "քննարկում"
+  },
+  "dismiss": {
+    "noun": "փակել"
+  },
+  "documentation": {
+    "noun": "փաստաթղթեր"
+  },
+  "domain": {
+    "noun": "տիրույթ"
+  },
+  "done": {
+    "adjective": "պատրաստ"
+  },
+  "draft": {
+    "noun": "սևագիր"
+  },
+  "drag": {
+    "verb": "քաշել"
+  },
+  "driver": {
+    "noun": "սարքավար"
+  },
+  "drop": {
+    "verb": "գցել"
+  },
+  "dropdown": {
+    "adjective": "ելնող"
+  },
+  "duplicate": {
+    "verb": "կրկնօրինակել"
+  },
+  "edit": {
+    "verb": "խմբագրել"
+  },
+  "editor": {
+    "noun": "խմբագիր, խմբագրող"
+  },
+  "email": {
+    "noun": "էլ-փոստի հասցե"
+  },
+  "embed": {
+    "noun": "ներածում",
+    "verb": "զետեղել"
+  },
+  "embedded": {
+    "adjective": "զետեղված"
+  },
+  "embeds": {
+    "noun": "զետեղումներ"
+  },
+  "emoticons": {
+    "noun": "զմայլիկներ"
+  },
+  "enable": {
+    "verb": "միացնել, գործունացնել"
+  },
+  "enabled": {
+    "adjective": "միացրած, գործունացված"
+  },
+  "encoding": {
+    "noun": "գրվածքի կոդավորումը"
+  },
+  "encrypt": {
+    "verb": "ծածկագրել"
+  },
+  "endpoint": {
+    "noun": "վերջնակետ"
+  },
+  "excerpt": {
+    "noun": "մեջբերումներ"
+  },
+  "exclude": {
+    "verb": "բացառել"
+  },
+  "expand": {
+    "verb": "ընդարձակել"
+  },
+  "export": {
+    "noun": "արտահանում"
+  },
+  "extension": {
+    "noun": "ընդլայնում"
+  },
+  "factor": {
+    "noun": "գործոն"
+  },
+  "fax": {
+    "noun": "հեռապատճեն"
+  },
+  "featured": {
+    "adjective": "ընտրյալ"
+  },
+  "features": {
+    "noun": "հատկություններ"
+  },
+  "feed": {
+    "noun": "լրահոս"
+  },
+  "feedback": {
+    "noun": "հետադարձ կապ"
+  },
+  "file": {
+    "noun": "ֆայլ"
+  },
+  "filter": {
+    "verb": "զտել",
+    "noun": "զտիչ"
+  },
+  "filtering": {
+    "noun": "զտում"
+  },
+  "find": {
+    "verb": "գտնել"
+  },
+  "finish": {
+    "verb": "ավարտել"
+  },
+  "fixed": {
+    "adjective": "անշարժ"
+  },
+  "flip": {
+    "verb": "արտացոլել"
+  },
+  "footer": {
+    "noun": "էջատակ"
+  },
+  "format": {
+    "noun": "ձևաչափ"
+  },
+  "formatting": {
+    "noun": "ձևաչափում"
+  },
+  "formerly": {
+    "adverb": "նախկինում"
+  },
+  "forum": {
+    "noun": "ֆորում"
+  },
+  "freedoms": {
+    "noun": "իրավունքներ"
+  },
+  "front": {
+    "adjective": "ճակատային"
+  },
+  "fullscreen": {
+    "adverb": "լիավահան"
+  },
+  "function": {
+    "noun": "գործառույթ"
+  },
+  "functionality": {
+    "noun": "գործառություն"
+  },
+  "galleries": {
+    "noun": "պատկերասրահներ"
+  },
+  "gallery": {
+    "noun": "պատկերասրահ"
+  },
+  "general": {
+    "adjective": "ընդհանուր"
+  },
+  "genre": {
+    "noun": "ժանր"
+  },
+  "geographical": {
+    "adjective": "աշխարհագրական"
+  },
+  "grab": {
+    "verb": "գրավել"
+  },
+  "grid": {
+    "adjective": "ցանցավոր"
+  },
+  "heading": {
+    "noun": "վերնագիր"
+  },
+  "height": {
+    "noun": "բարձրություն"
+  },
+  "help": {
+    "noun": "օգնություն"
+  },
+  "hide": {
+    "verb": "թաքցնել"
+  },
+  "hierarchy": {
+    "noun": "ստորակարգում"
+  },
+  "home": {
+    "noun": "գլխավոր"
+  },
+  "hook": {
+    "noun": "կեռ"
+  },
+  "hostname": {
+    "noun": "խնամորդ"
+  },
+  "howdy": {
+    "conjunction": "ողջույն"
+  },
+  "identifier": {
+    "noun": "նույնացուցիչ"
+  },
+  "identity": {
+    "noun": "անձ"
+  },
+  "ignore": {
+    "verb": "անտեսել"
+  },
+  "image": {
+    "noun": "պատկեր"
+  },
+  "import": {
+    "noun": "ներմուծում",
+    "verb": "ներմուծել"
+  },
+  "include": {
+    "verb": "ներառել"
+  },
+  "index": {
+    "verb": "ցուցակագրել",
+    "noun": "ցուցակագիր, դասիչ"
+  },
+  "info": {
+    "noun": "տեղեկություններ"
+  },
+  "initialize": {
+    "noun": "սկզբնավորել"
+  },
+  "initializing": {
+    "noun": "սկզբնավորում"
+  },
+  "inline": {
+    "adjective": "ներտող"
+  },
+  "input": {
+    "noun": "ներածում"
+  },
+  "insert": {
+    "verb": "զետեղել"
+  },
+  "install": {
+    "verb": "տեղակայել"
+  },
+  "installation": {
+    "noun": "տեղակայում"
+  },
+  "installed": {
+    "adjective": "տեղակայված"
+  },
+  "instance": {
+    "noun": "հատանմուշ"
+  },
+  "internationalization": {
+    "noun": "միջազգայնացում"
+  },
+  "it looks": {
+    "expression": "ըստ երևույթի"
+  },
+  "italic": {
+    "adjective": "շեղ"
+  },
+  "item": {
+    "noun": "նյութ, տարր"
+  },
+  "justify": {
+    "verb": "տողաշտկել"
+  },
+  "key": {
+    "noun": "բանալի, ստեղն"
+  },
+  "keyword": {
+    "noun": "հիմնաբառ"
+  },
+  "large": {
+    "adjective": "խոշոր"
+  },
+  "last": {
+    "adjective": "վերջին"
+  },
+  "latest": {
+    "adjective": "վերջին"
+  },
+  "layout": {
+    "noun": "դասավորություն"
+  },
+  "left": {
+    "adjective": "ձախից"
+  },
+  "length": {
+    "noun": "տևողություն"
+  },
+  "library": {
+    "noun": "գրադարան"
+  },
+  "license": {
+    "noun": "արտոնագիր"
+  },
+  "link": {
+    "noun": "հղում"
+  },
+  "list": {
+    "verb": "ցուցադրել",
+    "noun": "ցանկ"
+  },
+  "locale": {
+    "noun": "տեղույթ"
+  },
+  "location": {
+    "noun": "տարածություն, տեղակայություն"
+  },
+  "loop": {
+    "verb": "օղակել"
+  },
+  "maintenance": {
+    "noun": "սպասարկում"
+  },
+  "manually": {
+    "adverb": "ձերքով"
+  },
+  "mature": {
+    "adjective": "չափահասների համար"
+  },
+  "maximize": {
+    "verb": "ընդարձակել"
+  },
+  "maximum": {
+    "adjective": "առավելագույն"
+  },
+  "media": {
+    "noun": "մեդիա"
+  },
+  "medium": {
+    "adjective": "միջին"
+  },
+  "membership": {
+    "noun": "անդամակցություն"
+  },
+  "menu": {
+    "noun": "ընտրացանկեր"
+  },
+  "merge": {
+    "verb": "միաձուլել"
+  },
+  "message": {
+    "noun": "ուղերձ"
+  },
+  "metadata": {
+    "noun": "անդրտվյալներ"
+  },
+  "microformat": {
+    "noun": "մանրաձևաչափ"
+  },
+  "middle": {
+    "adjective": "մեջտեղում"
+  },
+  "minimize": {
+    "verb": "կոծկել"
+  },
+  "mismatch": {
+    "noun": "անհամապատասխանություն"
+  },
+  "mode": {
+    "noun": "եղանակ"
+  },
+  "moderate": {
+    "verb": "ստուգել"
+  },
+  "move": {
+    "verb": "տեղափոխել"
+  },
+  "multisite": {
+    "adjective": "բազմակայք"
+  },
+  "mute": {
+    "verb": "անջատել ձայնը"
+  },
+  "namespace": {
+    "noun": "անվանատարածք"
+  },
+  "narrow": {
+    "verb": "նվազեցնել"
+  },
+  "native": {
+    "adjective": "ներառուցված"
+  },
+  "navigation": {
+    "noun": "նավարկում"
+  },
+  "nest": {
+    "verb": "ներդնել"
+  },
+  "nested": {
+    "adjective": "ներդրված"
+  },
+  "network": {
+    "noun": "ցանց"
+  },
+  "newer": {
+    "adjective": "ավելի նոր"
+  },
+  "next": {
+    "adjective": "հաջորդ"
+  },
+  "nickname": {
+    "noun": "մականուն"
+  },
+  "notes": {
+    "noun": "նշումներ"
+  },
+  "notification": {
+    "noun": "ծանուցում"
+  },
+  "numeric": {
+    "adjective": "թվային"
+  },
+  "older": {
+    "adjective": "ավելի հին"
+  },
+  "optional": {
+    "adjective": "պարտադիր չէ"
+  },
+  "order": {
+    "noun": "հերթականություն"
+  },
+  "original": {
+    "adjective": "սկզբնական, բնօրինակ"
+  },
+  "output": {
+    "noun": "արտածում"
+  },
+  "overlay": {
+    "noun": "վերածածկ"
+  },
+  "overview": {
+    "noun": "ակնարկ"
+  },
+  "overwrite": {
+    "verb": "վրագրել"
+  },
+  "ownership": {
+    "noun": "պատկանելիություն"
+  },
+  "page": {
+    "noun": "էջ"
+  },
+  "pagination": {
+    "noun": "էջավորում"
+  },
+  "panel": {
+    "noun": "վահանակ"
+  },
+  "paragraph": {
+    "noun": "հատված"
+  },
+  "parameter": {
+    "noun": "հարաչափ"
+  },
+  "parent": {
+    "adjective": "վերադաս"
+  },
+  "parse": {
+    "verb": "վերլուծել"
+  },
+  "parser": {
+    "noun": "վերլուծիչ"
+  },
+  "password": {
+    "noun": "գաղտնաբառ"
+  },
+  "paste": {
+    "verb": "ներդնել"
+  },
+  "path": {
+    "noun": "ուղին"
+  },
+  "pattern": {
+    "noun": "նախշ"
+  },
+  "pending": {
+    "adjective": "սպասող"
+  },
+  "performance": {
+    "noun": "արդյունավետություն"
+  },
+  "permalink": {
+    "noun": "մշտական հղում"
+  },
+  "permanently": {
+    "adverb": "վերջնական"
+  },
+  "pingback": {
+    "noun": "ծանուցում"
+  },
+  "pings": {
+    "noun": "ծանուցումներ"
+  },
+  "place": {
+    "verb": "տեղադրել"
+  },
+  "placeholder": {
+    "noun": "տեղապահ"
+  },
+  "platform": {
+    "noun": "հենակ, հենք"
+  },
+  "plugin": {
+    "noun": "փլագին"
+  },
+  "popular": {
+    "adjective": "առավել օգտավործվող"
+  },
+  "port": {
+    "noun": "միացք"
+  },
+  "position": {
+    "noun": "դիրք"
+  },
+  "post": {
+    "noun": "գրառում"
+  },
+  "poster": {
+    "noun": "պոստեր"
+  },
+  "powered": {
+    "adjective": "աջակցվող"
+  },
+  "preferences": {
+    "noun": "նախընտրանքներ"
+  },
+  "prefix": {
+    "noun": "նախածանց"
+  },
+  "preload": {
+    "noun": "նախնական բեռնում"
+  },
+  "preset": {
+    "noun": "նախակայում"
+  },
+  "prevent": {
+    "verb": "կանխել"
+  },
+  "preview": {
+    "noun": "նախադիտում, նախատեսք"
+  },
+  "previous": {
+    "adjective": "նախորդ"
+  },
+  "print": {
+    "verb": "տպել"
+  },
+  "privacy": {
+    "noun": "գաղտնիություն"
+  },
+  "private": {
+    "adjective": "մասնավոր"
+  },
+  "proceed": {
+    "verb": "շարունակել"
+  },
+  "professional": {
+    "adjective": "մասնագիտական"
+  },
+  "profile": {
+    "noun": "հատկագիր"
+  },
+  "proportion": {
+    "noun": "համամասնություն"
+  },
+  "proportionally": {
+    "adverb": "համամասնորեն"
+  },
+  "proudly": {
+    "adverb": "հպարտությամբ"
+  },
+  "public": {
+    "adjective": "հասարակական, բաց"
+  },
+  "publish": {
+    "verb": "հրատարակել"
+  },
+  "published": {
+    "adjective": "հրատարակված"
+  },
+  "quote": {
+    "noun": "մեջբերում"
+  },
+  "radio button": {
+    "expression": "կետակոճակ"
+  },
+  "random": {
+    "adjective": "պատահական"
+  },
+  "rating": {
+    "noun": "գննահատում"
+  },
+  "reading": {
+    "noun": "կարդալը"
+  },
+  "recent": {
+    "adjective": "թարմ, վերջին"
+  },
+  "recommended": {
+    "adjective": "առաջարկվող"
+  },
+  "redirect": {
+    "noun": "վերուղորդել, վերահասցեագրել"
+  },
+  "redo": {
+    "verb": "վերարկել"
+  },
+  "refresh": {
+    "verb": "թարմացնել"
+  },
+  "register": {
+    "verb": "գրանցվել"
+  },
+  "registered": {
+    "adjective": "գրանցված"
+  },
+  "reject": {
+    "verb": "մերժել"
+  },
+  "relationship": {
+    "noun": "հարաբերություններ"
+  },
+  "relative": {
+    "adjective": "հարաբերական"
+  },
+  "release": {
+    "verb": "թողարկել",
+    "noun": "թողարկում"
+  },
+  "released": {
+    "adjective": "թողարկված"
+  },
+  "reload": {
+    "verb": "թարմացնել, վերաբեռնել"
+  },
+  "remote": {
+    "adjective": "հեռակա"
+  },
+  "remove": {
+    "verb": "հեռացնել"
+  },
+  "reorder": {
+    "verb": "վերադասավորել"
+  },
+  "repeat": {
+    "verb": "կրկնել"
+  },
+  "replace": {
+    "verb": "փոխարինել"
+  },
+  "reply": {
+    "verb": "պատասխանել"
+  },
+  "request": {
+    "noun": "հարցում"
+  },
+  "reset": {
+    "verb": "զրոյացնել"
+  },
+  "resource": {
+    "noun": "ռեսուրս"
+  },
+  "responsive": {
+    "noun": "պատասխանական"
+  },
+  "restore": {
+    "verb": "վերականգնել"
+  },
+  "reverse": {
+    "verb": "շրջել"
+  },
+  "revert": {
+    "verb": "հետ փոխել"
+  },
+  "reviews": {
+    "noun": "դիտարկումներ"
+  },
+  "revision": {
+    "noun": "խմբագրություն"
+  },
+  "right": {
+    "adjective": "աջից"
+  },
+  "role": {
+    "noun": "դեր"
+  },
+  "rotate": {
+    "verb": "պտտել"
+  },
+  "route": {
+    "noun": "ուղի"
+  },
+  "row": {
+    "noun": "տող"
+  },
+  "save": {
+    "verb": "պահպանել"
+  },
+  "saved": {
+    "adjective": "պահպանված"
+  },
+  "scale": {
+    "verb": "չափափոխել"
+  },
+  "scan": {
+    "verb": "սկանավորել"
+  },
+  "schedule": {
+    "verb": "հերթագրել"
+  },
+  "scheduled": {
+    "adjective": "հերթագրված"
+  },
+  "screen": {
+    "noun": "վահան"
+  },
+  "screenshot": {
+    "noun": "էկրանի հանույթ"
+  },
+  "script": {
+    "noun": "սցենար, սկրիպտ"
+  },
+  "scroll": {
+    "verb": "ոլորել"
+  },
+  "scrollbar": {
+    "noun": "ոլորագոտի"
+  },
+  "search": {
+    "verb": "որոնել",
+    "noun": "որոնում"
+  },
+  "select": {
+    "verb": "ընտրել"
+  },
+  "send": {
+    "verb": "ուղարկել"
+  },
+  "session": {
+    "noun": "ժամանակաշրջան"
+  },
+  "set": {
+    "noun": "հավաքակազմ",
+    "verb": "նշանակել"
+  },
+  "setting": {
+    "noun": "կայանք, դրույթ"
+  },
+  "settings": {
+    "noun": "կայանքներ"
+  },
+  "share": {
+    "verb": "կիսվել, տարածել"
+  },
+  "shortcode": {
+    "noun": "կարճ կոդ"
+  },
+  "shortlink": {
+    "noun": "կարճ հղում"
+  },
+  "show": {
+    "verb": "ցուցադրել"
+  },
+  "sibling": {
+    "noun": "եղբայրական հանգույց"
+  },
+  "sidebar": {
+    "noun": "կողագոտի"
+  },
+  "signup": {
+    "noun": "գրանցում"
+  },
+  "site": {
+    "noun": "կայք"
+  },
+  "sitename": {
+    "noun": "կայքի անուն"
+  },
+  "slug": {
+    "noun": "այլանուն"
+  },
+  "social": {
+    "noun": "սոցիալական ցանցեր"
+  },
+  "sorry": {
+    "interjection": "ցավոք ԿԱՄ ներողություն, սակայն ..."
+  },
+  "source": {
+    "noun": "բնագիր, ելակետ",
+    "adjective": "սկզբնական, ելակետային"
+  },
+  "spam": {
+    "noun": "լցոն"
+  },
+  "specification": {
+    "noun": "հատկորոշում"
+  },
+  "specified": {
+    "adjective": "նշված"
+  },
+  "split": {
+    "verb": "կիսել, բաժանել"
+  },
+  "standard": {
+    "adjective": "սովորական"
+  },
+  "stands for": {
+    "expression": "վերծանվում է որպես"
+  },
+  "static": {
+    "adjective": "կայուն"
+  },
+  "status": {
+    "noun": "կարգավիճակ"
+  },
+  "sticky": {
+    "adjective": "ամրակցված"
+  },
+  "strikethrough": {
+    "adjective": "վրագծված"
+  },
+  "strong": {
+    "adjective": "ապահով"
+  },
+  "style": {
+    "noun": "ոճ"
+  },
+  "stylesheet": {
+    "noun": "css ոճաթերթ"
+  },
+  "subdomain": {
+    "noun": "ենթատիրույթ"
+  },
+  "subject": {
+    "noun": "նյութ"
+  },
+  "submit": {
+    "verb": "ուղարկել, ներկայացնել"
+  },
+  "subscribe": {
+    "verb": "բաժանորդագրվել"
+  },
+  "subscriber": {
+    "noun": "բաժանորդ"
+  },
+  "subscript": {
+    "noun": "վարգիր"
+  },
+  "suffix": {
+    "noun": "վերջնածանց"
+  },
+  "suggested": {
+    "adjective": "առաջարկվող"
+  },
+  "summary": {
+    "noun": "ամփոփ"
+  },
+  "superscript": {
+    "noun": "վերգիր"
+  },
+  "table": {
+    "noun": "աղյուսակ"
+  },
+  "table of contents": {
+    "expression": "բովանդակացանկ"
+  },
+  "tag": {
+    "noun": "պիտակ"
+  },
+  "tagline": {
+    "noun": "կարճ նկարագրությունը"
+  },
+  "target": {
+    "adjective": "նպատակային"
+  },
+  "taxonomy": {
+    "noun": "համակարգում"
+  },
+  "template": {
+    "noun": "ձևանմուշ"
+  },
+  "term": {
+    "noun": "եզր, պայման"
+  },
+  "text": {
+    "noun": "տեքստ"
+  },
+  "theme": {
+    "noun": "թեմա"
+  },
+  "thumbnail": {
+    "noun": "մանրապատկեր"
+  },
+  "tile": {
+    "verb": "կցաշարել"
+  },
+  "timezone": {
+    "noun": "ժամային գոտի"
+  },
+  "tip": {
+    "noun": "հուշում"
+  },
+  "title": {
+    "noun": "վերնագիր"
+  },
+  "toggle": {
+    "verb": "փոխարկել"
+  },
+  "tool": {
+    "noun": "գործիք"
+  },
+  "toolbar": {
+    "noun": "գործիքագոտի"
+  },
+  "top": {
+    "adjective": "վերևում"
+  },
+  "topic": {
+    "noun": "նյութ"
+  },
+  "trackback": {
+    "noun": "հետհղում"
+  },
+  "transfer protocol": {
+    "expression": "հաղորդակարգ"
+  },
+  "translation": {
+    "noun": "թարգմանություն"
+  },
+  "translator": {
+    "noun": "թարգմանիչ"
+  },
+  "trash": {
+    "verb": "աղբաման ուղարկել",
+    "noun": "աղբաման"
+  },
+  "troubleshooting": {
+    "noun": "խափանաշտկում"
+  },
+  "type": {
+    "noun": "տեսակ"
+  },
+  "unapprove": {
+    "verb": "մերժել"
+  },
+  "unapproved": {
+    "adjective": "չհաստատված"
+  },
+  "unarchive": {
+    "verb": "պահոցից հանել"
+  },
+  "uncategorized": {
+    "adjective": "առանց կարգի"
+  },
+  "underline": {
+    "adjective": "ընդգծված",
+    "noun": "ընդգծում"
+  },
+  "undo": {
+    "verb": "հետարկել"
+  },
+  "unexpected": {
+    "adjective": "անսպասելի"
+  },
+  "uninstall": {
+    "verb": "ապատեղակայել"
+  },
+  "unique": {
+    "adjective": "յուրահատուկ, եզակի, չկրկնվող"
+  },
+  "unmute": {
+    "verb": "միացնել ձայնը"
+  },
+  "unpublished": {
+    "adjective": "ապահրատարակված"
+  },
+  "untitled": {
+    "adjective": "առանց վերնագրի"
+  },
+  "untrash": {
+    "verb": "վերականգնել աղբամանից"
+  },
+  "update": {
+    "verb": "արդիացնել",
+    "noun": "արդիացում"
+  },
+  "upload": {
+    "verb": "վերբեռնել",
+    "noun": "վերբեռնում"
+  },
+  "uploading": {
+    "noun": "վերբեռնում"
+  },
+  "user": {
+    "noun": "օգտատեր"
+  },
+  "username": {
+    "noun": "օգտանուն"
+  },
+  "value": {
+    "noun": "արժեքը"
+  },
+  "variable": {
+    "noun": "փոփոխական"
+  },
+  "version": {
+    "noun": "տարբերակ"
+  },
+  "video": {
+    "noun": "տեսանյութ"
+  },
+  "view": {
+    "verb": "դիտել",
+    "noun": "տեսք"
+  },
+  "visible": {
+    "adjective": "տեսանելի"
+  },
+  "visit": {
+    "verb": "այցելել"
+  },
+  "visual": {
+    "adjective": "տեսողական"
+  },
+  "weak": {
+    "adjective": "թույլ"
+  },
+  "web": {
+    "noun": "վեբ"
+  },
+  "website": {
+    "noun": "կայքէջ"
+  },
+  "widget": {
+    "noun": "ցուցանակ"
+  },
+  "width": {
+    "noun": "լայնություն"
+  },
+  "writing": {
+    "noun": "գրելը"
+  }
+}

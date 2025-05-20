@@ -1,0 +1,731 @@
+{
+  "action hook": {
+    "noun": "アクションフック"
+  },
+  "activate": {
+    "verb": "有効化する"
+  },
+  "activated": {
+    "adjective": "有効化済み"
+  },
+  "admin bar": {
+    "noun": "管理バー"
+  },
+  "admin panel": {
+    "noun": "管理画面"
+  },
+  "administrator": {
+    "noun": "管理者"
+  },
+  "advanced settings": {
+    "noun": "高度な設定"
+  },
+  "After the Deadline": {
+    "noun": "After the Deadline"
+  },
+  "all": {
+    "adjective": "すべて"
+  },
+  "already": {
+    "adverb": "すでに"
+  },
+  "Appearance": {
+    "noun": "外観"
+  },
+  "archive": {
+    "noun": "アーカイブ",
+    "verb": "アーカイブ化"
+  },
+  "Are you sure": {
+    "expression": "本当に〜してもよいですか ?"
+  },
+  "area": {
+    "noun": "エリア"
+  },
+  "argument": {
+    "noun": "引数"
+  },
+  "array": {
+    "noun": "配列"
+  },
+  "article": {
+    "noun": "投稿"
+  },
+  "attachment": {
+    "noun": "添付ファイル"
+  },
+  "audio": {
+    "noun": "音声ファイル"
+  },
+  "Author": {
+    "noun": "投稿者"
+  },
+  "author": {
+    "noun": "作成者"
+  },
+  "Authorization header": {
+    "noun": "Authorization ヘッダー"
+  },
+  "binary": {
+    "noun": "バイナリ"
+  },
+  "block": {
+    "noun": "ブロック"
+  },
+  "block type": {
+    "noun": "ブロックタイプ"
+  },
+  "bookmarklet": {
+    "noun": "ブックマークレット"
+  },
+  "border": {
+    "noun": "枠線"
+  },
+  "browser": {
+    "noun": "ブラウザー"
+  },
+  "BuddyPress": {
+    "noun": "BuddyPress"
+  },
+  "Bulk Actions": {
+    "noun": "一括操作"
+  },
+  "bullet list": {
+    "noun": "箇条書きリスト"
+  },
+  "capability": {
+    "noun": "権限"
+  },
+  "cart": {
+    "noun": "お買い物カゴ"
+  },
+  "category": {
+    "noun": "カテゴリー"
+  },
+  "CDN": {
+    "noun": "CDN"
+  },
+  "character entity reference": {
+    "noun": "文字実体参照"
+  },
+  "character set": {
+    "noun": "文字セット"
+  },
+  "checkout": {
+    "noun": "購入手続き"
+  },
+  "chracteter code": {
+    "noun": "文字コード"
+  },
+  "citation": {
+    "noun": "引用元"
+  },
+  "Classic": {
+    "adjective": "クラシック"
+  },
+  "Classic Editor": {
+    "noun": "旧エディター"
+  },
+  "Code Editor": {
+    "noun": "コードエディター"
+  },
+  "color scheme": {
+    "noun": "配色"
+  },
+  "comment": {
+    "verb": "コメントする",
+    "noun": "コメント"
+  },
+  "computer": {
+    "noun": "コンピューター"
+  },
+  "conditional tag": {
+    "noun": "条件分岐タグ"
+  },
+  "constant": {
+    "noun": "定数"
+  },
+  "contact form": {
+    "noun": "お問い合わせフォーム"
+  },
+  "container": {
+    "noun": "コンテナ"
+  },
+  "content": {
+    "noun": "コンテンツ"
+  },
+  "Content Delivery Network": {
+    "noun": "コンテンツデリバリーネットワーク"
+  },
+  "Contributor": {
+    "expression": "寄稿者"
+  },
+  "contributor": {
+    "noun": "貢献者"
+  },
+  "Cookie": {
+    "noun": "Cookie"
+  },
+  "credentials": {
+    "noun": "認証情報"
+  },
+  "Custom Post Type": {
+    "noun": "カスタム投稿タイプ"
+  },
+  "customize": {
+    "verb": "カスタマイズ"
+  },
+  "customizer": {
+    "noun": "カスタマイザー"
+  },
+  "Dashboard": {
+    "noun": "ダッシュボード"
+  },
+  "Data Erasure Request": {
+    "noun": "データ消去リクエスト"
+  },
+  "deactivate": {
+    "verb": "停止する"
+  },
+  "default": {
+    "noun": "デフォルト"
+  },
+  "default theme": {
+    "noun": "デフォルトテーマ"
+  },
+  "deprecated": {
+    "adjective": "非推奨"
+  },
+  "description": {
+    "noun": "説明"
+  },
+  "developer": {
+    "noun": "開発者"
+  },
+  "device": {
+    "noun": "端末"
+  },
+  "directories": {
+    "noun": "ディレクトリ"
+  },
+  "directory": {
+    "noun": "ディレクトリ"
+  },
+  "disable": {
+    "verb": "無効化"
+  },
+  "Distraction Free Writing": {
+    "noun": "集中執筆モード"
+  },
+  "divider": {
+    "noun": "罫線"
+  },
+  "domain mapping": {
+    "noun": "ドメインマッピング"
+  },
+  "domain registrar": {
+    "noun": "ドメイン登録業者"
+  },
+  "draft": {
+    "noun": "下書き"
+  },
+  "drop": {
+    "verb": "ドロップ"
+  },
+  "Drop Cap": {
+    "noun": "ドロップキャップ"
+  },
+  "e-mail": {
+    "noun": "メールアドレス"
+  },
+  "eCommerce": {
+    "noun": "eコマース"
+  },
+  "editor": {
+    "noun": "エディター"
+  },
+  "Editor": {
+    "noun": "編集者"
+  },
+  "email": {
+    "noun": "メールアドレス"
+  },
+  "embed block": {
+    "noun": "埋め込みブロック"
+  },
+  "enable": {
+    "verb": "有効化"
+  },
+  "error": {
+    "noun": "エラー"
+  },
+  "excerpt": {
+    "noun": "抜粋"
+  },
+  "Facebook": {
+    "noun": "Facebook"
+  },
+  "featured image": {
+    "noun": "アイキャッチ画像"
+  },
+  "featured post": {
+    "noun": "おすすめ投稿"
+  },
+  "feed": {
+    "noun": "フィード"
+  },
+  "filter": {
+    "noun": "絞り込み",
+    "verb": "絞り込む"
+  },
+  "filter hook": {
+    "noun": "フィルターフック"
+  },
+  "folder": {
+    "noun": "フォルダー"
+  },
+  "front end": {
+    "adjective": "フロントエンド"
+  },
+  "front-end": {
+    "noun": "フロントエンド"
+  },
+  "Full Site Editing": {
+    "noun": "フルサイト編集"
+  },
+  "gallery": {
+    "noun": "ギャラリー"
+  },
+  "Gutenberg": {
+    "noun": "Gutenberg"
+  },
+  "Happiness Engineers": {
+    "noun": "サポートスタッフ"
+  },
+  "hide": {
+    "verb": "非表示"
+  },
+  "horizontal-line": {
+    "noun": "水平線"
+  },
+  "host": {
+    "noun": "ホスト"
+  },
+  "hosting provider": {
+    "noun": "ホスティングサービス"
+  },
+  "indent": {
+    "verb": "インデント"
+  },
+  "inserter": {
+    "noun": "インサーター"
+  },
+  "Inserter Tool": {
+    "noun": "挿入ツール"
+  },
+  "installer": {
+    "noun": "インストーラ"
+  },
+  "interface": {
+    "noun": "管理画面"
+  },
+  "invalid": {
+    "adjective": "間違った"
+  },
+  "IP address": {
+    "noun": "IP アドレス"
+  },
+  "is required": {
+    "verb": "必要"
+  },
+  "item": {
+    "noun": "項目"
+  },
+  "Learn More": {
+    "expression": "さらに詳しく"
+  },
+  "log in": {
+    "noun": "ログイン"
+  },
+  "log out": {
+    "noun": "ログアウト"
+  },
+  "logged in": {
+    "adjective": "ログイン中"
+  },
+  "logged out": {
+    "adjective": "ログアウト中"
+  },
+  "login": {
+    "verb": "ログイン"
+  },
+  "logout": {
+    "verb": "ログアウト"
+  },
+  "match": {
+    "verb": "一致"
+  },
+  "media library": {
+    "noun": "メディアライブラリ"
+  },
+  "Media Uploader": {
+    "noun": "メディアアップローダー"
+  },
+  "memory": {
+    "noun": "メモリ"
+  },
+  "meta": {
+    "noun": "メタ"
+  },
+  "multisite": {
+    "noun": "マルチサイト"
+  },
+  "My Upgrades": {
+    "noun": "アップグレード状況"
+  },
+  "name server": {
+    "noun": "ネームサーバー"
+  },
+  "nameserver": {
+    "noun": "ネームサーバー"
+  },
+  "navigation": {
+    "noun": "ナビゲーション"
+  },
+  "network": {
+    "verb": "サイトネットワーク"
+  },
+  "next post": {
+    "noun": "次の投稿"
+  },
+  "nonce": {
+    "noun": "nonce"
+  },
+  "not allowed to": {
+    "expression": "する権限がありません"
+  },
+  "not sticky": {
+    "adjective": "通常通り表示"
+  },
+  "numbered list": {
+    "noun": "番号付きリスト"
+  },
+  "object": {
+    "noun": "オブジェクト"
+  },
+  "older post": {
+    "noun": "過去の投稿"
+  },
+  "option": {
+    "noun": "オプション"
+  },
+  "outdent": {
+    "verb": "インデントを戻す"
+  },
+  "override": {
+    "verb": "上書き"
+  },
+  "page": {
+    "noun": "固定ページ"
+  },
+  "pagination": {
+    "noun": "ページ送り"
+  },
+  "parameter": {
+    "noun": "パラメータ"
+  },
+  "permalink": {
+    "noun": "パーマリンク"
+  },
+  "permission": {
+    "noun": "パーミッション"
+  },
+  "ping": {
+    "noun": "ping"
+  },
+  "pingback": {
+    "noun": "ピンバック"
+  },
+  "placeholder": {
+    "noun": "プレースホルダー"
+  },
+  "please try again": {
+    "expression": "もう一度お試しください"
+  },
+  "plugin": {
+    "noun": "プラグイン"
+  },
+  "poetry": {
+    "noun": "詩"
+  },
+  "poll": {
+    "noun": "投票"
+  },
+  "Polldaddy": {
+    "noun": "Polldaddy"
+  },
+  "post": {
+    "noun": "投稿",
+    "verb": "投稿する"
+  },
+  "post format": {
+    "noun": "投稿フォーマット"
+  },
+  "post status": {
+    "noun": "投稿ステータス"
+  },
+  "post thumbnail": {
+    "noun": "投稿サムネイル"
+  },
+  "post type": {
+    "noun": "投稿タイプ"
+  },
+  "Posted in": {
+    "expression": "カテゴリー:"
+  },
+  "Posted on": {
+    "expression": "投稿日:"
+  },
+  "Poster Image": {
+    "noun": "ポスター画像"
+  },
+  "preformatted": {
+    "adjective": "整形済み"
+  },
+  "Press This": {
+    "noun": "Press This"
+  },
+  "previous post": {
+    "noun": "過去の投稿"
+  },
+  "profile": {
+    "noun": "プロフィール"
+  },
+  "publish": {
+    "verb": "公開する"
+  },
+  "query": {
+    "noun": "クエリー"
+  },
+  "Quick Post": {
+    "noun": "クイックポスト"
+  },
+  "reader": {
+    "noun": "読者"
+  },
+  "referrer": {
+    "noun": "リファラー"
+  },
+  "registrar": {
+    "noun": "登録業者"
+  },
+  "repository": {
+    "noun": "リポジトリ"
+  },
+  "required": {
+    "adjective": "必要"
+  },
+  "resolve": {
+    "noun": "問題を解決する"
+  },
+  "responsive": {
+    "adjective": "レスポンシブ"
+  },
+  "return value": {
+    "noun": "戻り値"
+  },
+  "Reusable Block": {
+    "verb": "再利用ブロック"
+  },
+  "Reusable Template": {
+    "noun": "再利用テンプレート"
+  },
+  "Revision": {
+    "noun": "リビジョン"
+  },
+  "role": {
+    "noun": "権限グループ"
+  },
+  "RSS": {
+    "noun": "RSS"
+  },
+  "screen": {
+    "noun": "画面"
+  },
+  "Screen Options": {
+    "noun": "表示オプション"
+  },
+  "self-hosted": {
+    "adjective": "インストール型の"
+  },
+  "separator": {
+    "noun": "区切り"
+  },
+  "server": {
+    "noun": "サーバー"
+  },
+  "sidebar": {
+    "noun": "サイドバー"
+  },
+  "single": {
+    "noun": "個別"
+  },
+  "single post": {
+    "noun": "個別投稿"
+  },
+  "site": {
+    "noun": "サイト"
+  },
+  "slug": {
+    "noun": "スラッグ"
+  },
+  "spam": {
+    "noun": "スパム"
+  },
+  "spam filtering": {
+    "noun": "スパムフィルター機能"
+  },
+  "Spotlight mode": {
+    "noun": "スポットライトモード"
+  },
+  "status": {
+    "noun": "ステータス"
+  },
+  "stick": {
+    "verb": "先頭に固定表示する"
+  },
+  "sticky": {
+    "adjective": "先頭固定表示"
+  },
+  "strikethrough": {
+    "noun": "打ち消し線"
+  },
+  "string": {
+    "noun": "文字列"
+  },
+  "subpanel": {
+    "noun": "サブパネル"
+  },
+  "Subscriber": {
+    "noun": "購読者"
+  },
+  "subtitle": {
+    "noun": "サブタイトル"
+  },
+  "Subversion": {
+    "noun": "Subversion"
+  },
+  "Super admin": {
+    "noun": "特権管理者"
+  },
+  "survey": {
+    "noun": "アンケート"
+  },
+  "tag": {
+    "noun": "タグ"
+  },
+  "tagline": {
+    "noun": "キャッチフレーズ"
+  },
+  "taxonomy": {
+    "noun": "タクソノミー"
+  },
+  "template hierarchy": {
+    "noun": "テンプレート階層"
+  },
+  "term": {
+    "noun": "語句"
+  },
+  "text block": {
+    "noun": "テキストブロック"
+  },
+  "text editor": {
+    "noun": "テキストエディター"
+  },
+  "theme": {
+    "noun": "テーマ"
+  },
+  "thought": {
+    "noun": "フィードバック"
+  },
+  "Toolbar": {
+    "noun": "ツールバー"
+  },
+  "trackback": {
+    "noun": "トラックバック"
+  },
+  "Transient": {
+    "noun": "Transient"
+  },
+  "trash": {
+    "noun": "ゴミ箱"
+  },
+  "trashed": {
+    "adjective": "ゴミ箱内の"
+  },
+  "troubleshooting": {
+    "noun": "トラブルシューティング"
+  },
+  "Twitter": {
+    "noun": "Twitter"
+  },
+  "two factor authentication": {
+    "noun": "2要素認証"
+  },
+  "Two-Factor Authentication": {
+    "noun": "2要素認証"
+  },
+  "Unified toolbar": {
+    "noun": "統合ツールバー"
+  },
+  "update": {
+    "noun": "更新",
+    "verb": "更新する"
+  },
+  "upgrade": {
+    "noun": "アップグレード"
+  },
+  "uploader": {
+    "noun": "アップローダー"
+  },
+  "URI": {
+    "noun": "URL"
+  },
+  "user": {
+    "noun": "ユーザー"
+  },
+  "valid": {
+    "adjective": "有効"
+  },
+  "verse": {
+    "noun": "詩"
+  },
+  "video": {
+    "noun": "動画"
+  },
+  "view": {
+    "verb": "表示",
+    "noun": "ビュー"
+  },
+  "web server": {
+    "noun": "Web サーバー"
+  },
+  "website": {
+    "noun": "サイト"
+  },
+  "WordCamp": {
+    "noun": "WordCamp"
+  },
+  "WordPress": {
+    "noun": "WordPress"
+  },
+  "WordPress Dashboard": {
+    "noun": "WordPress ダッシュボード"
+  },
+  "WordPress.com": {
+    "noun": "WordPress.com"
+  },
+  "XML-RPC": {
+    "noun": "XML-RPC"
+  }
+}

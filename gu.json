@@ -1,0 +1,473 @@
+{
+  "comment": {
+    "noun": "ટિપ્પણી"
+  },
+  "account": {
+    "noun": "ખાતું"
+  },
+  "action": {
+    "noun": "ક્રિયા"
+  },
+  "Activation": {
+    "noun": "સક્રિયકરણ"
+  },
+  "Active": {
+    "noun": "સક્રિય"
+  },
+  "admin": {
+    "noun": "સંચાલક"
+  },
+  "administrator": {
+    "noun": "સંચાલક"
+  },
+  "appear": {
+    "noun": "ઉપસ્થિત"
+  },
+  "archive": {
+    "noun": "આર્કાઇવ"
+  },
+  "Archives": {
+    "noun": "આર્કાઇવ્સ"
+  },
+  "Area": {
+    "noun": "વિસ્તાર"
+  },
+  "attachment": {
+    "noun": "અટેચમેન્ટ"
+  },
+  "Audio": {
+    "noun": "ઑડિઓ/આૉડિયો"
+  },
+  "Author": {
+    "noun": "લેખક"
+  },
+  "Calendar": {
+    "noun": "કેલેન્ડર"
+  },
+  "Capabilities": {
+    "noun": "ક્ષમતાઓ"
+  },
+  "capability": {
+    "noun": "ક્ષમતા"
+  },
+  "category": {
+    "noun": "કેટેગરી"
+  },
+  "change": {
+    "noun": "ફેરફાર અથવા બદલો અથવા બદલવું"
+  },
+  "changeset": {
+    "noun": "ચેન્જસેટ(changeset)"
+  },
+  "collapse": {
+    "noun": "સંક્ષિપ્ત"
+  },
+  "column": {
+    "noun": "કોલમ"
+  },
+  "community": {
+    "noun": "સમુદાય"
+  },
+  "Content": {
+    "noun": "કંટેન્ટ, સામગ્રી, લખાણ"
+  },
+  "Contributor": {
+    "noun": "યોગદાનકર્તા"
+  },
+  "Copy": {
+    "noun": "કોપી"
+  },
+  "current": {
+    "noun": "વર્તમાન"
+  },
+  "Dashboard": {
+    "noun": "ડેશબોર્ડ"
+  },
+  "database": {
+    "noun": "ડેટાબેઝ"
+  },
+  "date": {
+    "noun": "તારીખ"
+  },
+  "default": {
+    "noun": "મૂળભૂત"
+  },
+  "deprecated": {
+    "noun": "અપ્રચલિત, અમાન્ય"
+  },
+  "Developer": {
+    "noun": "ડેવલપર"
+  },
+  "directory": {
+    "noun": "ડિરેક્ટરી"
+  },
+  "Documentation": {
+    "noun": "માર્ગદર્શિકા"
+  },
+  "Duplicate": {
+    "noun": "એક સરખું / સરખું"
+  },
+  "edit": {
+    "noun": "સંપાદિત કરો"
+  },
+  "editor": {
+    "noun": "સંપાદક"
+  },
+  "email": {
+    "noun": "ઈમેલ/ઇમેઇલ"
+  },
+  "embed": {
+    "noun": "એમ્બેડ"
+  },
+  "encoding": {
+    "noun": "એન્કોડિંગ"
+  },
+  "error": {
+    "noun": "ત્રુટિ / ભૂલ"
+  },
+  "event": {
+    "noun": "કાર્યક્રમ"
+  },
+  "events": {
+    "noun": "કાર્યક્રમ"
+  },
+  "executed": {
+    "noun": "અમલમાં મૂકયુ છે"
+  },
+  "fatal": {
+    "noun": "ગંભીર"
+  },
+  "Featured": {
+    "noun": "મુખ્ય(ફીચર)"
+  },
+  "field": {
+    "noun": "ફિલ્ડ"
+  },
+  "file": {
+    "noun": "ફાઇલ"
+  },
+  "filter": {
+    "noun": "ફિલ્ટર"
+  },
+  "form": {
+    "noun": "ફોર્મ"
+  },
+  "Format": {
+    "noun": "ફોર્મેટ"
+  },
+  "front page": {
+    "noun": "મુખ્ય પેજ"
+  },
+  "Function": {
+    "noun": "ફંકશન"
+  },
+  "Handbook": {
+    "noun": "માર્ગદર્શિકા"
+  },
+  "header": {
+    "noun": "હેડર"
+  },
+  "Help": {
+    "noun": "મદદ"
+  },
+  "Howdy": {
+    "noun": "નમસ્તે"
+  },
+  "icon": {
+    "noun": "આયકન"
+  },
+  "Image": {
+    "noun": "ચિત્ર, છબી"
+  },
+  "Inactive": {
+    "noun": "નિષ્ક્રિય"
+  },
+  "Install": {
+    "noun": "સ્થાપિત"
+  },
+  "item": {
+    "noun": "વસ્તુ"
+  },
+  "items": {
+    "noun": "વસ્તુઓ"
+  },
+  "JavaScript": {
+    "noun": "જાવાસ્ક્રિપ્ટ"
+  },
+  "library": {
+    "noun": "લાઇબ્રેરી"
+  },
+  "link": {
+    "noun": "લિંક"
+  },
+  "links": {
+    "noun": "લિંક"
+  },
+  "Log in": {
+    "noun": "પ્રવેશ કરો"
+  },
+  "Mark": {
+    "noun": "અંકિત"
+  },
+  "Meetup": {
+    "noun": "મીટઅપ"
+  },
+  "Meetups": {
+    "noun": "મીટઅપ"
+  },
+  "menu": {
+    "noun": "મેનુ"
+  },
+  "message": {
+    "noun": "સંદેશ"
+  },
+  "Metadata": {
+    "noun": "મેટાડેટા"
+  },
+  "MySql": {
+    "noun": "માયએસક્યુએલ(MySql)"
+  },
+  "navigation": {
+    "noun": "નેવિગેશન"
+  },
+  "News": {
+    "noun": "સમાચાર"
+  },
+  "Next": {
+    "noun": "આગળના"
+  },
+  "Nothing Found": {
+    "noun": "કંઈ મળ્યું નથી"
+  },
+  "object": {
+    "noun": "ઓબ્જેકટ"
+  },
+  "Oops!": {
+    "noun": "માફ કરજો!"
+  },
+  "option": {
+    "noun": "વિકલ્પ"
+  },
+  "options": {
+    "noun": "વિકલ્પો"
+  },
+  "Order": {
+    "noun": "ઑર્ડર"
+  },
+  "Orders": {
+    "noun": "ઓર્ડર્સ"
+  },
+  "page": {
+    "noun": "પેજ"
+  },
+  "Pagination": {
+    "noun": "પૃષ્ઠ ક્રમાંકન"
+  },
+  "parent": {
+    "noun": "પેરન્ટ"
+  },
+  "password": {
+    "noun": "પાસવર્ડ"
+  },
+  "Paste": {
+    "noun": "પેસ્ટ"
+  },
+  "patterns": {
+    "noun": "પેટર્ન્સ"
+  },
+  "Permalink": {
+    "noun": "પરમાલિંક"
+  },
+  "PHP": {
+    "noun": "પીએચપી(PHP)"
+  },
+  "pingback": {
+    "noun": "પિંગબેક"
+  },
+  "playlist": {
+    "noun": "યાદી(પ્લેલિસ્ટ)"
+  },
+  "Please": {
+    "noun": "કૃપા કરીને"
+  },
+  "Plugin": {
+    "noun": "પ્લગિન"
+  },
+  "podcaster": {
+    "noun": "પોડકાસ્ટર (podcaster)"
+  },
+  "post": {
+    "noun": "પોસ્ટ"
+  },
+  "Preview": {
+    "noun": "પૂર્વદર્શન"
+  },
+  "Previous": {
+    "noun": "પહેલાના"
+  },
+  "price": {
+    "noun": "કિંમત, ભાવ"
+  },
+  "Primary": {
+    "noun": "પ્રાથમિક"
+  },
+  "Product": {
+    "noun": "પ્રોડક્ટ"
+  },
+  "Products": {
+    "noun": "પ્રોડક્ટ્સ"
+  },
+  "publish": {
+    "noun": "પ્રકાશિત"
+  },
+  "remote": {
+    "noun": "દૂરસ્થ"
+  },
+  "reorder": {
+    "noun": "પુનઃક્રમાંકિત"
+  },
+  "Rep": {
+    "noun": "પ્રતિનિધિ"
+  },
+  "Repository": {
+    "noun": "રીપોઝીટરી"
+  },
+  "Reps": {
+    "noun": "પ્રતિનિધિઓ"
+  },
+  "resource": {
+    "noun": "રિસોર્સ"
+  },
+  "restore": {
+    "noun": "પુનઃસ્થાપિત"
+  },
+  "restoring": {
+    "noun": "પુનઃસ્થાપિત કરી રહ્યાં છીએ"
+  },
+  "Role": {
+    "noun": "ભૂમિકા"
+  },
+  "Roles": {
+    "noun": "ભૂમિકાઓ"
+  },
+  "save": {
+    "noun": "સેવ અથવા સાચવવું અથવા સાચવણી"
+  },
+  "SEO": {
+    "noun": "SEO"
+  },
+  "server": {
+    "noun": "સર્વર"
+  },
+  "setting": {
+    "noun": "સેટિંગ"
+  },
+  "Settings": {
+    "noun": "સેટિંગ્સ"
+  },
+  "Shipping": {
+    "noun": "શીપીંગ"
+  },
+  "sidebar": {
+    "noun": "સાઈડબાર"
+  },
+  "slug": {
+    "noun": "સ્લગ​"
+  },
+  "standard": {
+    "noun": "સામાન્ય"
+  },
+  "status": {
+    "noun": "સ્થિતિ or સ્ટેટસ"
+  },
+  "Step": {
+    "noun": "સ્ટેપ"
+  },
+  "Sticky": {
+    "noun": "સ્ટીકી"
+  },
+  "style": {
+    "noun": "સ્ટાઇલ or શૈલી"
+  },
+  "stylesheet": {
+    "noun": "સ્ટાઈલશીત"
+  },
+  "submit": {
+    "noun": "સબમિટ કરો"
+  },
+  "subversion": {
+    "noun": "સબવર્ઝન"
+  },
+  "Support": {
+    "noun": "સર્પોટ"
+  },
+  "Tag": {
+    "noun": "ટેગ"
+  },
+  "tax": {
+    "noun": "કર"
+  },
+  "taxonomy": {
+    "noun": "ટેક્સોનોમી"
+  },
+  "team": {
+    "noun": "ટીમ"
+  },
+  "template": {
+    "noun": "ટેમ્પલેટ"
+  },
+  "term": {
+    "noun": "ટર્મ"
+  },
+  "theme": {
+    "noun": "થીમ"
+  },
+  "Themes": {
+    "noun": "થીમ્સ"
+  },
+  "thumbnail": {
+    "noun": "થંબનેલ"
+  },
+  "trackback": {
+    "noun": "ટ્રેકબેક"
+  },
+  "Trash": {
+    "noun": "ટ્રૅશ"
+  },
+  "Update": {
+    "noun": "અપડેટ OR સુધારા OR ફેરફાર"
+  },
+  "updating": {
+    "noun": "સુધારી રહ્યા છીએ"
+  },
+  "url": {
+    "noun": "યુઆરએલ(URL)"
+  },
+  "user": {
+    "noun": "વપરાશકર્તા"
+  },
+  "username": {
+    "noun": "વપરાશકર્તા નામ"
+  },
+  "users": {
+    "noun": "વપરાશકર્તાઓ"
+  },
+  "version": {
+    "noun": "આવૃત્તિ"
+  },
+  "Video": {
+    "noun": "વિડિયો"
+  },
+  "widget": {
+    "noun": "વિજેટ"
+  },
+  "Wishlist": {
+    "noun": "ઇચ્છા સૂચિ"
+  },
+  "WordCamps": {
+    "noun": "વર્ડકેમ્પ"
+  },
+  "WordPress": {
+    "noun": "વર્ડપ્રેસ"
+  }
+}

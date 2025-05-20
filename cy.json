@@ -1,0 +1,586 @@
+{
+  "account": {
+    "noun": "cyfrif"
+  },
+  "action hook": {
+    "noun": "bachyn gweithredu"
+  },
+  "activate": {
+    "verb": "agor"
+  },
+  "activated": {
+    "adjective": "wedi ei agor"
+  },
+  "admin bar": {
+    "noun": "bar gweinyddu"
+  },
+  "admin panel": {
+    "noun": "panel gweinyddu"
+  },
+  "administrator": {
+    "noun": "gweinyddwr"
+  },
+  "After the Deadline": {
+    "noun": "After the Deadline"
+  },
+  "Appearance": {
+    "noun": "Gwedd"
+  },
+  "archive": {
+    "noun": "archif",
+    "verb": "archifo"
+  },
+  "argument": {
+    "noun": "ymresymiad"
+  },
+  "array": {
+    "noun": "arae"
+  },
+  "aside": {
+    "noun": "neilleb"
+  },
+  "attachment": {
+    "noun": "atodiad"
+  },
+  "audio": {
+    "noun": "sain"
+  },
+  "author": {
+    "noun": "awdur"
+  },
+  "autosave": {
+    "noun": "awtogadw"
+  },
+  "Backend": {
+    "noun": "Cefn"
+  },
+  "binary": {
+    "noun": "deuaidd"
+  },
+  "bookmarklet": {
+    "noun": "sgriptnod"
+  },
+  "browser": {
+    "noun": "porwr"
+  },
+  "BuddyPress": {
+    "noun": "BuddyPress"
+  },
+  "bulk actions": {
+    "noun": "gweithredu"
+  },
+  "bundle": {
+    "noun": "pecyn"
+  },
+  "button": {
+    "noun": "botwm"
+  },
+  "cart": {
+    "noun": "cert"
+  },
+  "category": {
+    "noun": "categori"
+  },
+  "changeset": {
+    "noun": "set newid"
+  },
+  "changesets": {
+    "noun": "setiau newid"
+  },
+  "character code": {
+    "noun": "cod nodau"
+  },
+  "character entity reference": {
+    "noun": "cyfeirnod endid nodau"
+  },
+  "character set": {
+    "noun": "set nodau"
+  },
+  "color scheme": {
+    "noun": "cynllun lliwiau"
+  },
+  "comment": {
+    "verb": "rhannu sylw",
+    "noun": "sylw"
+  },
+  "computer": {
+    "noun": "cyfrifiadur"
+  },
+  "conditional tag": {
+    "noun": "tag amodol"
+  },
+  "constant": {
+    "noun": "cysonyn"
+  },
+  "Contributors": {
+    "noun": "Cyfranwyr"
+  },
+  "Cookie": {
+    "noun": "Cwci"
+  },
+  "Custom Colors": {
+    "noun": "Lliwiau Cyfaddas"
+  },
+  "Custom CSS": {
+    "noun": "CSS Cyfaddas"
+  },
+  "Custom Design": {
+    "noun": "Cynllun Cyfaddas"
+  },
+  "Custom Fonts": {
+    "noun": "Ffontiau Cyfaddas"
+  },
+  "Custom Menu": {
+    "noun": "Dewislen Gyfaddas"
+  },
+  "Custom Post Type": {
+    "noun": "Math Cofnod Cyfaddas"
+  },
+  "customize": {
+    "verb": "cyfaddasu"
+  },
+  "Customizer": {
+    "noun": "Cyfaddaswr"
+  },
+  "Dashboard": {
+    "noun": "Bwrdd Gwaith"
+  },
+  "deactivate": {
+    "verb": "cau"
+  },
+  "default": {
+    "noun": "rhagosodiad"
+  },
+  "default theme": {
+    "noun": "thema rhagosodedig"
+  },
+  "deprecated": {
+    "adjective": "anghymeradwy"
+  },
+  "developer": {
+    "noun": "datblygwr"
+  },
+  "directory": {
+    "noun": "cyfeiriadur"
+  },
+  "draft": {
+    "noun": "drafft"
+  },
+  "drag and drop": {
+    "noun": "llusgo a gollwng"
+  },
+  "editor": {
+    "noun": "golygydd"
+  },
+  "email": {
+    "noun": "E-bost"
+  },
+  "email address": {
+    "noun": "cyfeiriad e-bost"
+  },
+  "endpoint": {
+    "noun": "pwynt diwedd"
+  },
+  "endpoints": {
+    "noun": "pwyntiau diwedd"
+  },
+  "error": {
+    "noun": "gwall"
+  },
+  "excerpt": {
+    "noun": "dyfyniad"
+  },
+  "Facebook": {
+    "noun": "Facebook"
+  },
+  "Featured": {
+    "noun": "Nodwedd"
+  },
+  "featured image": {
+    "noun": "delwedd nodwedd"
+  },
+  "featured post": {
+    "noun": "cofnod nodwedd"
+  },
+  "feed": {
+    "noun": "llif"
+  },
+  "file": {
+    "noun": "ffeil"
+  },
+  "filter": {
+    "noun": "hidl"
+  },
+  "filter hook": {
+    "noun": "bachyn hidl"
+  },
+  "folder": {
+    "noun": "ffolder"
+  },
+  "Follower": {
+    "noun": "Dilynwr"
+  },
+  "Footer": {
+    "noun": "Troedyn"
+  },
+  "Freshly Pressed": {
+    "noun": "Newydd"
+  },
+  "front end": {
+    "adjective": "Blaen",
+    "noun": "Blaen"
+  },
+  "gallery": {
+    "noun": "oriel"
+  },
+  "Happiness Engineer": {
+    "noun": "Happiness Engineer"
+  },
+  "Happiness Engineers": {
+    "noun": "Happiness Engineers"
+  },
+  "Header": {
+    "noun": "Pennyn"
+  },
+  "Header Image": {
+    "noun": "Delwedd Pennyn"
+  },
+  "Header Text": {
+    "noun": "Testun Pennyn"
+  },
+  "Header Text Color": {
+    "noun": "Lliw Testun Pennyn"
+  },
+  "headers": {
+    "noun": "penynnau"
+  },
+  "Honeypot": {
+    "noun": "Honeypot"
+  },
+  "hosting provider": {
+    "noun": "darparwr gwesteio"
+  },
+  "hosts": {
+    "noun": "gwesteiwyr"
+  },
+  "invalid": {
+    "adjective": "annilys"
+  },
+  "IP address": {
+    "noun": "cyfeiriad IP"
+  },
+  "Jetpack": {
+    "noun": "Jetpack"
+  },
+  "Like": {
+    "noun": "Hoffi"
+  },
+  "Likes": {
+    "noun": "Hoffi"
+  },
+  "log in": {
+    "noun": "mewngofnodi"
+  },
+  "log out": {
+    "noun": "allgofnodi"
+  },
+  "logged in": {
+    "adjective": "wedi mewngofnodi"
+  },
+  "logged out": {
+    "adjective": "wedi allgofnodi"
+  },
+  "login": {
+    "verb": "mewngofnodi"
+  },
+  "logout": {
+    "verb": "allgofnodi"
+  },
+  "media library": {
+    "noun": "llyfrgell cyfrwng"
+  },
+  "Media Uploader": {
+    "noun": "Llwythwr Cyfrwng"
+  },
+  "meta": {
+    "noun": "meta"
+  },
+  "moderation": {
+    "noun": "cymedroli"
+  },
+  "multisite": {
+    "noun": "gwefan lluosog"
+  },
+  "navigation": {
+    "noun": "llywio"
+  },
+  "next post": {
+    "noun": "cofnod nesaf"
+  },
+  "nonce": {
+    "noun": "nonce"
+  },
+  "not sticky": {
+    "adjective": "nid gludiog"
+  },
+  "older post": {
+    "noun": "cofnod hŷn"
+  },
+  "option": {
+    "noun": "dewis"
+  },
+  "page": {
+    "noun": "tudalen"
+  },
+  "pagination": {
+    "noun": "tudaleniad"
+  },
+  "parameter": {
+    "noun": "paramedr"
+  },
+  "pending": {
+    "verb": "dan ystyriaeth"
+  },
+  "permalink": {
+    "noun": "dolen barhaol"
+  },
+  "permission": {
+    "noun": "caniatâd"
+  },
+  "ping": {
+    "noun": "ping"
+  },
+  "pingback": {
+    "noun": "hysbysiad cyfeirio"
+  },
+  "plugin": {
+    "noun": "ategyn"
+  },
+  "poll": {
+    "noun": "arolwg"
+  },
+  "Polldaddy": {
+    "noun": "Polldaddy"
+  },
+  "post": {
+    "noun": "cofnod",
+    "verb": "cofnodi"
+  },
+  "post format": {
+    "noun": "fformat cofnod"
+  },
+  "post status": {
+    "noun": "statws cofnod"
+  },
+  "post thumbnail": {
+    "noun": "llun bach cofnod"
+  },
+  "post type": {
+    "noun": "math o gofnod"
+  },
+  "Press This": {
+    "noun": "Press This"
+  },
+  "previous post": {
+    "noun": "cofnod blaenorol"
+  },
+  "query": {
+    "noun": "ymholiad"
+  },
+  "Quick Post": {
+    "noun": "Cofnod Cyflym"
+  },
+  "Reader": {
+    "noun": "Darllenydd"
+  },
+  "required": {
+    "noun": "angenrheidiol"
+  },
+  "responsive": {
+    "adjective": "ymatebol"
+  },
+  "return value": {
+    "noun": "gwerth sy’n cael ei ddychwelyd"
+  },
+  "role": {
+    "noun": "rol"
+  },
+  "RSS": {
+    "noun": "RSS"
+  },
+  "RTL": {
+    "noun": "RTL"
+  },
+  "scheme": {
+    "noun": "cynllun"
+  },
+  "Screen Options": {
+    "noun": "Dewisiadau Sgrin"
+  },
+  "Search results": {
+    "noun": "Canlyniadau chwilio"
+  },
+  "self-hosted": {
+    "adjective": "hunanwesteio"
+  },
+  "server": {
+    "noun": "gweinyddwr"
+  },
+  "service": {
+    "noun": "gwasanaeth"
+  },
+  "Shortcode": {
+    "noun": "cod byr"
+  },
+  "sidebar": {
+    "noun": "bar ochr"
+  },
+  "single post": {
+    "noun": "cofnod unigol"
+  },
+  "site": {
+    "noun": "gwefan"
+  },
+  "slug": {
+    "noun": "bonyn"
+  },
+  "spaces": {
+    "noun": "bylchau"
+  },
+  "spam": {
+    "noun": "sbam"
+  },
+  "starter content": {
+    "noun": "cynnwys cychwynnol"
+  },
+  "status": {
+    "noun": "statws cofnod"
+  },
+  "stick": {
+    "verb": "gludo"
+  },
+  "sticky": {
+    "adjective": "gludiog"
+  },
+  "string": {
+    "noun": "llinyn"
+  },
+  "subpanel": {
+    "noun": "isbanel"
+  },
+  "Subversion": {
+    "noun": "Subversion"
+  },
+  "survey": {
+    "noun": "arolwg"
+  },
+  "tab": {
+    "noun": "tab"
+  },
+  "tabs": {
+    "noun": "tabiau"
+  },
+  "tag": {
+    "noun": "tag"
+  },
+  "tagline": {
+    "noun": "llinell tag"
+  },
+  "taxonomies": {
+    "noun": "tacsonomegau"
+  },
+  "taxonomy": {
+    "noun": "tacsonomeg"
+  },
+  "template hierarchy": {
+    "noun": "hierarchaeth y templed"
+  },
+  "term": {
+    "noun": "term"
+  },
+  "text editor": {
+    "noun": "golygydd testun"
+  },
+  "theme": {
+    "noun": "thema"
+  },
+  "thumbnail": {
+    "noun": "llun bach"
+  },
+  "Toolbar": {
+    "noun": "Bar Offer"
+  },
+  "trackback": {
+    "noun": "hysbysiad cydnabod"
+  },
+  "Transient": {
+    "noun": "Transient"
+  },
+  "troubleshooting": {
+    "noun": "datrys problemau"
+  },
+  "Twitter": {
+    "noun": "Twitter"
+  },
+  "two factor authentication": {
+    "noun": "dilysiad dau gam"
+  },
+  "upgrade": {
+    "noun": "diweddariad"
+  },
+  "uploader": {
+    "noun": "llwythwr"
+  },
+  "URL": {
+    "noun": "URL"
+  },
+  "user": {
+    "noun": "defnyddiwr"
+  },
+  "username": {
+    "noun": "enw defnyddiwr"
+  },
+  "valid": {
+    "adjective": "dilys"
+  },
+  "VaultPress": {
+    "noun": "VaultPress"
+  },
+  "video": {
+    "noun": "fideo"
+  },
+  "VideoPress": {
+    "noun": "VideoPress"
+  },
+  "view": {
+    "verb": "golwg",
+    "noun": "golwg"
+  },
+  "web server": {
+    "noun": "gweinydd gwe"
+  },
+  "WordCamp": {
+    "noun": "WordCamp"
+  },
+  "WordPress": {
+    "noun": "WordPress"
+  },
+  "WordPress Dashboard": {
+    "noun": "Bwrdd Gwaith WordPress"
+  },
+  "WordPress.com": {
+    "noun": "WordPress.com"
+  },
+  "WordPress.com Business": {
+    "noun": "WordPress.com Business"
+  },
+  "WordPress.com Enterprise": {
+    "noun": "WordPress.com Enterprise"
+  },
+  "WordPress.com Premium": {
+    "noun": "WordPress.com Premium"
+  },
+  "XML-RPC": {
+    "noun": "XML-RPC"
+  }
+}

@@ -1,0 +1,1787 @@
+{
+  "access": {
+    "verb": "访问"
+  },
+  "accessibility": {
+    "noun": "无障碍"
+  },
+  "action": {
+    "noun": "动作",
+    "verb": "操作"
+  },
+  "activate": {
+    "noun": "启用"
+  },
+  "activated": {
+    "noun": "已启用"
+  },
+  "active": {
+    "noun": "已启用",
+    "adjective": "已启用"
+  },
+  "ad-blocker": {
+    "noun": "广告拦截器"
+  },
+  "adblocker": {
+    "noun": "广告拦截器"
+  },
+  "add": {
+    "verb": "添加"
+  },
+  "add translation": {
+    "verb": "添加译文"
+  },
+  "add-on": {
+    "noun": "附加组件"
+  },
+  "addon": {
+    "noun": "附加组件"
+  },
+  "administrator": {
+    "noun": "管理员"
+  },
+  "Adobe": {
+    "noun": "Adobe"
+  },
+  "anchor": {
+    "noun": "锚点"
+  },
+  "Android": {
+    "noun": "Android"
+  },
+  "Apache": {
+    "noun": "Apache"
+  },
+  "Apple": {
+    "noun": "Apple"
+  },
+  "apply": {
+    "verb": "申请"
+  },
+  "approve": {
+    "verb": "批准"
+  },
+  "archive": {
+    "noun": "归档"
+  },
+  "ASC": {
+    "adjective": "递增"
+  },
+  "ascending": {
+    "adjective": "递增"
+  },
+  "assign": {
+    "verb": "指派"
+  },
+  "asynchronous": {
+    "adjective": "异步"
+  },
+  "attack": {
+    "verb": "攻击"
+  },
+  "audit": {
+    "verb": "审计"
+  },
+  "author": {
+    "noun": "作者"
+  },
+  "Automattic": {
+    "noun": "Automattic"
+  },
+  "back-end": {
+    "noun": "后端"
+  },
+  "backend": {
+    "noun": "后端"
+  },
+  "backup": {
+    "noun": "备份",
+    "verb": "备份"
+  },
+  "badge": {
+    "noun": "徽章"
+  },
+  "bbPress": {
+    "noun": "bbPress"
+  },
+  "BeReal": {
+    "noun": "BeReal"
+  },
+  "billing": {
+    "noun": "帐单"
+  },
+  "bind": {
+    "verb": "绑定"
+  },
+  "binding": {
+    "noun": "绑定"
+  },
+  "Bitbucket": {
+    "noun": "Bitbucket"
+  },
+  "blockquote": {
+    "noun": "引用"
+  },
+  "Blogger": {
+    "noun": "Blogger"
+  },
+  "boolean": {
+    "noun": "布尔值"
+  },
+  "Bootstrap": {
+    "noun": "Bootstrap"
+  },
+  "bootstrap": {
+    "noun": "引导程序"
+  },
+  "border": {
+    "noun": "边框"
+  },
+  "breadcrumb": {
+    "noun": "面包屑"
+  },
+  "browse": {
+    "verb": "浏览"
+  },
+  "BuddyPress": {
+    "noun": "BuddyPress"
+  },
+  "bug": {
+    "noun": "Bug"
+  },
+  "built-in": {
+    "adjective": "内置"
+  },
+  "bulk": {
+    "adjective": "批量"
+  },
+  "button": {
+    "noun": "按钮"
+  },
+  "cache": {
+    "noun": "缓存"
+  },
+  "call": {
+    "noun": "调用",
+    "verb": "调用"
+  },
+  "callback": {
+    "noun": "回调",
+    "verb": "回调"
+  },
+  "caller": {
+    "noun": "调用者"
+  },
+  "capability": {
+    "noun": "权限"
+  },
+  "category": {
+    "noun": "分类"
+  },
+  "CDN": {
+    "noun": "CDN"
+  },
+  "centralize": {
+    "verb": "集中式"
+  },
+  "centralized": {
+    "adjective": "集中式"
+  },
+  "certificate": {
+    "noun": "证书"
+  },
+  "chain": {
+    "noun": "链结"
+  },
+  "changelog": {
+    "noun": "变更日志"
+  },
+  "channel": {
+    "noun": "频道"
+  },
+  "character": {
+    "noun": "字符"
+  },
+  "check": {
+    "verb": "检查"
+  },
+  "checkbox": {
+    "noun": "复选框"
+  },
+  "checklist": {
+    "noun": "清单"
+  },
+  "checkout": {
+    "verb": "签出"
+  },
+  "choose": {
+    "verb": "选择"
+  },
+  "circle": {
+    "noun": "圆圈"
+  },
+  "citation": {
+    "noun": "引文"
+  },
+  "classic": {
+    "adjective": "经典"
+  },
+  "click": {
+    "verb": "点击"
+  },
+  "clipboard": {
+    "noun": "剪贴板"
+  },
+  "Clubhouse": {
+    "noun": "Clubhouse"
+  },
+  "CMS": {
+    "noun": "CMS"
+  },
+  "collaborate": {
+    "verb": "协同合作"
+  },
+  "collapse": {
+    "verb": "折叠"
+  },
+  "command": {
+    "noun": "命令"
+  },
+  "comment": {
+    "noun": "评论"
+  },
+  "compatibility": {
+    "noun": "兼容性"
+  },
+  "compile": {
+    "verb": "编译"
+  },
+  "compliance": {
+    "noun": "合规性"
+  },
+  "configure": {
+    "verb": "配置"
+  },
+  "confirm": {
+    "verb": "确认"
+  },
+  "content": {
+    "noun": "内容"
+  },
+  "continue": {
+    "verb": "继续"
+  },
+  "control": {
+    "verb": "控制"
+  },
+  "Cookie": {
+    "noun": "Cookie"
+  },
+  "Cookies": {
+    "noun": "Cookies"
+  },
+  "copy": {
+    "noun": "复制",
+    "verb": "复制"
+  },
+  "correlate": {
+    "verb": "相互关联"
+  },
+  "create": {
+    "verb": "创建"
+  },
+  "crop": {
+    "noun": "裁剪"
+  },
+  "cross-site": {
+    "noun": "跨站点"
+  },
+  "CSS": {
+    "noun": "CSS"
+  },
+  "CSV": {
+    "noun": "CSV"
+  },
+  "current": {
+    "adjective": "当前"
+  },
+  "custom": {
+    "adjective": "自定义"
+  },
+  "customer": {
+    "noun": "客户"
+  },
+  "customize": {
+    "verb": "定制"
+  },
+  "customizer": {
+    "noun": "定制器"
+  },
+  "dashboard": {
+    "noun": "仪表盘"
+  },
+  "deactivate": {
+    "verb": "停用"
+  },
+  "debug": {
+    "verb": "调试"
+  },
+  "decentralize": {
+    "verb": "去中心化"
+  },
+  "decentralized": {
+    "adjective": "去中心化"
+  },
+  "declare": {
+    "verb": "声明"
+  },
+  "decode": {
+    "verb": "解码"
+  },
+  "decompile": {
+    "verb": "反编译"
+  },
+  "default": {
+    "adjective": "默认"
+  },
+  "defer": {
+    "verb": "延迟"
+  },
+  "delete": {
+    "verb": "删除"
+  },
+  "deploy": {
+    "verb": "部署"
+  },
+  "deprecated": {
+    "adjective": "已弃用"
+  },
+  "DES": {
+    "adjective": "递减"
+  },
+  "descending": {
+    "adjective": "递减"
+  },
+  "develop": {
+    "verb": "开发"
+  },
+  "developer": {
+    "noun": "开发者"
+  },
+  "disable": {
+    "verb": "停用"
+  },
+  "disassemble": {
+    "verb": "反汇编"
+  },
+  "discard": {
+    "verb": "丢弃"
+  },
+  "dismount": {
+    "verb": "卸载"
+  },
+  "display": {
+    "verb": "显示"
+  },
+  "DNS": {
+    "noun": "DNS"
+  },
+  "domain": {
+    "noun": "域名"
+  },
+  "donate": {
+    "verb": "赞助"
+  },
+  "download": {
+    "verb": "下载"
+  },
+  "draft": {
+    "noun": "草稿"
+  },
+  "drag": {
+    "noun": "拖曳"
+  },
+  "drop-in": {
+    "noun": "强化插件"
+  },
+  "dropin": {
+    "noun": "强化插件"
+  },
+  "edit": {
+    "noun": "编辑",
+    "verb": "编辑"
+  },
+  "editor": {
+    "noun": "编辑器"
+  },
+  "element": {
+    "noun": "元素"
+  },
+  "Elementor": {
+    "noun": "Elementor"
+  },
+  "Emacs": {
+    "noun": "Emacs"
+  },
+  "email": {
+    "noun": "邮箱"
+  },
+  "Emoji": {
+    "noun": "Emoji"
+  },
+  "emoticon": {
+    "noun": "表情"
+  },
+  "enable": {
+    "verb": "启用"
+  },
+  "encode": {
+    "verb": "编码"
+  },
+  "encoder": {
+    "noun": "编码器"
+  },
+  "encrypt": {
+    "verb": "加密"
+  },
+  "enlarge": {
+    "verb": "放大"
+  },
+  "Enter": {
+    "noun": "Enter 键"
+  },
+  "enter": {
+    "verb": "输入"
+  },
+  "enumerate": {
+    "verb": "枚举"
+  },
+  "Etc": {
+    "noun": "其他"
+  },
+  "event": {
+    "noun": "事件"
+  },
+  "excerpt": {
+    "noun": "摘要"
+  },
+  "existing": {
+    "adjective": "现有"
+  },
+  "expand": {
+    "verb": "展开"
+  },
+  "export": {
+    "verb": "导出"
+  },
+  "export as": {
+    "verb": "导出为"
+  },
+  "Facebook": {
+    "noun": "脸书"
+  },
+  "fallback": {
+    "noun": "回退"
+  },
+  "FAQ": {
+    "noun": "常问问题"
+  },
+  "fatal": {
+    "adjective": "致命"
+  },
+  "favicon": {
+    "noun": "图标"
+  },
+  "favorites": {
+    "noun": "收藏夹"
+  },
+  "featured": {
+    "adjective": "精选"
+  },
+  "feed": {
+    "noun": "Feed"
+  },
+  "feedback": {
+    "noun": "反馈"
+  },
+  "field": {
+    "noun": "字段"
+  },
+  "file": {
+    "noun": "文件"
+  },
+  "filename": {
+    "noun": "文件名"
+  },
+  "filter": {
+    "verb": "筛选"
+  },
+  "firewall": {
+    "noun": "防火墙"
+  },
+  "flag": {
+    "verb": "旗帜"
+  },
+  "flat": {
+    "adjective": "扁平化"
+  },
+  "flip horizontal": {
+    "verb": "水平翻转"
+  },
+  "flip vertical": {
+    "verb": "垂直翻转"
+  },
+  "fold": {
+    "verb": "折叠"
+  },
+  "folder": {
+    "noun": "文件夹"
+  },
+  "font": {
+    "noun": "字体"
+  },
+  "footer": {
+    "noun": "页脚"
+  },
+  "footnote": {
+    "noun": "脚注"
+  },
+  "foreground": {
+    "noun": "前景"
+  },
+  "form": {
+    "noun": "表单"
+  },
+  "forum": {
+    "noun": "论坛"
+  },
+  "framework": {
+    "noun": "框架"
+  },
+  "front-end": {
+    "noun": "前端"
+  },
+  "FTP": {
+    "noun": "FTP"
+  },
+  "function": {
+    "noun": "函数"
+  },
+  "gallery": {
+    "noun": "画廊"
+  },
+  "gateway": {
+    "noun": "网关"
+  },
+  "GDPR": {
+    "noun": "GDPR"
+  },
+  "generative": {
+    "adjective": "生成式"
+  },
+  "generator": {
+    "noun": "生成器"
+  },
+  "GitHub": {
+    "noun": "GitHub"
+  },
+  "GitLab": {
+    "noun": "GitLab"
+  },
+  "GMT": {
+    "noun": "格林威治标准时间 (GMT)"
+  },
+  "GMT+0": {
+    "noun": "GMT+0"
+  },
+  "GMT+1": {
+    "noun": "GMT+1"
+  },
+  "GMT+10": {
+    "noun": "GMT+10"
+  },
+  "GMT+11": {
+    "noun": "GMT+11"
+  },
+  "GMT+12": {
+    "noun": "GMT+12"
+  },
+  "GMT+2": {
+    "noun": "GMT+2"
+  },
+  "GMT+3": {
+    "noun": "GMT+3"
+  },
+  "GMT+4": {
+    "noun": "GMT+4"
+  },
+  "GMT+5": {
+    "noun": "GMT+5"
+  },
+  "GMT+6": {
+    "noun": "GMT+6"
+  },
+  "GMT+7": {
+    "noun": "GMT+7"
+  },
+  "GMT+8": {
+    "noun": "GMT+8"
+  },
+  "GMT+9": {
+    "noun": "GMT+9"
+  },
+  "GMT-0": {
+    "noun": "GMT-0"
+  },
+  "GMT-1": {
+    "noun": "GMT-1"
+  },
+  "GMT-10": {
+    "noun": "GMT-10"
+  },
+  "GMT-11": {
+    "noun": "GMT-11"
+  },
+  "GMT-12": {
+    "noun": "GMT-12"
+  },
+  "GMT-13": {
+    "noun": "GMT-13"
+  },
+  "GMT-14": {
+    "noun": "GMT-14"
+  },
+  "GMT-2": {
+    "noun": "GMT-2"
+  },
+  "GMT-3": {
+    "noun": "GMT-3"
+  },
+  "GMT-4": {
+    "noun": "GMT-4"
+  },
+  "GMT-5": {
+    "noun": "GMT-5"
+  },
+  "GMT-6": {
+    "noun": "GMT-6"
+  },
+  "GMT-7": {
+    "noun": "GMT-7"
+  },
+  "GMT-8": {
+    "noun": "GMT-8"
+  },
+  "GMT-9": {
+    "noun": "GMT-9"
+  },
+  "GMT0": {
+    "noun": "GMT0"
+  },
+  "go back": {
+    "verb": "返回"
+  },
+  "Google": {
+    "noun": "谷歌"
+  },
+  "GPL": {
+    "noun": "GPL"
+  },
+  "grant": {
+    "verb": "群组"
+  },
+  "Gravatar": {
+    "noun": "Gravatar"
+  },
+  "group": {
+    "noun": "群组",
+    "verb": "组合"
+  },
+  "guest": {
+    "noun": "访客"
+  },
+  "Gutenberg": {
+    "noun": "Gutenberg"
+  },
+  "handle": {
+    "noun": "句柄"
+  },
+  "heading": {
+    "noun": "标题"
+  },
+  "heartbeat": {
+    "noun": "心跳"
+  },
+  "height": {
+    "noun": "高度"
+  },
+  "helper": {
+    "noun": "帮助程序"
+  },
+  "hide": {
+    "verb": "隐藏"
+  },
+  "HiNet": {
+    "noun": "HiNet"
+  },
+  "history": {
+    "noun": "历史记录"
+  },
+  "hold": {
+    "verb": "按住"
+  },
+  "hook": {
+    "noun": "钩子"
+  },
+  "horizontal": {
+    "adjective": "水平"
+  },
+  "hotfix": {
+    "noun": "补丁程序"
+  },
+  "hover": {
+    "verb": "鼠标悬停"
+  },
+  "HSTS": {
+    "noun": "HSTS"
+  },
+  "I18n": {
+    "noun": "I18n"
+  },
+  "icon": {
+    "noun": "图标"
+  },
+  "ICQ": {
+    "noun": "ICQ"
+  },
+  "identify": {
+    "verb": "识别"
+  },
+  "iframe": {
+    "noun": "iframe"
+  },
+  "image": {
+    "noun": "图片"
+  },
+  "impersonate": {
+    "verb": "仿真"
+  },
+  "import": {
+    "verb": "导入"
+  },
+  "inactive": {
+    "adjective": "未启用"
+  },
+  "indent": {
+    "verb": "缩进"
+  },
+  "index": {
+    "verb": "进行索引"
+  },
+  "inline": {
+    "adjective": "内嵌"
+  },
+  "insert": {
+    "verb": "插入"
+  },
+  "Instagram": {
+    "noun": "Instagram"
+  },
+  "installer": {
+    "noun": "安装器"
+  },
+  "instance": {
+    "noun": "实例"
+  },
+  "interface": {
+    "noun": "接口"
+  },
+  "Internationalization": {
+    "noun": "国际化"
+  },
+  "internet": {
+    "noun": "互联网"
+  },
+  "invalid": {
+    "adjective": "无效"
+  },
+  "iOS": {
+    "noun": "iOS"
+  },
+  "italic": {
+    "noun": "斜体"
+  },
+  "item": {
+    "noun": "项目"
+  },
+  "iteration": {
+    "noun": "迭代"
+  },
+  "JavaScript": {
+    "noun": "JavaScript"
+  },
+  "jQuery": {
+    "noun": "jQuery"
+  },
+  "KakaoTalk": {
+    "noun": "KakaoTalk"
+  },
+  "keyboard": {
+    "noun": "键盘"
+  },
+  "kit": {
+    "noun": "套件"
+  },
+  "l10n": {
+    "noun": "l10n"
+  },
+  "launch": {
+    "verb": "启动"
+  },
+  "layout": {
+    "noun": "布局"
+  },
+  "lazy load": {
+    "verb": "延迟加载"
+  },
+  "left-click": {
+    "verb": "点击左键"
+  },
+  "legacy": {
+    "adjective": "传统"
+  },
+  "legend": {
+    "noun": "图例"
+  },
+  "legitimate": {
+    "adjective": "合法"
+  },
+  "letter": {
+    "noun": "字母"
+  },
+  "lightbox": {
+    "noun": "灯箱"
+  },
+  "lightness": {
+    "noun": "亮度"
+  },
+  "lightweight": {
+    "adjective": "轻量化"
+  },
+  "link": {
+    "noun": "链接"
+  },
+  "LinkedIn": {
+    "noun": "LinkedIn"
+  },
+  "Linux": {
+    "noun": "Linux"
+  },
+  "list": {
+    "noun": "列表"
+  },
+  "loader": {
+    "noun": "引导程序"
+  },
+  "locale": {
+    "noun": "地区语言"
+  },
+  "localization": {
+    "noun": "本土化"
+  },
+  "lockdown": {
+    "noun": "封锁"
+  },
+  "log": {
+    "noun": "日志",
+    "verb": "日志"
+  },
+  "log in": {
+    "verb": "登录"
+  },
+  "log out": {
+    "verb": "注销"
+  },
+  "login": {
+    "noun": "登录",
+    "verb": "登录"
+  },
+  "logo": {
+    "noun": "Logo"
+  },
+  "logout": {
+    "noun": "注销",
+    "verb": "注销"
+  },
+  "long tail": {
+    "adjective": "长尾"
+  },
+  "long-tail": {
+    "adjective": "长尾"
+  },
+  "look up": {
+    "verb": "查找"
+  },
+  "lookup": {
+    "verb": "查找"
+  },
+  "loop": {
+    "noun": "循环"
+  },
+  "loopback": {
+    "verb": "回环"
+  },
+  "macOS": {
+    "noun": "macOS"
+  },
+  "mailer": {
+    "noun": "邮件程序"
+  },
+  "maintenance": {
+    "noun": "维护"
+  },
+  "manage": {
+    "verb": "管理"
+  },
+  "manager": {
+    "noun": "管理器"
+  },
+  "manifest": {
+    "noun": "信息清单"
+  },
+  "mapping": {
+    "adjective": "映射"
+  },
+  "margin": {
+    "noun": "边距"
+  },
+  "MariaDB": {
+    "noun": "MariaDB"
+  },
+  "mark": {
+    "verb": "标记"
+  },
+  "Mastodon": {
+    "noun": "Mastodon"
+  },
+  "measurement": {
+    "noun": "测量"
+  },
+  "media": {
+    "noun": "媒体"
+  },
+  "Meetup": {
+    "noun": "Meetup"
+  },
+  "memory": {
+    "noun": "内存"
+  },
+  "Messenger": {
+    "noun": "Messenger"
+  },
+  "method": {
+    "noun": "方法"
+  },
+  "MeWe": {
+    "noun": "MeWe"
+  },
+  "Microsoft": {
+    "noun": "微软"
+  },
+  "migrate": {
+    "verb": "迁移"
+  },
+  "migration": {
+    "noun": "迁移"
+  },
+  "MIME": {
+    "noun": "MIME"
+  },
+  "modal": {
+    "noun": "模态窗"
+  },
+  "mode": {
+    "noun": "模式"
+  },
+  "modify": {
+    "verb": "修改"
+  },
+  "module": {
+    "noun": "模块"
+  },
+  "mount": {
+    "verb": "挂载"
+  },
+  "mouse": {
+    "noun": "鼠标"
+  },
+  "multi-purpose": {
+    "adjective": "多用途"
+  },
+  "multilingual": {
+    "adjective": "多语言"
+  },
+  "multipurpose": {
+    "adjective": "多用途"
+  },
+  "multisite": {
+    "noun": "多站点"
+  },
+  "must use": {
+    "adjective": "强制使用"
+  },
+  "must-use": {
+    "adjective": "强制使用"
+  },
+  "MySQL": {
+    "noun": "MySQL"
+  },
+  "NC": {
+    "noun": "非商业性使用"
+  },
+  "ND": {
+    "noun": "禁止修改"
+  },
+  "network": {
+    "noun": "网络"
+  },
+  "new": {
+    "verb": "新增"
+  },
+  "nginx": {
+    "noun": "Nginx"
+  },
+  "Nickname": {
+    "noun": "昵称"
+  },
+  "nonce": {
+    "noun": "随机数"
+  },
+  "notification": {
+    "noun": "通知"
+  },
+  "numeric": {
+    "noun": "整数"
+  },
+  "object": {
+    "noun": "对象"
+  },
+  "oEmbed": {
+    "noun": "oEmbed"
+  },
+  "one-time": {
+    "adjective": "一次性"
+  },
+  "oops": {
+    "noun": "哎呀"
+  },
+  "opacity": {
+    "noun": "不透明度"
+  },
+  "operator": {
+    "noun": "操作符"
+  },
+  "optimization": {
+    "noun": "优化"
+  },
+  "optimize": {
+    "noun": "优化"
+  },
+  "option": {
+    "noun": "选项"
+  },
+  "OS": {
+    "noun": "操作系统"
+  },
+  "OTP": {
+    "noun": "OTP"
+  },
+  "outage": {
+    "noun": "中断"
+  },
+  "outdent": {
+    "verb": "减少缩进"
+  },
+  "overlay": {
+    "verb": "覆盖"
+  },
+  "override": {
+    "verb": "覆盖"
+  },
+  "overrides": {
+    "noun": "覆写"
+  },
+  "package": {
+    "verb": "封装"
+  },
+  "padding": {
+    "noun": "填充"
+  },
+  "page": {
+    "noun": "页面"
+  },
+  "panel": {
+    "noun": "面板"
+  },
+  "parallax": {
+    "noun": "视差"
+  },
+  "parameter": {
+    "noun": "参数"
+  },
+  "parent": {
+    "adjective": "上级"
+  },
+  "parse": {
+    "verb": "解析"
+  },
+  "parser": {
+    "noun": "解析器"
+  },
+  "part": {
+    "noun": "部分"
+  },
+  "patch": {
+    "noun": "补丁"
+  },
+  "path": {
+    "noun": "路径"
+  },
+  "pattern": {
+    "noun": "样板"
+  },
+  "PDF": {
+    "noun": "PDF"
+  },
+  "peak": {
+    "adjective": "顶峰"
+  },
+  "pending": {
+    "adjective": "待审核"
+  },
+  "permalink": {
+    "noun": "固定链接"
+  },
+  "permanent": {
+    "adjective": "永久"
+  },
+  "permanently": {
+    "adverb": "永久"
+  },
+  "permission": {
+    "noun": "权限"
+  },
+  "photo": {
+    "noun": "照片"
+  },
+  "PHP": {
+    "noun": "PHP"
+  },
+  "physical": {
+    "adjective": "实体"
+  },
+  "picker": {
+    "noun": "选择器"
+  },
+  "ping": {
+    "verb": "自动通知"
+  },
+  "pingback": {
+    "noun": "Pingback"
+  },
+  "Pinterest": {
+    "noun": "Pinterest"
+  },
+  "placeholder": {
+    "noun": "占位符"
+  },
+  "playlist": {
+    "noun": "播放列表"
+  },
+  "plugin": {
+    "noun": "插件"
+  },
+  "podcast": {
+    "noun": "播客"
+  },
+  "policy": {
+    "noun": "政策"
+  },
+  "post": {
+    "noun": "文章"
+  },
+  "postfix": {
+    "noun": "后缀"
+  },
+  "preference": {
+    "noun": "偏好设置"
+  },
+  "prefix": {
+    "noun": "前缀"
+  },
+  "preserve": {
+    "verb": "保留"
+  },
+  "preset": {
+    "noun": "预设",
+    "adjective": "预设"
+  },
+  "press": {
+    "verb": "按下"
+  },
+  "profile": {
+    "noun": "个人资料"
+  },
+  "protect": {
+    "verb": "保护"
+  },
+  "publish": {
+    "verb": "发布"
+  },
+  "pull": {
+    "noun": "拉取"
+  },
+  "RC": {
+    "noun": "RC"
+  },
+  "real-time": {
+    "adjective": "实时"
+  },
+  "recompile": {
+    "verb": "重新编译"
+  },
+  "recover": {
+    "verb": "恢复"
+  },
+  "redirect": {
+    "verb": "重定向"
+  },
+  "redo": {
+    "verb": "重做"
+  },
+  "redundant": {
+    "adjective": "冗余"
+  },
+  "refactor": {
+    "verb": "重构"
+  },
+  "refresh": {
+    "verb": "刷新"
+  },
+  "register": {
+    "verb": "注册"
+  },
+  "remove": {
+    "verb": "移除"
+  },
+  "render": {
+    "verb": "渲染"
+  },
+  "repo": {
+    "noun": "存储库"
+  },
+  "repository": {
+    "noun": "存储库"
+  },
+  "request": {
+    "noun": "要求"
+  },
+  "resend": {
+    "verb": "重新发送"
+  },
+  "reserve": {
+    "verb": "保留"
+  },
+  "reset": {
+    "verb": "重置"
+  },
+  "resolver": {
+    "noun": "解析器"
+  },
+  "responsive": {
+    "noun": "响应式"
+  },
+  "retrieve": {
+    "noun": "截取"
+  },
+  "revision": {
+    "noun": "修订"
+  },
+  "revoke": {
+    "verb": "撤销"
+  },
+  "rewrite": {
+    "verb": "重写"
+  },
+  "robots.txt": {
+    "noun": "robots.txt"
+  },
+  "RSS": {
+    "noun": "RSS"
+  },
+  "salt": {
+    "noun": "盐值"
+  },
+  "save": {
+    "verb": "保存"
+  },
+  "save changes": {
+    "verb": "保存设置"
+  },
+  "scan": {
+    "verb": "扫描"
+  },
+  "schedule": {
+    "verb": "定时"
+  },
+  "select": {
+    "verb": "选择"
+  },
+  "self-hosted": {
+    "adjective": "自托管"
+  },
+  "sensitive": {
+    "adjective": "敏感性"
+  },
+  "SEO": {
+    "noun": "SEO"
+  },
+  "serialize": {
+    "verb": "序列化"
+  },
+  "server": {
+    "noun": "服务器"
+  },
+  "service": {
+    "noun": "服务"
+  },
+  "session": {
+    "noun": "会话"
+  },
+  "setting": {
+    "noun": "设置",
+    "verb": "设置"
+  },
+  "share": {
+    "verb": "分享"
+  },
+  "Shift": {
+    "noun": "Shift 键"
+  },
+  "shortcode": {
+    "noun": "简码"
+  },
+  "sidebar": {
+    "noun": "侧边栏"
+  },
+  "Signal": {
+    "noun": "Signal"
+  },
+  "signal": {
+    "noun": "信号"
+  },
+  "site": {
+    "noun": "站点"
+  },
+  "sitemap": {
+    "noun": "站点地图"
+  },
+  "Skype": {
+    "noun": "Skype"
+  },
+  "Slack": {
+    "noun": "Slack"
+  },
+  "slug": {
+    "noun": "别名"
+  },
+  "smooth": {
+    "adjective": "平滑"
+  },
+  "Snapchat": {
+    "noun": "Snapchat"
+  },
+  "snapshot": {
+    "noun": "快照"
+  },
+  "snippet": {
+    "noun": "代码片段"
+  },
+  "solution": {
+    "noun": "解决方案"
+  },
+  "spacing": {
+    "noun": "间距"
+  },
+  "spam": {
+    "verb": "标记为垃圾"
+  },
+  "spider": {
+    "noun": "蜘蛛"
+  },
+  "Spotify": {
+    "noun": "Spotify"
+  },
+  "square": {
+    "noun": "正方形"
+  },
+  "startup": {
+    "verb": "启动",
+    "adjective": "起始"
+  },
+  "stat": {
+    "noun": "统计数据"
+  },
+  "statistics": {
+    "noun": "统计数据"
+  },
+  "status": {
+    "noun": "状态"
+  },
+  "step-by-step": {
+    "noun": "分步"
+  },
+  "sticky": {
+    "noun": "置顶文章",
+    "verb": "置顶",
+    "adjective": "固定式",
+    "adverb": "固定位置"
+  },
+  "structure": {
+    "noun": "结构"
+  },
+  "StumbleUpon": {
+    "noun": "StumbleUpon"
+  },
+  "style": {
+    "noun": "样式"
+  },
+  "subscribe": {
+    "verb": "订阅"
+  },
+  "subscriber": {
+    "noun": "订阅者"
+  },
+  "summary": {
+    "noun": "摘要"
+  },
+  "suspension": {
+    "noun": "暂停"
+  },
+  "swag": {
+    "noun": "纪念品"
+  },
+  "switch": {
+    "verb": "切换"
+  },
+  "sync": {
+    "verb": "同步"
+  },
+  "synchronization": {
+    "noun": "同步"
+  },
+  "synchronize": {
+    "verb": "同步"
+  },
+  "system": {
+    "noun": "系统"
+  },
+  "tab": {
+    "noun": "标签"
+  },
+  "tag": {
+    "noun": "标签",
+    "verb": "标记"
+  },
+  "tagline": {
+    "noun": "网站标语"
+  },
+  "task": {
+    "noun": "任务"
+  },
+  "taxonomy": {
+    "noun": "分类法"
+  },
+  "Telegram": {
+    "noun": "电报"
+  },
+  "template": {
+    "noun": "模板"
+  },
+  "test": {
+    "verb": "测试"
+  },
+  "theme": {
+    "noun": "主题"
+  },
+  "Threads": {
+    "noun": "Threads"
+  },
+  "thumb": {
+    "noun": "缩略图"
+  },
+  "thumbnail": {
+    "noun": "缩略图"
+  },
+  "TikTok": {
+    "noun": "抖音"
+  },
+  "timer": {
+    "noun": "计时器"
+  },
+  "timezone": {
+    "noun": "时区"
+  },
+  "TinyMCE": {
+    "noun": "TinyMCE"
+  },
+  "title": {
+    "noun": "标题"
+  },
+  "TOC": {
+    "noun": "TOC"
+  },
+  "token": {
+    "noun": "令牌"
+  },
+  "track": {
+    "noun": "追踪",
+    "verb": "追踪"
+  },
+  "trackback": {
+    "noun": "Trackback"
+  },
+  "transformer": {
+    "noun": "转换器"
+  },
+  "transparent": {
+    "noun": "透明度"
+  },
+  "transport": {
+    "noun": "传输"
+  },
+  "trash": {
+    "noun": "回收站",
+    "verb": "移至回收站"
+  },
+  "trigger": {
+    "verb": "触发"
+  },
+  "try again": {
+    "verb": "再试一次"
+  },
+  "Tumblr": {
+    "noun": "Tumblr"
+  },
+  "tunnel": {
+    "noun": "信道"
+  },
+  "tutorial": {
+    "noun": "教程"
+  },
+  "Twenty Thirty": {
+    "noun": "二〇三〇"
+  },
+  "Twenty Twenty": {
+    "noun": "二〇二〇"
+  },
+  "Twenty Twenty-Eight": {
+    "noun": "二〇二八"
+  },
+  "Twenty Twenty-Five": {
+    "noun": "二〇二五"
+  },
+  "Twenty Twenty-Four": {
+    "noun": "二〇二四"
+  },
+  "Twenty Twenty-Nine": {
+    "noun": "二〇二九"
+  },
+  "Twenty Twenty-One": {
+    "noun": "二〇二一"
+  },
+  "Twenty Twenty-Seven": {
+    "noun": "二〇二七"
+  },
+  "Twenty Twenty-Six": {
+    "noun": "二〇二六"
+  },
+  "Twenty Twenty-Three": {
+    "noun": "二〇二三"
+  },
+  "Twenty Twenty-Two": {
+    "noun": "二〇二二"
+  },
+  "Twitter": {
+    "noun": "Twitter"
+  },
+  "typography": {
+    "noun": "排版"
+  },
+  "UCT": {
+    "noun": "UCT"
+  },
+  "uncheck": {
+    "verb": "取消选中"
+  },
+  "underscore": {
+    "noun": "下划线"
+  },
+  "undo": {
+    "verb": "撤消"
+  },
+  "ungroup": {
+    "verb": "取消组合"
+  },
+  "unique": {
+    "adjective": "唯一"
+  },
+  "Universal": {
+    "noun": "国际标准时间"
+  },
+  "universal": {
+    "adjective": "标准"
+  },
+  "unload": {
+    "verb": "卸载"
+  },
+  "unmount": {
+    "verb": "卸载"
+  },
+  "untitled": {
+    "adjective": "无标题"
+  },
+  "update": {
+    "noun": "更新",
+    "verb": "更新"
+  },
+  "upgrade": {
+    "verb": "升级"
+  },
+  "upload": {
+    "verb": "上传"
+  },
+  "upsell": {
+    "verb": "追加销售"
+  },
+  "uptime": {
+    "noun": "正常运行时间"
+  },
+  "URI": {
+    "noun": "URI"
+  },
+  "URL": {
+    "noun": "URL"
+  },
+  "user": {
+    "noun": "用户"
+  },
+  "user role": {
+    "verb": "用户角色"
+  },
+  "UTC": {
+    "noun": "国际标准时间 (UTC)"
+  },
+  "validation": {
+    "verb": "验证"
+  },
+  "variation": {
+    "noun": "样式变化"
+  },
+  "VAT": {
+    "noun": "增值税"
+  },
+  "vendor": {
+    "noun": "厂商"
+  },
+  "verify": {
+    "verb": "验证"
+  },
+  "vertical": {
+    "adjective": "垂直"
+  },
+  "Viber": {
+    "noun": "Viber"
+  },
+  "video": {
+    "noun": "视频"
+  },
+  "view all": {
+    "verb": "查看全部"
+  },
+  "Vim": {
+    "noun": "Vim"
+  },
+  "Vimeo": {
+    "noun": "Vimeo"
+  },
+  "virtual": {
+    "adjective": "虚拟"
+  },
+  "VK": {
+    "noun": "VK"
+  },
+  "Vkontakte": {
+    "noun": "Vkontakte"
+  },
+  "VPN": {
+    "noun": "VPN"
+  },
+  "VPS": {
+    "noun": "VPS"
+  },
+  "webfont": {
+    "noun": "网页字体"
+  },
+  "website": {
+    "noun": "网站"
+  },
+  "WhatsApp": {
+    "noun": "WhatsApp"
+  },
+  "whitespace": {
+    "noun": "空白字符"
+  },
+  "widget": {
+    "noun": "小工具"
+  },
+  "width": {
+    "noun": "宽度"
+  },
+  "wildcard": {
+    "noun": "通配符"
+  },
+  "window": {
+    "noun": "窗口"
+  },
+  "Windows": {
+    "noun": "Windows"
+  },
+  "wipe": {
+    "verb": "抹掉"
+  },
+  "wizard": {
+    "noun": "向导"
+  },
+  "WooCommerce": {
+    "noun": "WooCommerce"
+  },
+  "WordCamp": {
+    "noun": "WordCamp"
+  },
+  "WordPress": {
+    "noun": "WordPress"
+  },
+  "WordPress.com": {
+    "noun": "WordPress.com"
+  },
+  "XML": {
+    "noun": "XML"
+  },
+  "XML-RPC": {
+    "noun": "XML-RPC"
+  },
+  "YouTube": {
+    "noun": "YouTube"
+  }
+}

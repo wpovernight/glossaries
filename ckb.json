@@ -1,0 +1,1020 @@
+{
+  "able": {
+    "adjective": "بەتوانا"
+  },
+  "about": {
+    "preposition": "دەربارە"
+  },
+  "above": {
+    "preposition": "سەرەوە،سەرەوەی"
+  },
+  "access": {
+    "noun": "دەستپێگەیشتن"
+  },
+  "accessibility": {
+    "noun": "توانای ده‌ستپێگه‌یشتن"
+  },
+  "account": {
+    "noun": "هەژمار"
+  },
+  "action": {
+    "noun": "کردار"
+  },
+  "activate": {
+    "verb": "چالاکیبکە،چالاککردن"
+  },
+  "active": {
+    "adjective": "چالاک"
+  },
+  "add": {
+    "verb": "زیادکردن"
+  },
+  "added": {
+    "verb": "زیادکرا"
+  },
+  "address": {
+    "noun": "ناونیشان"
+  },
+  "admin": {
+    "noun": "بەڕێوەبەر"
+  },
+  "administrator": {
+    "noun": "بەڕێوەبەری گشتی"
+  },
+  "after": {
+    "adverb": "دوای ئەو"
+  },
+  "again": {
+    "adverb": "دوبارە"
+  },
+  "all": {
+    "noun": "هەموو، سەرجەم"
+  },
+  "allow": {
+    "verb": "ڕێدان"
+  },
+  "allowed": {
+    "adjective": "ڕێپێدرا"
+  },
+  "allows": {
+    "verb": "ڕێیپێدەدا"
+  },
+  "already": {
+    "adverb": "پێش ئەمە، لەئێستا"
+  },
+  "also": {
+    "adverb": "هەرەوەها"
+  },
+  "another": {
+    "adjective": "دیکە"
+  },
+  "appear": {
+    "verb": "نیشان دراوە"
+  },
+  "apply": {
+    "noun": "به‌کاربردن"
+  },
+  "archives": {
+    "noun": "ئارشیڤ"
+  },
+  "area": {
+    "noun": "شوێن"
+  },
+  "assigned": {
+    "verb": "پێسپاردن"
+  },
+  "attachment": {
+    "noun": "پاشکۆ"
+  },
+  "audio": {
+    "noun": "دەنگ"
+  },
+  "author": {
+    "noun": "نووسەر"
+  },
+  "automatically": {
+    "adverb": "خۆکار"
+  },
+  "available": {
+    "adjective": "لەبەردەست"
+  },
+  "background": {
+    "noun": "پاشبنەما"
+  },
+  "before": {
+    "adverb": "پێش ئەوە"
+  },
+  "below": {
+    "adverb": "ژێر،لەژێر"
+  },
+  "between": {
+    "preposition": "لەنێوان"
+  },
+  "block": {
+    "noun": "بڵۆک"
+  },
+  "blog": {
+    "noun": "بڵۆگ"
+  },
+  "brand": {
+    "noun": "نیشانەی بازرگانی"
+  },
+  "browser": {
+    "noun": "وێبگەڕ"
+  },
+  "button": {
+    "noun": "دوگمە"
+  },
+  "cache": {
+    "noun": "حەشارگە"
+  },
+  "cancel": {
+    "verb": "هەڵوەشاندنەوە،داخستن"
+  },
+  "cart": {
+    "noun": "سەبەتە"
+  },
+  "categories": {
+    "noun": "هاوپۆلەکان"
+  },
+  "category": {
+    "noun": "هاوپۆل"
+  },
+  "change": {
+    "verb": "بگۆڕە"
+  },
+  "changed": {
+    "verb": "گۆڕدرا"
+  },
+  "changes": {
+    "noun": "گۆڕانکاری"
+  },
+  "changeset": {
+    "noun": "گۆڕانکاری"
+  },
+  "characters": {
+    "noun": "پیت،پیتەکان"
+  },
+  "check": {
+    "verb": "پشکنین بکە"
+  },
+  "checkout": {
+    "noun": "پارەدان"
+  },
+  "choose": {
+    "verb": "هەڵبژاردن"
+  },
+  "clear": {
+    "verb": "خاوێنکردن،سڕینەوە"
+  },
+  "click": {
+    "verb": "کرتەبکە،کرتە"
+  },
+  "close": {
+    "verb": "داخستن"
+  },
+  "code": {
+    "noun": "کۆد"
+  },
+  "codex": {
+    "noun": "بەڵگە"
+  },
+  "color": {
+    "noun": "ڕەنگ"
+  },
+  "command center": {
+    "noun": "ناوەندی فەرمان"
+  },
+  "command palette": {
+    "noun": "تەختی فەرمان"
+  },
+  "comment": {
+    "noun": "وەڵآم،پرسیار"
+  },
+  "comments": {
+    "noun": "وەڵامەکان،لێدوانەکان"
+  },
+  "common": {
+    "noun": "هاوبه‌ش، باو"
+  },
+  "contact": {
+    "noun": "پەیوەند",
+    "verb": "پەیوەندیبکەن،پەیوەندی"
+  },
+  "content": {
+    "noun": "ناوەڕۆک"
+  },
+  "create": {
+    "verb": "خولقاندن،دروستکردن"
+  },
+  "created": {
+    "verb": "خولقێنەرا،دروستکرا"
+  },
+  "crop": {
+    "verb": "بڕین"
+  },
+  "css": {
+    "noun": "css"
+  },
+  "current": {
+    "adjective": "ئێستا"
+  },
+  "currently": {
+    "adverb": "لە ئێستا"
+  },
+  "custom": {
+    "adjective": "دەستکرد"
+  },
+  "customizer": {
+    "noun": "کڕیارخوازکردن"
+  },
+  "dashboard": {
+    "noun": "پێشخان"
+  },
+  "data": {
+    "noun": "دراوە"
+  },
+  "database": {
+    "noun": "بنکەی دراوە"
+  },
+  "date": {
+    "noun": "بەروار،رێکەوت"
+  },
+  "day": {
+    "noun": "ڕۆژ"
+  },
+  "default": {
+    "noun": "بنەڕەت"
+  },
+  "delete": {
+    "verb": "بیسڕەوە،سڕینەوە"
+  },
+  "deleted": {
+    "verb": "سڕایەوە"
+  },
+  "description": {
+    "noun": "شڕۆڤە"
+  },
+  "details": {
+    "noun": "وردەکارییەکان"
+  },
+  "directory": {
+    "noun": "بوخچە"
+  },
+  "disable": {
+    "verb": "ناچالاککردن"
+  },
+  "disabled": {
+    "verb": "ناچالاککرا"
+  },
+  "display": {
+    "verb": "نیشان،پێشان"
+  },
+  "displayed": {
+    "verb": "نیشان درا،پیشاندرا"
+  },
+  "documentation": {
+    "noun": "بڵگەنامەکان،بڕوانامەکان"
+  },
+  "down": {
+    "adjective": "خوارەوە،دابەزین"
+  },
+  "draft": {
+    "noun": "پێشنووس.بنەمایی"
+  },
+  "Duplicate": {
+    "verb": "له‌به‌رگرتنه‌وه‌"
+  },
+  "edit": {
+    "verb": "دەستکاری"
+  },
+  "editing": {
+    "verb": "لەحاڵێ دەستکاری"
+  },
+  "editor": {
+    "noun": "دەستکاریکەر"
+  },
+  "element": {
+    "noun": "توخم، ئه‌ندام، به‌ش"
+  },
+  "email": {
+    "noun": "پۆستی ئەلیکترۆنی"
+  },
+  "embed": {
+    "verb": "گونجاندن،تێخستن،خستنەناو"
+  },
+  "empty": {
+    "adjective": "بەتاڵ"
+  },
+  "enable": {
+    "verb": "چالاک"
+  },
+  "enabled": {
+    "verb": "چالاکبوو،چالاککرا"
+  },
+  "endnote": {
+    "noun": "کۆتایاداشت"
+  },
+  "enter": {
+    "verb": "تێکردن، کردنەناو، تۆمارکردن"
+  },
+  "entered": {
+    "verb": "چوونەژوور،هاتنەناوەوە،تۆمارکردن،خستنەناوەوە"
+  },
+  "example": {
+    "noun": "نمونە،وێنە"
+  },
+  "excerpt": {
+    "noun": "کورتە"
+  },
+  "exist": {
+    "verb": "بوونی هەیە"
+  },
+  "existing": {
+    "adjective": "بوون،بەردەست،هەبوو"
+  },
+  "exists": {
+    "verb": "بوونی هەیە"
+  },
+  "Experimental": {
+    "adjective": "ئەزموونی"
+  },
+  "failed": {
+    "verb": "سه‌رنه‌که‌وتوو،کێشەی هەیە"
+  },
+  "featured": {
+    "verb": "دانستەی بوو،تایبەتمەندی بوو،تایبەت"
+  },
+  "feed": {
+    "noun": "خۆراک،فید"
+  },
+  "feedback": {
+    "noun": "پێڕاگه‌یاندنه‌وه‌"
+  },
+  "file": {
+    "noun": "فایل،دۆسیە،پەڕگە"
+  },
+  "files": {
+    "noun": "پەڕەکان،فایلەکان"
+  },
+  "filter": {
+    "noun": "پاڵاوتن"
+  },
+  "filters": {
+    "noun": "پاڵاوتنەکان"
+  },
+  "find": {
+    "verb": "دۆزینەوە،دیتنەوە،پەیداکردن"
+  },
+  "first": {
+    "adjective": "سەرەتا"
+  },
+  "following": {
+    "adjective": "پێڕەو،دووکەوتوو"
+  },
+  "font": {
+    "noun": "جۆرەپیت"
+  },
+  "fonts": {
+    "noun": "جۆرەپیتەکان"
+  },
+  "footer": {
+    "noun": "ژێرپەڕە"
+  },
+  "format": {
+    "noun": "چوارچێوە،شێواز،فۆرمات"
+  },
+  "found": {
+    "verb": "پەیداکرا"
+  },
+  "from": {
+    "preposition": "لە"
+  },
+  "gallery": {
+    "noun": "پیشەنگا~گالێری"
+  },
+  "given": {
+    "adjective": "دراوە"
+  },
+  "global": {
+    "noun": "جیهانی"
+  },
+  "go": {
+    "verb": "برۆ،"
+  },
+  "gutenberg": {
+    "noun": "گوتنبێرگ"
+  },
+  "Handling": {
+    "noun": "بەڕێوەبردن"
+  },
+  "header": {
+    "noun": "سەرپەڕە"
+  },
+  "height": {
+    "noun": "بەرزایەتی،دریژیی"
+  },
+  "help": {
+    "noun": "یارمەتی،ڕێنوێنی"
+  },
+  "here": {
+    "adverb": "لێرە"
+  },
+  "homepage": {
+    "noun": "پەڕەی ئەسڵی،پەڕەی ماڵەوە،پەڕەی سەرەتا"
+  },
+  "html": {
+    "noun": "html"
+  },
+  "https": {
+    "noun": "https"
+  },
+  "id": {
+    "noun": "ناسنامە"
+  },
+  "identifier": {
+    "noun": "ناسێنەر - پێناسدیاریکەر"
+  },
+  "ids": {
+    "noun": "ناسنامەکان"
+  },
+  "if": {
+    "conjunction": "گەر،ئەگەر"
+  },
+  "image": {
+    "noun": "وێنە"
+  },
+  "images": {
+    "noun": "وێنەکان"
+  },
+  "insert": {
+    "verb": "تێخستن،خستنە ناو"
+  },
+  "install": {
+    "verb": "دامەزراندن،دایبمەزرێنە"
+  },
+  "installation": {
+    "noun": "دامەزراندن"
+  },
+  "installed": {
+    "verb": "دامەزرا"
+  },
+  "instead": {
+    "adverb": "لەبری، لە جیاتی، لە جێی، لە جێگای"
+  },
+  "into": {
+    "preposition": "ناو،نێو"
+  },
+  "invalid": {
+    "noun": "نادروست"
+  },
+  "ip": {
+    "noun": "ip"
+  },
+  "item": {
+    "noun": "دانە، بڕگە"
+  },
+  "items": {
+    "noun": "بڕگەکان"
+  },
+  "key": {
+    "noun": "کلیل"
+  },
+  "last": {
+    "adjective": "دوایین،دوا"
+  },
+  "least": {
+    "adjective": "کەمترین،ئەمپەڕی،بەلانی کەمەوە"
+  },
+  "letters": {
+    "noun": "پیتەکان"
+  },
+  "library": {
+    "noun": "ژێدەرگە"
+  },
+  "like": {
+    "adjective": "وەک،هاوشیوە",
+    "verb": "خۆشەویستن،حەزلێکردن،وێکچوون"
+  },
+  "limit": {
+    "noun": "سنووردار",
+    "verb": "سنوورداری بکەن"
+  },
+  "line": {
+    "noun": "هێڵ"
+  },
+  "link": {
+    "noun": "بەستەر"
+  },
+  "links": {
+    "noun": "پەیوەندییەکان،بەستەرەکان،لینک"
+  },
+  "list": {
+    "noun": "لیست،پێرست"
+  },
+  "live": {
+    "adjective": "زیندوو"
+  },
+  "location": {
+    "noun": "شوێن"
+  },
+  "login": {
+    "noun": "چوونەژوورەوە"
+  },
+  "logo": {
+    "noun": "نیشانەی پێناس"
+  },
+  "main": {
+    "adjective": "ئەسڵی"
+  },
+  "manage": {
+    "verb": "بەڕێوەی ببە"
+  },
+  "media": {
+    "noun": "میدیا، ڕەنگاڵە"
+  },
+  "meetup": {
+    "noun": "میتئەپ"
+  },
+  "meetups": {
+    "noun": "میتئەپس"
+  },
+  "menu": {
+    "noun": "لیستە"
+  },
+  "menus": {
+    "noun": "پێرێستەکان"
+  },
+  "message": {
+    "noun": "نامە"
+  },
+  "messages": {
+    "noun": "نامەکان"
+  },
+  "Middle Name": {
+    "noun": "ناز ناو"
+  },
+  "missing": {
+    "adjective": "بزر،ون،گم،بزربوو،لەدەست چوو"
+  },
+  "mode": {
+    "noun": "دۆخ"
+  },
+  "more": {
+    "adverb": "زۆرتر،فرەتر"
+  },
+  "move": {
+    "verb": "گواستنەوە،گوازتنەوە،جێبەجێکردن"
+  },
+  "must": {
+    "verb": "دەبێ"
+  },
+  "name": {
+    "noun": "ناو"
+  },
+  "navigation": {
+    "noun": "ڕێدۆزی"
+  },
+  "need": {
+    "verb": "نیازتانپێیەتی"
+  },
+  "network": {
+    "noun": "ڕایەڵە"
+  },
+  "new": {
+    "adjective": "تازە،نوێ"
+  },
+  "next": {
+    "adjective": "داهاتوو،دوایی،ئەوی تر"
+  },
+  "notice": {
+    "noun": "هۆشیاری،ئاگاداری،خاڵ"
+  },
+  "Notification": {
+    "noun": "ئاگادارکەرەوە"
+  },
+  "now": {
+    "adverb": "هەرئێستا،ئێستا"
+  },
+  "number": {
+    "noun": "ژمارە"
+  },
+  "object": {
+    "noun": "object | شت"
+  },
+  "only": {
+    "adverb": "تەنیا"
+  },
+  "option": {
+    "noun": "هەڵبژاردن"
+  },
+  "options": {
+    "noun": "هەڵبژاردنەکان"
+  },
+  "order": {
+    "noun": "داواکاری"
+  },
+  "original": {
+    "adjective": "ئەسڵی"
+  },
+  "over": {
+    "preposition": "سەرەوە| سەر"
+  },
+  "page": {
+    "noun": "پەڕەکان"
+  },
+  "pages": {
+    "noun": "پەڕەکان"
+  },
+  "panel": {
+    "noun": "تەختە،پەنێل"
+  },
+  "parent": {
+    "noun": "باوان"
+  },
+  "particular": {
+    "adjective": "تایبەت"
+  },
+  "password": {
+    "noun": "تێپەڕەوشە"
+  },
+  "paste": {
+    "verb": "لکاندن"
+  },
+  "pattern": {
+    "noun": "شێوەئاسا"
+  },
+  "patterns": {
+    "noun": "شێوەئاساکان"
+  },
+  "pending": {
+    "preposition": "هەڵپەسێردراو،هەڵواسراو"
+  },
+  "php": {
+    "noun": "php"
+  },
+  "Playground": {
+    "noun": "پلەی گراوند"
+  },
+  "playlist": {
+    "noun": "پێرستی بڵاوکردن"
+  },
+  "please": {
+    "adverb": "تکایە"
+  },
+  "plugin": {
+    "noun": "پێوەکراو"
+  },
+  "plugins": {
+    "noun": "پێوەکراوەکان"
+  },
+  "post": {
+    "noun": "بابەت"
+  },
+  "posts": {
+    "noun": "بابەتەکان"
+  },
+  "press": {
+    "verb": "گوشاری بدەن"
+  },
+  "preview": {
+    "noun": "پێشبینین"
+  },
+  "private": {
+    "adjective": "تایبەت"
+  },
+  "product": {
+    "noun": "بەرهەم"
+  },
+  "products": {
+    "noun": "بەرهەمەکان"
+  },
+  "protected": {
+    "verb": "پارێزرا"
+  },
+  "publish": {
+    "verb": "بڵاو،بڵاویبکەن"
+  },
+  "published": {
+    "verb": "بڵاوکراوە،"
+  },
+  "ratio": {
+    "noun": "ڕێژه‌"
+  },
+  "registered": {
+    "adjective": "تۆماربوون،ناونووسیتانکردووە."
+  },
+  "registration": {
+    "noun": "ناونووسی"
+  },
+  "registrations": {
+    "noun": "ناونووسەکان،تۆمارەکان"
+  },
+  "remove": {
+    "verb": "لابردن"
+  },
+  "reorder": {
+    "verb": "ڕیزکردنی دوبارە"
+  },
+  "replace": {
+    "verb": "جێگیرکردن،جێگیریبکەن"
+  },
+  "requested": {
+    "verb": "داواکرا"
+  },
+  "required": {
+    "adjective": "پێویست"
+  },
+  "requires": {
+    "verb": "پێویستیەکان"
+  },
+  "reset": {
+    "verb": "ڕێکخستنی  دوبارە،سازکردنی دوبارە"
+  },
+  "restore": {
+    "noun": "گه‌ڕاندنه‌وه‌"
+  },
+  "result": {
+    "noun": "ئاکام"
+  },
+  "results": {
+    "noun": "دەرئەنجام،ئاکام"
+  },
+  "return": {
+    "noun": "گەڕانەوە"
+  },
+  "right": {
+    "noun": "ڕاست"
+  },
+  "row": {
+    "noun": "رێز"
+  },
+  "save": {
+    "verb": "پاشکەوت"
+  },
+  "saved": {
+    "verb": "پاشکەوتکرا"
+  },
+  "saving": {
+    "verb": "لەکاتی پاشکەوتکردن"
+  },
+  "screen": {
+    "noun": "پەردە،شاشە"
+  },
+  "search": {
+    "noun": "گەڕان",
+    "verb": "بگەڕێن"
+  },
+  "see": {
+    "verb": "بینین،دەبینێت،ببینە"
+  },
+  "select": {
+    "verb": "دیاریکردن"
+  },
+  "selected": {
+    "verb": "دیاریکرا، دیاریکراوە"
+  },
+  "sent": {
+    "verb": "ناردرا"
+  },
+  "server": {
+    "noun": "ڕاژەکار"
+  },
+  "session": {
+    "noun": "دانیشتن"
+  },
+  "set": {
+    "verb": "ڕێکیبخە،سازیبکە",
+    "noun": "کۆ،دەستە،کۆمەڵە،تاقم"
+  },
+  "setting": {
+    "noun": "ڕێکخستن"
+  },
+  "settings": {
+    "noun": "ڕێکخستنەکان"
+  },
+  "should": {
+    "verb": "دەبێ"
+  },
+  "show": {
+    "verb": "پیشانبدە،پیشاندان،پیشانگە"
+  },
+  "since": {
+    "adverb": "لەوکاتەوە، لەو وەختەوە، لەدوای"
+  },
+  "site": {
+    "noun": "ماڵپەڕ"
+  },
+  "sites": {
+    "noun": "مالپەڕەکان"
+  },
+  "size": {
+    "noun": "قەبارە"
+  },
+  "sorry": {
+    "adjective": "داوای لێبوردن"
+  },
+  "source": {
+    "noun": "سەرچاوە"
+  },
+  "spam": {
+    "noun": "پۆستی نەخوازراو، هەرزەواڵە"
+  },
+  "specific": {
+    "adjective": "تایبەت"
+  },
+  "specified": {
+    "verb": "دەسنیشانکراو،جیاکراوە"
+  },
+  "status": {
+    "noun": "دۆخ،ئاست"
+  },
+  "style": {
+    "noun": "شێواز"
+  },
+  "style variations": {
+    "noun": "گۆڕانکارییەکانی شێواز"
+  },
+  "sub": {
+    "noun": "ژێر"
+  },
+  "successfully": {
+    "adjective": "سەرکەوتوو"
+  },
+  "support": {
+    "verb": "پشتیوانی،پاڵپشتی،پشتیوانی کردن"
+  },
+  "sure": {
+    "adjective": "دڵنیای"
+  },
+  "synced pattern": {
+    "noun": "شێوەئاسای هاودەمی"
+  },
+  "table": {
+    "noun": "خشت"
+  },
+  "tag": {
+    "noun": "تاگەکان،"
+  },
+  "tags": {
+    "noun": "تاگەکان،"
+  },
+  "take": {
+    "verb": "گرتن،بردن"
+  },
+  "tax": {
+    "noun": "باج"
+  },
+  "taxes": {
+    "noun": "باجەکان"
+  },
+  "taxonomy": {
+    "noun": "پلە،ریزکردن"
+  },
+  "template": {
+    "noun": "قاڵب"
+  },
+  "template part": {
+    "noun": "پارچە قاڵب"
+  },
+  "template parts": {
+    "noun": "پارچە قاڵبەکان"
+  },
+  "term": {
+    "noun": "مەرج | شەرت| وشە،کات"
+  },
+  "terms": {
+    "noun": "مەرجەکان"
+  },
+  "text": {
+    "noun": "دەق"
+  },
+  "than": {
+    "preposition": "لە"
+  },
+  "theme": {
+    "noun": "ڕووکار"
+  },
+  "time": {
+    "noun": "کات"
+  },
+  "timezone": {
+    "noun": "کاتی شوێنی"
+  },
+  "title": {
+    "noun": "سەردێر،ناونیشان"
+  },
+  "toggle": {
+    "verb": "گۆڕان،گۆڕانی ئاست"
+  },
+  "trash": {
+    "noun": "تەنکەی خۆڵ،سەتڵێ زبڵ"
+  },
+  "try": {
+    "verb": "هەوڵبدە"
+  },
+  "type": {
+    "noun": "جۆر"
+  },
+  "under": {
+    "preposition": "ژێر"
+  },
+  "unsynced pattern": {
+    "noun": "شێوەئاسای ناهاودەمی"
+  },
+  "up": {
+    "adverb": "سەرەوە"
+  },
+  "update": {
+    "noun": "بەڕۆژ",
+    "verb": "بەڕۆژی بکەن"
+  },
+  "updated": {
+    "verb": "بەڕۆژ بوو"
+  },
+  "updates": {
+    "noun": "بەڕۆژکردنەکان"
+  },
+  "upload": {
+    "verb": "باری بکە",
+    "noun": "بارکردن"
+  },
+  "uploaded": {
+    "verb": "بارکراوە،بارکرا"
+  },
+  "url": {
+    "noun": "ناونیشانی ئینتەرنێت، url"
+  },
+  "use": {
+    "verb": "سوودی لێبگرە،بەکاری ببە"
+  },
+  "used": {
+    "verb": "بەکارهات،"
+  },
+  "user": {
+    "noun": "بەکارهێنەر"
+  },
+  "username": {
+    "noun": "ناوی بەکارهێنەر"
+  },
+  "users": {
+    "noun": "بەکارهێنەران"
+  },
+  "using": {
+    "verb": "لەکاتی سوود گرتن"
+  },
+  "valid": {
+    "adjective": "دروست"
+  },
+  "value": {
+    "noun": "نرخ،بەها،بایی"
+  },
+  "variation": {
+    "noun": "گۆڕانکاری"
+  },
+  "variations": {
+    "noun": "گۆڕانکارییەکان"
+  },
+  "version": {
+    "noun": "وشان"
+  },
+  "video": {
+    "noun": "ڤیدیۆ"
+  },
+  "view": {
+    "verb": "نیشاندان،بینین"
+  },
+  "visit": {
+    "verb": "سەردانی بکەن،سەردەان"
+  },
+  "want": {
+    "verb": "گەرەکتە،ویستن،دەیەوێت"
+  },
+  "welcome": {
+    "noun": "بەخێر بێن"
+  },
+  "whether": {
+    "conjunction": "ئایا، ئاخۆ،ئەگەر"
+  },
+  "widget": {
+    "noun": "ئامراز،ویجێت"
+  },
+  "widgets": {
+    "noun": "ئامرازەکان،ویجێتەکان"
+  },
+  "width": {
+    "noun": "پانی،پانایی،پانتایی،بەرینایی،بەرین،فراوانی"
+  },
+  "WordCamp": {
+    "noun": "وۆردکامپ"
+  },
+  "wordpress": {
+    "noun": "وۆردپرێس"
+  },
+  "WordPress Foundation": {
+    "noun": "ڕێکخراوی وۆردپرێس"
+  },
+  "work": {
+    "verb": "ئیشکردن،کارکردن،چالاکبوون"
+  }
+}

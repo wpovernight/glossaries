@@ -1,0 +1,554 @@
+{
+  "about": {
+    "adjective": "maak kennis"
+  },
+  "accessibility": {
+    "noun": "toeganklikheid"
+  },
+  "add": {
+    "verb": "skep"
+  },
+  "added": {
+    "verb": "is bygevoeg"
+  },
+  "applications": {
+    "noun": "toepassings"
+  },
+  "approve": {
+    "verb": "keur goed"
+  },
+  "array": {
+    "noun": "reeks"
+  },
+  "attachment": {
+    "noun": "aanhegsel"
+  },
+  "attribute": {
+    "noun": "eienskap"
+  },
+  "back": {
+    "verb": "gaan terug"
+  },
+  "backup": {
+    "noun": "rugsteunkopie"
+  },
+  "banner": {
+    "noun": "vaandel"
+  },
+  "blog": {
+    "noun": "webjoernaal"
+  },
+  "branch": {
+    "noun": "vertakking"
+  },
+  "Bulk Select button": {
+    "noun": "\"Kies alles\"-knoppie"
+  },
+  "by": {
+    "preposition": "per"
+  },
+  "cache": {
+    "noun": "tussengeheue"
+  },
+  "callback": {
+    "noun": "terugvoering"
+  },
+  "Cancel Selection button": {
+    "noun": "\"Kanselleer keuse\"-knoppie"
+  },
+  "cart": {
+    "noun": "mandjie"
+  },
+  "categories": {
+    "noun": "kategorieë"
+  },
+  "category": {
+    "noun": "kategorie"
+  },
+  "changelog": {
+    "noun": "veranderingslys"
+  },
+  "changes": {
+    "noun": "veranderinge"
+  },
+  "changeset": {
+    "noun": "veranderingsstel"
+  },
+  "child theme": {
+    "noun": "sub-tema"
+  },
+  "close": {
+    "verb": "sluit"
+  },
+  "comment": {
+    "noun": "opmerking"
+  },
+  "comments": {
+    "noun": "opmerkings"
+  },
+  "compact": {
+    "verb": "pers saam"
+  },
+  "complete": {
+    "verb": "voltooi"
+  },
+  "conflicts": {
+    "noun": "botsings"
+  },
+  "connection": {
+    "noun": "verbinding"
+  },
+  "continue": {
+    "verb": "hervat",
+    "noun": "gaan voort"
+  },
+  "continue reading": {
+    "expression": "lees voort"
+  },
+  "converter": {
+    "noun": "omskakelaar"
+  },
+  "core": {
+    "noun": "kern"
+  },
+  "crop": {
+    "verb": "knip"
+  },
+  "custom": {
+    "adjective": "nie-standaard"
+  },
+  "customize": {
+    "verb": "verstel"
+  },
+  "Customizer": {
+    "noun": "Pasmaker"
+  },
+  "dashboard": {
+    "noun": "beheerpaneel"
+  },
+  "default": {
+    "noun": "standaard",
+    "adjective": "voorafopgestelde"
+  },
+  "delete": {
+    "verb": "wis uit"
+  },
+  "Delete Selected button": {
+    "noun": "\"Wis gekose items uit\"-knoppie"
+  },
+  "description": {
+    "noun": "beskrywing"
+  },
+  "design": {
+    "noun": "ontwerp"
+  },
+  "Design Preview Links": {
+    "noun": "Ontwerpvertoningskakels"
+  },
+  "directive": {
+    "noun": "bevel"
+  },
+  "distraction-free writing": {
+    "noun": "volskerm-skryfwerk"
+  },
+  "draft": {
+    "adjective": "konsep"
+  },
+  "edit": {
+    "verb": "wysig"
+  },
+  "editor": {
+    "noun": "skryfpaneel"
+  },
+  "email": {
+    "noun": "e-pos"
+  },
+  "email address": {
+    "expression": "e-posadres"
+  },
+  "embed": {
+    "noun": "invoegsel"
+  },
+  "engage": {
+    "verb": "neem deel"
+  },
+  "engagements": {
+    "noun": "interaksies"
+  },
+  "Error: Please fill in all the fields": {
+    "expression": "Fout: Vul asseblief al die velde in"
+  },
+  "excerpt": {
+    "noun": "uittreksel"
+  },
+  "execute": {
+    "verb": "voer uit"
+  },
+  "exit": {
+    "verb": "verlaat"
+  },
+  "export": {
+    "verb": "voer uit"
+  },
+  "extension": {
+    "noun": "agtervoegsel"
+  },
+  "featured": {
+    "adjective": "voorgestelde"
+  },
+  "featured image": {
+    "noun": "fokus-illustrasie"
+  },
+  "features": {
+    "noun": "kenmerke"
+  },
+  "feedback": {
+    "noun": "terugvoer"
+  },
+  "Fluid": {
+    "noun": "Vry-vloeiende"
+  },
+  "font": {
+    "noun": "skrif"
+  },
+  "footer": {
+    "noun": "voetstrook"
+  },
+  "forbidden": {
+    "adverb": "verbode"
+  },
+  "front page": {
+    "noun": "voorblad"
+  },
+  "guide": {
+    "noun": "gids"
+  },
+  "handbook": {
+    "noun": "handleiding"
+  },
+  "handler": {
+    "noun": "hanteerder"
+  },
+  "header": {
+    "noun": "kopstrook"
+  },
+  "homepage": {
+    "noun": "tuisblad"
+  },
+  "host": {
+    "noun": "gasheer"
+  },
+  "hover": {
+    "verb": "sweef"
+  },
+  "image": {
+    "noun": "illustrasie"
+  },
+  "imbed": {
+    "noun": "invoegsel"
+  },
+  "import": {
+    "noun": "inkomende-oordrag",
+    "verb": "trek in"
+  },
+  "index": {
+    "noun": "inhoudsopgawe"
+  },
+  "information": {
+    "noun": "inligting"
+  },
+  "inner block": {
+    "noun": "binne-blok"
+  },
+  "inserted": {
+    "verb": "is ingevoeg"
+  },
+  "keyboard shortcuts": {
+    "noun": "kortpadsleutels"
+  },
+  "label": {
+    "noun": "plakker"
+  },
+  "Leave a comment": {
+    "noun": "Maak 'n opmerking"
+  },
+  "limit": {
+    "verb": "beperk",
+    "noun": "beperking"
+  },
+  "Live Preview": {
+    "noun": "Regstreekse voorskou"
+  },
+  "locale": {
+    "noun": "ligging"
+  },
+  "log in": {
+    "verb": "teken in"
+  },
+  "log out": {
+    "verb": "teken uit"
+  },
+  "menu": {
+    "noun": "kieslys"
+  },
+  "moderate": {
+    "verb": "oorweeg"
+  },
+  "modify": {
+    "verb": "pas aan"
+  },
+  "Multisite": {
+    "noun": "webwerf-netwerk"
+  },
+  "navigation": {
+    "noun": "navigasie"
+  },
+  "nested": {
+    "verb": "groepeerde"
+  },
+  "new": {
+    "adjective": "skep"
+  },
+  "next": {
+    "adjective": "volgende"
+  },
+  "none": {
+    "expression": "geen"
+  },
+  "notifications": {
+    "noun": "kennisgewings"
+  },
+  "order": {
+    "noun": "volgorde"
+  },
+  "outline": {
+    "verb": "omlyn"
+  },
+  "padding": {
+    "noun": "stopsel"
+  },
+  "parameters": {
+    "noun": "grense"
+  },
+  "parent theme": {
+    "noun": "hoof-tema"
+  },
+  "password": {
+    "noun": "wagwoord"
+  },
+  "pending": {
+    "verb": "hangende"
+  },
+  "permalink": {
+    "noun": "skakelstruktuur"
+  },
+  "PHP": {
+    "noun": "PHP"
+  },
+  "pingbacks": {
+    "noun": "terugklingels"
+  },
+  "plugin": {
+    "noun": "uitbreiding"
+  },
+  "podcast": {
+    "noun": "podsend"
+  },
+  "post": {
+    "verb": "plaas",
+    "noun": "bydrae"
+  },
+  "previous": {
+    "adjective": "vorige"
+  },
+  "process": {
+    "verb": "verwerk"
+  },
+  "property": {
+    "noun": "eienskap"
+  },
+  "publish": {
+    "verb": "publiseer"
+  },
+  "raw": {
+    "adjective": "ru"
+  },
+  "read more": {
+    "expression": "lees voort"
+  },
+  "ready": {
+    "adjective": "gereed"
+  },
+  "redo": {
+    "verb": "herhaal"
+  },
+  "release": {
+    "noun": "vrystelling"
+  },
+  "remove": {
+    "verb": "verwyder"
+  },
+  "reply": {
+    "noun": "opvolg-bydrae"
+  },
+  "reset": {
+    "noun": "vervang"
+  },
+  "resources": {
+    "noun": "hulpbronne"
+  },
+  "responsive": {
+    "noun": "aanpasbaar"
+  },
+  "result": {
+    "noun": "uitslag"
+  },
+  "retrieve": {
+    "verb": "onttrek"
+  },
+  "review": {
+    "noun": "aanbeveling"
+  },
+  "route": {
+    "noun": "roete"
+  },
+  "run": {
+    "verb": "voer uit"
+  },
+  "save": {
+    "verb": "stoor"
+  },
+  "screenshot": {
+    "noun": "skerm-gryp"
+  },
+  "search": {
+    "noun": "soektog",
+    "verb": "soek"
+  },
+  "section": {
+    "noun": "afdeling"
+  },
+  "Security Release": {
+    "noun": "Sekuriteit uitgawe"
+  },
+  "see": {
+    "verb": "wys"
+  },
+  "See All Comments": {
+    "expression": "Wys alle opmerkings"
+  },
+  "see more": {
+    "expression": "wys nog"
+  },
+  "selected": {
+    "adverb": "gemerk"
+  },
+  "server": {
+    "noun": "bediener"
+  },
+  "settings": {
+    "noun": "verstellings"
+  },
+  "showcase": {
+    "noun": "vertoonkas"
+  },
+  "sidebar": {
+    "noun": "kantbalk"
+  },
+  "sign in": {
+    "verb": "meld aan"
+  },
+  "sitemap": {
+    "noun": "webwerf-kaart"
+  },
+  "slider": {
+    "noun": "skuiwer"
+  },
+  "slug": {
+    "noun": "kortskakel"
+  },
+  "spam": {
+    "noun": "snert"
+  },
+  "state": {
+    "noun": "toestand"
+  },
+  "sticky": {
+    "noun": "geplakte bydrae"
+  },
+  "subscribe": {
+    "verb": "sluit aan"
+  },
+  "support": {
+    "noun": "hulp",
+    "verb": "ondersteun"
+  },
+  "survey": {
+    "noun": "meningspeiling"
+  },
+  "Syntax Highlighting": {
+    "noun": "Sintaksisverlig"
+  },
+  "tag": {
+    "noun": "etiket"
+  },
+  "taxonomy": {
+    "noun": "klassifikasie"
+  },
+  "template": {
+    "noun": "sjabloon"
+  },
+  "theme": {
+    "noun": "tema"
+  },
+  "thumbnail": {
+    "noun": "piekieprentjie"
+  },
+  "toggle": {
+    "verb": "wissel"
+  },
+  "toolbar": {
+    "noun": "nutsbalk"
+  },
+  "tooltip": {
+    "noun": "nutswenk"
+  },
+  "trackback": {
+    "noun": "terugskakeling"
+  },
+  "tracks": {
+    "noun": "spore"
+  },
+  "type": {
+    "noun": "soort"
+  },
+  "unapprove": {
+    "verb": "keur af"
+  },
+  "undo": {
+    "verb": "maak ongedaan"
+  },
+  "update": {
+    "noun": "bywerking",
+    "verb": "opgradeer"
+  },
+  "username": {
+    "noun": "gebruikernaam"
+  },
+  "view": {
+    "noun": "aansig",
+    "verb": "lees"
+  },
+  "Visual mode": {
+    "noun": "sigbaarheid-funksie"
+  },
+  "widget": {
+    "noun": "wiggie"
+  },
+  "Workflow Customizer": {
+    "noun": "Werkvloei Pasmaker"
+  },
+  "your": {
+    "pronoun": "hierdie"
+  }
+}

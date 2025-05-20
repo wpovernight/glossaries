@@ -1,0 +1,33 @@
+{
+  "arrow": {
+    "noun": "flizza"
+  },
+  "header": {
+    "noun": "testada"
+  },
+  "Home": {
+    "noun": "Entrada"
+  },
+  "link": {
+    "noun": "ligam"
+  },
+  "Navigation Menus": {
+    "noun": "menù de navigazzion"
+  },
+  "override": {
+    "noun": "sostituzzion"
+  },
+  "Please": {
+    "noun": "Per piesé"
+  },
+  "tag": {
+    "noun": "ticheta"
+  },
+  "update": {
+    "noun": "atualizazzion",
+    "verb": "atualiza"
+  },
+  "updated": {
+    "adjective": "atualizad"
+  }
+}

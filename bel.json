@@ -1,0 +1,1212 @@
+{
+  "accessibility mode": {
+    "expression": "рэжым спецыяльных магчымасцяў"
+  },
+  "account": {
+    "noun": "уліковы запіс, акаўнт"
+  },
+  "activate": {
+    "verb": "актываваць"
+  },
+  "activation": {
+    "noun": "актывацыя"
+  },
+  "add": {
+    "verb": "дадаць"
+  },
+  "additional": {
+    "adjective": "дадатковы"
+  },
+  "addon": {
+    "noun": "надбудова, адон"
+  },
+  "adjust": {
+    "verb": "наладзіць, адрэгуляваць, скарэктаваць"
+  },
+  "admin": {
+    "noun": "адміністратар"
+  },
+  "align": {
+    "verb": "выраўнаваць"
+  },
+  "align left": {
+    "expression": "выраўнаваць па левым краі"
+  },
+  "align right": {
+    "expression": "выраўнаваць па правым краі"
+  },
+  "allowed": {
+    "adverb": "дазволена"
+  },
+  "alphanumeric": {
+    "adjective": "літарна-лічбавы, алфавітна-лічбавы"
+  },
+  "Apache": {
+    "noun": "Apache"
+  },
+  "app": {
+    "noun": "прылада, дадатак"
+  },
+  "appearance": {
+    "noun": "вонкавы выгляд"
+  },
+  "apply": {
+    "verb": "прымяніць, ужыць"
+  },
+  "approval": {
+    "noun": "адабрэнне, ухваленне"
+  },
+  "archive": {
+    "noun": "архіў"
+  },
+  "article": {
+    "noun": "артыкул"
+  },
+  "ascending": {
+    "adverb": "па ўзрастанні"
+  },
+  "aspect ratio": {
+    "expression": "суадносіны бакоў"
+  },
+  "assign": {
+    "verb": "прызначыць, прысвоіць"
+  },
+  "associated": {
+    "adjective": "звязаны, адпаведны"
+  },
+  "at a glance": {
+    "expression": "на ўвазе, хуткі агляд"
+  },
+  "at least": {
+    "adverb": "прынамсі"
+  },
+  "attach": {
+    "verb": "далучыць"
+  },
+  "attachment": {
+    "noun": "далучэнне"
+  },
+  "attribute": {
+    "noun": "атрыбут"
+  },
+  "audio": {
+    "noun": "аўдыё"
+  },
+  "authorization": {
+    "noun": "аўтарызацыя"
+  },
+  "available": {
+    "adjective": "даступны"
+  },
+  "avatar": {
+    "noun": "аватар"
+  },
+  "backup": {
+    "noun": "рэзервовае капіяванне, бекап"
+  },
+  "bar": {
+    "noun": "панэль"
+  },
+  "bbPress": {
+    "noun": "bbPress"
+  },
+  "beta": {
+    "adjective": "бэта"
+  },
+  "block": {
+    "noun": "блок"
+  },
+  "blog": {
+    "noun": "блог"
+  },
+  "bookmarklet": {
+    "noun": "букмарклет"
+  },
+  "branch": {
+    "noun": "галіна"
+  },
+  "breadcrumbs": {
+    "noun": "хлебныя крошкі, ланцужок навігацыі"
+  },
+  "browse": {
+    "noun": "прагляд",
+    "verb": "прагледзець"
+  },
+  "browser": {
+    "noun": "браўзэр"
+  },
+  "brush": {
+    "noun": "пэндзаль"
+  },
+  "BuddyPress": {
+    "noun": "BuddyPress"
+  },
+  "build": {
+    "noun": "зборка"
+  },
+  "button": {
+    "noun": "кнопка"
+  },
+  "callback": {
+    "noun": "зваротны выклік"
+  },
+  "cancel": {
+    "verb": "адмяніць, скасаваць",
+    "noun": "адмена"
+  },
+  "capability": {
+    "noun": "здольнасць, магчымасць, права"
+  },
+  "caption": {
+    "noun": "подпіс, надпіс"
+  },
+  "category": {
+    "noun": "катэгорыя"
+  },
+  "chapter": {
+    "noun": "глава, раздзел"
+  },
+  "character": {
+    "noun": "сімвал"
+  },
+  "click": {
+    "verb": "націснуць, клікнуць"
+  },
+  "close": {
+    "verb": "зачыніць, закрыць"
+  },
+  "CMS": {
+    "abbreviation": "CMS"
+  },
+  "collapse": {
+    "verb": "згарнуць"
+  },
+  "color picker": {
+    "noun": "падборшчык колеру, палітра"
+  },
+  "column": {
+    "noun": "слупок, калонка"
+  },
+  "comment": {
+    "verb": "каментаваць",
+    "noun": "каментар"
+  },
+  "comments": {
+    "noun": "каментары"
+  },
+  "community": {
+    "noun": "супольнасць, суполка"
+  },
+  "compatibility": {
+    "noun": "сумяшчальнасць"
+  },
+  "compliance": {
+    "noun": "адпаведнасць"
+  },
+  "compliant date": {
+    "expression": "адпаведная дата"
+  },
+  "connect": {
+    "verb": "злучаць, падключаць"
+  },
+  "connection": {
+    "noun": "злучэнне, падключэнне"
+  },
+  "connects": {
+    "verb": "злучае, падключае"
+  },
+  "contact form": {
+    "expression": "кантактная форма, форма сувязі"
+  },
+  "contact information": {
+    "expression": "кантактная інфармацыя"
+  },
+  "content": {
+    "noun": "змест, змесціва, кантэнт"
+  },
+  "contributor": {
+    "noun": "удзельнік, укладчык"
+  },
+  "control": {
+    "verb": "рэгуляваць, кіраваць",
+    "noun": "элемент кіравання"
+  },
+  "cookie": {
+    "noun": "файл кукі"
+  },
+  "copy": {
+    "verb": "капіяваць, скапіяваць"
+  },
+  "counter": {
+    "noun": "лічыльнік"
+  },
+  "create": {
+    "verb": "стварыць"
+  },
+  "current": {
+    "adjective": "бягучы"
+  },
+  "custom": {
+    "adjective": "адвольны, карыстацкі, уласны"
+  },
+  "dashboard": {
+    "noun": "панэль кіравання"
+  },
+  "data": {
+    "noun": "дадзеныя"
+  },
+  "database": {
+    "noun": "база дадзеных"
+  },
+  "deactivate": {
+    "verb": "дэактываваць"
+  },
+  "default": {
+    "adverb": "па змаўчанні"
+  },
+  "delete": {
+    "verb": "выдаліць"
+  },
+  "denied": {
+    "adjective": "адмоўлена, адхілена"
+  },
+  "deny": {
+    "verb": "адмовіць, адхіліць"
+  },
+  "deprecated": {
+    "adjective": "састарэлы"
+  },
+  "descending": {
+    "adverb": "па змяншэнні"
+  },
+  "description": {
+    "noun": "апісанне"
+  },
+  "deselect": {
+    "verb": "зняць вылучэнне, адмяніць выбар"
+  },
+  "design": {
+    "noun": "дызайн, афармленне"
+  },
+  "developer": {
+    "noun": "распрацоўшчык"
+  },
+  "device": {
+    "noun": "прылада"
+  },
+  "directory": {
+    "noun": "дырэкторыя, каталог"
+  },
+  "disable": {
+    "verb": "выключыць, адключыць"
+  },
+  "discouraged": {
+    "adjective": "непажаданы"
+  },
+  "discuss": {
+    "verb": "абмяркоўваць"
+  },
+  "discussion": {
+    "noun": "абмеркаванне"
+  },
+  "dismiss": {
+    "verb": "адхіліць, закрыць, зачыніць"
+  },
+  "display": {
+    "noun": "адлюстроўванне, дысплэй",
+    "verb": "адлюстраваць"
+  },
+  "display name": {
+    "noun": "бачнае імя"
+  },
+  "distraction-free mode": {
+    "expression": "неадцягвальны рэжым"
+  },
+  "domain": {
+    "noun": "дамен, даменнае імя"
+  },
+  "download": {
+    "verb": "спампаваць",
+    "noun": "спампоўка"
+  },
+  "downloader": {
+    "noun": "спампоўшчык"
+  },
+  "draft": {
+    "noun": "чарнавік"
+  },
+  "drag-and-drop": {
+    "noun": "перацягванне"
+  },
+  "edit": {
+    "noun": "рэдагаванне",
+    "verb": "рэдагаваць"
+  },
+  "edit listing": {
+    "expression": "спіс правак"
+  },
+  "editor": {
+    "noun": "рэдактар"
+  },
+  "embed": {
+    "noun": "убудаванне",
+    "verb": "убудаваць",
+    "adjective": "убудаваны"
+  },
+  "embed code": {
+    "expression": "убудаваць код, убудаваны код"
+  },
+  "emoji": {
+    "noun": "эмадзі"
+  },
+  "emoticon": {
+    "noun": "эмадзі"
+  },
+  "empty": {
+    "adjective": "пусты"
+  },
+  "enable": {
+    "verb": "уключыць"
+  },
+  "endpoint": {
+    "noun": "канчатковая кропка"
+  },
+  "erase": {
+    "verb": "ачысціць, выдаліць, сцерці"
+  },
+  "error": {
+    "noun": "памылка"
+  },
+  "escape": {
+    "verb": "экранаваць"
+  },
+  "event": {
+    "noun": "падзея, мерапрыемства"
+  },
+  "exceed": {
+    "verb": "перавышаць"
+  },
+  "excerpt": {
+    "noun": "урывак"
+  },
+  "exclude": {
+    "verb": "выключыць"
+  },
+  "expand": {
+    "verb": "разгарнуць"
+  },
+  "experience": {
+    "noun": "вопыт"
+  },
+  "expired": {
+    "adjective": "пратэрмінаваны"
+  },
+  "export": {
+    "noun": "экспарт"
+  },
+  "false": {
+    "noun": "false"
+  },
+  "FAQ": {
+    "abbreviation": "частыя пытанні і адказы"
+  },
+  "favorite": {
+    "adjective": "выбраны, любімы"
+  },
+  "favorites": {
+    "adjective": "абранае"
+  },
+  "feature": {
+    "noun": "функцыя, асаблівасць, магчымасці"
+  },
+  "featured": {
+    "adjective": "асноўны, абраны, выбранае"
+  },
+  "feed": {
+    "noun": "стужка, канал"
+  },
+  "field": {
+    "noun": "поле"
+  },
+  "fields": {
+    "noun": "палі"
+  },
+  "file": {
+    "noun": "файл"
+  },
+  "filter": {
+    "noun": "фільтр",
+    "verb": "фільтраваць"
+  },
+  "first name": {
+    "expression": "імя"
+  },
+  "flexibility": {
+    "noun": "гнуткасць"
+  },
+  "flexible": {
+    "adjective": "гнуткі"
+  },
+  "folder": {
+    "noun": "папка, дырэкторыя"
+  },
+  "footer": {
+    "noun": "падвал, ніжні калантытул"
+  },
+  "forbidden": {
+    "adjective": "забаронены"
+  },
+  "form": {
+    "noun": "форма"
+  },
+  "function": {
+    "noun": "функцыя"
+  },
+  "gallery": {
+    "noun": "галерэя"
+  },
+  "generic": {
+    "adjective": "агульны, універсальны"
+  },
+  "given": {
+    "adjective": "дадзены"
+  },
+  "global": {
+    "adjective": "агульны, глабальны"
+  },
+  "greater than": {
+    "expression": "больш за"
+  },
+  "guide": {
+    "noun": "кіраўніцтва, дапаможнік, гайд"
+  },
+  "Gutenberg": {
+    "noun": "Gutenberg"
+  },
+  "handbook": {
+    "noun": "даведнік, дапаможнік, інструкцыя"
+  },
+  "handler": {
+    "noun": "апрацоўшчык"
+  },
+  "header": {
+    "noun": "загаловак, шапка, верхні калантытул"
+  },
+  "heading": {
+    "noun": "загаловак"
+  },
+  "hide": {
+    "verb": "схаваць"
+  },
+  "homepage": {
+    "noun": "хатняя старонка"
+  },
+  "hook": {
+    "noun": "хук, перасмык"
+  },
+  "host": {
+    "noun": "хост, вузел"
+  },
+  "hosting": {
+    "noun": "хостынг"
+  },
+  "hostname": {
+    "noun": "імя вузла"
+  },
+  "human-readable": {
+    "expression": "чалавекачытаемы"
+  },
+  "icon": {
+    "noun": "іконка, значок"
+  },
+  "ID": {
+    "abbreviation": "ID"
+  },
+  "identifier": {
+    "noun": "ідэнтыфікатар"
+  },
+  "image": {
+    "noun": "ваява"
+  },
+  "immediately": {
+    "adverb": "адразу ж, імгненна"
+  },
+  "import": {
+    "noun": "імпарт"
+  },
+  "include": {
+    "verb": "уключыць"
+  },
+  "inclusive": {
+    "adjective": "уключна, інклюзіўны"
+  },
+  "inconsistent": {
+    "adjective": "несумяшчальны, няўзгоднены"
+  },
+  "incorrect": {
+    "adjective": "няправільны, няверны"
+  },
+  "indicator": {
+    "noun": "індыкатар, паказчык"
+  },
+  "install": {
+    "verb": "ўсталяваць"
+  },
+  "installation": {
+    "noun": "усталёўка"
+  },
+  "interface": {
+    "noun": "інтэрфейс"
+  },
+  "invalid": {
+    "adjective": "няверны, памылковы"
+  },
+  "item": {
+    "noun": "элемент"
+  },
+  "key": {
+    "noun": "ключ"
+  },
+  "keyboard": {
+    "noun": "клавіятура"
+  },
+  "keyboard shortcut": {
+    "expression": "спалучэнне клавіш"
+  },
+  "language": {
+    "noun": "мова"
+  },
+  "last name": {
+    "expression": "прозвішча"
+  },
+  "latest": {
+    "adjective": "апошні"
+  },
+  "layout": {
+    "noun": "макет"
+  },
+  "less than": {
+    "expression": "менш за"
+  },
+  "limit": {
+    "noun": "ліміт",
+    "verb": "абмяжоўваць"
+  },
+  "link": {
+    "noun": "спасылка",
+    "verb": "звязваць"
+  },
+  "Live Preview": {
+    "expression": "дынамічны прагляд, прадпрагляд"
+  },
+  "load": {
+    "verb": "загрузіць"
+  },
+  "loading": {
+    "noun": "загрузка"
+  },
+  "locale": {
+    "noun": "лакаль"
+  },
+  "location": {
+    "noun": "размяшчэнне, месцазнаходжанне"
+  },
+  "log in": {
+    "verb": "увайсці"
+  },
+  "login": {
+    "noun": "уваход, логін"
+  },
+  "logo": {
+    "noun": "лагатып"
+  },
+  "maintenance": {
+    "noun": "тэхнічнае абслугоўванне, падтрымка"
+  },
+  "manage": {
+    "verb": "кіраваць"
+  },
+  "management": {
+    "noun": "кіраванне"
+  },
+  "media": {
+    "noun": "медыя"
+  },
+  "menu": {
+    "noun": "меню"
+  },
+  "message": {
+    "noun": "паведамленне"
+  },
+  "meta": {
+    "noun": "мета"
+  },
+  "metadata": {
+    "noun": "метададзеныя"
+  },
+  "MIME type": {
+    "expression": "MIME-тып"
+  },
+  "moderate": {
+    "verb": "мадэраваць, рэгуляваць"
+  },
+  "moderation": {
+    "noun": "мадэрацыя, рэгуляванне"
+  },
+  "mute": {
+    "verb": "выключыць/адключыць гук"
+  },
+  "namespace": {
+    "noun": "прастора імён"
+  },
+  "navigation": {
+    "noun": "навігацыя"
+  },
+  "nested": {
+    "adjective": "укладзены"
+  },
+  "news": {
+    "noun": "навіны"
+  },
+  "next": {
+    "adjective": "наступны"
+  },
+  "Nginx": {
+    "noun": "Nginx"
+  },
+  "nickname": {
+    "noun": "псеўданім"
+  },
+  "nightly": {
+    "adjective": "начны"
+  },
+  "nonce": {
+    "noun": "аднаразовы ключ (nonce)"
+  },
+  "normal": {
+    "adjective": "звычайны, нармальны"
+  },
+  "notice": {
+    "noun": "нататка, заўвага, апавяшчэнне, паведамленне"
+  },
+  "notification": {
+    "noun": "апавяшчэнне, паведамленне"
+  },
+  "null": {
+    "noun": "null"
+  },
+  "offset": {
+    "noun": "зрушэнне, зрух",
+    "verb": "зрушыць"
+  },
+  "open": {
+    "verb": "адчыніць, адкрыць"
+  },
+  "option": {
+    "noun": "параметр, опцыя, налада"
+  },
+  "order": {
+    "noun": "парадак"
+  },
+  "page": {
+    "noun": "старонка"
+  },
+  "parameter": {
+    "noun": "параметр"
+  },
+  "parent": {
+    "adjective": "бацькоўскі",
+    "noun": "бацька"
+  },
+  "password": {
+    "noun": "пароль"
+  },
+  "pattern": {
+    "noun": "патэрн"
+  },
+  "pause": {
+    "verb": "прыпыніць",
+    "noun": "паўза"
+  },
+  "pending review": {
+    "expression": "чакае адабрэння"
+  },
+  "performance": {
+    "noun": "прадукцыйнасць"
+  },
+  "permalink": {
+    "noun": "сталая спасылка"
+  },
+  "persist": {
+    "verb": "захаваць"
+  },
+  "persistent": {
+    "adjective": "сталы, даўгачасны, пастаянны"
+  },
+  "personal": {
+    "adjective": "персанальны, асабісты"
+  },
+  "photo": {
+    "noun": "фота"
+  },
+  "picker": {
+    "noun": "падборшчык"
+  },
+  "ping": {
+    "noun": "пінг"
+  },
+  "pingback": {
+    "noun": "пінгбэк"
+  },
+  "placeholder": {
+    "noun": "запаўняльнік"
+  },
+  "plain text": {
+    "expression": "звычайны тэкст"
+  },
+  "play": {
+    "verb": "прайграць"
+  },
+  "plugin": {
+    "noun": "плагін"
+  },
+  "popup": {
+    "adjective": "усплывальны"
+  },
+  "popup window": {
+    "expression": "усплываючае акно"
+  },
+  "post": {
+    "noun": "запіс",
+    "verb": "апублікаваць"
+  },
+  "post type": {
+    "expression": "тып запісу"
+  },
+  "preset": {
+    "noun": "прасэт, папярэднія наладкі"
+  },
+  "preview": {
+    "verb": "праглядзець",
+    "noun": "папярэдні прагляд, прадпрагляд, прэўю"
+  },
+  "previous": {
+    "adjective": "папярэдні"
+  },
+  "primary": {
+    "adjective": "асноўны, першасны"
+  },
+  "privacy": {
+    "noun": "прыватнасць, канфідэнцыяльнасць"
+  },
+  "privacy policy": {
+    "expression": "палітыка канфідэнцыяльнасці/прыватнасці"
+  },
+  "private": {
+    "adjective": "утоены, асабісты, прыватны"
+  },
+  "profile": {
+    "noun": "профіль"
+  },
+  "program": {
+    "noun": "праграма"
+  },
+  "progress bar": {
+    "noun": "шкала прагрэсу, паласа загрузкі, індыкатар выканання"
+  },
+  "provide": {
+    "verb": "прадастаўляць"
+  },
+  "provided": {
+    "adjective": "прадастаўлены"
+  },
+  "public": {
+    "adjective": "адкрыты, агульнадаступны, публічны"
+  },
+  "purpose": {
+    "noun": "мэта"
+  },
+  "purposes": {
+    "noun": "мэты"
+  },
+  "query": {
+    "noun": "запыт"
+  },
+  "radio button": {
+    "noun": "кнопка-пераключальнік, радыё кнопка"
+  },
+  "random": {
+    "adjective": "выпадковы"
+  },
+  "reassign": {
+    "verb": "перапрызначаць"
+  },
+  "recent": {
+    "adjective": "апошні, нядаўні"
+  },
+  "redirect": {
+    "verb": "перанакіраваць",
+    "noun": "перанакіраванне"
+  },
+  "redirected": {
+    "adjective": "перанакіраваны"
+  },
+  "related": {
+    "adjective": "звязаны"
+  },
+  "release": {
+    "noun": "выпуск"
+  },
+  "remove": {
+    "verb": "выдаліць"
+  },
+  "reorder": {
+    "verb": "пераўпарадкаваць"
+  },
+  "repository": {
+    "noun": "рэпазітар, рэпазітарый"
+  },
+  "request": {
+    "noun": "запыт"
+  },
+  "required": {
+    "adjective": "патрабаваны, абавязковы"
+  },
+  "reset": {
+    "noun": "скід",
+    "verb": "скінуць"
+  },
+  "resource": {
+    "noun": "рэсурс"
+  },
+  "response": {
+    "noun": "адказ"
+  },
+  "responsive": {
+    "adjective": "адаптыўны, спагадлівы, чулы"
+  },
+  "restore": {
+    "verb": "аднавіць"
+  },
+  "result": {
+    "noun": "вынік"
+  },
+  "review": {
+    "noun": "агляд, водгук"
+  },
+  "revision": {
+    "noun": "рэдакцыя"
+  },
+  "roadmap": {
+    "noun": "дарожная мапа"
+  },
+  "role": {
+    "noun": "роля"
+  },
+  "rollback": {
+    "noun": "адкат",
+    "verb": "адкаціць"
+  },
+  "Rosetta": {
+    "noun": "Rosetta"
+  },
+  "route": {
+    "noun": "маршрут"
+  },
+  "row": {
+    "noun": "радок"
+  },
+  "sanitize": {
+    "verb": "ачысціць"
+  },
+  "save": {
+    "verb": "захаваць"
+  },
+  "scope": {
+    "noun": "абсяг, галіна"
+  },
+  "screen": {
+    "noun": "экран, старонка"
+  },
+  "seamlessly": {
+    "adverb": "плаўна, бясшвоўна"
+  },
+  "search": {
+    "noun": "пошук"
+  },
+  "secondary": {
+    "adjective": "дадатковы, другасны"
+  },
+  "section": {
+    "noun": "раздзел, секцыя"
+  },
+  "security": {
+    "noun": "бяспека"
+  },
+  "select": {
+    "verb": "абраць"
+  },
+  "selected": {
+    "adjective": "абраны"
+  },
+  "separate": {
+    "verb": "раздзяляць"
+  },
+  "separated": {
+    "adjective": "раздзелены"
+  },
+  "session": {
+    "noun": "сеанс, сесія"
+  },
+  "setting": {
+    "noun": "налада"
+  },
+  "settings": {
+    "noun": "налады"
+  },
+  "shortcode": {
+    "noun": "шарткод"
+  },
+  "shortcut": {
+    "noun": "ярлык"
+  },
+  "show": {
+    "verb": "паказаць"
+  },
+  "sidebar": {
+    "noun": "бакавая панэль, сайдбар"
+  },
+  "site": {
+    "noun": "сайт"
+  },
+  "slider": {
+    "noun": "слайдэр, паўзунок"
+  },
+  "slug": {
+    "noun": "ярлык, слэг"
+  },
+  "sorry": {
+    "verb": "прабачце, выбачайце"
+  },
+  "sort": {
+    "verb": "сартаваць"
+  },
+  "source": {
+    "noun": "зыходны код"
+  },
+  "source code": {
+    "expression": "зыходны код"
+  },
+  "spam": {
+    "noun": "спам",
+    "verb": "адправіць у спам"
+  },
+  "specific": {
+    "adjective": "пэўны"
+  },
+  "specified": {
+    "adjective": "пазначаны"
+  },
+  "stale": {
+    "adjective": "застарэлы"
+  },
+  "state": {
+    "noun": "стан, вобласць"
+  },
+  "status": {
+    "noun": "статус"
+  },
+  "sticky": {
+    "adjective": "прылеплены, ліпкі"
+  },
+  "string": {
+    "noun": "радок"
+  },
+  "submenu": {
+    "noun": "падменю, укладзенае меню"
+  },
+  "submit": {
+    "verb": "адправіць"
+  },
+  "subtitles": {
+    "noun": "субтытры"
+  },
+  "subversion": {
+    "noun": "падверсія"
+  },
+  "summary": {
+    "noun": "агульныя звесткі, рэзюмэ"
+  },
+  "support": {
+    "noun": "падтрымка"
+  },
+  "table": {
+    "noun": "табліца"
+  },
+  "table of contents": {
+    "noun": "змесціва, змест"
+  },
+  "tag": {
+    "verb": "пазначаць",
+    "noun": "пазнака, тэг"
+  },
+  "tag cloud": {
+    "expression": "воблака пазнак"
+  },
+  "taxonomies": {
+    "noun": "таксанаміі"
+  },
+  "taxonomy": {
+    "noun": "таксанамія"
+  },
+  "template": {
+    "noun": "шаблон"
+  },
+  "term": {
+    "noun": "тэрмін"
+  },
+  "term cloud": {
+    "expression": "воблака тэрмінаў"
+  },
+  "theme": {
+    "noun": "тэма"
+  },
+  "third part": {
+    "expression": "староннія"
+  },
+  "third parties": {
+    "expression": "староннія вытворцы"
+  },
+  "thumbnail": {
+    "noun": "мініяцюра"
+  },
+  "tip": {
+    "noun": "падказка"
+  },
+  "title": {
+    "noun": "загаловак, назва"
+  },
+  "title bar": {
+    "noun": "загаловак акна/панэлі"
+  },
+  "toggle": {
+    "verb": "пераключыць"
+  },
+  "tool": {
+    "noun": "інструмент"
+  },
+  "toolbar": {
+    "noun": "панэль інструментаў"
+  },
+  "trackback": {
+    "noun": "трэкбэк, зваротная спасылка"
+  },
+  "tracking": {
+    "verb": "адсочванне"
+  },
+  "transformed": {
+    "adjective": "пераўтвораны"
+  },
+  "trash": {
+    "noun": "сметніца"
+  },
+  "trashing": {
+    "verb": "выдаленне"
+  },
+  "troubleshooting": {
+    "verb": "ухіленне непаладак"
+  },
+  "true": {
+    "noun": "true"
+  },
+  "type": {
+    "noun": "тып"
+  },
+  "uncategorized": {
+    "adjective": "без рубрыкі, без катэгорыі"
+  },
+  "unique": {
+    "adjective": "унікальны"
+  },
+  "unmute": {
+    "verb": "уключыць гук"
+  },
+  "update": {
+    "noun": "абнаўленне",
+    "verb": "абнавіць"
+  },
+  "upload": {
+    "verb": "запампаваць, загрузіць",
+    "noun": "запампоўка"
+  },
+  "uploader": {
+    "noun": "запампоўшчык"
+  },
+  "usability": {
+    "noun": "зручнасць выкарыстання"
+  },
+  "user": {
+    "noun": "карыстальнік"
+  },
+  "username": {
+    "noun": "імя карыстальніка"
+  },
+  "valid": {
+    "adjective": "валідны, верны, прыдатны"
+  },
+  "validation": {
+    "noun": "валідацыя, праверка"
+  },
+  "variation": {
+    "noun": "варыянт, варыяцыя"
+  },
+  "version": {
+    "noun": "версія"
+  },
+  "video": {
+    "noun": "відэа"
+  },
+  "view": {
+    "noun": "выгляд, прагляд",
+    "verb": "праглядаць, прагледзець"
+  },
+  "visit": {
+    "verb": "наведаць"
+  },
+  "visitor": {
+    "noun": "наведвальнік"
+  },
+  "visual aid": {
+    "expression": "наглядны/візуальны дапаможнік"
+  },
+  "volume": {
+    "noun": "гук"
+  },
+  "warning": {
+    "noun": "папярэджанне, паведамленне"
+  },
+  "web": {
+    "noun": "вэб"
+  },
+  "website": {
+    "noun": "вэб-сайт"
+  },
+  "whether or not": {
+    "expression": "... ці не"
+  },
+  "widget": {
+    "noun": "віджэт"
+  },
+  "WordCamp": {
+    "noun": "WordCamp"
+  },
+  "WordPress": {
+    "noun": "WordPress"
+  },
+  "wrapper": {
+    "noun": "абгортка, вокладка"
+  },
+  "writing": {
+    "noun": "пісанне"
+  }
+}

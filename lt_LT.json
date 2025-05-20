@@ -1,0 +1,186 @@
+{
+  "Account": {
+    "noun": "Paskyra"
+  },
+  "Activate": {
+    "verb": "Įjungti"
+  },
+  "Area": {
+    "noun": "zona, sritis"
+  },
+  "Aside": {
+    "noun": "Pastaba"
+  },
+  "Attach": {
+    "verb": "Prisegti"
+  },
+  "Attribute": {
+    "noun": "požymis"
+  },
+  "Block": {
+    "noun": "Blokas"
+  },
+  "Blog": {
+    "noun": "Tinklaraštis"
+  },
+  "Browser": {
+    "noun": "Naršyklė"
+  },
+  "Capability": {
+    "noun": "Galimybė"
+  },
+  "Cheatin&#8217; huh?": {
+    "expression": "Neleistinas veiksmas"
+  },
+  "Child theme": {
+    "noun": "Potemė"
+  },
+  "Clipboard": {
+    "noun": "Iškarpinė"
+  },
+  "Core": {
+    "noun": "Branduolys"
+  },
+  "Customize": {
+    "verb": "Pritaikyti, keisti"
+  },
+  "Customizer": {
+    "noun": "Vaizdusis režimas"
+  },
+  "Deactivate": {
+    "verb": "Išjungti"
+  },
+  "Delete": {
+    "verb": "Ištrinti"
+  },
+  "Disable": {
+    "noun": "Išjungti"
+  },
+  "Distraction-free (writing) mode": {
+    "expression": "Dėmesio neblaškantis (rašymo) režimas"
+  },
+  "Edit": {
+    "verb": "Redaguoti"
+  },
+  "Editor": {
+    "noun": "Redaktorius"
+  },
+  "email": {
+    "noun": "El. paštas"
+  },
+  "Enable": {
+    "verb": "Įjungti"
+  },
+  "feature": {
+    "noun": "savybė"
+  },
+  "File": {
+    "noun": "Failas"
+  },
+  "Footer": {
+    "noun": "Poraštė"
+  },
+  "header": {
+    "noun": "antraštė"
+  },
+  "Install": {
+    "verb": "Įdiegti"
+  },
+  "Library": {
+    "noun": "Saugykla"
+  },
+  "Log, logs": {
+    "noun": "Žurnalas"
+  },
+  "Manage": {
+    "verb": "Tvarkyti"
+  },
+  "Multisite": {
+    "noun": "Multitinklalapis"
+  },
+  "option": {
+    "noun": "nustatymas"
+  },
+  "Parent theme": {
+    "noun": "Tėvinė tema"
+  },
+  "Pattern": {
+    "noun": "Modelis"
+  },
+  "Pingback": {
+    "noun": "(Atgalinis) pranešimas"
+  },
+  "Product": {
+    "noun": "Produktas"
+  },
+  "Rating": {
+    "noun": "Įvertinimas"
+  },
+  "Required": {
+    "adjective": "Būtinas"
+  },
+  "Reusable": {
+    "adjective": "Pernaudojamas"
+  },
+  "Review": {
+    "noun": "Atsiliepimas"
+  },
+  "Shortcut": {
+    "noun": "(Klaviatūros) šaukiniai"
+  },
+  "Site": {
+    "noun": "Tinklalapis"
+  },
+  "Slide": {
+    "noun": "skaidrė"
+  },
+  "Slider": {
+    "noun": "Karuselė"
+  },
+  "Sorry, you are not allowed": {
+    "expression": "Deja, Jūs negalite"
+  },
+  "Tag": {
+    "noun": "Žyma"
+  },
+  "Template": {
+    "noun": "Šablonas"
+  },
+  "Term": {
+    "noun": "Terminas"
+  },
+  "Testimonial": {
+    "noun": "Atsiliepimas"
+  },
+  "Thumbnail": {
+    "noun": "Miniatiūra"
+  },
+  "Trackback": {
+    "noun": "(Atgalinė) citata"
+  },
+  "Trash": {
+    "noun": "Šiukšlinė",
+    "verb": "Perkelti į šiukšlinę"
+  },
+  "Troubleshooting": {
+    "noun": "Trikčių šalinimas"
+  },
+  "User": {
+    "noun": "Vartotojas"
+  },
+  "Username": {
+    "noun": "Vartotojo vardas"
+  },
+  "View": {
+    "verb": "Peržiūrėti"
+  },
+  "Website": {
+    "noun": "Tinklalapis"
+  },
+  "Widget": {
+    "noun": "Valdiklis"
+  },
+  "You": {
+    "noun": "Jūs"
+  }
+}

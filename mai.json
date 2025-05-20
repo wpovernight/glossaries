@@ -1,0 +1,29 @@
+{
+  "aspect ratio": {
+    "noun": "स्वरूप अनुपात"
+  },
+  "Category": {
+    "noun": "श्रेणी"
+  },
+  "Inserter": {
+    "noun": "इन्सर्टर"
+  },
+  "PHP": {
+    "noun": "PHP"
+  },
+  "Plugins": {
+    "noun": "प्लगइन्स"
+  },
+  "Query": {
+    "noun": "क्वेरी"
+  },
+  "Template": {
+    "noun": "टेम्पलेट"
+  },
+  "version": {
+    "noun": "संस्करण"
+  },
+  "WordPress": {
+    "noun": "वर्डप्रेस"
+  }
+}

@@ -1,0 +1,1222 @@
+{
+  "access": {
+    "noun": "وصول"
+  },
+  "accessibility": {
+    "noun": "سهولیت"
+  },
+  "accessible": {
+    "noun": "سهل الوصول"
+  },
+  "action": {
+    "noun": "اقدام"
+  },
+  "add-on": {
+    "noun": "اضافه"
+  },
+  "add-ons": {
+    "noun": "اضافات"
+  },
+  "advancement": {
+    "noun": "ترقی"
+  },
+  "agent": {
+    "noun": "نماینده"
+  },
+  "align": {
+    "noun": "نظم"
+  },
+  "alignment": {
+    "noun": "انتظام"
+  },
+  "alphanumeric": {
+    "noun": "ابجد رقمی"
+  },
+  "Animation": {
+    "noun": "جاندارنما"
+  },
+  "anonymize": {
+    "noun": "خلع هویت"
+  },
+  "API": {
+    "noun": "واصل برنامه سازی"
+  },
+  "app": {
+    "noun": "تطبیق"
+  },
+  "Append": {
+    "noun": "الحاق"
+  },
+  "application": {
+    "noun": "تطبیق"
+  },
+  "Apply": {
+    "noun": "اعمال"
+  },
+  "arbitrary": {
+    "noun": "خودسرانه"
+  },
+  "argument": {
+    "noun": "استدلال"
+  },
+  "Array": {
+    "noun": "آرایه"
+  },
+  "ascending": {
+    "noun": "تصاعدی"
+  },
+  "Asides": {
+    "noun": "جانبی ها"
+  },
+  "assigned": {
+    "noun": "تعین"
+  },
+  "associate": {
+    "noun": "مرتبط"
+  },
+  "associated": {
+    "noun": "مرتبطه"
+  },
+  "attachment": {
+    "noun": "ضمیمه"
+  },
+  "Attribute": {
+    "noun": "صفت"
+  },
+  "Attributes": {
+    "noun": "صفات"
+  },
+  "authenticate": {
+    "noun": "موثق"
+  },
+  "authenticated": {
+    "noun": "مصادقه"
+  },
+  "authentication": {
+    "noun": "تعین هویت"
+  },
+  "Authoriz": {
+    "noun": "تفویض"
+  },
+  "Authorize": {
+    "noun": "تفویض"
+  },
+  "autosave": {
+    "noun": "خودذخیره"
+  },
+  "available": {
+    "noun": "موجود"
+  },
+  "Avatar": {
+    "noun": "عکس رمز"
+  },
+  "Background": {
+    "noun": "زمینه"
+  },
+  "backup": {
+    "noun": "احتیاطی"
+  },
+  "batch": {
+    "noun": "تعددی"
+  },
+  "Bitrate": {
+    "noun": "کیفیت ثبت"
+  },
+  "block": {
+    "noun": "قالبک"
+  },
+  "Bluesky post": {
+    "noun": "مشارکۀ بلوسکای"
+  },
+  "bold": {
+    "noun": "برجسته"
+  },
+  "bookmark": {
+    "noun": "مرجع"
+  },
+  "border": {
+    "noun": "حدود"
+  },
+  "bracket": {
+    "noun": "رف"
+  },
+  "breadcrumbs": {
+    "noun": "قسمت بندی"
+  },
+  "break": {
+    "noun": "فاصل"
+  },
+  "bug": {
+    "noun": "حشره"
+  },
+  "built-in": {
+    "noun": "موجود"
+  },
+  "bulk": {
+    "noun": "حجیم"
+  },
+  "bypass": {
+    "noun": "دورزدن"
+  },
+  "cache": {
+    "noun": "نسخه گیری"
+  },
+  "callback": {
+    "noun": "جواب خواه"
+  },
+  "cancel": {
+    "verb": "الغاء"
+  },
+  "canvas": {
+    "noun": "خیام"
+  },
+  "capability": {
+    "noun": "توانایی"
+  },
+  "caption": {
+    "noun": "شرح"
+  },
+  "caret": {
+    "noun": "جداساز"
+  },
+  "Carousel": {
+    "noun": "چرخش"
+  },
+  "changesets": {
+    "noun": "مجموعۀ تغیرات"
+  },
+  "character": {
+    "noun": "خصیصه"
+  },
+  "check": {
+    "noun": "تحقیق"
+  },
+  "checklist": {
+    "noun": "سجل مرور"
+  },
+  "Chevron": {
+    "noun": "علامت رتبه"
+  },
+  "child": {
+    "noun": "اولاد"
+  },
+  "citation": {
+    "noun": "اقتباس"
+  },
+  "Classic": {
+    "noun": "تقلیدی"
+  },
+  "Clear": {
+    "noun": "حذف"
+  },
+  "client": {
+    "noun": "عمیل"
+  },
+  "clipboard": {
+    "noun": "حافظه"
+  },
+  "code": {
+    "noun": "شفر"
+  },
+  "collapsed": {
+    "noun": "حالت افتاده"
+  },
+  "color picker": {
+    "noun": "رنگ جو"
+  },
+  "comma": {
+    "noun": "واورونه"
+  },
+  "Community": {
+    "noun": "تواصل اجتماعی"
+  },
+  "compatibility": {
+    "noun": "سازگاری"
+  },
+  "compatible": {
+    "noun": "سازگار"
+  },
+  "configuration": {
+    "noun": "مشخصه"
+  },
+  "Configure": {
+    "noun": "پیکربندی"
+  },
+  "console": {
+    "noun": "لوح نتیجه"
+  },
+  "constant": {
+    "noun": "ثابت"
+  },
+  "Contain": {
+    "verb": "محدود، مشتمل"
+  },
+  "controls": {
+    "noun": "ظوابط"
+  },
+  "cookie": {
+    "noun": "کلچه"
+  },
+  "copy": {
+    "noun": "نسخ"
+  },
+  "Copy and paste": {
+    "noun": "نسخ و چسپ"
+  },
+  "cover": {
+    "noun": "ستر"
+  },
+  "critical": {
+    "noun": "خطیر"
+  },
+  "cron": {
+    "noun": "موعود"
+  },
+  "crop": {
+    "noun": "بریدن"
+  },
+  "cursor": {
+    "noun": "مکان نما"
+  },
+  "custom": {
+    "noun": "مخصص"
+  },
+  "customize": {
+    "noun": "دلخواه سازی"
+  },
+  "Customizer": {
+    "noun": "دلخواه ساز"
+  },
+  "Customizing": {
+    "noun": "دلخواه سازی"
+  },
+  "dashboard": {
+    "noun": "لوح قیادت"
+  },
+  "database": {
+    "noun": "مخزن"
+  },
+  "debug": {
+    "noun": "تصحیح"
+  },
+  "Debugging": {
+    "verb": "تصحیح کردن"
+  },
+  "decode": {
+    "noun": "رمزگشایی"
+  },
+  "decoding": {
+    "noun": "رمزگشایی"
+  },
+  "decrease": {
+    "noun": "نقصان"
+  },
+  "default": {
+    "noun": "مفروض"
+  },
+  "delete": {
+    "noun": "حذف"
+  },
+  "dependency": {
+    "noun": "وابستگی"
+  },
+  "deprecate": {
+    "noun": "منسوخ"
+  },
+  "DEPRECATED": {
+    "noun": "متروکه"
+  },
+  "descending": {
+    "noun": "تنازلی"
+  },
+  "Description": {
+    "noun": "شرح"
+  },
+  "Deselect": {
+    "noun": "الغاء"
+  },
+  "detail": {
+    "noun": "تفصیل"
+  },
+  "details": {
+    "noun": "تفصیلات"
+  },
+  "diable": {
+    "noun": "عاطل"
+  },
+  "Directive": {
+    "noun": "بخشنامه"
+  },
+  "directory": {
+    "noun": "فهرست"
+  },
+  "display": {
+    "noun": "نمایش"
+  },
+  "Documentation": {
+    "noun": "مستندات"
+  },
+  "domain": {
+    "noun": "میدان"
+  },
+  "download": {
+    "noun": "تنزیل"
+  },
+  "draft": {
+    "noun": "مسوده"
+  },
+  "drag": {
+    "noun": "کشید"
+  },
+  "Drag and drop": {
+    "noun": "بِکَش بیانداز"
+  },
+  "drag-and-drop": {
+    "noun": "کشیدن و انداختن"
+  },
+  "duotone": {
+    "noun": "دورنگی"
+  },
+  "duplicate": {
+    "noun": "تکثیر"
+  },
+  "dynamic": {
+    "noun": "پویا"
+  },
+  "E-mail": {
+    "noun": "نشانی برقی"
+  },
+  "edit": {
+    "noun": "تدوین"
+  },
+  "editor": {
+    "noun": "مُدَوَِن"
+  },
+  "embed": {
+    "noun": "درضمن کردن"
+  },
+  "emoji": {
+    "noun": "قواره"
+  },
+  "encode": {
+    "noun": "تشفیر"
+  },
+  "encoding": {
+    "noun": "مرموز"
+  },
+  "enhance": {
+    "noun": "تحسین"
+  },
+  "Enhancement": {
+    "verb": "تعزیز"
+  },
+  "Entries": {
+    "noun": "ادخالات"
+  },
+  "erasure": {
+    "noun": "محو"
+  },
+  "error": {
+    "noun": "نقص"
+  },
+  "Event": {
+    "noun": "مناسبت"
+  },
+  "excerpt": {
+    "noun": "گلجین"
+  },
+  "exclude": {
+    "noun": "جدا"
+  },
+  "expand": {
+    "noun": "توسعه"
+  },
+  "expire": {
+    "noun": "انقضاء"
+  },
+  "Explore": {
+    "noun": "کشف"
+  },
+  "export": {
+    "noun": "برون بری"
+  },
+  "extend": {
+    "noun": "بسط"
+  },
+  "extension": {
+    "noun": "تمدید"
+  },
+  "false": {
+    "noun": "غلط"
+  },
+  "feature": {
+    "noun": "خاصیت"
+  },
+  "featured": {
+    "noun": "شاخص"
+  },
+  "features": {
+    "noun": "خصایص"
+  },
+  "field": {
+    "noun": "خانه(در ورقه)"
+  },
+  "Fields": {
+    "noun": "زمنیه"
+  },
+  "file": {
+    "noun": "پرونده"
+  },
+  "filter": {
+    "noun": "صافی"
+  },
+  "Fit": {
+    "noun": "گنجیدن"
+  },
+  "flip": {
+    "noun": "معلق"
+  },
+  "follow": {
+    "noun": "تابع"
+  },
+  "following": {
+    "noun": "ذیل"
+  },
+  "font": {
+    "noun": "قلم"
+  },
+  "footer": {
+    "noun": "پاخط"
+  },
+  "form": {
+    "noun": "ورقه"
+  },
+  "format": {
+    "noun": "ساختار"
+  },
+  "formatting": {
+    "verb": "تشکیل"
+  },
+  "forum": {
+    "noun": "انجمن"
+  },
+  "front end": {
+    "noun": "بخش مقدم"
+  },
+  "function": {
+    "noun": "وظیفه دار"
+  },
+  "functionality": {
+    "noun": "ماهیت"
+  },
+  "fuzzy": {
+    "noun": "غامض"
+  },
+  "gallery": {
+    "noun": "رواق"
+  },
+  "Genre": {
+    "noun": "نوع"
+  },
+  "global": {
+    "noun": "سراسری"
+  },
+  "GMT": {
+    "noun": "وقت گرینویچ"
+  },
+  "gradient": {
+    "noun": "میلان رنگ"
+  },
+  "Grid": {
+    "noun": "توری"
+  },
+  "guide": {
+    "noun": "راهنما"
+  },
+  "handle": {
+    "noun": "معامله"
+  },
+  "hash": {
+    "noun": "خلیط"
+  },
+  "header": {
+    "noun": "سربرگ"
+  },
+  "Heading": {
+    "noun": "سرعنوان"
+  },
+  "hex": {
+    "noun": "شانزدهگانه"
+  },
+  "hide": {
+    "noun": "اخفا"
+  },
+  "highlight": {
+    "noun": "محراق توجه"
+  },
+  "Hint": {
+    "noun": "اشاره"
+  },
+  "Hover": {
+    "noun": "شنا"
+  },
+  "human readable": {
+    "noun": "خوانا"
+  },
+  "human-readable": {
+    "noun": "انسان خوان"
+  },
+  "icon": {
+    "noun": "نشانک"
+  },
+  "id": {
+    "noun": "هویت"
+  },
+  "identifier": {
+    "noun": "معرف"
+  },
+  "ignore": {
+    "verb": "تجاهل"
+  },
+  "improve": {
+    "noun": "حسین"
+  },
+  "improvementd": {
+    "noun": "تحسینات"
+  },
+  "improvements": {
+    "noun": "تحسینات"
+  },
+  "Incompatible": {
+    "noun": "ناسازگار"
+  },
+  "increase": {
+    "noun": "ازدیاد"
+  },
+  "indent": {
+    "noun": "مساقه"
+  },
+  "indicating": {
+    "noun": "مظهر"
+  },
+  "initiate": {
+    "noun": "ابدا"
+  },
+  "inline": {
+    "noun": "درخط"
+  },
+  "insert": {
+    "noun": "درج"
+  },
+  "inserter": {
+    "noun": "مدرج"
+  },
+  "instances": {
+    "noun": "حالات"
+  },
+  "interaction": {
+    "noun": "تفاعل"
+  },
+  "interactive": {
+    "noun": "تفاعلی"
+  },
+  "Interactivity": {
+    "noun": "تفاعلی"
+  },
+  "interface": {
+    "noun": "رابط"
+  },
+  "invalid": {
+    "noun": "باطل"
+  },
+  "items": {
+    "noun": "اقلام"
+  },
+  "keywords": {
+    "noun": "شاه کلمات"
+  },
+  "label": {
+    "noun": "ملصق"
+  },
+  "layout": {
+    "noun": "نسق"
+  },
+  "lazy-loaded": {
+    "noun": "سوار-تنبل"
+  },
+  "link": {
+    "noun": "واصل"
+  },
+  "list": {
+    "noun": "سجل"
+  },
+  "load": {
+    "noun": "سوار"
+  },
+  "login": {
+    "noun": "ورود"
+  },
+  "logo": {
+    "noun": "نشان"
+  },
+  "machine-readable": {
+    "noun": "دستگاه-خوان"
+  },
+  "Manage": {
+    "noun": "مدیریت"
+  },
+  "manifest": {
+    "noun": "جدول"
+  },
+  "match": {
+    "noun": "تطابق"
+  },
+  "media": {
+    "noun": "رسانه"
+  },
+  "menu": {
+    "noun": "فهرست"
+  },
+  "meta": {
+    "noun": "معلومات"
+  },
+  "metadata": {
+    "noun": "فراداده"
+  },
+  "moderate": {
+    "noun": "صافی"
+  },
+  "moderation": {
+    "noun": "صافی کردن"
+  },
+  "moderator": {
+    "noun": "ممتحن"
+  },
+  "modify": {
+    "noun": "تعدیل"
+  },
+  "Mosaic": {
+    "noun": "شطرنجی"
+  },
+  "most frequent": {
+    "noun": "کثیر الظهور"
+  },
+  "most used": {
+    "noun": "کثیر الاستخدام"
+  },
+  "multiple": {
+    "noun": "متعدد"
+  },
+  "namespace": {
+    "noun": "نام-فضا"
+  },
+  "navigation": {
+    "noun": "پیمایش"
+  },
+  "Nested": {
+    "noun": "متداخله"
+  },
+  "non-compatible": {
+    "noun": "ناسازگار"
+  },
+  "notice": {
+    "noun": "اطلاعیه"
+  },
+  "notifications": {
+    "noun": "اشعارات"
+  },
+  "object": {
+    "noun": "مقصود"
+  },
+  "offset": {
+    "noun": "انحراف"
+  },
+  "online": {
+    "noun": "موصول"
+  },
+  "option": {
+    "noun": "اختیار"
+  },
+  "originated": {
+    "noun": "سرچشمه گرفته"
+  },
+  "outline": {
+    "noun": "خلاصه"
+  },
+  "overlay": {
+    "noun": "روی صفحه"
+  },
+  "override": {
+    "noun": "الغی"
+  },
+  "palette": {
+    "noun": "بشقاب رنگ"
+  },
+  "panel": {
+    "noun": "لوحه"
+  },
+  "Paragraph": {
+    "noun": "فقره"
+  },
+  "parameter": {
+    "noun": "معامل"
+  },
+  "parent": {
+    "noun": "والد"
+  },
+  "parse": {
+    "noun": "حلاجی"
+  },
+  "pass": {
+    "noun": "عبور"
+  },
+  "password": {
+    "noun": "رمز"
+  },
+  "password protected": {
+    "noun": "رمز دار"
+  },
+  "paste": {
+    "noun": "الصاق"
+  },
+  "Pattern": {
+    "noun": "نموددار"
+  },
+  "Pending": {
+    "noun": "معلق"
+  },
+  "Performance": {
+    "noun": "کارآیی"
+  },
+  "permalink": {
+    "noun": "واصلک"
+  },
+  "ping": {
+    "noun": "امتحان وجود"
+  },
+  "placeholder": {
+    "noun": "نائب"
+  },
+  "Playlist": {
+    "noun": "سجل پخش"
+  },
+  "plugin": {
+    "noun": "افزونک"
+  },
+  "policy": {
+    "noun": "خط و مشی"
+  },
+  "Portfolio": {
+    "noun": "کارنامه"
+  },
+  "post": {
+    "noun": "مشارکه"
+  },
+  "poster image": {
+    "noun": "عکس شاخص"
+  },
+  "posts": {
+    "noun": "مشارکات"
+  },
+  "Preferences": {
+    "noun": "ترجیحات"
+  },
+  "Preformatted": {
+    "noun": "مهیا شده"
+  },
+  "preload": {
+    "noun": "پیش آورده"
+  },
+  "prepend": {
+    "noun": "پیشقدم"
+  },
+  "preset": {
+    "noun": "مسبق"
+  },
+  "preview": {
+    "noun": "معاینۀ متقدم"
+  },
+  "privacy": {
+    "noun": "خصوصیات"
+  },
+  "privately": {
+    "noun": "خصوصی"
+  },
+  "process": {
+    "noun": "عملیه"
+  },
+  "profile": {
+    "noun": "مشخصات"
+  },
+  "properties": {
+    "noun": "خواص"
+  },
+  "provider": {
+    "noun": "تامینات"
+  },
+  "query": {
+    "noun": "استعلام"
+  },
+  "Random": {
+    "noun": "تصادفی"
+  },
+  "rating": {
+    "noun": "درجه"
+  },
+  "recent": {
+    "noun": "اواخر"
+  },
+  "Recovery": {
+    "noun": "ترمیم"
+  },
+  "redirect": {
+    "noun": "جهت دادن"
+  },
+  "refresh": {
+    "noun": "بازآوری"
+  },
+  "reload": {
+    "noun": "بازآوری | بازآوری کردن"
+  },
+  "rename": {
+    "noun": "بازنامی"
+  },
+  "render": {
+    "noun": "تقدیم",
+    "verb": "پُخته ساز"
+  },
+  "rendering": {
+    "noun": "پَُخته سازی"
+  },
+  "Reorder": {
+    "noun": "اعادۀ ترتیب"
+  },
+  "Replace": {
+    "verb": "تبدیل"
+  },
+  "reply": {
+    "noun": "جواب"
+  },
+  "request": {
+    "noun": "درخواست"
+  },
+  "required": {
+    "noun": "مطلوب"
+  },
+  "Requirements": {
+    "noun": "منطبقات"
+  },
+  "requirements": {
+    "noun": "مطالبات"
+  },
+  "reserved": {
+    "noun": "محجوز"
+  },
+  "reset": {
+    "noun": "اعاده"
+  },
+  "resize": {
+    "verb": "تغیراندازه"
+  },
+  "response": {
+    "noun": "جواب"
+  },
+  "responsive": {
+    "noun": "حساس"
+  },
+  "restore": {
+    "noun": "احیا"
+  },
+  "return": {
+    "noun": "ارجاع"
+  },
+  "returned": {
+    "noun": "ارجاع شده"
+  },
+  "reusable": {
+    "noun": "قابل تکثیر"
+  },
+  "review": {
+    "noun": "مراجعه"
+  },
+  "reviews": {
+    "noun": "مراجعات"
+  },
+  "revision": {
+    "noun": "تجدید نظر"
+  },
+  "rgb": {
+    "noun": "س-س-آ"
+  },
+  "root": {
+    "noun": "بنیان"
+  },
+  "route": {
+    "verb": "نقل",
+    "noun": "مسیر"
+  },
+  "safe": {
+    "noun": "امن"
+  },
+  "schedule": {
+    "noun": "تقسیم اوقات"
+  },
+  "Scheduled": {
+    "noun": "تقسیم اوقات"
+  },
+  "schema": {
+    "noun": "طرح"
+  },
+  "scheme": {
+    "noun": "مکیده"
+  },
+  "scope": {
+    "noun": "مجال"
+  },
+  "script": {
+    "noun": "نص"
+  },
+  "scroll": {
+    "verb": "لغزاندن"
+  },
+  "Serialized": {
+    "noun": "مسلسل"
+  },
+  "server": {
+    "noun": "خادم | خادمین"
+  },
+  "set": {
+    "noun": "تنظیم"
+  },
+  "settings": {
+    "noun": "تنضیمات"
+  },
+  "share": {
+    "noun": "مشترک کردن"
+  },
+  "shared": {
+    "noun": "مشترک"
+  },
+  "shortcode": {
+    "noun": "شفرک"
+  },
+  "shortcut": {
+    "noun": "اختصار"
+  },
+  "show": {
+    "noun": "اظهار"
+  },
+  "Showcase": {
+    "noun": "عرضه"
+  },
+  "Showing": {
+    "noun": "عرض کردن"
+  },
+  "sidebar": {
+    "noun": "زبانۀ جانبی"
+  },
+  "site": {
+    "noun": "جولامکان"
+  },
+  "Sitemap": {
+    "noun": "نقشۀ جولامکان"
+  },
+  "skip": {
+    "noun": "پرش"
+  },
+  "slug": {
+    "noun": "سبیکه"
+  },
+  "Smooth": {
+    "noun": "سلیس"
+  },
+  "sort": {
+    "verb": "مرتب"
+  },
+  "specified": {
+    "noun": "مشخص شده"
+  },
+  "Spreadsheet": {
+    "noun": "جدول"
+  },
+  "static": {
+    "noun": "ساکن"
+  },
+  "sticky": {
+    "noun": "چسپنده"
+  },
+  "stream": {
+    "noun": "جریانک"
+  },
+  "streamline": {
+    "noun": "ساده"
+  },
+  "streamlined": {
+    "noun": "مبسط"
+  },
+  "string": {
+    "noun": "رشته"
+  },
+  "strip": {
+    "verb": "خلع"
+  },
+  "structure": {
+    "noun": "ساختار"
+  },
+  "style": {
+    "noun": "سبک"
+  },
+  "stylesheet": {
+    "noun": "ورق طرح"
+  },
+  "support": {
+    "noun": "تائید یا حمایت"
+  },
+  "supported": {
+    "noun": "پشتیبانی شده"
+  },
+  "swap": {
+    "noun": "تبدیل"
+  },
+  "switch": {
+    "noun": "متحول"
+  },
+  "sync": {
+    "noun": "تزامن"
+  },
+  "synchronize": {
+    "noun": "تزامن"
+  },
+  "syntax": {
+    "noun": "طریق تحریر"
+  },
+  "tab": {
+    "noun": "زبانه"
+  },
+  "table": {
+    "noun": "جدول"
+  },
+  "tag": {
+    "noun": "علامت"
+  },
+  "tagline": {
+    "noun": "تکیه کلام"
+  },
+  "taxonomy": {
+    "noun": "تصنیف"
+  },
+  "team": {
+    "noun": "فریق"
+  },
+  "term": {
+    "noun": "اصطلاح"
+  },
+  "Testimonial": {
+    "noun": "شهادت"
+  },
+  "Testimonials": {
+    "noun": "شهادات"
+  },
+  "theme": {
+    "noun": "نگار نما"
+  },
+  "thumbnail": {
+    "noun": "ناخن شصت"
+  },
+  "timestamp": {
+    "noun": "مهر زمانی"
+  },
+  "toggle": {
+    "noun": "تبدیل"
+  },
+  "Token": {
+    "noun": "رموز"
+  },
+  "tool": {
+    "noun": "ادوت"
+  },
+  "toolbar": {
+    "noun": "لوح ادوات"
+  },
+  "track": {
+    "noun": "قطعه، ردگیری"
+  },
+  "transform": {
+    "noun": "تحول"
+  },
+  "transformed": {
+    "noun": "متحول شده"
+  },
+  "trash": {
+    "noun": "زُباله"
+  },
+  "true": {
+    "noun": "صحیح"
+  },
+  "try": {
+    "noun": "سعی"
+  },
+  "typography": {
+    "noun": "قلمپردازی"
+  },
+  "Unable": {
+    "noun": "عاجز"
+  },
+  "underscores": {
+    "noun": "زیرخط"
+  },
+  "undo": {
+    "noun": "لغو"
+  },
+  "unique": {
+    "noun": "تک"
+  },
+  "Unknown": {
+    "noun": "مجهول"
+  },
+  "update": {
+    "noun": "تجدید"
+  },
+  "upgrade": {
+    "noun": "ارتقاء"
+  },
+  "upload": {
+    "noun": "ترفیع"
+  },
+  "URL": {
+    "noun": "موقعیت"
+  },
+  "user agent": {
+    "noun": "مرورگر"
+  },
+  "valid": {
+    "noun": "معتبر"
+  },
+  "variations": {
+    "noun": "اختلافات"
+  },
+  "verification": {
+    "noun": "تصدیق"
+  },
+  "verify": {
+    "noun": "تائید"
+  },
+  "versatile": {
+    "noun": "متنوع"
+  },
+  "versatility": {
+    "noun": "قابلیت تنوع"
+  },
+  "view": {
+    "noun": "معاینه"
+  },
+  "Viewport": {
+    "noun": "منفذ"
+  },
+  "visual": {
+    "noun": "بصری"
+  },
+  "widget": {
+    "noun": "قعطه"
+  }
+}

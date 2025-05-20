@@ -1,0 +1,1288 @@
+{
+  "&#197;land Islands": {
+    "noun": "&#197;land-szigetek"
+  },
+  "access token": {
+    "noun": "hozzáférési token"
+  },
+  "action": {
+    "noun": "művelet"
+  },
+  "activate": {
+    "verb": "bekapcsolás"
+  },
+  "activity": {
+    "noun": "tevékenység"
+  },
+  "add": {
+    "verb": "hozzáadás"
+  },
+  "add new": {
+    "verb": "új hozzáadása"
+  },
+  "add-on": {
+    "noun": "bővítmény"
+  },
+  "admin": {
+    "noun": "rendszergazda"
+  },
+  "administrator": {
+    "noun": "rendszergazda"
+  },
+  "advanced": {
+    "adjective": "speciális"
+  },
+  "Afghanistan": {
+    "noun": "Afganisztán"
+  },
+  "Albania": {
+    "noun": "Albánia"
+  },
+  "Algeria": {
+    "noun": "Algéria"
+  },
+  "allow": {
+    "verb": "engedélyezés"
+  },
+  "American Samoa": {
+    "noun": "Amerkai Szamoa"
+  },
+  "Andorra": {
+    "noun": "Andorra"
+  },
+  "Angola": {
+    "noun": "Angola"
+  },
+  "Anguilla": {
+    "noun": "Anguilla"
+  },
+  "Antarctica": {
+    "noun": "Antarktisz"
+  },
+  "Antigua and Barbuda": {
+    "noun": "Antigua és Barbuda"
+  },
+  "appearance": {
+    "noun": "megjelenés"
+  },
+  "archive": {
+    "noun": "archívum",
+    "verb": "archiválás",
+    "adjective": "archív"
+  },
+  "Argentina": {
+    "noun": "Argentína"
+  },
+  "Armenia": {
+    "noun": "Örményország"
+  },
+  "Aruba": {
+    "noun": "Aruba"
+  },
+  "Australia": {
+    "noun": "Ausztrália"
+  },
+  "Austria": {
+    "noun": "Ausztria"
+  },
+  "author": {
+    "noun": "szerző"
+  },
+  "available": {
+    "adjective": "elérhető"
+  },
+  "Azerbaijan": {
+    "noun": "Azerbajdzsán"
+  },
+  "background": {
+    "noun": "háttér"
+  },
+  "Bahamas": {
+    "noun": "Bahama-szigetek"
+  },
+  "Bahrain": {
+    "noun": "Bahrein"
+  },
+  "Bangladesh": {
+    "noun": "Banglades"
+  },
+  "Barbados": {
+    "noun": "Barbados"
+  },
+  "Belarus": {
+    "noun": "Fehéroroszország"
+  },
+  "Belgium": {
+    "noun": "Belgium"
+  },
+  "Belize": {
+    "noun": "Belize"
+  },
+  "Benin": {
+    "noun": "Benin"
+  },
+  "Bermuda": {
+    "noun": "Bermuda"
+  },
+  "Bhutan": {
+    "noun": "Bhután"
+  },
+  "Bolivia": {
+    "noun": "Bolívia"
+  },
+  "Bonaire, Saint Eustatius and Saba": {
+    "noun": "Bonaire, Saint Eustatius és Saba"
+  },
+  "Bosnia and Herzegovina": {
+    "noun": "Bosznia-Hercegovina"
+  },
+  "Botswana": {
+    "noun": "Botswana"
+  },
+  "Bouvet Island": {
+    "noun": "Bouvet-sziget"
+  },
+  "Brazil": {
+    "noun": "Brazília"
+  },
+  "breadcrumb navigation": {
+    "noun": "útkövetés"
+  },
+  "British Indian Ocean Territory": {
+    "noun": "Brit Indiai-óceáni Terület"
+  },
+  "browse": {
+    "verb": "böngészés"
+  },
+  "Brunei Darrussalam": {
+    "noun": "Brunei Darrussalam"
+  },
+  "bug": {
+    "noun": "szoftverhiba"
+  },
+  "Bulgaria": {
+    "noun": "Bulgária"
+  },
+  "Burkina Faso": {
+    "noun": "Burkina Faso"
+  },
+  "Burundi": {
+    "noun": "Burundi"
+  },
+  "cache": {
+    "noun": "gyorsítótár",
+    "verb": "gyorsítótárazás"
+  },
+  "Cambodia": {
+    "noun": "Kambodzsa"
+  },
+  "Cameroon": {
+    "noun": "Kamerun"
+  },
+  "Canada": {
+    "noun": "Kanada"
+  },
+  "Cape Verde": {
+    "noun": "Zöld-foki Köztársaság"
+  },
+  "Cayman Islands": {
+    "noun": "Kajmán-szigetek"
+  },
+  "Central African Republic": {
+    "noun": "Közép-Afrikai Köztársaság"
+  },
+  "Chad": {
+    "noun": "Csád"
+  },
+  "checkbox": {
+    "noun": "jelölőnégyzet"
+  },
+  "checkout": {
+    "noun": "fizetés"
+  },
+  "Chile": {
+    "noun": "Chile"
+  },
+  "China": {
+    "noun": "Kína"
+  },
+  "choose": {
+    "verb": "kiválasztás"
+  },
+  "Christmas Island": {
+    "noun": "Karácsony-sziget"
+  },
+  "clone": {
+    "verb": "másolat készítése"
+  },
+  "close": {
+    "verb": "bezárás"
+  },
+  "Cocos Islands": {
+    "noun": "Kókusz-szigetek"
+  },
+  "Colombia": {
+    "noun": "Kolumbia"
+  },
+  "comment": {
+    "verb": "hozzászólás",
+    "noun": "hozzászólás"
+  },
+  "Comoros": {
+    "noun": "Comore-szigetek"
+  },
+  "Congo, Democratic People's Republic": {
+    "noun": "Kongói Népi Demokratikus Köztársaság"
+  },
+  "Congo, Republic of": {
+    "noun": "Kongói Köztársaság"
+  },
+  "control panel": {
+    "noun": "vezérlőpult"
+  },
+  "Cook Islands": {
+    "noun": "Cook-szigetek"
+  },
+  "copy": {
+    "verb": "másolás",
+    "noun": "példány"
+  },
+  "Costa Rica": {
+    "noun": "Costa Rica"
+  },
+  "Cote d'Ivoire": {
+    "noun": "Elefántcsontpart"
+  },
+  "country": {
+    "noun": "ország"
+  },
+  "Croatia/Hrvatska": {
+    "noun": "Horvátország"
+  },
+  "Cuba": {
+    "noun": "Kuba"
+  },
+  "Cura&Ccedil;ao": {
+    "noun": "Cura&Ccedil;ao"
+  },
+  "current": {
+    "adjective": "jelenlegi"
+  },
+  "custom": {
+    "adjective": "egyéni"
+  },
+  "customize": {
+    "verb": "testreszabás"
+  },
+  "cut": {
+    "verb": "kivágás"
+  },
+  "Cyprus": {
+    "noun": "Ciprus"
+  },
+  "Czechia": {
+    "noun": "Csehország"
+  },
+  "dashboard": {
+    "noun": "irányítópult"
+  },
+  "data": {
+    "noun": "adatok"
+  },
+  "date": {
+    "noun": "dátum"
+  },
+  "deactivate": {
+    "verb": "kikapcsolás"
+  },
+  "debug": {
+    "verb": "hibakeresés"
+  },
+  "default": {
+    "adjective": "alapértelmezett"
+  },
+  "delete": {
+    "verb": "törlés"
+  },
+  "Denmark": {
+    "noun": "Dánia"
+  },
+  "description": {
+    "noun": "leírás"
+  },
+  "details": {
+    "noun": "részletek"
+  },
+  "disable": {
+    "verb": "letiltás"
+  },
+  "Djibouti": {
+    "noun": "Dzsibuti"
+  },
+  "Dominica": {
+    "noun": "Dominikai Közösség"
+  },
+  "Dominican Republic": {
+    "noun": "Dominikai Köztársaság"
+  },
+  "done": {
+    "verb": "kész"
+  },
+  "drop down": {
+    "adjective": "legördülő"
+  },
+  "drop-down menu": {
+    "noun": "legördülő menü"
+  },
+  "e-mail": {
+    "noun": "e-mail"
+  },
+  "East Timor": {
+    "noun": "Kelet-Timor"
+  },
+  "Ecuador": {
+    "noun": "Ecuador"
+  },
+  "edit": {
+    "verb": "szerkesztés"
+  },
+  "editor": {
+    "noun": "szerkesztő"
+  },
+  "Egypt": {
+    "noun": "Egyiptom"
+  },
+  "El Salvador": {
+    "noun": "Salvador"
+  },
+  "email": {
+    "noun": "e-mail"
+  },
+  "embed": {
+    "verb": "beágyazás"
+  },
+  "empty": {
+    "adjective": "üres"
+  },
+  "enable": {
+    "verb": "engedélyezés"
+  },
+  "enter": {
+    "verb": "megadás"
+  },
+  "entry": {
+    "noun": "bejegyzés"
+  },
+  "Equatorial Guinea": {
+    "noun": "Egyenlítői Guinea"
+  },
+  "Eritrea": {
+    "noun": "Eritrea"
+  },
+  "error": {
+    "noun": "hiba"
+  },
+  "Estonia": {
+    "noun": "Észtország"
+  },
+  "Eswatini": {
+    "noun": "Szváziföld"
+  },
+  "Ethiopia": {
+    "noun": "Etiópia"
+  },
+  "example": {
+    "noun": "példa"
+  },
+  "exit": {
+    "verb": "kilépés"
+  },
+  "export": {
+    "verb": "exportálás"
+  },
+  "extension": {
+    "noun": "kiterjesztés"
+  },
+  "Falkland Islands": {
+    "noun": "Falkland-szigetek"
+  },
+  "Faroe Islands": {
+    "noun": "Feröer szigetek"
+  },
+  "feature": {
+    "noun": "funkció"
+  },
+  "field": {
+    "noun": "mező"
+  },
+  "Fiji": {
+    "noun": "Fidzsi-szigetek"
+  },
+  "file": {
+    "noun": "fájl"
+  },
+  "file manager": {
+    "noun": "fájlkezelő"
+  },
+  "filter": {
+    "noun": "szűrő",
+    "verb": "szűrés"
+  },
+  "Finland": {
+    "noun": "Finnország"
+  },
+  "footer": {
+    "noun": "lábléc"
+  },
+  "form": {
+    "noun": "űrlap"
+  },
+  "France": {
+    "noun": "Franciaország"
+  },
+  "French Guiana": {
+    "noun": "Francia Guyana"
+  },
+  "French Polynesia": {
+    "noun": "Francia Polinézia"
+  },
+  "French Southern Territories": {
+    "noun": "Francia Déli Területek"
+  },
+  "front page": {
+    "noun": "címoldal"
+  },
+  "full": {
+    "adjective": "teli"
+  },
+  "Gabon": {
+    "noun": "Gabon"
+  },
+  "Gambia": {
+    "noun": "Gambia"
+  },
+  "Georgia": {
+    "noun": "Grúzia"
+  },
+  "Germany": {
+    "noun": "Németország"
+  },
+  "Ghana": {
+    "noun": "Ghána"
+  },
+  "Gibraltar": {
+    "noun": "Gibraltár"
+  },
+  "Greece": {
+    "noun": "Görögország"
+  },
+  "Greenland": {
+    "noun": "Grönland"
+  },
+  "Grenada": {
+    "noun": "Grenada"
+  },
+  "Guadeloupe": {
+    "noun": "Guadeloupe"
+  },
+  "Guam": {
+    "noun": "Guam"
+  },
+  "Guatemala": {
+    "noun": "Guatemala"
+  },
+  "Guernsey": {
+    "noun": "Guernsey"
+  },
+  "Guinea": {
+    "noun": "Guinea"
+  },
+  "Guinea-Bissau": {
+    "noun": "Bissau-Guinea"
+  },
+  "Guyana": {
+    "noun": "Guyana"
+  },
+  "Haiti": {
+    "noun": "Haiti"
+  },
+  "header": {
+    "noun": "fejléc"
+  },
+  "heading": {
+    "noun": "címsor"
+  },
+  "Heard and McDonald Islands": {
+    "noun": "Heard- és McDonald-szigetek"
+  },
+  "height": {
+    "noun": "magasság"
+  },
+  "hide": {
+    "verb": "elrejtés"
+  },
+  "Holy See (City Vatican State)": {
+    "noun": "Szentszék (Vatikánvárosi Állam)"
+  },
+  "home page": {
+    "noun": "kezdőlap"
+  },
+  "Honduras": {
+    "noun": "Honduras"
+  },
+  "Hong Kong": {
+    "noun": "Hong Kong"
+  },
+  "hover": {
+    "noun": "rámutatás"
+  },
+  "Hungary": {
+    "noun": "Magyarország"
+  },
+  "Iceland": {
+    "noun": "Izland"
+  },
+  "import": {
+    "verb": "importálás"
+  },
+  "India": {
+    "noun": "India"
+  },
+  "Indonesia": {
+    "noun": "Indonézia"
+  },
+  "insert": {
+    "verb": "beszúrás"
+  },
+  "install": {
+    "verb": "telepítés"
+  },
+  "integration": {
+    "noun": "integráció"
+  },
+  "invalid": {
+    "adjective": "érvénytelen"
+  },
+  "Iran": {
+    "noun": "Irán"
+  },
+  "Iraq": {
+    "noun": "Irak"
+  },
+  "Ireland": {
+    "noun": "Írország"
+  },
+  "Isle of Man": {
+    "noun": "Man-sziget"
+  },
+  "Israel": {
+    "noun": "Izrael"
+  },
+  "Italy": {
+    "noun": "Olaszország"
+  },
+  "item": {
+    "noun": "elem"
+  },
+  "Jamaica": {
+    "noun": "Jamaika"
+  },
+  "Japan": {
+    "noun": "Japán"
+  },
+  "Jersey": {
+    "noun": "Jersey"
+  },
+  "Jordan": {
+    "noun": "Jordánia"
+  },
+  "Kazakhstan": {
+    "noun": "Kazahsztán"
+  },
+  "Kenya": {
+    "noun": "Kenya"
+  },
+  "key": {
+    "noun": "kulcs"
+  },
+  "Kiribati": {
+    "noun": "Kiribati"
+  },
+  "Kuwait": {
+    "noun": "Kuvait"
+  },
+  "Kyrgyzstan": {
+    "noun": "Kirgizisztán"
+  },
+  "Lao People's Democratic Republic": {
+    "noun": "Laoszi Népi Demokratikus Köztársaság"
+  },
+  "Latvia": {
+    "noun": "Lettország"
+  },
+  "layout": {
+    "noun": "elrendezés"
+  },
+  "Lebanon": {
+    "noun": "Libanon"
+  },
+  "legacy": {
+    "adjective": "régi"
+  },
+  "Lesotho": {
+    "noun": "Lesotho"
+  },
+  "Liberia": {
+    "noun": "Libéria"
+  },
+  "Libyan Arab Jamahiriya": {
+    "noun": "Líbia"
+  },
+  "Liechtenstein": {
+    "noun": "Liechtenstein"
+  },
+  "Lithuania": {
+    "noun": "Litvánia"
+  },
+  "log": {
+    "noun": "napló",
+    "verb": "naplózás"
+  },
+  "log in": {
+    "verb": "bejelentkezés"
+  },
+  "log out": {
+    "verb": "kijelentkezés"
+  },
+  "login": {
+    "verb": "bejelentkezés"
+  },
+  "logout": {
+    "verb": "kijelentkezés"
+  },
+  "Luxembourg": {
+    "noun": "Luxemburg"
+  },
+  "Macau": {
+    "noun": "Makau"
+  },
+  "Madagascar": {
+    "noun": "Madagaszkár"
+  },
+  "Malawi": {
+    "noun": "Malawi"
+  },
+  "Malaysia": {
+    "noun": "Malajzia"
+  },
+  "Maldives": {
+    "noun": "Maldív-szigetek"
+  },
+  "Mali": {
+    "noun": "Mali"
+  },
+  "Malta": {
+    "noun": "Málta"
+  },
+  "manage": {
+    "verb": "kezelés"
+  },
+  "manager": {
+    "noun": "kezelő"
+  },
+  "Marshall Islands": {
+    "noun": "Marshall-szigetek"
+  },
+  "Martinique": {
+    "noun": "Martinique"
+  },
+  "Mauritania": {
+    "noun": "Mauritánia"
+  },
+  "Mauritius": {
+    "noun": "Mauritius"
+  },
+  "Mayotte": {
+    "noun": "Mayotte"
+  },
+  "message": {
+    "noun": "üzenet"
+  },
+  "Mexico": {
+    "noun": "Mexikó"
+  },
+  "Micronesia": {
+    "noun": "Mikronézia"
+  },
+  "migration": {
+    "noun": "áttelepítés"
+  },
+  "Moldova, Republic of": {
+    "noun": "Moldova"
+  },
+  "Monaco": {
+    "noun": "Monaco"
+  },
+  "Mongolia": {
+    "noun": "Mongólia"
+  },
+  "monitor": {
+    "noun": "képernyő",
+    "verb": "figyelemmel kísérés"
+  },
+  "Montenegro": {
+    "noun": "Montenegró"
+  },
+  "Montserrat": {
+    "noun": "Montserrat"
+  },
+  "Morocco": {
+    "noun": "Marokkó"
+  },
+  "Mozambique": {
+    "noun": "Mozambik"
+  },
+  "Myanmar": {
+    "noun": "Mianmar"
+  },
+  "name": {
+    "noun": "név"
+  },
+  "Namibia": {
+    "noun": "Namíbia"
+  },
+  "Nauru": {
+    "noun": "Nauru"
+  },
+  "Nepal": {
+    "noun": "Nepál"
+  },
+  "Netherlands": {
+    "noun": "Hollandia"
+  },
+  "Netherlands Antilles": {
+    "noun": "Holland-Antillák"
+  },
+  "New Caledonia": {
+    "noun": "Új-Kaledónia"
+  },
+  "New Zealand": {
+    "noun": "Új-Zéland"
+  },
+  "Nicaragua": {
+    "noun": "Nicaragua"
+  },
+  "Niger": {
+    "noun": "Niger"
+  },
+  "Nigeria": {
+    "noun": "Nigéria"
+  },
+  "Niue": {
+    "noun": "Niue"
+  },
+  "Norfolk Island": {
+    "noun": "Norfolk-sziget"
+  },
+  "North Korea": {
+    "noun": "Észak-Korea"
+  },
+  "North Macedonia": {
+    "noun": "Észak-Macedónia"
+  },
+  "Northern Mariana Islands": {
+    "noun": "Északi Mariana-szigetek"
+  },
+  "Norway": {
+    "noun": "Norvégia"
+  },
+  "Oman": {
+    "noun": "Omán"
+  },
+  "open": {
+    "verb": "megnyitás"
+  },
+  "optional": {
+    "adjective": "nem kötelező"
+  },
+  "options": {
+    "noun": "beállítások"
+  },
+  "override": {
+    "verb": "felülbírál"
+  },
+  "padding": {
+    "noun": "kitöltés"
+  },
+  "page": {
+    "noun": "oldal"
+  },
+  "Pakistan": {
+    "noun": "Pakisztán"
+  },
+  "Palau": {
+    "noun": "Palau"
+  },
+  "Palestinian Territories": {
+    "noun": "Palesztin Területek"
+  },
+  "Panama": {
+    "noun": "Panama"
+  },
+  "Papua New Guinea": {
+    "noun": "Pápua Új-Guinea"
+  },
+  "paragraph": {
+    "noun": "bekezdés"
+  },
+  "Paraguay": {
+    "noun": "Paraguay"
+  },
+  "paste": {
+    "verb": "beillesztés"
+  },
+  "pattern": {
+    "noun": "blokkminta"
+  },
+  "personal data": {
+    "noun": "személyes adatok"
+  },
+  "Peru": {
+    "noun": "Peru"
+  },
+  "Philippines": {
+    "noun": "Fülöp-szigetek"
+  },
+  "Pitcairn Island": {
+    "noun": "Pitcairn-sziget"
+  },
+  "pixel": {
+    "noun": "képpont"
+  },
+  "placeholder": {
+    "noun": "helykitöltő"
+  },
+  "plugin": {
+    "noun": "bővítmény"
+  },
+  "Poland": {
+    "noun": "Lengyelország"
+  },
+  "Portugal": {
+    "noun": "Portugália"
+  },
+  "position": {
+    "noun": "helyzet"
+  },
+  "post": {
+    "noun": "bejegyzés"
+  },
+  "preview": {
+    "verb": "előnézet"
+  },
+  "procedure": {
+    "noun": "eljárás"
+  },
+  "process": {
+    "noun": "folyamat"
+  },
+  "progress bar": {
+    "noun": "folyamatjelző sáv"
+  },
+  "publish": {
+    "verb": "közzétesz"
+  },
+  "Puerto Rico": {
+    "noun": "Puerto Rico"
+  },
+  "Qatar": {
+    "noun": "Katar"
+  },
+  "radio button": {
+    "noun": "rádiógomb"
+  },
+  "Release notes": {
+    "noun": "Kiadási megjegyzések"
+  },
+  "remove": {
+    "verb": "eltávolítás"
+  },
+  "Republic of Kosovo": {
+    "noun": "Koszovói Köztársaság"
+  },
+  "required": {
+    "adverb": "kötelező"
+  },
+  "reset": {
+    "verb": "alaphelyzetbe állítás"
+  },
+  "resize": {
+    "verb": "átméretezés"
+  },
+  "responsive": {
+    "adjective": "reszponszív"
+  },
+  "result": {
+    "noun": "eredmény"
+  },
+  "Reunion Island": {
+    "noun": "Réunion"
+  },
+  "revision": {
+    "noun": "változat"
+  },
+  "Romania": {
+    "noun": "Románia"
+  },
+  "row": {
+    "noun": "sor"
+  },
+  "Russian Federation": {
+    "noun": "Orosz Föderáció"
+  },
+  "Rwanda": {
+    "noun": "Ruanda"
+  },
+  "S&atilde;o Tom&eacute; and Pr&iacute;ncipe": {
+    "noun": "S&atilde;o Tom&eacute; és Pr&iacute;ncipe"
+  },
+  "Saint Barth&eacute;lemy": {
+    "noun": "Saint Barth&eacute;lemy"
+  },
+  "Saint Helena": {
+    "noun": "Szent Ilona"
+  },
+  "Saint Kitts and Nevis": {
+    "noun": "Saint Kitts és Nevis"
+  },
+  "Saint Lucia": {
+    "noun": "Saint Lucia"
+  },
+  "Saint Martin (Dutch)": {
+    "noun": "Saint Martin (holland)"
+  },
+  "Saint Martin (French)": {
+    "noun": "Saint Martin (francia)"
+  },
+  "Saint Pierre and Miquelon": {
+    "noun": "Saint-Pierre és Miquelon"
+  },
+  "Saint Vincent and the Grenadines": {
+    "noun": "Saint Vincent és a Grenadine-szigetek"
+  },
+  "San Marino": {
+    "noun": "San Marino"
+  },
+  "Saudi Arabia": {
+    "noun": "Szaúd-Arábia"
+  },
+  "save": {
+    "verb": "mentés"
+  },
+  "scroll": {
+    "verb": "görgetés"
+  },
+  "scroll bar": {
+    "noun": "görgetősáv"
+  },
+  "scroll box": {
+    "noun": "görgetődoboz"
+  },
+  "scroll wheel": {
+    "noun": "görgetőkerék"
+  },
+  "search": {
+    "verb": "keresés"
+  },
+  "search result": {
+    "noun": "keresési találat"
+  },
+  "section": {
+    "noun": "szakasz"
+  },
+  "select": {
+    "verb": "kijelölés"
+  },
+  "selection": {
+    "noun": "kijelölés"
+  },
+  "Senegal": {
+    "noun": "Szenegál"
+  },
+  "Serbia": {
+    "noun": "Szerbia"
+  },
+  "set": {
+    "verb": "beállítás"
+  },
+  "settings": {
+    "noun": "beállítások"
+  },
+  "Seychelles": {
+    "noun": "Seychelle-szigetek"
+  },
+  "share": {
+    "verb": "megosztás"
+  },
+  "show": {
+    "verb": "megjelenítés"
+  },
+  "Sierra Leone": {
+    "noun": "Sierra Leone"
+  },
+  "Singapore": {
+    "noun": "Szingapúr"
+  },
+  "size": {
+    "noun": "méret"
+  },
+  "slider": {
+    "noun": "diavetítés"
+  },
+  "Slovak Republic": {
+    "noun": "Szlovákia"
+  },
+  "Slovenia": {
+    "noun": "Szlovénia"
+  },
+  "slug": {
+    "noun": "keresőbarát kifejezés"
+  },
+  "snippet": {
+    "noun": "kódrészlet"
+  },
+  "social media": {
+    "noun": "közösségi média"
+  },
+  "social website": {
+    "noun": "közösségi oldal"
+  },
+  "Solomon Islands": {
+    "noun": "Salamon-szigetek"
+  },
+  "Somalia": {
+    "noun": "Szomália"
+  },
+  "South Africa": {
+    "noun": "Dél-Afrika"
+  },
+  "South Georgia": {
+    "noun": "Dél-Georgia"
+  },
+  "South Korea": {
+    "noun": "Dél-Korea"
+  },
+  "South Sudan": {
+    "noun": "Dél-Szudán"
+  },
+  "Spain": {
+    "noun": "Spanyolország"
+  },
+  "Sri Lanka": {
+    "noun": "Srí Lanka"
+  },
+  "status": {
+    "noun": "állapot"
+  },
+  "step": {
+    "noun": "lépés"
+  },
+  "style": {
+    "noun": "stílus"
+  },
+  "submit": {
+    "verb": "elküldés"
+  },
+  "subscribe": {
+    "verb": "feliratkozás"
+  },
+  "Sudan": {
+    "noun": "Szudán"
+  },
+  "Suriname": {
+    "noun": "Suriname"
+  },
+  "Svalbard and Jan Mayen Islands": {
+    "noun": "Svalbard és Jan Mayen-szigetek"
+  },
+  "Swaziland": {
+    "noun": "Szváziföld"
+  },
+  "Sweden": {
+    "noun": "Svédország"
+  },
+  "Switzerland": {
+    "noun": "Svájc"
+  },
+  "Syrian Arab Republic": {
+    "noun": "Szíriai Arab Köztársaság"
+  },
+  "tab": {
+    "noun": "fül"
+  },
+  "tag": {
+    "noun": "címke"
+  },
+  "Taiwan": {
+    "noun": "Tajvan"
+  },
+  "Tajikistan": {
+    "noun": "Tádzsikisztán"
+  },
+  "Tanzania": {
+    "noun": "Tanzánia"
+  },
+  "teaser": {
+    "noun": "bevezető"
+  },
+  "template": {
+    "noun": "sablon"
+  },
+  "Thailand": {
+    "noun": "Thaiföld"
+  },
+  "theme": {
+    "noun": "sablon"
+  },
+  "Timor-Leste": {
+    "noun": "Kelet-Timor"
+  },
+  "Togo": {
+    "noun": "Togo"
+  },
+  "Tokelau": {
+    "noun": "Tokelau"
+  },
+  "Tonga": {
+    "noun": "Tonga"
+  },
+  "tool": {
+    "noun": "eszköz"
+  },
+  "Trinidad and Tobago": {
+    "noun": "Trinidad és Tobago"
+  },
+  "Tunisia": {
+    "noun": "Tunézia"
+  },
+  "Turkey": {
+    "noun": "Törökország"
+  },
+  "Turkiye": {
+    "noun": "Törökország"
+  },
+  "Turkmenistan": {
+    "noun": "Türkmenisztán"
+  },
+  "Turks and Caicos Islands": {
+    "noun": "Turks- és Caicos-szigetek"
+  },
+  "Tuvalu": {
+    "noun": "Tuvalu"
+  },
+  "type": {
+    "noun": "típus"
+  },
+  "Uganda": {
+    "noun": "Uganda"
+  },
+  "Ukraine": {
+    "noun": "Ukrajna"
+  },
+  "unavailable": {
+    "adjective": "nem érhető el"
+  },
+  "uninstall": {
+    "verb": "eltávolítás"
+  },
+  "United Arab Emirates": {
+    "noun": "Egyesült Arab Emírségek"
+  },
+  "United Kingdom": {
+    "noun": "Egyesült Királyság"
+  },
+  "United States": {
+    "noun": "Amerikai Egyesült Államok (USA)"
+  },
+  "unpublish": {
+    "verb": "közzététel visszavonása"
+  },
+  "unshare": {
+    "verb": "megosztás visszavonása"
+  },
+  "update": {
+    "verb": "frissítés"
+  },
+  "Uruguay": {
+    "noun": "Uruguay"
+  },
+  "US Minor Outlying Islands": {
+    "noun": "Az Amerikai Egyesült Államok Külső Szigetei"
+  },
+  "user": {
+    "noun": "felhasználó"
+  },
+  "user consent": {
+    "noun": "felhasználói hozzájárulás"
+  },
+  "Uzbekistan": {
+    "noun": "Üzbegisztán"
+  },
+  "valid": {
+    "adjective": "érvényes"
+  },
+  "validate": {
+    "verb": "érvényesítés"
+  },
+  "value": {
+    "noun": "érték"
+  },
+  "Vanuatu": {
+    "noun": "Vanuatu"
+  },
+  "variable": {
+    "noun": "változó"
+  },
+  "Venezuela": {
+    "noun": "Venezuela"
+  },
+  "Vietnam": {
+    "noun": "Vietnám"
+  },
+  "viewport": {
+    "noun": "nézetablak"
+  },
+  "Virgin Islands (British)": {
+    "noun": "Virgin-szigetek (brit)"
+  },
+  "Virgin Islands (USA)": {
+    "noun": "Virgin-szigetek (USA)"
+  },
+  "Wallis and Futuna Islands": {
+    "noun": "Wallis- és Futuna-szigetek"
+  },
+  "Western Sahara": {
+    "noun": "Nyugat-Szahara"
+  },
+  "Western Samoa": {
+    "noun": "Nyugat-Szamoa"
+  },
+  "widget": {
+    "noun": "modul"
+  },
+  "width": {
+    "noun": "szélesség"
+  },
+  "window": {
+    "noun": "ablak"
+  },
+  "Yemen": {
+    "noun": "Jemen"
+  },
+  "Zambia": {
+    "noun": "Zambia"
+  },
+  "Zimbabwe": {
+    "noun": "Zimbabwe"
+  }
+}

@@ -1,0 +1,3167 @@
+{
+  "About": {
+    "adverb": "Tentang"
+  },
+  "accent color": {
+    "noun": "warna aksen"
+  },
+  "access": {
+    "noun": "akses",
+    "verb": "mengakses"
+  },
+  "accessed": {
+    "verb": "diakses"
+  },
+  "Accessibility Handbook": {
+    "noun": "Buku Panduan Aksesibilitas"
+  },
+  "accordion": {
+    "noun": "accordion"
+  },
+  "account": {
+    "noun": "akun"
+  },
+  "achievement": {
+    "noun": "capaian"
+  },
+  "action": {
+    "noun": "tindakan"
+  },
+  "action hook": {
+    "noun": "action hook"
+  },
+  "activate": {
+    "verb": "mengaktifkan"
+  },
+  "activated": {
+    "verb": "diaktifkan"
+  },
+  "activation": {
+    "noun": "aktivasi"
+  },
+  "activation email": {
+    "noun": "e-mail aktivasi"
+  },
+  "active": {
+    "adjective": "aktif"
+  },
+  "activity": {
+    "noun": "aktivitas"
+  },
+  "ad policy": {
+    "noun": "kebijakan iklan"
+  },
+  "add": {
+    "verb": "menambahkan"
+  },
+  "add new": {
+    "expression": "menambahkan baru"
+  },
+  "add to": {
+    "verb": "menambahkan pada"
+  },
+  "add to cart": {
+    "expression": "tambahkan ke keranjang"
+  },
+  "add-on": {
+    "noun": "ekstensi"
+  },
+  "addon": {
+    "noun": "tambahan"
+  },
+  "address": {
+    "verb": "mengatasi"
+  },
+  "admin": {
+    "noun": "administrator"
+  },
+  "admin bar": {
+    "noun": "bar administrator"
+  },
+  "admin panel": {
+    "noun": "panel administrator"
+  },
+  "administrator": {
+    "noun": "administrator"
+  },
+  "advanced": {
+    "adjective": "tingkat lanjut"
+  },
+  "Akismet": {
+    "noun": "Akismet"
+  },
+  "align": {
+    "verb": "menyelaraskan"
+  },
+  "alignment": {
+    "noun": "perataan"
+  },
+  "all": {
+    "adjective": "semua"
+  },
+  "all-in-one": {
+    "adjective": "semua tersedia"
+  },
+  "allow": {
+    "verb": "izinkan"
+  },
+  "analyze": {
+    "verb": "menganalisis"
+  },
+  "analyzed": {
+    "verb": "dianalisis"
+  },
+  "analyzes": {
+    "verb": "menganalisis"
+  },
+  "analyzing": {
+    "verb": "menganalisis"
+  },
+  "anchor": {
+    "noun": "anchor"
+  },
+  "anonymize": {
+    "verb": "menganonimkan"
+  },
+  "anti-spam": {
+    "noun": "anti spam"
+  },
+  "API": {
+    "noun": "API"
+  },
+  "API Key": {
+    "noun": "API Key"
+  },
+  "apologize": {
+    "verb": "meminta maaf"
+  },
+  "app": {
+    "noun": "aplikasi"
+  },
+  "appearance": {
+    "noun": "tampilan"
+  },
+  "apply": {
+    "verb": "menerapkan"
+  },
+  "approval": {
+    "noun": "persetujuan"
+  },
+  "approve": {
+    "verb": "menyetujui"
+  },
+  "approved": {
+    "verb": "diterima"
+  },
+  "arbitral decision": {
+    "noun": "keputusan arbitrase"
+  },
+  "archive": {
+    "noun": "arsip",
+    "verb": "mengarsipkan"
+  },
+  "archived": {
+    "verb": "diarsipkan"
+  },
+  "are you sure": {
+    "expression": "apakah Anda yakin"
+  },
+  "are you sure you want to": {
+    "expression": "apakah Anda yakin ingin"
+  },
+  "area": {
+    "noun": "wilayah"
+  },
+  "argument": {
+    "noun": "argumen"
+  },
+  "array": {
+    "noun": "array"
+  },
+  "article": {
+    "noun": "artikel"
+  },
+  "asc": {
+    "adjective": "di atas"
+  },
+  "ascending": {
+    "adjective": "urut naik"
+  },
+  "aside": {
+    "noun": "tambahan"
+  },
+  "aspect ratio": {
+    "noun": "rasio aspek"
+  },
+  "assign": {
+    "verb": "memberikan akses"
+  },
+  "at": {
+    "preposition": "pada"
+  },
+  "At a Glance": {
+    "noun": "Sekilas"
+  },
+  "at the bottom": {
+    "preposition": "di bawah"
+  },
+  "at the top": {
+    "expression": "terbaik"
+  },
+  "attach": {
+    "verb": "melampirkan"
+  },
+  "attached": {
+    "verb": "terlampir"
+  },
+  "attachment": {
+    "noun": "lampiran"
+  },
+  "attribute": {
+    "noun": "atribut"
+  },
+  "audio": {
+    "noun": "audio"
+  },
+  "audio player": {
+    "noun": "pemutar audio"
+  },
+  "audit": {
+    "noun": "audit",
+    "verb": "mengaudit"
+  },
+  "authenticate": {
+    "verb": "membuktikan"
+  },
+  "authentication": {
+    "noun": "autentikasi"
+  },
+  "Authenticator app": {
+    "noun": "aplikasi authenticator"
+  },
+  "author": {
+    "noun": "penulis"
+  },
+  "authorization": {
+    "noun": "otorisasi"
+  },
+  "authorize": {
+    "verb": "memberikan otorisasi"
+  },
+  "authorized": {
+    "verb": "diotorisasi"
+  },
+  "auto renew": {
+    "verb": "memperbarui otomatis"
+  },
+  "auto-updates": {
+    "adjective": "pembaruan otomatis"
+  },
+  "automate": {
+    "verb": "membuat otomatis"
+  },
+  "automatic renewal": {
+    "noun": "pembaruan otomatis"
+  },
+  "automation": {
+    "noun": "otomatisasi"
+  },
+  "autosave": {
+    "noun": "penyimpanan otomatis",
+    "verb": "menyimpan otomatis"
+  },
+  "available": {
+    "adjective": "tersedia"
+  },
+  "avatar": {
+    "noun": "avatar"
+  },
+  "average": {
+    "noun": "rata-rata"
+  },
+  "back end": {
+    "noun": "back end"
+  },
+  "back up": {
+    "verb": "mencadangkan"
+  },
+  "back-compat": {
+    "noun": "back-compat"
+  },
+  "back-office": {
+    "noun": "kantor"
+  },
+  "backend": {
+    "adjective": "backend"
+  },
+  "background": {
+    "noun": "latar belakang"
+  },
+  "background color": {
+    "noun": "warna latar belakang"
+  },
+  "background image": {
+    "noun": "gambar latar belakang"
+  },
+  "background pattern": {
+    "noun": "pola latar belakang"
+  },
+  "backtick": {
+    "noun": "backtick"
+  },
+  "backup": {
+    "noun": "cadangan, pencadangan"
+  },
+  "backup code": {
+    "noun": "kode cadangan"
+  },
+  "backward compatibility": {
+    "adjective": "kompatibilitas terbalik"
+  },
+  "badge": {
+    "noun": "lencana"
+  },
+  "banner": {
+    "noun": "spanduk"
+  },
+  "bar": {
+    "noun": "bar"
+  },
+  "base": {
+    "noun": "dasar"
+  },
+  "basic": {
+    "noun": "dasar"
+  },
+  "bbPress": {
+    "noun": "bbPress"
+  },
+  "behavior": {
+    "noun": "perilaku"
+  },
+  "below": {
+    "preposition": "di bawah"
+  },
+  "billing": {
+    "noun": "penagihan"
+  },
+  "billing history": {
+    "noun": "riawayat penagihan"
+  },
+  "binary": {
+    "noun": "biner"
+  },
+  "bitrate": {
+    "noun": "bitrate"
+  },
+  "block": {
+    "noun": "blok"
+  },
+  "block editor": {
+    "noun": "editor blok"
+  },
+  "blockquote": {
+    "noun": "blockquote"
+  },
+  "blog": {
+    "noun": "blog"
+  },
+  "blog address": {
+    "noun": "alamat blog"
+  },
+  "blog post": {
+    "noun": "artikel blog"
+  },
+  "blog theme": {
+    "noun": "tema blog"
+  },
+  "blogger": {
+    "noun": "bloger"
+  },
+  "Blogroll": {
+    "noun": "senarai blog"
+  },
+  "blok inserter": {
+    "noun": "blok inserter"
+  },
+  "blurb": {
+    "noun": "uraian"
+  },
+  "Blush bordeaux": {
+    "noun": "blush bordeaux"
+  },
+  "Blush light purple": {
+    "noun": "ungu terang kemerahan light purple"
+  },
+  "body text": {
+    "noun": "text badan teks"
+  },
+  "bold": {
+    "adjective": "tebal"
+  },
+  "bookmark": {
+    "noun": "bookmark"
+  },
+  "bookmarklet": {
+    "noun": "bookmarklet"
+  },
+  "border": {
+    "noun": "garis"
+  },
+  "box": {
+    "noun": "kotak"
+  },
+  "boxed": {
+    "verb": "dikemas"
+  },
+  "boxed width": {
+    "noun": "lebar berbingkai"
+  },
+  "brand": {
+    "noun": "merek"
+  },
+  "branding": {
+    "noun": "branding"
+  },
+  "breadcrumb": {
+    "noun": "breadcrumb"
+  },
+  "breakpoint": {
+    "noun": "breakpoint"
+  },
+  "browse": {
+    "verb": "menjelajah"
+  },
+  "browser": {
+    "noun": "browser"
+  },
+  "browser user agent string": {
+    "noun": "string pengenal browser"
+  },
+  "browsing": {
+    "verb": "menjelajah"
+  },
+  "BuddyPress": {
+    "noun": "BuddyPress"
+  },
+  "budget": {
+    "noun": "anggaran"
+  },
+  "bug": {
+    "noun": "gangguan"
+  },
+  "bug report": {
+    "noun": "laporan gangguan"
+  },
+  "build directory": {
+    "noun": "build directory"
+  },
+  "build file": {
+    "noun": "build file"
+  },
+  "build package": {
+    "noun": "build package"
+  },
+  "builds": {
+    "noun": "builds"
+  },
+  "built-in": {
+    "adjective": "terintegrasi"
+  },
+  "bulk": {
+    "noun": "jumlah besar"
+  },
+  "bulk action": {
+    "noun": "aksi masal"
+  },
+  "bullet list": {
+    "noun": "daftar bersimbol"
+  },
+  "bulleted list": {
+    "noun": "daftar bersimbol"
+  },
+  "bundle": {
+    "noun": "bundel"
+  },
+  "button": {
+    "noun": "tombol"
+  },
+  "by default": {
+    "adverb": "otomatis"
+  },
+  "cache": {
+    "noun": "cache"
+  },
+  "call to action": {
+    "expression": "call to action"
+  },
+  "call-back": {
+    "verb": "memanggil kembali"
+  },
+  "cancel": {
+    "verb": "batalkan"
+  },
+  "canceled": {
+    "verb": "dibatalkan"
+  },
+  "canceling": {
+    "verb": "membatalkan"
+  },
+  "canonical": {
+    "adjective": "kanonis"
+  },
+  "capabilities": {
+    "noun": "kemampuan"
+  },
+  "capability": {
+    "noun": "kemampuan"
+  },
+  "capitalize": {
+    "verb": "menulis dengan huruf besar"
+  },
+  "capitalized": {
+    "verb": "ditulis dengan huruf besar"
+  },
+  "capitalizes": {
+    "verb": "menulis dengan huruf besar"
+  },
+  "captcha": {
+    "noun": "captcha"
+  },
+  "caption": {
+    "noun": "keterangan"
+  },
+  "cart": {
+    "noun": "keranjang"
+  },
+  "case-sensitive": {
+    "adjective": "peka huruf besar-kecil"
+  },
+  "catalog": {
+    "verb": "katalog"
+  },
+  "categorize": {
+    "verb": "mengkategorikan"
+  },
+  "categorized": {
+    "verb": "dikategorikan"
+  },
+  "category": {
+    "noun": "kategori"
+  },
+  "centered": {
+    "adjective": "di tengah"
+  },
+  "centimeter": {
+    "noun": "sentimeter"
+  },
+  "centralize": {
+    "verb": "memusatkan"
+  },
+  "centralized": {
+    "verb": "dipusatkan"
+  },
+  "change": {
+    "verb": "mengubah"
+  },
+  "changed": {
+    "verb": "diubah"
+  },
+  "character code": {
+    "noun": "kode karakter"
+  },
+  "character entity reference": {
+    "noun": "referensi kumpulan huruf"
+  },
+  "character set": {
+    "noun": "kumpulan huruf"
+  },
+  "chat": {
+    "noun": "obrolan"
+  },
+  "check out": {
+    "verb": "keluar"
+  },
+  "checkbox": {
+    "noun": "checkbox"
+  },
+  "CheckList": {
+    "noun": "CheckList"
+  },
+  "checkout": {
+    "noun": "checkout"
+  },
+  "child theme": {
+    "noun": "tema turunan"
+  },
+  "children blocks": {
+    "noun": "blok turunan"
+  },
+  "citation": {
+    "noun": "kutipan"
+  },
+  "classic editor": {
+    "noun": "editor klasik"
+  },
+  "clear": {
+    "verb": "bersihkan"
+  },
+  "click": {
+    "verb": "klik"
+  },
+  "clicked": {
+    "verb": "ditekan"
+  },
+  "clipboard": {
+    "noun": "papan klip"
+  },
+  "clone": {
+    "verb": "menduplikasi",
+    "noun": "klon"
+  },
+  "close": {
+    "verb": "tutup"
+  },
+  "closed": {
+    "verb": "ditutup"
+  },
+  "COD": {
+    "expression": "Cash on Delivery"
+  },
+  "Code of Conduct": {
+    "noun": "Kode Etik"
+  },
+  "collapse": {
+    "verb": "runtuhkan"
+  },
+  "color": {
+    "noun": "warna"
+  },
+  "color picker": {
+    "noun": "pemilih warna"
+  },
+  "color scheme": {
+    "noun": "skema warna"
+  },
+  "colorful": {
+    "adjective": "berwarna-warni"
+  },
+  "column": {
+    "noun": "kolom"
+  },
+  "Coming Soon mode": {
+    "noun": "mode Segera Hadir"
+  },
+  "comment": {
+    "verb": "memberikan komentar",
+    "noun": "komentar"
+  },
+  "Commercial Plugin": {
+    "noun": "Plugin Komersial"
+  },
+  "commit": {
+    "verb": "commit"
+  },
+  "common": {
+    "adjective": "umum"
+  },
+  "compat": {
+    "adjective": "sesuai"
+  },
+  "compatibility": {
+    "noun": "kompatibilitas"
+  },
+  "compatible": {
+    "adjective": "sesuai"
+  },
+  "complete": {
+    "adjective": "lengkap"
+  },
+  "computer": {
+    "noun": "komputer"
+  },
+  "conditional tag": {
+    "noun": "tag kondisional"
+  },
+  "configuration": {
+    "noun": "konfigurasi"
+  },
+  "configure": {
+    "verb": "membuat konfigurasi"
+  },
+  "confirm": {
+    "verb": "mengonfirmasikan"
+  },
+  "connect": {
+    "verb": "menyambungkan"
+  },
+  "connection": {
+    "noun": "koneksi"
+  },
+  "constant": {
+    "noun": "constant"
+  },
+  "contact form": {
+    "noun": "formulir kontak"
+  },
+  "contact info": {
+    "noun": "info kontak"
+  },
+  "content": {
+    "noun": "konten"
+  },
+  "contribute": {
+    "verb": "membantu"
+  },
+  "contribution": {
+    "noun": "kontribusi"
+  },
+  "contributor": {
+    "noun": "kontributor"
+  },
+  "conversion": {
+    "noun": "perubahan"
+  },
+  "convert": {
+    "verb": "mengubah"
+  },
+  "cookie": {
+    "noun": "kuki"
+  },
+  "copyright": {
+    "noun": "hak cipta"
+  },
+  "core": {
+    "noun": "core"
+  },
+  "countdown": {
+    "noun": "hitung mundur"
+  },
+  "coupon": {
+    "noun": "kupon"
+  },
+  "coupon code": {
+    "noun": "kode kupon"
+  },
+  "course": {
+    "noun": "kursus"
+  },
+  "crawl": {
+    "verb": "memindai"
+  },
+  "create": {
+    "verb": "membuat"
+  },
+  "Creative Commons": {
+    "noun": "Creative Commons"
+  },
+  "credits": {
+    "noun": "penghargaan"
+  },
+  "crop": {
+    "verb": "memotong"
+  },
+  "cross-sell": {
+    "noun": "penjualan silang (cross-selling)"
+  },
+  "CSS": {
+    "noun": "CSS"
+  },
+  "CSV": {
+    "noun": "CSV"
+  },
+  "CTA": {
+    "expression": "call to action"
+  },
+  "custom": {
+    "adjective": "khusus"
+  },
+  "custom colors": {
+    "noun": "warna khusus"
+  },
+  "custom CSS": {
+    "noun": "CSS khusus"
+  },
+  "custom field": {
+    "noun": "bidang khusus"
+  },
+  "Custom Post Type": {
+    "noun": "Tipe Artikel Khusus"
+  },
+  "customer": {
+    "noun": "pelanggan"
+  },
+  "customizable": {
+    "adjective": "dapat dimodifikasi"
+  },
+  "customization": {
+    "noun": "kustomisasi"
+  },
+  "customize": {
+    "verb": "sesuaikan"
+  },
+  "customized": {
+    "verb": "disesuaikan"
+  },
+  "Customizer": {
+    "noun": "Customizer"
+  },
+  "dashboard": {
+    "noun": "dasbor"
+  },
+  "dashicon": {
+    "noun": "dashicon"
+  },
+  "database": {
+    "noun": "basis data"
+  },
+  "datacenter": {
+    "noun": "pusat data"
+  },
+  "date range": {
+    "noun": "rentang tanggal"
+  },
+  "deactivate": {
+    "verb": "menonaktifkan"
+  },
+  "deactivated": {
+    "verb": "dinonaktifkan"
+  },
+  "debug": {
+    "verb": "melakukan debug"
+  },
+  "decoding": {
+    "verb": "dekode"
+  },
+  "default": {
+    "adjective": "standar"
+  },
+  "default theme": {
+    "noun": "tema asal"
+  },
+  "defaults to": {
+    "expression": "memakai pengaturan awal"
+  },
+  "delete": {
+    "verb": "hapus"
+  },
+  "deleted": {
+    "verb": "dihapus"
+  },
+  "delivery": {
+    "noun": "pengantaran"
+  },
+  "dependency": {
+    "noun": "dependensi"
+  },
+  "deprecated": {
+    "adjective": "usang"
+  },
+  "desc": {
+    "adjective": "urut turun"
+  },
+  "descending": {
+    "adjective": "urut turun"
+  },
+  "description": {
+    "noun": "deskripsi"
+  },
+  "design": {
+    "noun": "desain"
+  },
+  "designation": {
+    "noun": "penunjukan"
+  },
+  "details": {
+    "noun": "detail"
+  },
+  "developer": {
+    "noun": "developer"
+  },
+  "development version": {
+    "noun": "versi pengembangan"
+  },
+  "device": {
+    "noun": "perangkat"
+  },
+  "dialog": {
+    "noun": "percakapan"
+  },
+  "digitize": {
+    "verb": "melakukan digitalisasi"
+  },
+  "dimension": {
+    "noun": "dimensi"
+  },
+  "direction": {
+    "noun": "arah"
+  },
+  "directive": {
+    "noun": "directive"
+  },
+  "directory": {
+    "noun": "direktori"
+  },
+  "disable": {
+    "verb": "menonaktifkan"
+  },
+  "disabled": {
+    "verb": "dinonaktifkan"
+  },
+  "disconnect": {
+    "verb": "putuskan sambungan"
+  },
+  "discussion": {
+    "noun": "diskusi"
+  },
+  "dismiss": {
+    "verb": "menutup"
+  },
+  "dismissed": {
+    "verb": "ditutup"
+  },
+  "display": {
+    "noun": "tampilan",
+    "verb": "menampilkan"
+  },
+  "Distraction Free": {
+    "noun": "Mode Bebas Gangguan"
+  },
+  "Distraction Free Writing": {
+    "expression": "Menulis Tanpa Gangguan"
+  },
+  "docker": {
+    "noun": "docker"
+  },
+  "Document overview": {
+    "noun": "Ringkasan dokumen"
+  },
+  "documentation": {
+    "noun": "dokumentasi"
+  },
+  "does not exist": {
+    "adjective": "tidak ditemukan"
+  },
+  "domain": {
+    "noun": "domain"
+  },
+  "domain registrar": {
+    "noun": "domain registrar"
+  },
+  "done": {
+    "adjective": "selesai"
+  },
+  "download": {
+    "verb": "mengunduh",
+    "noun": "unduhan"
+  },
+  "downsell": {
+    "noun": "downsell"
+  },
+  "draft": {
+    "noun": "konsep"
+  },
+  "drag": {
+    "verb": "seret"
+  },
+  "drag and drop": {
+    "expression": "seret-lepas"
+  },
+  "drag and drop builder": {
+    "expression": "pembangun seret-lepas"
+  },
+  "Drop Cap": {
+    "noun": "Huruf Awal Besar"
+  },
+  "drop down list": {
+    "noun": "daftar drop down"
+  },
+  "drop down menu": {
+    "noun": "menu drop down"
+  },
+  "Drop-in": {
+    "expression": "drop-in"
+  },
+  "dropdown": {
+    "noun": "dropdown"
+  },
+  "duplicate": {
+    "verb": "melakukan duplikasi"
+  },
+  "duplication": {
+    "noun": "duplikasi"
+  },
+  "e-commerce": {
+    "noun": "e-commerce"
+  },
+  "eCommerce": {
+    "noun": "eCommerce"
+  },
+  "edit": {
+    "verb": "edit"
+  },
+  "Editor": {
+    "noun": "Editor"
+  },
+  "editor": {
+    "noun": "penyunting"
+  },
+  "email": {
+    "noun": "e-mail"
+  },
+  "email address": {
+    "noun": "alamat e-mail"
+  },
+  "embed": {
+    "noun": "sematan",
+    "verb": "menyematkan"
+  },
+  "embedded": {
+    "verb": "tersemat"
+  },
+  "emoji": {
+    "noun": "emoji"
+  },
+  "emoticon": {
+    "noun": "emotikon"
+  },
+  "enable": {
+    "verb": "mengaktifkan"
+  },
+  "enabled": {
+    "verb": "diaktifkan"
+  },
+  "encoding": {
+    "noun": "pengodean"
+  },
+  "endpoint": {
+    "noun": "endpoint"
+  },
+  "endpoints": {
+    "noun": "endpoints"
+  },
+  "enter": {
+    "verb": "memasukkan"
+  },
+  "ENTER": {
+    "noun": "ENTER"
+  },
+  "entry": {
+    "noun": "entri"
+  },
+  "erasure": {
+    "noun": "penghapusan"
+  },
+  "error": {
+    "noun": "eror"
+  },
+  "esc": {
+    "noun": "esc"
+  },
+  "Escape": {
+    "noun": "Escape"
+  },
+  "event": {
+    "noun": "event"
+  },
+  "excerpt": {
+    "noun": "kutipan"
+  },
+  "existing": {
+    "adjective": "yang ada"
+  },
+  "expand": {
+    "verb": "memperluas"
+  },
+  "export": {
+    "verb": "mengekspor",
+    "noun": "ekspor"
+  },
+  "expression": {
+    "noun": "ekspresi"
+  },
+  "extend": {
+    "verb": "memperluas"
+  },
+  "extension": {
+    "noun": "ekstensi"
+  },
+  "extra": {
+    "noun": "ekstra"
+  },
+  "fall-back": {
+    "verb": "fall-back"
+  },
+  "FAQ": {
+    "noun": "Pertanyaan yang Sering Diajukan"
+  },
+  "favicon": {
+    "noun": "favicon"
+  },
+  "favorite": {
+    "adjective": "favorit"
+  },
+  "feature": {
+    "noun": "fitur"
+  },
+  "featured": {
+    "adjective": "unggulan"
+  },
+  "featured image": {
+    "noun": "gambar andalan"
+  },
+  "featured post": {
+    "noun": "pos andalan"
+  },
+  "fee": {
+    "noun": "biaya"
+  },
+  "feed": {
+    "noun": "feed"
+  },
+  "feedback": {
+    "noun": "masukan"
+  },
+  "feeds": {
+    "noun": "feed"
+  },
+  "fetch": {
+    "verb": "ambil"
+  },
+  "field": {
+    "noun": "bidang"
+  },
+  "Field Guide": {
+    "noun": "Panduan Lapangan"
+  },
+  "file": {
+    "noun": "berkas"
+  },
+  "file permission": {
+    "noun": "file permission"
+  },
+  "filesystem": {
+    "noun": "filesystem"
+  },
+  "filled button": {
+    "noun": "tombol penuh"
+  },
+  "filter": {
+    "noun": "penyaring"
+  },
+  "filter by": {
+    "expression": "filter berdasarkan"
+  },
+  "filter hook": {
+    "noun": "filter hook"
+  },
+  "find": {
+    "verb": "menemukan"
+  },
+  "first name": {
+    "noun": "nama depan"
+  },
+  "fix": {
+    "verb": "memperbaiki",
+    "noun": "perbaikan"
+  },
+  "fixed": {
+    "adjective": "tetap"
+  },
+  "fixed layout": {
+    "noun": "tata letak tetap"
+  },
+  "flag": {
+    "noun": "peringatan"
+  },
+  "flat rate": {
+    "noun": "tarif tetap"
+  },
+  "flex": {
+    "noun": "flex"
+  },
+  "flexible": {
+    "adjective": "fleksibel"
+  },
+  "flip": {
+    "verb": "balik"
+  },
+  "fluid": {
+    "adjective": "fleksibel"
+  },
+  "focus": {
+    "verb": "fokus"
+  },
+  "folder": {
+    "noun": "folder"
+  },
+  "follow": {
+    "verb": "mengikuti"
+  },
+  "follower": {
+    "noun": "follower"
+  },
+  "font": {
+    "noun": "jenis huruf"
+  },
+  "font color": {
+    "noun": "warna font"
+  },
+  "font family": {
+    "noun": "kelompok font"
+  },
+  "font size": {
+    "noun": "ukuran font"
+  },
+  "font style": {
+    "noun": "gaya font"
+  },
+  "footer": {
+    "noun": "footer"
+  },
+  "forbidden": {
+    "verb": "dilarang"
+  },
+  "form": {
+    "noun": "formulir"
+  },
+  "formatting": {
+    "noun": "pengaturan format/pemformatan"
+  },
+  "forum": {
+    "noun": "forum"
+  },
+  "Forward/slash": {
+    "noun": "garis miring"
+  },
+  "frame": {
+    "noun": "bingkai"
+  },
+  "free": {
+    "adjective": "gratis"
+  },
+  "Frequently Asked Questions": {
+    "noun": "Tanya Jawab"
+  },
+  "front end": {
+    "noun": "ujung depan"
+  },
+  "Front page": {
+    "noun": "Halaman depan"
+  },
+  "front-end": {
+    "noun": "ujung depan"
+  },
+  "frontend": {
+    "adjective": "frontend"
+  },
+  "full screen": {
+    "adjective": "layar penuh"
+  },
+  "full width": {
+    "adjective": "lebar penuh"
+  },
+  "gallery": {
+    "noun": "galeri"
+  },
+  "general": {
+    "adjective": "umum"
+  },
+  "global": {
+    "adjective": "global"
+  },
+  "global dashboard": {
+    "noun": "dasbor global"
+  },
+  "global settings": {
+    "noun": "pengaturan global"
+  },
+  "GlotPress": {
+    "noun": "GlotPress"
+  },
+  "gradient": {
+    "noun": "gradien"
+  },
+  "gravatar": {
+    "noun": "gravatar"
+  },
+  "grid": {
+    "noun": "kisi"
+  },
+  "guest": {
+    "noun": "tamu"
+  },
+  "h:ia": {
+    "abbreviation": "h:ia"
+  },
+  "handbook": {
+    "noun": "buku panduan"
+  },
+  "handle": {
+    "noun": "penangan"
+  },
+  "handler": {
+    "noun": "handler"
+  },
+  "hash": {
+    "noun": "hash"
+  },
+  "header": {
+    "noun": "header"
+  },
+  "header image": {
+    "noun": "gambar header"
+  },
+  "Headers": {
+    "noun": "Header"
+  },
+  "heading": {
+    "noun": "judul"
+  },
+  "headline": {
+    "noun": "tajuk utama"
+  },
+  "helpdesk": {
+    "noun": "bantuan"
+  },
+  "HelpHub": {
+    "noun": "HelpHub"
+  },
+  "hero": {
+    "noun": "hero"
+  },
+  "hex": {
+    "noun": "hex"
+  },
+  "hide": {
+    "verb": "sembunyikan"
+  },
+  "hierarchy": {
+    "noun": "hirarki"
+  },
+  "home": {
+    "noun": "beranda"
+  },
+  "home page": {
+    "noun": "halaman awal"
+  },
+  "homepage": {
+    "noun": "beranda"
+  },
+  "hook": {
+    "noun": "hook"
+  },
+  "host": {
+    "noun": "penyedia hosting"
+  },
+  "hosting": {
+    "noun": "hosting"
+  },
+  "hosting provider": {
+    "noun": "penyedia hosting"
+  },
+  "hosts": {
+    "noun": "host"
+  },
+  "hover": {
+    "verb": "mengarahkan"
+  },
+  "hover effect": {
+    "adjective": "efek hover"
+  },
+  "howdy": {
+    "expression": "apa kabar"
+  },
+  "HTML": {
+    "noun": "HTML"
+  },
+  "https": {
+    "noun": "https"
+  },
+  "hue": {
+    "noun": "warna"
+  },
+  "hyperlink": {
+    "noun": "tautan"
+  },
+  "icon": {
+    "noun": "ikon"
+  },
+  "ID": {
+    "noun": "ID"
+  },
+  "IDE": {
+    "noun": "IDE"
+  },
+  "Image": {
+    "noun": "Gambar"
+  },
+  "import": {
+    "verb": "impor"
+  },
+  "importer": {
+    "noun": "pengimpor"
+  },
+  "inactivate": {
+    "verb": "nonaktifkan"
+  },
+  "inactive": {
+    "adjective": "non-aktif"
+  },
+  "inbox": {
+    "noun": "inbox"
+  },
+  "index": {
+    "noun": "indeks"
+  },
+  "influencer": {
+    "noun": "influencer"
+  },
+  "inline": {
+    "adjective": "inline"
+  },
+  "inner": {
+    "adjective": "inner"
+  },
+  "input": {
+    "noun": "input"
+  },
+  "insert": {
+    "verb": "menambahkan"
+  },
+  "inserted": {
+    "verb": "ditambahkan"
+  },
+  "inserter": {
+    "noun": "inserter"
+  },
+  "install": {
+    "verb": "menginstal"
+  },
+  "Interactivity API": {
+    "noun": "API Interaktivitas"
+  },
+  "interface": {
+    "noun": "interface"
+  },
+  "internationalization": {
+    "verb": "internasionalisasi"
+  },
+  "internet": {
+    "noun": "internet"
+  },
+  "invalid": {
+    "adjective": "tidak valid"
+  },
+  "invoice": {
+    "noun": "tagihan"
+  },
+  "IP address": {
+    "noun": "alamat IP"
+  },
+  "issue": {
+    "noun": "kendala"
+  },
+  "italic": {
+    "adjective": "miring"
+  },
+  "item": {
+    "noun": "item"
+  },
+  "j M Y": {
+    "abbreviation": "j M Y"
+  },
+  "JavaScript": {
+    "noun": "JavaScript"
+  },
+  "jS F Y": {
+    "abbreviation": "j F Y"
+  },
+  "key master": {
+    "noun": "key master"
+  },
+  "keyboard": {
+    "noun": "keyboard"
+  },
+  "keyword": {
+    "noun": "kata kunci"
+  },
+  "label": {
+    "noun": "label"
+  },
+  "landing page": {
+    "noun": "halaman arahan"
+  },
+  "language": {
+    "noun": "bahasa"
+  },
+  "last name": {
+    "noun": "nama belakang"
+  },
+  "latest": {
+    "adjective": "terbaru"
+  },
+  "layout": {
+    "noun": "tata letak"
+  },
+  "lazy loading": {
+    "noun": "pemuatan lambat"
+  },
+  "Learn More": {
+    "expression": "Pelajari Lebih Lanjut"
+  },
+  "legacy": {
+    "adjective": "warisan"
+  },
+  "letter spacing": {
+    "noun": "spasi huruf"
+  },
+  "level": {
+    "noun": "level"
+  },
+  "library": {
+    "noun": "pustaka"
+  },
+  "licensed under": {
+    "expression": "berlisensi"
+  },
+  "lightness": {
+    "noun": "rona"
+  },
+  "Like": {
+    "noun": "Suka"
+  },
+  "likes": {
+    "noun": "likes"
+  },
+  "line height": {
+    "noun": "tinggi baris"
+  },
+  "linear": {
+    "adjective": "linier"
+  },
+  "link": {
+    "noun": "tautan",
+    "verb": "menautkan"
+  },
+  "list": {
+    "noun": "daftar"
+  },
+  "list item": {
+    "noun": "isi daftar"
+  },
+  "livestream": {
+    "noun": "livestream"
+  },
+  "load times": {
+    "noun": "waktu muat"
+  },
+  "locale": {
+    "noun": "setempat"
+  },
+  "localization": {
+    "noun": "pelokalan"
+  },
+  "localize": {
+    "verb": "melokalkan"
+  },
+  "location": {
+    "noun": "lokasi"
+  },
+  "log": {
+    "verb": "log"
+  },
+  "log in": {
+    "expression": "login"
+  },
+  "log out": {
+    "expression": "logout"
+  },
+  "logged in": {
+    "adjective": "sudah login"
+  },
+  "logged out": {
+    "adjective": "sudah logout"
+  },
+  "login": {
+    "verb": "login"
+  },
+  "logotype": {
+    "noun": "logotype"
+  },
+  "logout": {
+    "verb": "logout"
+  },
+  "loop": {
+    "noun": "loop"
+  },
+  "loopback": {
+    "noun": "loopback"
+  },
+  "lowercase": {
+    "noun": "huruf kecil"
+  },
+  "Luminous dusk": {
+    "noun": "Luminous dusk"
+  },
+  "M d": {
+    "abbreviation": "d M"
+  },
+  "M j, Y": {
+    "abbreviation": "j M, Y"
+  },
+  "M jS": {
+    "abbreviation": "j M"
+  },
+  "magazine": {
+    "noun": "majalah"
+  },
+  "mailbox": {
+    "noun": "kotak pesan"
+  },
+  "main": {
+    "adjective": "utama"
+  },
+  "main block": {
+    "noun": "blok utama"
+  },
+  "maintenance": {
+    "noun": "pemeliharaan"
+  },
+  "major": {
+    "adjective": "utama"
+  },
+  "malware": {
+    "noun": "malware"
+  },
+  "manage": {
+    "verb": "mengelola"
+  },
+  "management": {
+    "noun": "manajemen"
+  },
+  "manager": {
+    "noun": "pengelola"
+  },
+  "mark": {
+    "verb": "tandai"
+  },
+  "match": {
+    "verb": "sesuai"
+  },
+  "maximize": {
+    "verb": "memaksimalkan"
+  },
+  "media": {
+    "noun": "media"
+  },
+  "media library": {
+    "noun": "pustaka media"
+  },
+  "media uploader": {
+    "noun": "pengunggah media"
+  },
+  "member": {
+    "noun": "anggota"
+  },
+  "memory": {
+    "noun": "memori"
+  },
+  "mentor": {
+    "noun": "mentor"
+  },
+  "menu": {
+    "noun": "menu"
+  },
+  "menu item": {
+    "noun": "isi menu"
+  },
+  "menu location": {
+    "noun": "lokasi menu"
+  },
+  "merge": {
+    "verb": "menggabungkan"
+  },
+  "message": {
+    "noun": "pesan"
+  },
+  "meta": {
+    "noun": "meta"
+  },
+  "meta box": {
+    "noun": "kotak meta"
+  },
+  "meta data": {
+    "noun": "data meta"
+  },
+  "metadata": {
+    "noun": "metadata"
+  },
+  "meter": {
+    "noun": "meter"
+  },
+  "method": {
+    "noun": "metode"
+  },
+  "migrate": {
+    "verb": "migrasi"
+  },
+  "millimeter": {
+    "noun": "milimeter"
+  },
+  "minimal": {
+    "noun": "minimal"
+  },
+  "minimize": {
+    "verb": "minimalkan"
+  },
+  "minimized": {
+    "verb": "diminimalkan"
+  },
+  "mismatch": {
+    "noun": "ketidaksesuaian"
+  },
+  "mobile": {
+    "noun": "ponsel"
+  },
+  "mobile device": {
+    "noun": "perangkat seluler"
+  },
+  "modal": {
+    "noun": "modal"
+  },
+  "mode": {
+    "noun": "mode"
+  },
+  "moderate": {
+    "verb": "melakukan moderasi"
+  },
+  "moderated": {
+    "verb": "dimoderasi"
+  },
+  "moderation": {
+    "noun": "moderasi"
+  },
+  "moderator": {
+    "noun": "moderator"
+  },
+  "modlook": {
+    "noun": "modlook"
+  },
+  "module": {
+    "noun": "modul"
+  },
+  "monospaced": {
+    "adjective": "spasi tunggal"
+  },
+  "multi-event": {
+    "noun": "multi-event"
+  },
+  "Multiline textarea": {
+    "noun": "textarea multibaris"
+  },
+  "multisites": {
+    "noun": "multisitus"
+  },
+  "n/a": {
+    "noun": "n/a"
+  },
+  "name server": {
+    "noun": "nama server"
+  },
+  "name servers": {
+    "noun": "name servers"
+  },
+  "nameserver": {
+    "noun": "nameserver"
+  },
+  "namespace": {
+    "noun": "namespace"
+  },
+  "navigation": {
+    "noun": "navigasi"
+  },
+  "nested": {
+    "verb": "bertingkat"
+  },
+  "network": {
+    "noun": "jaringan"
+  },
+  "Network Admin": {
+    "noun": "Admin Jaringan"
+  },
+  "newer": {
+    "adjective": "lebih baru"
+  },
+  "newest": {
+    "adjective": "terbaru"
+  },
+  "next": {
+    "adverb": "selanjutnya"
+  },
+  "nickname": {
+    "noun": "nama panggilan"
+  },
+  "non-breaking space": {
+    "noun": "spasi penggabung"
+  },
+  "nonce": {
+    "noun": "nonce"
+  },
+  "none": {
+    "noun": "nihil"
+  },
+  "normal": {
+    "noun": "normal"
+  },
+  "not sticky": {
+    "adjective": "tidak lekat"
+  },
+  "note": {
+    "noun": "catatan"
+  },
+  "notice": {
+    "noun": "peringatan"
+  },
+  "notification": {
+    "noun": "pemberitahuan"
+  },
+  "noun": {
+    "noun": "kata benda"
+  },
+  "numbered list": {
+    "noun": "daftar bernomor"
+  },
+  "oEmbed": {
+    "noun": "oEmbed"
+  },
+  "offline": {
+    "adjective": "offline"
+  },
+  "offset": {
+    "noun": "offset"
+  },
+  "older": {
+    "adjective": "sebelumnya"
+  },
+  "oldest": {
+    "adjective": "terdahulu"
+  },
+  "on sale": {
+    "expression": "sedang diskon"
+  },
+  "online": {
+    "adjective": "online"
+  },
+  "Oops": {
+    "expression": "Waduh"
+  },
+  "open source": {
+    "noun": "open source"
+  },
+  "opt-in": {
+    "verb": "opt-in"
+  },
+  "opt-out": {
+    "verb": "opt-out"
+  },
+  "optimization": {
+    "verb": "optimasi"
+  },
+  "optimize": {
+    "verb": "mengoptimalkan"
+  },
+  "option": {
+    "noun": "pilihan"
+  },
+  "optional": {
+    "adjective": "opsional"
+  },
+  "opts in": {
+    "noun": "menyertakan"
+  },
+  "opts out": {
+    "noun": "mengeluarkan"
+  },
+  "order": {
+    "verb": "memesan",
+    "noun": "pesanan"
+  },
+  "ordered list": {
+    "noun": "daftar pesanan"
+  },
+  "organization": {
+    "verb": "organisasi"
+  },
+  "organize": {
+    "verb": "mengatur"
+  },
+  "organizer": {
+    "noun": "organizer"
+  },
+  "original": {
+    "noun": "asli"
+  },
+  "out of stock": {
+    "expression": "stok habis"
+  },
+  "outdated": {
+    "adjective": "belum diperbarui"
+  },
+  "outline": {
+    "noun": "ikhtisar"
+  },
+  "overlay": {
+    "noun": "overlay"
+  },
+  "override": {
+    "verb": "mengesampingkan",
+    "noun": "penimpaan"
+  },
+  "overview": {
+    "noun": "ringkasan"
+  },
+  "padding": {
+    "noun": "padding"
+  },
+  "page": {
+    "noun": "halaman"
+  },
+  "pagination": {
+    "noun": "paginasi"
+  },
+  "paid": {
+    "adjective": "lunas"
+  },
+  "Pale ocean": {
+    "noun": "Pale ocean"
+  },
+  "Pallete": {
+    "noun": "Palet"
+  },
+  "parameter": {
+    "noun": "parameter"
+  },
+  "parent theme": {
+    "noun": "tema utama"
+  },
+  "passphrase": {
+    "noun": "frasa sandi"
+  },
+  "password": {
+    "noun": "kata sandi"
+  },
+  "password strength": {
+    "noun": "keamanan kata sandi"
+  },
+  "path": {
+    "noun": "jalur"
+  },
+  "pattern": {
+    "noun": "pola"
+  },
+  "pending": {
+    "adjective": "tertunda"
+  },
+  "perform": {
+    "verb": "menjalankan"
+  },
+  "permalink": {
+    "noun": "permalink"
+  },
+  "permission": {
+    "noun": "izin"
+  },
+  "persona": {
+    "noun": "individu"
+  },
+  "personal": {
+    "adjective": "pribadi"
+  },
+  "personalization": {
+    "noun": "personalisasi"
+  },
+  "personalize": {
+    "verb": "membuat sesuai keinginan"
+  },
+  "photo": {
+    "noun": "foto"
+  },
+  "picker": {
+    "noun": "picker"
+  },
+  "PIN": {
+    "noun": "PIN"
+  },
+  "pin": {
+    "verb": "menyematkan"
+  },
+  "ping": {
+    "noun": "ping"
+  },
+  "pingback": {
+    "noun": "pingback"
+  },
+  "pixel": {
+    "noun": "piksel"
+  },
+  "placeholder": {
+    "noun": "placeholder"
+  },
+  "plain": {
+    "adjective": "dasar"
+  },
+  "plain text": {
+    "noun": "teks dasar"
+  },
+  "playback": {
+    "noun": "playback"
+  },
+  "playlist": {
+    "noun": "daftar putar"
+  },
+  "please": {
+    "verb": "mohon"
+  },
+  "plugin": {
+    "noun": "plugin"
+  },
+  "PM": {
+    "noun": "PM"
+  },
+  "podcast": {
+    "noun": "podcast"
+  },
+  "poll": {
+    "noun": "pemilihan"
+  },
+  "popup": {
+    "noun": "pop up"
+  },
+  "portfolio page": {
+    "noun": "halaman portofolio"
+  },
+  "portfolio theme": {
+    "noun": "tema portofolio"
+  },
+  "post": {
+    "noun": "pos",
+    "verb": "menuliskan"
+  },
+  "post format": {
+    "noun": "format pos"
+  },
+  "post list": {
+    "noun": "daftar pos"
+  },
+  "post meta": {
+    "noun": "meta pos"
+  },
+  "post status": {
+    "noun": "status pos"
+  },
+  "post thumbnail": {
+    "noun": "thumbnail pos"
+  },
+  "post type": {
+    "noun": "tipe konten"
+  },
+  "posted": {
+    "verb": "ditampilkan"
+  },
+  "Powered by WordPress": {
+    "expression": "Dipersembahkan oleh WordPress"
+  },
+  "predefined": {
+    "adjective": "ditentukan"
+  },
+  "preferences": {
+    "noun": "preferensi"
+  },
+  "prefetch": {
+    "verb": "ambil sebelumnya"
+  },
+  "prefetched": {
+    "verb": "diambil sebelumnya"
+  },
+  "prefill": {
+    "verb": "isi sebelumnya"
+  },
+  "prefilled": {
+    "verb": "diisi sebelumnya"
+  },
+  "prefix": {
+    "noun": "awalan"
+  },
+  "preflight check": {
+    "expression": "pemeriksaan pendahuluan"
+  },
+  "preformat": {
+    "verb": "format sebelumnya"
+  },
+  "preformatted": {
+    "verb": "diformat sebelumnya"
+  },
+  "premium": {
+    "adjective": "premium"
+  },
+  "preset": {
+    "noun": "preset"
+  },
+  "Press This": {
+    "noun": "Press This"
+  },
+  "preview": {
+    "verb": "melakukan pratinjau"
+  },
+  "previewed": {
+    "verb": "ditinjau sebelumnya"
+  },
+  "previous": {
+    "adjective": "sebelumnya"
+  },
+  "previous post": {
+    "noun": "artikel sebelumnya"
+  },
+  "pricing table": {
+    "noun": "tabel harga"
+  },
+  "priority": {
+    "adjective": "prioritas"
+  },
+  "privacy": {
+    "noun": "privasi"
+  },
+  "Privacy Policy": {
+    "noun": "Kebijakan Privasi"
+  },
+  "private": {
+    "adjective": "privat"
+  },
+  "pro": {
+    "noun": "pro"
+  },
+  "problem": {
+    "noun": "kendala"
+  },
+  "profile": {
+    "noun": "profil"
+  },
+  "progress": {
+    "noun": "progres"
+  },
+  "promote": {
+    "verb": "mempromosikan"
+  },
+  "promoted": {
+    "verb": "dipromosikan"
+  },
+  "proofread": {
+    "verb": "mengoreksi",
+    "adjective": "dikoreksi"
+  },
+  "provide": {
+    "verb": "menyediakan"
+  },
+  "provided": {
+    "adjective": "tersedia"
+  },
+  "public": {
+    "adjective": "publik"
+  },
+  "publish": {
+    "verb": "memublikasikan"
+  },
+  "published": {
+    "verb": "dipublikasikan"
+  },
+  "publishing platform": {
+    "noun": "platform penerbitan"
+  },
+  "pullquote": {
+    "noun": "pullquote"
+  },
+  "QR Code": {
+    "noun": "Kode QR"
+  },
+  "quantity": {
+    "noun": "kuantitas"
+  },
+  "query": {
+    "noun": "query"
+  },
+  "queue": {
+    "noun": "antrian"
+  },
+  "Quick Draft": {
+    "noun": "Quick Draft"
+  },
+  "quote": {
+    "noun": "penawaran"
+  },
+  "radial": {
+    "adjective": "radial"
+  },
+  "radio button": {
+    "noun": "tombol radio"
+  },
+  "randomize": {
+    "verb": "mengacak"
+  },
+  "randomized": {
+    "verb": "diacak"
+  },
+  "rate limit": {
+    "noun": "batasan rating"
+  },
+  "rating": {
+    "noun": "rating"
+  },
+  "reactivate": {
+    "verb": "aktikan kembali"
+  },
+  "Read More": {
+    "expression": "Baca Lebih Lanjut"
+  },
+  "real time": {
+    "expression": "real time"
+  },
+  "Reblog": {
+    "verb": "Blog ulang"
+  },
+  "reCAPTCHA": {
+    "noun": "reCAPTCHA"
+  },
+  "receipt": {
+    "noun": "tanda terima"
+  },
+  "recent": {
+    "adjective": "baru"
+  },
+  "recover": {
+    "verb": "memulihkan"
+  },
+  "recurring": {
+    "adjective": "berulang"
+  },
+  "redirect": {
+    "verb": "mengalihkan"
+  },
+  "redo": {
+    "noun": "redo",
+    "verb": "membatalkan"
+  },
+  "refer": {
+    "verb": "merujuk"
+  },
+  "referrer": {
+    "noun": "perujuk"
+  },
+  "refresh": {
+    "verb": "segarkan"
+  },
+  "refund policy": {
+    "noun": "kebijakan pengembalian dana"
+  },
+  "register": {
+    "verb": "daftar"
+  },
+  "registrant": {
+    "noun": "pendaftar"
+  },
+  "registrar": {
+    "noun": "registrar"
+  },
+  "reject": {
+    "verb": "menolak"
+  },
+  "related": {
+    "adjective": "berhubungan"
+  },
+  "release": {
+    "verb": "merilis",
+    "noun": "penerbitan"
+  },
+  "released": {
+    "verb": "dirilis"
+  },
+  "remote": {
+    "adjective": "remote"
+  },
+  "remote CSS": {
+    "noun": "remote CSS"
+  },
+  "remove": {
+    "verb": "hapus"
+  },
+  "reorder": {
+    "verb": "menyusun kembali"
+  },
+  "reply to": {
+    "verb": "balas ke"
+  },
+  "report": {
+    "noun": "laporan"
+  },
+  "repository": {
+    "noun": "repositori"
+  },
+  "request": {
+    "verb": "meminta",
+    "noun": "permintaan"
+  },
+  "required": {
+    "adjective": "wajib"
+  },
+  "reset": {
+    "verb": "mengatur ulang"
+  },
+  "resolution": {
+    "noun": "resolusi"
+  },
+  "respond to": {
+    "verb": "menanggapi"
+  },
+  "responsive": {
+    "adjective": "responsif"
+  },
+  "responsive design": {
+    "noun": "desain responsif"
+  },
+  "responsive layout": {
+    "noun": "tata letak responsif"
+  },
+  "restore": {
+    "verb": "memulihkan"
+  },
+  "restriction": {
+    "noun": "batasan"
+  },
+  "resume": {
+    "verb": "lanjutkan"
+  },
+  "retrieve": {
+    "verb": "mendapatkan"
+  },
+  "return": {
+    "noun": "kembalian",
+    "verb": "mengembalikan"
+  },
+  "return value": {
+    "noun": "hasil"
+  },
+  "reusable": {
+    "adjective": "pakai ulang"
+  },
+  "review": {
+    "noun": "tinjauan"
+  },
+  "revision": {
+    "noun": "revisi"
+  },
+  "ribbon": {
+    "noun": "pita"
+  },
+  "Rich Editor": {
+    "noun": "Rich Editor"
+  },
+  "Rich Text Area": {
+    "noun": "Rich Text Area"
+  },
+  "role": {
+    "noun": "peran"
+  },
+  "roll-back": {
+    "expression": "mengembalikan"
+  },
+  "roll-out": {
+    "expression": "mengeluarkan"
+  },
+  "rollback": {
+    "noun": "pemulihan",
+    "verb": "melakukan pemulihan"
+  },
+  "root": {
+    "noun": "root"
+  },
+  "routing": {
+    "noun": "routing"
+  },
+  "row": {
+    "noun": "baris"
+  },
+  "RSS": {
+    "noun": "RSS"
+  },
+  "RTL": {
+    "noun": "RTL"
+  },
+  "sandbox": {
+    "noun": "sandbox"
+  },
+  "sanitize": {
+    "verb": "membersihkan"
+  },
+  "saturation": {
+    "noun": "kepekatan"
+  },
+  "save": {
+    "verb": "simpan"
+  },
+  "saved": {
+    "verb": "disimpan"
+  },
+  "schedule": {
+    "noun": "jadwal"
+  },
+  "scheme": {
+    "noun": "skema"
+  },
+  "screen": {
+    "noun": "layar"
+  },
+  "Screen Options": {
+    "noun": "Opsi Layar"
+  },
+  "screenshot": {
+    "noun": "tangkapan layar"
+  },
+  "script": {
+    "noun": "script"
+  },
+  "scroll": {
+    "verb": "gulir"
+  },
+  "Search": {
+    "noun": "pencarian"
+  },
+  "search": {
+    "verb": "mencari"
+  },
+  "secret key": {
+    "noun": "kunci rahasia"
+  },
+  "section": {
+    "noun": "bagian"
+  },
+  "select": {
+    "verb": "pilih"
+  },
+  "selected": {
+    "verb": "dipilih"
+  },
+  "self-hosted": {
+    "adjective": "dikelola sendiri"
+  },
+  "send": {
+    "verb": "kirim"
+  },
+  "serialize": {
+    "verb": "serialize"
+  },
+  "series": {
+    "noun": "kumpulan"
+  },
+  "server": {
+    "noun": "server"
+  },
+  "service": {
+    "noun": "layanan"
+  },
+  "session": {
+    "noun": "sesi"
+  },
+  "set": {
+    "verb": "atur",
+    "noun": "set"
+  },
+  "setting": {
+    "noun": "pengaturan"
+  },
+  "setup": {
+    "noun": "pengaturan"
+  },
+  "setup wizard": {
+    "noun": "panduan pengaturan"
+  },
+  "share": {
+    "verb": "bagikan"
+  },
+  "sharing": {
+    "verb": "membagikan"
+  },
+  "sharing button": {
+    "noun": "tombol berbagi"
+  },
+  "shell": {
+    "noun": "shell"
+  },
+  "shipping": {
+    "noun": "pengiriman"
+  },
+  "shortcode": {
+    "noun": "shortcode"
+  },
+  "shortcut": {
+    "noun": "pintasan"
+  },
+  "shortlink": {
+    "noun": "tautan pendek"
+  },
+  "show": {
+    "verb": "tampilkan"
+  },
+  "showcase": {
+    "noun": "galeri"
+  },
+  "sidebar": {
+    "noun": "sidebar"
+  },
+  "sign up": {
+    "verb": "daftar"
+  },
+  "sign-in": {
+    "verb": "masuk"
+  },
+  "signage": {
+    "noun": "papan nama petunjuk"
+  },
+  "simple": {
+    "adjective": "sederhana"
+  },
+  "single post": {
+    "noun": "artikel tunggal"
+  },
+  "site": {
+    "noun": "situs"
+  },
+  "site editor": {
+    "noun": "editor situs"
+  },
+  "sitemap": {
+    "noun": "peta situs"
+  },
+  "skip to": {
+    "expression": "melewati hingga"
+  },
+  "slide": {
+    "noun": "slide"
+  },
+  "slider": {
+    "noun": "slider"
+  },
+  "slideshow": {
+    "noun": "tampilan slide"
+  },
+  "slug": {
+    "noun": "slug"
+  },
+  "snippet": {
+    "noun": "potongan"
+  },
+  "snippets": {
+    "noun": "snippets"
+  },
+  "social": {
+    "noun": "sosial"
+  },
+  "social icon": {
+    "noun": "ikon media sosial"
+  },
+  "social media": {
+    "noun": "media sosial"
+  },
+  "sorry": {
+    "adjective": "maaf"
+  },
+  "sort": {
+    "verb": "urutkan"
+  },
+  "source": {
+    "noun": "sumber"
+  },
+  "spacing": {
+    "noun": "spasi"
+  },
+  "spam": {
+    "noun": "spam"
+  },
+  "spammer": {
+    "noun": "spammer"
+  },
+  "speaker": {
+    "noun": "pembicara"
+  },
+  "specify": {
+    "verb": "menentukan"
+  },
+  "sponsorship": {
+    "noun": "sponsorship"
+  },
+  "Staging": {
+    "noun": "Staging"
+  },
+  "start": {
+    "verb": "mulai"
+  },
+  "state-of-the-art": {
+    "adjective": "canggih"
+  },
+  "static front page": {
+    "noun": "halaman depan statis"
+  },
+  "statistic": {
+    "noun": "statistik"
+  },
+  "stats": {
+    "noun": "statistik"
+  },
+  "stick": {
+    "verb": "melekatkan"
+  },
+  "stick to": {
+    "expression": "menyematkan"
+  },
+  "sticky": {
+    "adjective": "tersemat"
+  },
+  "Sticky Post": {
+    "noun": "Sticky Post"
+  },
+  "strikethrough": {
+    "noun": "garis coret"
+  },
+  "string": {
+    "noun": "string"
+  },
+  "style": {
+    "noun": "style"
+  },
+  "styles": {
+    "noun": "pengaturan"
+  },
+  "stylesheet": {
+    "noun": "stylesheet"
+  },
+  "styling": {
+    "noun": "pengaturan"
+  },
+  "subdirectory": {
+    "noun": "subdirektori"
+  },
+  "subdomain": {
+    "noun": "subdomain"
+  },
+  "subject": {
+    "noun": "subjek"
+  },
+  "submenu": {
+    "noun": "submenu"
+  },
+  "submission": {
+    "noun": "pengajuan"
+  },
+  "submit": {
+    "verb": "mengirimkan"
+  },
+  "submitted": {
+    "verb": "dikirim"
+  },
+  "subpanel": {
+    "noun": "subpanel"
+  },
+  "subscribe": {
+    "verb": "berlangganan"
+  },
+  "subscriber": {
+    "noun": "pelanggan"
+  },
+  "subscription": {
+    "noun": "langganan"
+  },
+  "Subversion": {
+    "noun": "subversi"
+  },
+  "suffix": {
+    "noun": "sufiks"
+  },
+  "suggest": {
+    "verb": "menyarankan"
+  },
+  "summary": {
+    "noun": "rangkuman"
+  },
+  "super admin": {
+    "noun": "super admin"
+  },
+  "superadmin": {
+    "noun": "superadmin"
+  },
+  "support": {
+    "noun": "bantuan",
+    "verb": "mendukung"
+  },
+  "support forum": {
+    "noun": "forum bantuan"
+  },
+  "survey": {
+    "noun": "survei"
+  },
+  "swag": {
+    "noun": "suvenir"
+  },
+  "switch": {
+    "verb": "beralih"
+  },
+  "switch to": {
+    "expression": "beralih ke"
+  },
+  "synced pattern": {
+    "noun": "pola tersinkron"
+  },
+  "synchronization": {
+    "noun": "sinkronisasi"
+  },
+  "synchronize": {
+    "verb": "menyelaraskan"
+  },
+  "syntax": {
+    "noun": "syntax"
+  },
+  "tab": {
+    "noun": "tabulasi/jendela"
+  },
+  "table": {
+    "noun": "tabel"
+  },
+  "Table Prefix": {
+    "noun": "Prefiks Tabel"
+  },
+  "tag": {
+    "noun": "tag"
+  },
+  "tag cloud": {
+    "noun": "tag cloud"
+  },
+  "tagged": {
+    "verb": "ditandai"
+  },
+  "tagline": {
+    "noun": "tagline"
+  },
+  "tap": {
+    "verb": "ketuk"
+  },
+  "target": {
+    "noun": "target"
+  },
+  "taxonomy": {
+    "noun": "taksonomi"
+  },
+  "team": {
+    "noun": "tim"
+  },
+  "template": {
+    "noun": "template"
+  },
+  "template hierarchy": {
+    "noun": "hierarki template"
+  },
+  "template part": {
+    "noun": "komponen template"
+  },
+  "term": {
+    "noun": "term"
+  },
+  "term meta": {
+    "noun": "term meta"
+  },
+  "terms and conditions": {
+    "noun": "syarat dan ketentuan"
+  },
+  "terms of service": {
+    "noun": "ketentuan layanan"
+  },
+  "Terms of use": {
+    "noun": "syarat penggunaan"
+  },
+  "testimonial": {
+    "noun": "testimoni"
+  },
+  "text color": {
+    "noun": "warna teks"
+  },
+  "text editor": {
+    "noun": "editor teks"
+  },
+  "textdomain": {
+    "noun": "domain teks"
+  },
+  "theme": {
+    "noun": "tema"
+  },
+  "Third-party": {
+    "noun": "Pihak ketiga"
+  },
+  "thread": {
+    "noun": "utas"
+  },
+  "threaded": {
+    "verb": "berulir"
+  },
+  "thumbnail": {
+    "noun": "gambar mini"
+  },
+  "tile": {
+    "verb": "mengotakkan",
+    "noun": "kotak"
+  },
+  "time stamp": {
+    "noun": "catatan waktu"
+  },
+  "timeline": {
+    "noun": "lini masa"
+  },
+  "timestamp": {
+    "noun": "stempel waktu"
+  },
+  "timezone": {
+    "noun": "zona waktu"
+  },
+  "tips": {
+    "noun": "petunjuk"
+  },
+  "title": {
+    "noun": "sapaan"
+  },
+  "to do": {
+    "noun": "daftar tugas"
+  },
+  "toggle": {
+    "verb": "beralih"
+  },
+  "token": {
+    "noun": "token"
+  },
+  "Token Map": {
+    "noun": "Token Map"
+  },
+  "tool": {
+    "noun": "alat"
+  },
+  "toolbar": {
+    "noun": "toolbar"
+  },
+  "tools": {
+    "noun": "perangkat"
+  },
+  "tooltip": {
+    "noun": "tooltip"
+  },
+  "top-level": {
+    "adjective": "Level atas"
+  },
+  "topic": {
+    "noun": "topik"
+  },
+  "track": {
+    "noun": "trek"
+  },
+  "trackback": {
+    "noun": "penelusuran kembali"
+  },
+  "trackbacks": {
+    "noun": "trackback"
+  },
+  "trademark": {
+    "noun": "trademark"
+  },
+  "traffic": {
+    "noun": "aktivitas"
+  },
+  "transcript": {
+    "noun": "transkrip"
+  },
+  "Transient": {
+    "adjective": "perpindahan"
+  },
+  "trash": {
+    "noun": "tempat sampah"
+  },
+  "troubleshooting": {
+    "noun": "pemecahan masalah"
+  },
+  "tutorial": {
+    "noun": "tutorial"
+  },
+  "tweak": {
+    "noun": "penyesuaian"
+  },
+  "Twitter": {
+    "noun": "Twitter"
+  },
+  "Twitter Handle": {
+    "noun": "Nama akun Twitter"
+  },
+  "two factor authentication": {
+    "noun": "autentikasi dua faktor"
+  },
+  "type": {
+    "noun": "tipe",
+    "verb": "ketik"
+  },
+  "typeface": {
+    "noun": "jenis huruf"
+  },
+  "Typekit": {
+    "noun": "Typekit"
+  },
+  "typography": {
+    "noun": "tipografi"
+  },
+  "UI": {
+    "abbreviation": "UI"
+  },
+  "unapprove": {
+    "verb": "batalkan persetujuan"
+  },
+  "unapproved": {
+    "verb": "tidak disetujui"
+  },
+  "unauthorized": {
+    "verb": "tidak diberikan akses"
+  },
+  "uncategorized": {
+    "verb": "tidak dikategorikan"
+  },
+  "uncheck": {
+    "verb": "hapus centang"
+  },
+  "undelete": {
+    "verb": "batalkan penghapusan"
+  },
+  "Under the hood": {
+    "expression": "di belakang layar"
+  },
+  "undo": {
+    "noun": "undo"
+  },
+  "unfollow": {
+    "verb": "berhenti ikuti"
+  },
+  "Unified extensibility APIs": {
+    "noun": "API ekstensibilitas terpadu"
+  },
+  "unmute": {
+    "verb": "bersuara"
+  },
+  "unordered list": {
+    "noun": "daftar tidak berurutan"
+  },
+  "unstick": {
+    "verb": "batalkan"
+  },
+  "unsubscribe": {
+    "verb": "berhenti berlangganan"
+  },
+  "untrash": {
+    "verb": "batal membuang"
+  },
+  "update": {
+    "noun": "perbarui"
+  },
+  "update email": {
+    "noun": "e-mail pembaruan"
+  },
+  "upgrade": {
+    "noun": "upgrade",
+    "verb": "upgrade"
+  },
+  "upgraded": {
+    "verb": "ditingkatkan"
+  },
+  "upload": {
+    "verb": "mengunggah"
+  },
+  "uploaded": {
+    "verb": "diunggah"
+  },
+  "uploader": {
+    "noun": "pengunggah"
+  },
+  "uppercase": {
+    "adjective": "huruf besar"
+  },
+  "upsell": {
+    "noun": "upsell"
+  },
+  "URI": {
+    "abbreviation": "URI"
+  },
+  "URL": {
+    "abbreviation": "URL"
+  },
+  "URL-friendly": {
+    "noun": "ramah URL, URL-friendly"
+  },
+  "usability": {
+    "noun": "kegunaan"
+  },
+  "user": {
+    "noun": "pengguna"
+  },
+  "user name": {
+    "noun": "nama pengguna"
+  },
+  "user roles": {
+    "noun": "peran pengguna"
+  },
+  "username": {
+    "noun": "nama pengguna"
+  },
+  "UTC": {
+    "abbreviation": "UTC"
+  },
+  "utilize": {
+    "verb": "memanfaatkan"
+  },
+  "valid": {
+    "adjective": "valid"
+  },
+  "value": {
+    "noun": "nilai"
+  },
+  "vanilla CSS": {
+    "noun": "CSS murni"
+  },
+  "vanilla JS": {
+    "noun": "JS murni"
+  },
+  "variable": {
+    "noun": "variabel"
+  },
+  "vendor": {
+    "noun": "vendor"
+  },
+  "venue": {
+    "noun": "tempat"
+  },
+  "verification": {
+    "noun": "verifikasi"
+  },
+  "verification code": {
+    "noun": "kode verifikasi"
+  },
+  "verify": {
+    "verb": "melakukan verifikasi"
+  },
+  "video": {
+    "noun": "video"
+  },
+  "Video Player": {
+    "noun": "Pemutar Video"
+  },
+  "view": {
+    "verb": "melihat",
+    "noun": "tampilan"
+  },
+  "viewed": {
+    "verb": "dilihat"
+  },
+  "visibility": {
+    "noun": "visibilitas"
+  },
+  "visual editor": {
+    "noun": "editor visual"
+  },
+  "volunteer": {
+    "noun": "relawan"
+  },
+  "walker": {
+    "noun": "walker"
+  },
+  "warning": {
+    "noun": "peringatan"
+  },
+  "web server": {
+    "noun": "server web"
+  },
+  "webhook": {
+    "noun": "webhook"
+  },
+  "webpage": {
+    "noun": "halaman situs"
+  },
+  "website": {
+    "noun": "situs web"
+  },
+  "whitelist": {
+    "verb": "whitelist"
+  },
+  "widget": {
+    "noun": "widget"
+  },
+  "wildcard": {
+    "noun": "wildcard"
+  },
+  "window": {
+    "noun": "jendela"
+  },
+  "wizard": {
+    "noun": "panduan"
+  },
+  "WordCamp": {
+    "noun": "WordCamp"
+  },
+  "WordCamp Central": {
+    "noun": "WordCamp Central"
+  },
+  "WordPress": {
+    "noun": "WordPress"
+  },
+  "WordPress Community Support": {
+    "noun": "WordPress Community Support"
+  },
+  "WordPress Dashboard": {
+    "noun": "Dasbor WordPress"
+  },
+  "workflow": {
+    "noun": "alur kerja"
+  },
+  "workshop": {
+    "noun": "loka karya"
+  },
+  "wrapper": {
+    "noun": "wrapper"
+  },
+  "write": {
+    "verb": "menulis"
+  },
+  "XML-RPC": {
+    "noun": "XML-RPC"
+  },
+  "you": {
+    "noun": "Anda"
+  },
+  "you are about to": {
+    "expression": "Anda akan"
+  },
+  "you are not allowed to": {
+    "expression": "Anda tidak diperbolehkan"
+  },
+  "you don't have permission to": {
+    "expression": "Anda tidak diizinkan"
+  },
+  "your": {
+    "pronoun": "Anda"
+  },
+  "YouTube": {
+    "noun": "YouTube"
+  },
+  "ZIP code": {
+    "noun": "kode pos"
+  },
+  "zoom in": {
+    "noun": "perbesar"
+  }
+}

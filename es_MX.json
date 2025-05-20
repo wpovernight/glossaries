@@ -1,0 +1,194 @@
+{
+  "Backend": {
+    "noun": "Backend"
+  },
+  "Banner": {
+    "noun": "Banner"
+  },
+  "Breadcrumb": {
+    "noun": "Breadcrumb"
+  },
+  "Bulk actions": {
+    "noun": "Acciones masivas/Acciones en lote"
+  },
+  "Click": {
+    "expression": "Clic"
+  },
+  "Copyright": {
+    "noun": "Copyright"
+  },
+  "CSS": {
+    "noun": "CSS"
+  },
+  "Dashboard": {
+    "noun": "Escritorio"
+  },
+  "Database": {
+    "noun": "Base de datos"
+  },
+  "DB": {
+    "noun": "BD"
+  },
+  "Debug": {
+    "verb": "Depurar"
+  },
+  "Default": {
+    "noun": "Predeterminado"
+  },
+  "Dismiss": {
+    "verb": "Descartar"
+  },
+  "Drop-ins": {
+    "noun": "Insertables"
+  },
+  "Dropdown": {
+    "noun": "Desplegable"
+  },
+  "Ecommerce": {
+    "noun": "Comercio electrónico"
+  },
+  "Email": {
+    "noun": "Correo/Correo electrónico"
+  },
+  "Embed": {
+    "verb": "Incrustar"
+  },
+  "Encrypt": {
+    "verb": "Cifrar"
+  },
+  "FAQ": {
+    "noun": "FAQ"
+  },
+  "Featured": {
+    "adjective": "Destacado"
+  },
+  "Featured image": {
+    "noun": "Imagen destacada"
+  },
+  "Feed": {
+    "noun": "Feed"
+  },
+  "Frame": {
+    "noun": "Frame"
+  },
+  "Frontend": {
+    "noun": "Frontend"
+  },
+  "Fuzzy": {
+    "adjective": "Impreciso(a)"
+  },
+  "GDPR": {
+    "noun": "RGPD"
+  },
+  "Geocode": {
+    "verb": "Geocodificar"
+  },
+  "Hardening": {
+    "noun": "Endurecimiento"
+  },
+  "Hook": {
+    "noun": "Hook"
+  },
+  "Hosting": {
+    "noun": "Hosting"
+  },
+  "Hotkeys": {
+    "noun": "Teclas rápidas"
+  },
+  "Icon": {
+    "noun": "Ícono"
+  },
+  "ID": {
+    "noun": "ID"
+  },
+  "Inline": {
+    "adjective": "Alineado(a)"
+  },
+  "Laptop": {
+    "noun": "Laptop"
+  },
+  "Layout": {
+    "noun": "Layout"
+  },
+  "Link": {
+    "noun": "Enlace",
+    "verb": "Enlazar"
+  },
+  "Log in": {
+    "verb": "Iniciar sesión/Acceder"
+  },
+  "Log out": {
+    "noun": "Cerrar sesión"
+  },
+  "Meetup": {
+    "noun": "Meetup"
+  },
+  "Multisite": {
+    "noun": "Multisitio"
+  },
+  "Offline": {
+    "adjective": "Offline"
+  },
+  "Parent": {
+    "adjective": "Superior"
+  },
+  "Period": {
+    "noun": "Periodo"
+  },
+  "Pingback": {
+    "noun": "Pingback"
+  },
+  "Plugin": {
+    "noun": "Plugin"
+  },
+  "Portfolio": {
+    "noun": "Portafolio"
+  },
+  "Post": {
+    "noun": "Entrada",
+    "verb": "Publicar"
+  },
+  "Review": {
+    "noun": "Valoración",
+    "verb": "Valorar"
+  },
+  "Set": {
+    "verb": "Establecer"
+  },
+  "Shortcode": {
+    "noun": "Shortcode"
+  },
+  "Slug": {
+    "noun": "Slug"
+  },
+  "Social media": {
+    "noun": "Redes sociales"
+  },
+  "Sticky": {
+    "adjective": "Fijo(a)"
+  },
+  "String": {
+    "noun": "Cadena"
+  },
+  "Theme": {
+    "noun": "Tema"
+  },
+  "Thumbnail": {
+    "noun": "Miniatura"
+  },
+  "Ticket": {
+    "noun": "Boleto"
+  },
+  "Trackback": {
+    "noun": "Trackback"
+  },
+  "Trigger": {
+    "noun": "Disparador"
+  },
+  "Video": {
+    "noun": "Video"
+  },
+  "Widget": {
+    "noun": "Widget"
+  }
+}

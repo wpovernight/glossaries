@@ -1,0 +1,1543 @@
+{
+  "accept": {
+    "verb": "pieņemt"
+  },
+  "access": {
+    "noun": "piekļuve"
+  },
+  "activation key": {
+    "expression": "aktivizēšanas atslēga"
+  },
+  "activity": {
+    "noun": "darbība"
+  },
+  "activity type": {
+    "noun": "darbības veids"
+  },
+  "adding": {
+    "verb": "pievienojot"
+  },
+  "additional": {
+    "adjective": "papildus"
+  },
+  "admin": {
+    "noun": "administrators"
+  },
+  "advanced": {
+    "adjective": "uzlabots"
+  },
+  "advice": {
+    "noun": "padoms"
+  },
+  "advisory": {
+    "adjective": "konsultatīvs"
+  },
+  "after logging": {
+    "expression": "pēc pieteikšanās"
+  },
+  "again": {
+    "adverb": "vēlreiz"
+  },
+  "ahead of time": {
+    "expression": "savlaicīgi"
+  },
+  "alert": {
+    "noun": "brīdinājuma"
+  },
+  "align": {
+    "verb": "līdzināt"
+  },
+  "alignment": {
+    "noun": "līdzinājums"
+  },
+  "allow creation": {
+    "expression": "ļaut izveidot"
+  },
+  "almost done": {
+    "expression": "gandrīz pabeigts"
+  },
+  "anyone posts": {
+    "expression": "jebkurš ievieto"
+  },
+  "apologise": {
+    "verb": "atvainoties"
+  },
+  "appearance": {
+    "noun": "izskats"
+  },
+  "appears": {
+    "verb": "parādās"
+  },
+  "applied": {
+    "noun": "piemērot"
+  },
+  "apply": {
+    "verb": "piemērot"
+  },
+  "approved": {
+    "adjective": "apstiprināts"
+  },
+  "are available": {
+    "adjective": "ir pieejami"
+  },
+  "are indicated": {
+    "adjective": "ir norādīti"
+  },
+  "are optional": {
+    "adjective": "nav obligāti"
+  },
+  "are running": {
+    "verb": "darbojas"
+  },
+  "are set to": {
+    "expression": "ir piešķirta"
+  },
+  "are using": {
+    "adjective": "izmanto"
+  },
+  "array": {
+    "noun": "masīvs"
+  },
+  "arrow keys": {
+    "noun": "bulttaustiņš"
+  },
+  "aside": {
+    "noun": "mala (malā)"
+  },
+  "at a glance": {
+    "expression": "īsumā"
+  },
+  "at least": {
+    "noun": "vismaz"
+  },
+  "at most": {
+    "noun": "ne vairāk kā"
+  },
+  "attached": {
+    "noun": "pievienots"
+  },
+  "attachment": {
+    "noun": "pielikums"
+  },
+  "attribute": {
+    "noun": "atribūts"
+  },
+  "authorised": {
+    "noun": "pilnvarots"
+  },
+  "automatic": {
+    "adverb": "automātisks"
+  },
+  "automatic update": {
+    "expression": "automātisks jauninājums"
+  },
+  "automatically": {
+    "adverb": "automātiski"
+  },
+  "autosave": {
+    "verb": "automātiska saglabāšana"
+  },
+  "available": {
+    "adjective": "pieejams"
+  },
+  "avatar": {
+    "noun": "tēls"
+  },
+  "average": {
+    "noun": "vidēji"
+  },
+  "back-end": {
+    "noun": "aizmugure"
+  },
+  "backup": {
+    "noun": "dublējums",
+    "verb": "dublēt"
+  },
+  "backwards compatibility": {
+    "expression": "atpakaļsaderība"
+  },
+  "banned": {
+    "noun": "izslēgts"
+  },
+  "banner": {
+    "noun": "reklāmkarogs"
+  },
+  "batch": {
+    "noun": "pakešuzdevums"
+  },
+  "be offline": {
+    "adjective": "ir bezsaistē"
+  },
+  "be possible": {
+    "adjective": "būs iespējams"
+  },
+  "behavior": {
+    "noun": "uzvedība"
+  },
+  "being previewed": {
+    "verb": "priekšstatītā"
+  },
+  "below": {
+    "adverb": "zemāk"
+  },
+  "BG": {
+    "noun": "fona krāsa"
+  },
+  "blacklist": {
+    "noun": "melnais saraksts"
+  },
+  "blavatar": {
+    "noun": "bloga ikona"
+  },
+  "block": {
+    "noun": "bloks"
+  },
+  "block binding": {
+    "noun": "bloka piesaiste"
+  },
+  "blockquote": {
+    "noun": "citāta bloks"
+  },
+  "blog": {
+    "noun": "emuārs"
+  },
+  "blogging": {
+    "verb": "blogošanu"
+  },
+  "blogroll": {
+    "noun": "tīmekļa žurnāls"
+  },
+  "bold": {
+    "adjective": "treknraksta"
+  },
+  "border": {
+    "noun": "apmale"
+  },
+  "boxes": {
+    "noun": "lodziņus"
+  },
+  "breadcrumbs": {
+    "noun": "atpakaļceļš"
+  },
+  "broken": {
+    "adjective": "sabojāts"
+  },
+  "built-in": {
+    "adjective": "iebūvēts"
+  },
+  "bulk": {
+    "noun": "lielapjoma"
+  },
+  "bulk actions": {
+    "expression": "lielapjoma darbības"
+  },
+  "bulk edit": {
+    "expression": "lielapjoma labošana"
+  },
+  "bulk select": {
+    "expression": "lielapjoma atlase"
+  },
+  "bulk selection": {
+    "expression": "lielapjoma atlase"
+  },
+  "bulleted list": {
+    "expression": "saraksts ar aizzīmēm"
+  },
+  "button": {
+    "noun": "poga"
+  },
+  "buttons": {
+    "noun": "pogas"
+  },
+  "byline": {
+    "noun": "rindiņa par autoru"
+  },
+  "callback": {
+    "noun": "atzvans"
+  },
+  "can": {
+    "verb": "var"
+  },
+  "cancel": {
+    "verb": "atcelt"
+  },
+  "canceled": {
+    "verb": "atcelts"
+  },
+  "canceling": {
+    "verb": "atceļot"
+  },
+  "cannot": {
+    "verb": "nevar"
+  },
+  "cannot be": {
+    "expression": "nevarēs tikt"
+  },
+  "cannot be deleted": {
+    "expression": "nevar dzēst"
+  },
+  "cannot be installed": {
+    "expression": "nevar uzstādīt"
+  },
+  "canvas": {
+    "noun": "pamatne"
+  },
+  "caption": {
+    "noun": "apakšvirsraksts"
+  },
+  "categorie": {
+    "noun": "kategorija"
+  },
+  "categories": {
+    "noun": "kategorijas"
+  },
+  "changelog": {
+    "noun": "izmaiņu žurnāls"
+  },
+  "changing": {
+    "verb": "mainot"
+  },
+  "chapters": {
+    "noun": "sadaļas"
+  },
+  "character set": {
+    "noun": "rakstzīmju kopa"
+  },
+  "characters": {
+    "noun": "rakstzīmes"
+  },
+  "charset": {
+    "noun": "rakstzīmju kopa"
+  },
+  "check": {
+    "verb": "pārbaudiet"
+  },
+  "checkbox": {
+    "noun": "izvēles rūtiņa"
+  },
+  "checkout": {
+    "noun": "izrakstīšanās"
+  },
+  "child page": {
+    "noun": "pakārtotā lapa"
+  },
+  "child theme": {
+    "expression": "apakštēma"
+  },
+  "choose": {
+    "verb": "izvēlēties"
+  },
+  "choose image": {
+    "expression": "izvēlēties attēlu"
+  },
+  "cite": {
+    "noun": "atsauce"
+  },
+  "click": {
+    "verb": "klikšķiniet"
+  },
+  "cloud storage": {
+    "noun": "mākoņkrātuve"
+  },
+  "cloud-based": {
+    "noun": "mākoņos esoša"
+  },
+  "co-founder": {
+    "noun": "līdzdibinātājs"
+  },
+  "co-founding": {
+    "verb": "līdzdibināšana"
+  },
+  "code": {
+    "noun": "kods"
+  },
+  "collapse": {
+    "verb": "sakļaut"
+  },
+  "collapse icon": {
+    "expression": "sakļaušanas ikona"
+  },
+  "color picker": {
+    "noun": "krāsu palete"
+  },
+  "column": {
+    "noun": "sleja"
+  },
+  "comment": {
+    "noun": "komentārs"
+  },
+  "committer": {
+    "noun": "izpildītājs"
+  },
+  "compatible": {
+    "adjective": "savietojams"
+  },
+  "complete": {
+    "adjective": "pabeigta"
+  },
+  "Complete checkout": {
+    "expression": "Pabeigt apmaksu"
+  },
+  "completed": {
+    "adjective": "paveikts"
+  },
+  "configuration": {
+    "noun": "konfigurācija"
+  },
+  "configured": {
+    "adjective": "konfigurēts"
+  },
+  "confirm deletion": {
+    "expression": "apstiprināt dzēšanu"
+  },
+  "confirmation": {
+    "noun": "apstiprināšana"
+  },
+  "conflicts": {
+    "noun": "konflikti"
+  },
+  "consider": {
+    "verb": "apsveriet"
+  },
+  "contain": {
+    "verb": "satur"
+  },
+  "contribution": {
+    "noun": "ieguldījums"
+  },
+  "contributor": {
+    "noun": "līdzradītājs"
+  },
+  "copies": {
+    "noun": "kopijas"
+  },
+  "corrupted": {
+    "adjective": "bojāts"
+  },
+  "could not": {
+    "verb": "nevarēja"
+  },
+  "could not be deleted": {
+    "expression": "nevarēja izdzēst"
+  },
+  "could use": {
+    "verb": "var izmantot"
+  },
+  "count": {
+    "verb": "skaits"
+  },
+  "crash": {
+    "noun": "kļūme"
+  },
+  "created": {
+    "verb": "izveidots"
+  },
+  "credit": {
+    "noun": "atzinība"
+  },
+  "cross-post": {
+    "noun": "šķērsizlikšana"
+  },
+  "crowdfunding": {
+    "noun": "kolektīvā finansēšana"
+  },
+  "CSS selector": {
+    "noun": "CSS atlasītājs"
+  },
+  "currently": {
+    "adverb": "pašlaik"
+  },
+  "custom": {
+    "noun": "pielāgota"
+  },
+  "custom fields": {
+    "expression": "pielāgoti lauki"
+  },
+  "custom menu": {
+    "expression": "pielāgotā izvēlne"
+  },
+  "customization": {
+    "noun": "pielāgošana"
+  },
+  "customizer": {
+    "noun": "pielāgotājs"
+  },
+  "damage": {
+    "noun": "bojājums"
+  },
+  "dashboard": {
+    "noun": "panelis"
+  },
+  "deactivate": {
+    "verb": "deaktivizēt"
+  },
+  "debug": {
+    "verb": "atkļūdot"
+  },
+  "debugging": {
+    "noun": "atkļūdošana"
+  },
+  "decide": {
+    "verb": "izlemt"
+  },
+  "dedline": {
+    "noun": "termiņš"
+  },
+  "default": {
+    "noun": "noklusējums"
+  },
+  "delete": {
+    "noun": "dzēst"
+  },
+  "deleted": {
+    "verb": "dzēsts"
+  },
+  "deleting": {
+    "verb": "dzēšot"
+  },
+  "deleting a category": {
+    "expression": "kategorijas dzēšana"
+  },
+  "deprecated": {
+    "verb": "novecojis(usi)"
+  },
+  "descriptions": {
+    "noun": "apraksti"
+  },
+  "deselect all": {
+    "expression": "atcelt visu atlasi"
+  },
+  "detached": {
+    "adjective": "noņemts"
+  },
+  "details": {
+    "noun": "detaļas"
+  },
+  "directory": {
+    "noun": "katalogs"
+  },
+  "disable": {
+    "verb": "atspējot"
+  },
+  "disable/enable": {
+    "expression": "atspējot vai iespējot"
+  },
+  "disabled": {
+    "adjective": "atspējots"
+  },
+  "disabling": {
+    "verb": "atspējošana"
+  },
+  "discard": {
+    "verb": "atsacīties"
+  },
+  "dismiss": {
+    "verb": "atcelt"
+  },
+  "display": {
+    "verb": "rādīt"
+  },
+  "displays": {
+    "verb": "rāda"
+  },
+  "distraction free mode": {
+    "expression": "netraucēšanas režīms"
+  },
+  "distraction-free": {
+    "adjective": "netraucēta"
+  },
+  "do not remember": {
+    "expression": "neatceraties"
+  },
+  "does not delete": {
+    "expression": "neizdzēš"
+  },
+  "does not exist": {
+    "expression": "neeksistē"
+  },
+  "domain": {
+    "noun": "joma"
+  },
+  "downloading": {
+    "verb": "lejupielādē"
+  },
+  "downtime": {
+    "noun": "dīkstāve"
+  },
+  "draft": {
+    "noun": "melnraksts"
+  },
+  "drag and drop": {
+    "expression": "pārvilkt"
+  },
+  "drop cap": {
+    "noun": "liels sākumburts"
+  },
+  "drop-in": {
+    "noun": "iemetums"
+  },
+  "dropdown": {
+    "adverb": "nolaižamo"
+  },
+  "edit": {
+    "verb": "rediģēt"
+  },
+  "edited": {
+    "adverb": "rediģētās"
+  },
+  "editing screen": {
+    "expression": "rediģēšanas ekrānu"
+  },
+  "editor": {
+    "noun": "redaktors"
+  },
+  "EEST": {
+    "abbreviation": "EEST"
+  },
+  "eliminates": {
+    "verb": "nepieļauj"
+  },
+  "email": {
+    "noun": "e-pasts"
+  },
+  "embed": {
+    "noun": "iegult"
+  },
+  "enable": {
+    "verb": "iespējot"
+  },
+  "enable overrides": {
+    "expression": "iespējot aizstāšanu"
+  },
+  "enabled": {
+    "verb": "iespējots"
+  },
+  "enables/disables": {
+    "verb": "iespējo vai atspējo"
+  },
+  "enabling": {
+    "verb": "iespējošana"
+  },
+  "encoding": {
+    "noun": "kodējums"
+  },
+  "entity": {
+    "noun": "vienība"
+  },
+  "entry": {
+    "noun": "ieraksts"
+  },
+  "erase": {
+    "noun": "dzēst"
+  },
+  "error occurred": {
+    "expression": "radās kļūda"
+  },
+  "escaping": {
+    "noun": "izvairīšanās"
+  },
+  "etc.": {
+    "abbreviation": "utt."
+  },
+  "event": {
+    "noun": "notikums"
+  },
+  "excerpt": {
+    "noun": "izraksts"
+  },
+  "exist": {
+    "verb": "pastāv"
+  },
+  "existing one": {
+    "expression": "esošo"
+  },
+  "expand": {
+    "noun": "izvērst"
+  },
+  "expanded": {
+    "verb": "izvērsts"
+  },
+  "expected": {
+    "verb": "gaidāms"
+  },
+  "experience": {
+    "noun": "pieredze"
+  },
+  "expired": {
+    "verb": "noilgusi"
+  },
+  "export": {
+    "verb": "eksportēt"
+  },
+  "extend": {
+    "verb": "paplašina"
+  },
+  "extended": {
+    "verb": "paplašinātam"
+  },
+  "extension": {
+    "noun": "paplašinājums"
+  },
+  "failed": {
+    "verb": "neizdevās"
+  },
+  "fails": {
+    "verb": "neizdodas"
+  },
+  "failures": {
+    "noun": "kļūmes"
+  },
+  "fallback": {
+    "noun": "rezerves variants"
+  },
+  "faster": {
+    "adjective": "ātrāka"
+  },
+  "favicon": {
+    "noun": "vietnes ikona"
+  },
+  "favorites": {
+    "noun": "izlase"
+  },
+  "feature": {
+    "noun": "līdzeklis"
+  },
+  "featured": {
+    "verb": "piedāvātais"
+  },
+  "featured image": {
+    "expression": "izceltais attēls"
+  },
+  "feed": {
+    "noun": "plūsma"
+  },
+  "feeds": {
+    "noun": "plūsmu"
+  },
+  "fetching": {
+    "noun": "iegūt"
+  },
+  "fields": {
+    "noun": "lauki"
+  },
+  "file": {
+    "noun": "fails"
+  },
+  "files": {
+    "noun": "datnes"
+  },
+  "fits": {
+    "verb": "der"
+  },
+  "flexible": {
+    "noun": "pielāgojams"
+  },
+  "flip": {
+    "verb": "apvērst"
+  },
+  "floot": {
+    "noun": "pludiņš"
+  },
+  "font face": {
+    "noun": "burtveids"
+  },
+  "footer": {
+    "noun": "kājene"
+  },
+  "footnotes": {
+    "noun": "vēres"
+  },
+  "form": {
+    "noun": "veidlapa"
+  },
+  "formatting": {
+    "verb": "formatējumu"
+  },
+  "found": {
+    "verb": "atrasts"
+  },
+  "frame": {
+    "noun": "rāmis"
+  },
+  "framework": {
+    "noun": "ietvars"
+  },
+  "freedoms": {
+    "noun": "brīvības"
+  },
+  "friendly developer": {
+    "expression": "draudzīgs izstrādātājs"
+  },
+  "front page": {
+    "noun": "galvenā lapa"
+  },
+  "front-end": {
+    "noun": "priekšpuse"
+  },
+  "fullscreen": {
+    "adjective": "pilnekrāns"
+  },
+  "function": {
+    "noun": "funkcija"
+  },
+  "fuzzy": {
+    "noun": "neskaidrs"
+  },
+  "glossary": {
+    "noun": "glosārijs"
+  },
+  "go to": {
+    "verb": "atveriet"
+  },
+  "gradient": {
+    "noun": "krāsu pāreja"
+  },
+  "grid": {
+    "noun": "režģis"
+  },
+  "guide": {
+    "noun": "ceļvedis"
+  },
+  "handle": {
+    "noun": "rokturis"
+  },
+  "handler": {
+    "noun": "apdarinātājs"
+  },
+  "hash": {
+    "noun": "juceklis"
+  },
+  "hashing": {
+    "verb": "jaukšana"
+  },
+  "hashtag": {
+    "noun": "atsauces birka"
+  },
+  "header": {
+    "noun": "galvene"
+  },
+  "heading": {
+    "noun": "virsraksts"
+  },
+  "hex": {
+    "noun": "heksadecimāls"
+  },
+  "highlight": {
+    "verb": "izcelt"
+  },
+  "highlights": {
+    "noun": "svarīgākie notikumi"
+  },
+  "home": {
+    "noun": "sākums"
+  },
+  "hook": {
+    "verb": "piesaistīt"
+  },
+  "host": {
+    "noun": "uzturētājs"
+  },
+  "hosting": {
+    "noun": "mitināšana"
+  },
+  "hover": {
+    "verb": "novietot"
+  },
+  "indent": {
+    "verb": "atkāpe"
+  },
+  "indentation": {
+    "noun": "atkāpe"
+  },
+  "index": {
+    "noun": "rādītājs"
+  },
+  "insights": {
+    "noun": "ieskati"
+  },
+  "install": {
+    "verb": "instalēt"
+  },
+  "issue": {
+    "noun": "problēma"
+  },
+  "issues": {
+    "noun": "problēmas"
+  },
+  "item": {
+    "noun": "vienums"
+  },
+  "items": {
+    "noun": "vienumi"
+  },
+  "Jetpack Social Connections": {
+    "expression": "Jetpack Social savienojumi"
+  },
+  "justified": {
+    "noun": "līdzināts"
+  },
+  "justify": {
+    "verb": "līdzināt"
+  },
+  "keyboard": {
+    "noun": "tastatūra"
+  },
+  "keyboard shortcut": {
+    "expression": "tastatūras īsinājumtaustiņš"
+  },
+  "keyword": {
+    "noun": "atslēgvārds"
+  },
+  "label": {
+    "noun": "etiķete"
+  },
+  "landing page": {
+    "noun": "mērķlapa"
+  },
+  "lazy": {
+    "verb": "laiski"
+  },
+  "lazy load": {
+    "noun": "aizkavēta ielāde"
+  },
+  "legacy": {
+    "noun": "mantots"
+  },
+  "legacy widget": {
+    "expression": "mantots logrīks"
+  },
+  "letter case": {
+    "noun": "burtu reģistrs"
+  },
+  "library": {
+    "noun": "bibliotēka"
+  },
+  "lightbox": {
+    "noun": "gaismas kārba"
+  },
+  "like": {
+    "noun": "Patīk"
+  },
+  "list": {
+    "noun": "saraksts"
+  },
+  "listing": {
+    "noun": "piedāvājums"
+  },
+  "live": {
+    "noun": "tiešsaiste"
+  },
+  "locale": {
+    "noun": "lokalizācija"
+  },
+  "locked": {
+    "noun": "slēgts"
+  },
+  "log": {
+    "noun": "žurnāls"
+  },
+  "log out": {
+    "expression": "izrakstīties"
+  },
+  "logged out": {
+    "expression": "atteicies"
+  },
+  "login": {
+    "verb": "pieteikšanās"
+  },
+  "loop": {
+    "noun": "cilpa"
+  },
+  "loopback": {
+    "noun": "atgriezeniskā saite"
+  },
+  "ltr": {
+    "noun": "kul"
+  },
+  "machine-generated": {
+    "noun": "mašīnģenerēts"
+  },
+  "malware": {
+    "noun": "ļaunprogrammatūra"
+  },
+  "margin": {
+    "noun": "(lappuses) malas"
+  },
+  "markup": {
+    "noun": "atzīme"
+  },
+  "media": {
+    "noun": "mediji"
+  },
+  "media file": {
+    "noun": "multivides datne"
+  },
+  "menu": {
+    "noun": "izvēlne"
+  },
+  "merge": {
+    "verb": "sapludināt"
+  },
+  "message": {
+    "noun": "ziņojums"
+  },
+  "miscellaneous": {
+    "noun": "citi nosacījumi"
+  },
+  "mode": {
+    "noun": "režīms"
+  },
+  "monitoring": {
+    "verb": "uzraudzība"
+  },
+  "move to": {
+    "verb": "pārvietot uz"
+  },
+  "multisite": {
+    "noun": "daudzvietne"
+  },
+  "name": {
+    "noun": "nosaukums"
+  },
+  "namespace": {
+    "noun": "nosaukumvieta"
+  },
+  "native": {
+    "noun": "dzimtais"
+  },
+  "navigates": {
+    "verb": "virzās"
+  },
+  "navigation": {
+    "noun": "navigācija"
+  },
+  "nested": {
+    "adjective": "ievietots"
+  },
+  "newsletter": {
+    "noun": "biļetens"
+  },
+  "next": {
+    "adjective": "nākamais"
+  },
+  "nice name": {
+    "expression": "jaukvārds"
+  },
+  "non breaking space": {
+    "noun": "nedalāmā atstarpe"
+  },
+  "notification": {
+    "noun": "paziņojums"
+  },
+  "offset": {
+    "noun": "nobīde"
+  },
+  "Oops": {
+    "interjection": "Hmm..."
+  },
+  "optional": {
+    "noun": "papildus"
+  },
+  "options": {
+    "noun": "izvēles"
+  },
+  "outdent": {
+    "noun": "pārkare"
+  },
+  "outline": {
+    "noun": "izklāsts"
+  },
+  "overrides": {
+    "noun": "aizstāšana"
+  },
+  "padding": {
+    "noun": "piemale"
+  },
+  "page": {
+    "noun": "lapa"
+  },
+  "paging": {
+    "verb": "lapošana"
+  },
+  "paragraph": {
+    "noun": "rindkopa"
+  },
+  "parent": {
+    "noun": "pamata"
+  },
+  "parent category": {
+    "expression": "pamata kategorija"
+  },
+  "parent font": {
+    "noun": "pamatfonts"
+  },
+  "parent ID": {
+    "expression": "pamatelementa ID"
+  },
+  "parent theme": {
+    "expression": "pamata tēma"
+  },
+  "parse": {
+    "verb": "parsēt"
+  },
+  "pass": {
+    "verb": "nodot"
+  },
+  "paste": {
+    "verb": "ievietot"
+  },
+  "patch": {
+    "noun": "Ielāps"
+  },
+  "pattern": {
+    "noun": "modelis"
+  },
+  "pending": {
+    "adjective": "neizlemts"
+  },
+  "performance": {
+    "noun": "veiktspēja"
+  },
+  "permalink": {
+    "noun": "paliekošā saite"
+  },
+  "phase": {
+    "noun": "posms"
+  },
+  "picker": {
+    "noun": "atlasītājs"
+  },
+  "pingback": {
+    "noun": "atbalsojums"
+  },
+  "placeholder": {
+    "noun": "vietturis"
+  },
+  "plugin": {
+    "noun": "spraudnis"
+  },
+  "pool": {
+    "noun": "aptauja"
+  },
+  "post": {
+    "noun": "ziņa"
+  },
+  "posted": {
+    "verb": "iesūtīts"
+  },
+  "posts": {
+    "noun": "ziņas"
+  },
+  "pre-publish": {
+    "noun": "priekšpublicēt"
+  },
+  "pre-publishing": {
+    "noun": "priekšpublicēšana"
+  },
+  "preferences": {
+    "noun": "preferences"
+  },
+  "prefix": {
+    "noun": "priedēklis"
+  },
+  "preformated": {
+    "expression": "iepriekš formatēts"
+  },
+  "preset": {
+    "noun": "priekšiestatījums"
+  },
+  "preview": {
+    "noun": "priekšskatījums"
+  },
+  "privacy": {
+    "adjective": "privātums"
+  },
+  "privacy policy": {
+    "noun": "privātuma politika"
+  },
+  "prompt": {
+    "noun": "pamudinājums"
+  },
+  "provide": {
+    "verb": "sniedz"
+  },
+  "provides": {
+    "verb": "nodrošina"
+  },
+  "publicize": {
+    "noun": "publiskot"
+  },
+  "publicized": {
+    "verb": "publiskots"
+  },
+  "pull quote": {
+    "expression": "izceltais citāts"
+  },
+  "pullquote": {
+    "noun": "izceltais citāts"
+  },
+  "push notification": {
+    "expression": "pašpiegādes paziņojums"
+  },
+  "queried": {
+    "noun": "vaicājums"
+  },
+  "query": {
+    "noun": "vaicājums"
+  },
+  "quote": {
+    "noun": "citāts"
+  },
+  "radii": {
+    "noun": "radiusi"
+  },
+  "randomizer": {
+    "noun": "nejaušinātājs"
+  },
+  "reblog": {
+    "noun": "atkārtots emuārs"
+  },
+  "redo": {
+    "noun": "atkārtot"
+  },
+  "referrer": {
+    "noun": "atsaucējs"
+  },
+  "reload": {
+    "verb": "pārlādēt"
+  },
+  "remove": {
+    "noun": "noņemt"
+  },
+  "render": {
+    "verb": "atveido"
+  },
+  "renew": {
+    "noun": "pagarināt"
+  },
+  "report": {
+    "noun": "atskaite"
+  },
+  "retrieve": {
+    "noun": "izgūt"
+  },
+  "revert": {
+    "verb": "atgriezt"
+  },
+  "revision": {
+    "verb": "pārskatīšana"
+  },
+  "row": {
+    "noun": "rinda"
+  },
+  "rtl": {
+    "noun": "luk"
+  },
+  "run": {
+    "verb": "sākt"
+  },
+  "schedule": {
+    "noun": "grafiks"
+  },
+  "scheduling": {
+    "verb": "laika izvēle"
+  },
+  "scope": {
+    "noun": "joma"
+  },
+  "score": {
+    "noun": "vērtējums"
+  },
+  "screenshot": {
+    "noun": "ekrānuzņēmums"
+  },
+  "section": {
+    "noun": "sadaļa"
+  },
+  "security": {
+    "noun": "drošība"
+  },
+  "select": {
+    "verb": "atlasiet"
+  },
+  "select all": {
+    "expression": "atlasīt visus"
+  },
+  "selected": {
+    "adjective": "atlasīts"
+  },
+  "self-hosted": {
+    "noun": "pašmitināts"
+  },
+  "service": {
+    "noun": "pakalpojums"
+  },
+  "set up": {
+    "noun": "iestatīt"
+  },
+  "settings": {
+    "noun": "iestatījumi"
+  },
+  "setup": {
+    "noun": "iestatīšana",
+    "verb": "izveidot"
+  },
+  "share": {
+    "verb": "kopīgot"
+  },
+  "shares": {
+    "verb": "kopīgošana"
+  },
+  "sharing": {
+    "verb": "dalīties"
+  },
+  "shell": {
+    "noun": "šūna"
+  },
+  "shortcode": {
+    "noun": "īskods"
+  },
+  "shortcut": {
+    "noun": "saīsne"
+  },
+  "showcase": {
+    "noun": "vitrīna"
+  },
+  "sidebar": {
+    "noun": "sānjosla"
+  },
+  "site": {
+    "noun": "vietne"
+  },
+  "sitemap": {
+    "noun": "vietņu karte"
+  },
+  "skip": {
+    "verb": "izlaist"
+  },
+  "slider": {
+    "noun": "slīdnis"
+  },
+  "slug": {
+    "noun": "taka"
+  },
+  "source": {
+    "noun": "avots"
+  },
+  "space": {
+    "noun": "atstarpe"
+  },
+  "split": {
+    "noun": "dalīt"
+  },
+  "spotlighting": {
+    "noun": "punkta izgaismojums"
+  },
+  "starter": {
+    "noun": "sākuma"
+  },
+  "state": {
+    "adjective": "stāvoklis"
+  },
+  "statistics": {
+    "noun": "statistika"
+  },
+  "stats": {
+    "noun": "statistika"
+  },
+  "sticky": {
+    "noun": "piesprausta"
+  },
+  "string": {
+    "noun": "virkne"
+  },
+  "suggestion": {
+    "noun": "Ieteikums"
+  },
+  "support": {
+    "noun": "atbalsts"
+  },
+  "survey": {
+    "noun": "pārskats"
+  },
+  "SVG": {
+    "noun": "SVG"
+  },
+  "tab": {
+    "noun": "cilne"
+  },
+  "table": {
+    "noun": "tabula"
+  },
+  "table prefix": {
+    "noun": "tabulas priedēklis"
+  },
+  "tag": {
+    "noun": "atzīme"
+  },
+  "tagline": {
+    "noun": "devīze"
+  },
+  "take place": {
+    "expression": "notiek"
+  },
+  "tap": {
+    "noun": "piesitiet"
+  },
+  "target": {
+    "noun": "mērķis"
+  },
+  "taxonomy": {
+    "noun": "taksonomija"
+  },
+  "template": {
+    "noun": "veidne"
+  },
+  "term": {
+    "noun": "termins"
+  },
+  "theme": {
+    "noun": "tēma"
+  },
+  "thread": {
+    "noun": "pavediens"
+  },
+  "threading": {
+    "noun": "vītņošana"
+  },
+  "thumbnail": {
+    "noun": "sīktēls"
+  },
+  "thumbnails": {
+    "noun": "sīktēli"
+  },
+  "timezone": {
+    "noun": "laika josla"
+  },
+  "title": {
+    "noun": "nosaukums"
+  },
+  "toggle": {
+    "verb": "pārslēgt"
+  },
+  "toggles": {
+    "noun": "pārslēdzēji"
+  },
+  "toolbar": {
+    "noun": "rīkjosla"
+  },
+  "tooltip": {
+    "noun": "paskaidre"
+  },
+  "topic": {
+    "noun": "temats"
+  },
+  "totals": {
+    "noun": "kopskaitļi"
+  },
+  "trackback": {
+    "noun": "atsauces ziņa"
+  },
+  "traffic": {
+    "noun": "datu plūsma"
+  },
+  "trash": {
+    "noun": "atkritne"
+  },
+  "trashed": {
+    "adjective": "izmests"
+  },
+  "type": {
+    "noun": "veids"
+  },
+  "typeface": {
+    "noun": "burtveidols"
+  },
+  "types": {
+    "noun": "veidi"
+  },
+  "unable": {
+    "noun": "nespēj"
+  },
+  "undo": {
+    "verb": "atcelt"
+  },
+  "unlisted": {
+    "adjective": "neiekļauts"
+  },
+  "unlock": {
+    "verb": "atslēgt"
+  },
+  "update": {
+    "verb": "atjaunot"
+  },
+  "updated": {
+    "verb": "atjaunots"
+  },
+  "upgrade": {
+    "verb": "uzlabot"
+  },
+  "upgrades": {
+    "noun": "uzlabojumi"
+  },
+  "upgrading": {
+    "verb": "uzlabošana"
+  },
+  "upload": {
+    "verb": "augšupielāde"
+  },
+  "username": {
+    "noun": "lietotājvārds"
+  },
+  "variations": {
+    "noun": "varianti"
+  },
+  "verification": {
+    "noun": "apstiprinājums"
+  },
+  "verified": {
+    "adjective": "pārbaudīts"
+  },
+  "verify": {
+    "verb": "pārbaudīt"
+  },
+  "verse": {
+    "noun": "pants"
+  },
+  "viewport": {
+    "noun": "skatlauks"
+  },
+  "views": {
+    "noun": "skatījumi"
+  },
+  "web": {
+    "noun": "tīmeklis"
+  },
+  "widget": {
+    "noun": "logrīks"
+  },
+  "widgetised": {
+    "adjective": "aprīkots ar logrīkiem"
+  },
+  "workspace": {
+    "noun": "darbvieta"
+  },
+  "wrapper": {
+    "noun": "apvalks"
+  },
+  "writable": {
+    "adjective": "ralstāms"
+  },
+  "you": {
+    "pronoun": "jūs"
+  },
+  "zoom": {
+    "noun": "tālummaiņa"
+  },
+  "zoom-in": {
+    "noun": "tuvināšana"
+  },
+  "zoom-out": {
+    "verb": "tālināšana"
+  }
+}

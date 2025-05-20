@@ -1,0 +1,212 @@
+{
+  "account": {
+    "noun": "профил"
+  },
+  "alignment": {
+    "noun": "подравняване"
+  },
+  "API Key": {
+    "noun": "ключ за API"
+  },
+  "aside": {
+    "noun": "бележка"
+  },
+  "attachment": {
+    "noun": "прикачен файл"
+  },
+  "block": {
+    "noun": "блок"
+  },
+  "block inserter": {
+    "noun": "лента с блокове"
+  },
+  "breadcrumb": {
+    "noun": "навигационен път/пътека"
+  },
+  "browser": {
+    "noun": "браузър"
+  },
+  "category": {
+    "noun": "категория"
+  },
+  "Cheatin' uh": {
+    "expression": "Шмекеруваме, а"
+  },
+  "child theme": {
+    "noun": "дъщерна тема"
+  },
+  "click": {
+    "verb": "натискане"
+  },
+  "clipboard": {
+    "noun": "междинна памет"
+  },
+  "custom": {
+    "noun": "собствен/потребителски"
+  },
+  "dashboard": {
+    "noun": "табло"
+  },
+  "database": {
+    "noun": "база от данни"
+  },
+  "deprecated": {
+    "adjective": "не се използва"
+  },
+  "email": {
+    "noun": "имейл адрес"
+  },
+  "featured image": {
+    "noun": "основно изображение"
+  },
+  "full site editing": {
+    "noun": "цялостно редактиране на сайт"
+  },
+  "grid": {
+    "noun": "решетка"
+  },
+  "header": {
+    "noun": "заглавна/горна част"
+  },
+  "Header image": {
+    "noun": "Заглавно изображение"
+  },
+  "ID": {
+    "noun": "ID"
+  },
+  "image": {
+    "noun": "изображение/картинка"
+  },
+  "import": {
+    "verb": "импортиране"
+  },
+  "layout": {
+    "noun": "оформление"
+  },
+  "link": {
+    "noun": "връзка"
+  },
+  "log": {
+    "noun": "дневник"
+  },
+  "Media Library": {
+    "noun": "библиотека(та)"
+  },
+  "Meta": {
+    "noun": "Мета"
+  },
+  "mode": {
+    "noun": "режим"
+  },
+  "namespace": {
+    "noun": "namespace"
+  },
+  "page": {
+    "noun": "страница"
+  },
+  "pattern": {
+    "noun": "макет"
+  },
+  "permalink": {
+    "noun": "постоянна връзка"
+  },
+  "pingback": {
+    "noun": "pingback"
+  },
+  "plugin": {
+    "noun": "разширение"
+  },
+  "Pop Up": {
+    "noun": "изскачащ прозорец"
+  },
+  "post": {
+    "noun": "публикация"
+  },
+  "post type": {
+    "noun": "тип съдържание"
+  },
+  "rating": {
+    "noun": "оценка"
+  },
+  "refresh": {
+    "verb": "презареждане"
+  },
+  "revision": {
+    "noun": "версия"
+  },
+  "RSS feed": {
+    "noun": "RSS поток"
+  },
+  "save": {
+    "verb": "записване/запазване"
+  },
+  "scheme": {
+    "noun": "схема"
+  },
+  "screen": {
+    "noun": "екран"
+  },
+  "shortcode": {
+    "noun": "кратък код"
+  },
+  "sidebar": {
+    "noun": "странична лента"
+  },
+  "slug": {
+    "noun": "кратко име"
+  },
+  "Spam": {
+    "noun": "спам"
+  },
+  "status": {
+    "noun": "състояние"
+  },
+  "Status": {
+    "noun": "състояние"
+  },
+  "tab": {
+    "noun": "подпрозорец"
+  },
+  "tag": {
+    "noun": "етикет"
+  },
+  "taxonomy": {
+    "noun": "таксономия или категоризация"
+  },
+  "theme": {
+    "noun": "тема"
+  },
+  "thumbnail": {
+    "noun": "умалена картинка"
+  },
+  "trackback": {
+    "noun": "trackback"
+  },
+  "trash": {
+    "noun": "кошче"
+  },
+  "Tweak Settings": {
+    "noun": "фини настройки"
+  },
+  "Type": {
+    "noun": "Вид"
+  },
+  "UI": {
+    "noun": "потребителски интерфейс"
+  },
+  "update": {
+    "verb": "обновяване"
+  },
+  "upgrade": {
+    "verb": "обновяване, надграждане"
+  },
+  "URI": {
+    "noun": "Адрес (URI)"
+  },
+  "URL": {
+    "noun": "адрес"
+  },
+  "widget": {
+    "noun": "джаджа"
+  }
+}

@@ -1,0 +1,3831 @@
+{
+  "\"Add New Post\"": {
+    "noun": "Aldoni novan afiŝon"
+  },
+  "\"Add New Tag\"": {
+    "noun": "Aldoni novan etikedon"
+  },
+  "\"Add New User\"": {
+    "noun": "Aldoni novan uzanton"
+  },
+  "\"Add New\"": {
+    "noun": "Aldoni novan"
+  },
+  "\"Add Photos\"": {
+    "noun": "Aldoni fotojn"
+  },
+  "\"Add Real content\"": {
+    "noun": "Aldoni originalan enhavon"
+  },
+  "\"Add to Menu\"": {
+    "noun": "Aldoni al menuero"
+  },
+  "\"Add Video\"": {
+    "noun": "Aldoni filmeton"
+  },
+  "\"Adding Categories\"": {
+    "noun": "Aldono de kategorioj"
+  },
+  "\"Adding Plugins\"": {
+    "noun": "Aldono de kromprogramoj"
+  },
+  "\"Adding Tags\"": {
+    "noun": "Aldono de etikedoj"
+  },
+  "\"Adding Themes\"": {
+    "noun": "Aldono de etosoj"
+  },
+  "\"Additional Capabilities\"": {
+    "noun": "Aldonaj kapabloj"
+  },
+  "\"Address\"": {
+    "noun": "Adreso"
+  },
+  "\"Admin Color Scheme\"": {
+    "noun": "Kolorskemo por administrado"
+  },
+  "\"Advanced Image Settings\"": {
+    "noun": "Altnivelaj bildaj agordoj"
+  },
+  "\"Advanced Link Settings\"": {
+    "noun": "Altnivelaj ligilaj agordoj"
+  },
+  "\"Advanced Rich Editing\"": {
+    "noun": "Altnivela riĉa redaktado"
+  },
+  "\"Advanced Settings\"": {
+    "noun": "Altnivelaj agordoj"
+  },
+  "\"AIM\"": {
+    "noun": "AIM"
+  },
+  "\"Akismet API Key\"": {
+    "noun": "Akismet API-ŝlosilo"
+  },
+  "\"Akismet Configuration\"": {
+    "noun": "Akismet-agordado"
+  },
+  "\"Akismet server\"": {
+    "noun": "Akismet-servilo"
+  },
+  "\"Akismet Spam\"": {
+    "noun": "Trudaĵo laŭ Akismet"
+  },
+  "\"Akismet Stats\"": {
+    "noun": "Trudaĵoj laŭ Akismet"
+  },
+  "\"All Categories\"": {
+    "noun": "Ĉiuj kategorioj"
+  },
+  "\"All Comments\"": {
+    "noun": "Ĉiuj komentoj"
+  },
+  "\"All content\"": {
+    "noun": "Ĉia enhavo"
+  },
+  "\"All image sizes\"": {
+    "noun": "Ĉiuj bildaj grandoj"
+  },
+  "\"All Link Categories\"": {
+    "noun": "Ĉiuj ligilokategorioj"
+  },
+  "\"All Links\"": {
+    "noun": "Ĉiuj ligiloj"
+  },
+  "\"All Pages\"": {
+    "noun": "Ĉiuj paĝoj"
+  },
+  "\"All Posts\"": {
+    "noun": "Ĉiuj afiŝoj"
+  },
+  "\"All Settings\"": {
+    "noun": "Ĉiuj agordoj"
+  },
+  "\"All Tags\"": {
+    "noun": "Ĉiuj etikedoj"
+  },
+  "\"All Types\"": {
+    "noun": "Ĉiuj tipoj"
+  },
+  "\"All Users\"": {
+    "noun": "Ĉiuj uzantoj"
+  },
+  "\"Allow Comments\"": {
+    "noun": "Permesi komentadon"
+  },
+  "\"Allow Pings\"": {
+    "noun": "Permesi sondadon"
+  },
+  "\"Allow\"": {
+    "noun": "Permesi"
+  },
+  "\"Allowed Files\"": {
+    "noun": "Permesitaj dosieroj"
+  },
+  "\"Already Installed\"": {
+    "noun": "Jam instalita"
+  },
+  "\"Alternate Text\"": {
+    "noun": "Alternativa teksto"
+  },
+  "\"Alternative source 1\"": {
+    "noun": "Alternativa fonto-1"
+  },
+  "\"Alternative source 2\"": {
+    "noun": "Alternativa fonto 2"
+  },
+  "\"am\"": {
+    "noun": "atm"
+  },
+  "\"Amber\"": {
+    "noun": "Sukcena"
+  },
+  "\"Anchor name\"": {
+    "noun": "Ankronomo"
+  },
+  "\"Anonymous\"": {
+    "noun": "Sennoma"
+  },
+  "\"Anyone can register\"": {
+    "noun": "Ĉiu ajn rajtas registriĝi"
+  },
+  "\"apop authtication failed\"": {
+    "noun": "la apop-aŭtentikigo malsukcesis"
+  },
+  "\"Application Attachment Template\"": {
+    "noun": "Aplikaĵa aldonaĵomodelo"
+  },
+  "\"Apply Filters\"": {
+    "noun": "Uzi la filtrilojn"
+  },
+  "\"Apply\"": {
+    "noun": "Apliki"
+  },
+  "\"Approve and Reply\"": {
+    "noun": "Aprobi kaj respondi"
+  },
+  "\"Approve Comment\"": {
+    "noun": "Aprobi komenton"
+  },
+  "\"Approve this Comment\"": {
+    "noun": "Aprobi tiun ĉi komenton"
+  },
+  "\"Approve\"": {
+    "noun": "Aprobi"
+  },
+  "\"Approved\"": {
+    "noun": "Aprobita"
+  },
+  "\"April\"": {
+    "noun": "Aprilo"
+  },
+  "\"Apr_April_abbreviation\"": {
+    "noun": "Apr"
+  },
+  "\"Aqua\"": {
+    "noun": "Hele verdeblua"
+  },
+  "\"Aside\"": {
+    "noun": "Mencio"
+  },
+  "\"Atom Publishing Protocol\"": {
+    "noun": "Eldonada protokolo Atom"
+  },
+  "\"Attach\"": {
+    "noun": "Kunigi"
+  },
+  "\"Attached to\"": {
+    "noun": "Ligita al"
+  },
+  "\"Attaching Files\"": {
+    "noun": "Alkroĉo de dosieroj"
+  },
+  "\"Attachment Page\"": {
+    "noun": "Aldonaĵopaĝo"
+  },
+  "\"Attachment Post URL\"": {
+    "noun": "URL-o de alkroĉaĵo"
+  },
+  "\"Attachment Template\"": {
+    "noun": "Aldonaĵomodelo"
+  },
+  "\"Audio Attachment Template\"": {
+    "noun": "Aŭdaĵa aldonaĵomodelo"
+  },
+  "\"August\"": {
+    "noun": "Aŭgusto"
+  },
+  "\"Aug_August_abbreviation\"": {
+    "noun": "Aŭg"
+  },
+  "\"Authentication failed\"": {
+    "noun": "la aŭtentigo malsukcesis"
+  },
+  "\"Author Template\"": {
+    "noun": "Modelo por aŭtoro"
+  },
+  "\"Author\"": {
+    "noun": "Aŭtoro"
+  },
+  "\"Auto Draft\"": {
+    "noun": "Aŭtomata malneto"
+  },
+  "\"Auto goto URL\"": {
+    "noun": "Retadreso de aŭtomata ligilo"
+  },
+  "\"Auto play\"": {
+    "noun": "Aŭtomata ludigo"
+  },
+  "\"Auto start\"": {
+    "noun": "Aŭtomata lanĉo"
+  },
+  "\"AutoHREF\"": {
+    "noun": "Aŭtomata HREF"
+  },
+  "\"Automatically add paragraphs\"": {
+    "noun": "Aŭtomate aldoni alineojn"
+  },
+  "\"Available Actions\"": {
+    "noun": "Disponeblaj agoj"
+  },
+  "\"Available Themes\"": {
+    "noun": "Disponeblaj etosoj"
+  },
+  "\"Available Tools\"": {
+    "noun": "Disponeblaj iloj"
+  },
+  "\"Available Widgets\"": {
+    "noun": "Disponeblaj kromprogrametoj"
+  },
+  "\"Avatar Display\"": {
+    "noun": "Montrado de avataro"
+  },
+  "\"Average Rating\"": {
+    "noun": "Averaĝa pritakso"
+  },
+  "\"Background attachment\"": {
+    "noun": "Fona alkroĉigaĵo"
+  },
+  "\"Background Color\"": {
+    "noun": "Fona koloro"
+  },
+  "\"Background Image\"": {
+    "noun": "Fona bildo"
+  },
+  "\"Background Position\"": {
+    "noun": "Fona pozicio"
+  },
+  "\"Background Repeat\"": {
+    "noun": "Fona ripeto"
+  },
+  "\"Background\"": {
+    "noun": "Fono"
+  },
+  "\"Base URL\"": {
+    "noun": "Baza URL"
+  },
+  "\"Base\"": {
+    "noun": "Bazo"
+  },
+  "\"Baseline\"": {
+    "noun": "Bazlinio"
+  },
+  "\"Basic Settings\"": {
+    "noun": "Bazaj agordoj"
+  },
+  "\"Basics\"": {
+    "noun": "Bazaj aferoj"
+  },
+  "\"Biographical Info\"": {
+    "noun": "Biografiaj informoj"
+  },
+  "\"Black\"": {
+    "noun": "Nigra"
+  },
+  "\"Blank\"": {
+    "noun": "Malplena"
+  },
+  "\"Blogger\"": {
+    "noun": "Blogger"
+  },
+  "\"Blogroll\"": {
+    "noun": "Bloglisto"
+  },
+  "\"Blue\"": {
+    "noun": "Blua"
+  },
+  "\"Bold\"": {
+    "noun": "Grase"
+  },
+  "\"Bookmarks\"": {
+    "noun": "Legosignoj"
+  },
+  "\"Border\"": {
+    "noun": "Bordero"
+  },
+  "\"Bottom left\"": {
+    "noun": "Malsupre maldekstre"
+  },
+  "\"Bottom right\"": {
+    "noun": "Malsupre dekstre"
+  },
+  "\"Bottom\"": {
+    "noun": "Malsupro"
+  },
+  "\"Broken Themes\"": {
+    "noun": "Difektitaj etosoj"
+  },
+  "\"Brown\"": {
+    "noun": "Bruna"
+  },
+  "\"BuddyPress\"": {
+    "noun": "BuddyPress"
+  },
+  "\"Bulk Edit\"": {
+    "noun": "Amase redakti"
+  },
+  "\"Burnt orange\"": {
+    "noun": "Brune oranĝa"
+  },
+  "\"Cache\"": {
+    "noun": "Kaŝmemoro"
+  },
+  "\"Calendar\"": {
+    "noun": "Kalendaro"
+  },
+  "\"Cancel all changes\"": {
+    "noun": "Nuligi ĉiujn ŝanĝojn"
+  },
+  "\"Cancel reply\"": {
+    "noun": "Nuligi respondon"
+  },
+  "\"Cancel\"": {
+    "noun": "Rezigni"
+  },
+  "\"Caption\"": {
+    "noun": "Klarigo"
+  },
+  "\"Captioning id\"": {
+    "noun": "Identigilo de subtitolado"
+  },
+  "\"Categories\"": {
+    "noun": "Kategorioj"
+  },
+  "\"Category base\"": {
+    "noun": "Kategoribazo"
+  },
+  "\"Category Template\"": {
+    "noun": "Modelo por kategorioj"
+  },
+  "\"Category\"": {
+    "noun": "Kategorio"
+  },
+  "\"Caught Spam\"": {
+    "noun": "Kaptita trudaĵo"
+  },
+  "\"Cell\"": {
+    "noun": "Ĉelo"
+  },
+  "\"Center\"": {
+    "noun": "Centrigi"
+  },
+  "\"Change Permalinks\"": {
+    "noun": "Ŝanĝu fiksligilojn"
+  },
+  "\"Change\"": {
+    "noun": "Ŝanĝi"
+  },
+  "\"Chat\"": {
+    "noun": "Babilo"
+  },
+  "\"Check Again\"": {
+    "noun": "Kontroli denove"
+  },
+  "\"Check for Spam\"": {
+    "noun": "Rekontroli por trovi trudaĵojn"
+  },
+  "\"Check Spelling\"": {
+    "noun": "Kontroli literumadon"
+  },
+  "\"Circle\"": {
+    "noun": "Cirklo"
+  },
+  "\"Class\"": {
+    "noun": "Klaso"
+  },
+  "\"Cleanup messy code\"": {
+    "noun": "Ordigi kaosan kodon"
+  },
+  "\"Clear List\"": {
+    "noun": "Viŝi liston"
+  },
+  "\"Clear\"": {
+    "noun": "Viŝi"
+  },
+  "\"Cleared by Akismet\"": {
+    "noun": "Aprobita de Akismet"
+  },
+  "\"Close filters\"": {
+    "noun": "Fermi filtrilojn"
+  },
+  "\"close tags\"": {
+    "noun": "fermi etikedojn"
+  },
+  "\"Close Window\"": {
+    "noun": "Fermi la fenestron"
+  },
+  "\"Close\"": {
+    "noun": "Fermi"
+  },
+  "\"Code sample\"": {
+    "noun": "Kodospecimeno"
+  },
+  "\"Code\"": {
+    "noun": "Kodo"
+  },
+  "\"colleague\"": {
+    "noun": "kolego"
+  },
+  "\"Colors\"": {
+    "noun": "Koloroj"
+  },
+  "\"Column\"": {
+    "noun": "Kolumno"
+  },
+  "\"Columns\"": {
+    "noun": "Kolumnoj"
+  },
+  "\"Comment Blacklist\"": {
+    "noun": "Nigra listo por komentoj"
+  },
+  "\"Comment History\"": {
+    "noun": "Komenta historio"
+  },
+  "\"Comment Moderation\"": {
+    "noun": "Komentokontrolado"
+  },
+  "\"Comment\"": {
+    "noun": "Komento"
+  },
+  "\"Comments Feed\"": {
+    "noun": "Distribuo pri komentoj"
+  },
+  "\"Comments Off\"": {
+    "noun": "Komentoj malebligitaj"
+  },
+  "\"Comments Template\"": {
+    "noun": "Komento-Modelo"
+  },
+  "\"Comments\"": {
+    "noun": "Komentoj"
+  },
+  "\"Common Settings\"": {
+    "noun": "Ĝeneralaj agordoj"
+  },
+  "\"Compare Revisions\"": {
+    "noun": "Kompari versiojn"
+  },
+  "\"Confirm Deletion\"": {
+    "noun": "Konfirmi forviŝadon"
+  },
+  "\"Confirm new password\"": {
+    "noun": "Konfirmi novan pasvorton"
+  },
+  "\"Confirm Removal\"": {
+    "noun": "Konfirmi forviŝadon"
+  },
+  "\"Connection Information\"": {
+    "noun": "Konektoinformoj"
+  },
+  "\"connection not established\"": {
+    "noun": "konekto ne estiĝis"
+  },
+  "\"Connection Type\"": {
+    "noun": "Speco de konekto"
+  },
+  "\"Constrain proportions\"": {
+    "noun": "Fiksi la proporciojn"
+  },
+  "\"contact\"": {
+    "noun": "kontakto"
+  },
+  "\"Content Tools\"": {
+    "noun": "Iloj por enhavo"
+  },
+  "\"Continue\"": {
+    "noun": "Daŭrigi"
+  },
+  "\"Contributing Developers\"": {
+    "noun": "Kontribuantaj programistoj"
+  },
+  "\"Contributor\"": {
+    "noun": "Kontribuanto"
+  },
+  "\"Copy table row\"": {
+    "noun": "Kopii tabelvicon"
+  },
+  "\"Copy\"": {
+    "noun": "Kopii"
+  },
+  "\"Core Developer\"": {
+    "noun": "Ĉefa programisto"
+  },
+  "\"Create Menu\"": {
+    "noun": "Krei menuon"
+  },
+  "\"Create Menus\"": {
+    "noun": "Krei menuojn"
+  },
+  "\"Crop and Publish\"": {
+    "noun": "Stuci kaj publikigi"
+  },
+  "\"Crop Header Image\"": {
+    "noun": "Stuci paĝokapan bildon"
+  },
+  "\"Crop Selection\"": {
+    "noun": "Stuca elekto"
+  },
+  "\"CSS Class\"": {
+    "noun": "CSS Klaso"
+  },
+  "\"CSS Classes\"": {
+    "noun": "CSS-Klasoj"
+  },
+  "\"Current Link\"": {
+    "noun": "Nuna ligilo"
+  },
+  "\"Current marker\"": {
+    "noun": "Nuna pozicio"
+  },
+  "\"Current page\"": {
+    "noun": "Nuna paĝo"
+  },
+  "\"Current position\"": {
+    "noun": "Nuna pozicio"
+  },
+  "\"Current theme preview\"": {
+    "noun": "Antaŭrigardo de la nuna etoso"
+  },
+  "\"Current Theme\"": {
+    "noun": "Nuna etoso"
+  },
+  "\"Current thumbnail\"": {
+    "noun": "Nuna bildeto"
+  },
+  "\"Custom Background\"": {
+    "noun": "Propra fono"
+  },
+  "\"Custom Colors\"": {
+    "noun": "Propraj koloroj"
+  },
+  "\"Custom Fields\"": {
+    "noun": "Propraj kampoj"
+  },
+  "\"Custom Header\"": {
+    "noun": "Propra paĝokapo"
+  },
+  "\"Custom Links\"": {
+    "noun": "Propraj ligiloj"
+  },
+  "\"Custom Menu\"": {
+    "noun": "Propra menuo"
+  },
+  "\"Custom Structure\"": {
+    "noun": "Propra strukturo"
+  },
+  "\"Custom Structures\"": {
+    "noun": "Propraj strukturoj"
+  },
+  "\"Custom\"": {
+    "noun": "Propra"
+  },
+  "\"Customize Your Site\"": {
+    "noun": "Tajlori la retejon laŭguste"
+  },
+  "\"Customizing This Display\"": {
+    "noun": "Propra aranĝo de tiu montrado"
+  },
+  "\"Cut table row\"": {
+    "noun": "Eltondi tabelvicon"
+  },
+  "\"Cut\"": {
+    "noun": "Eltondi"
+  },
+  "\"Dark azure\"": {
+    "noun": "Intense ĉielblua"
+  },
+  "\"Dark green\"": {
+    "noun": "Malhele verda"
+  },
+  "\"Dark olive\"": {
+    "noun": "Brune verda"
+  },
+  "\"Dark\"": {
+    "noun": "Malluma"
+  },
+  "\"Dashboard Design\"": {
+    "noun": "Dezajno de panelo"
+  },
+  "\"Dashboard Welcome\"": {
+    "noun": "Bonveniga loko en panelo"
+  },
+  "\"Dashboard\"": {
+    "noun": "Panelo"
+  },
+  "\"Database Error\"": {
+    "noun": "Datumbaza eraro"
+  },
+  "\"Database Update Required\"": {
+    "noun": "Bezonas datumbazan promocion"
+  },
+  "\"Date Created\"": {
+    "noun": "Dato kreita"
+  },
+  "\"Date Format\"": {
+    "noun": "Datoprezento"
+  },
+  "\"Date\"": {
+    "noun": "Dato"
+  },
+  "\"date\"": {
+    "noun": "dato"
+  },
+  "\"Day and name\"": {
+    "noun": "Tago kaj nomo"
+  },
+  "\"Deactivate this plugin\"": {
+    "noun": "Malaktivigi tiun ĉi kromprogramon"
+  },
+  "\"Deactivate\"": {
+    "noun": "Malaktivigi"
+  },
+  "\"December\"": {
+    "noun": "Decembro"
+  },
+  "\"Dec_December_abbreviation\"": {
+    "noun": "Dec"
+  },
+  "\"Default article settings\"": {
+    "noun": "Defaŭltaj artikolagordoj"
+  },
+  "\"Default Avatar\"": {
+    "noun": "Defaŭlta avataro"
+  },
+  "\"Default frame\"": {
+    "noun": "Defaŭlta kadro"
+  },
+  "\"Default Images\"": {
+    "noun": "Defaŭltaj bildoj"
+  },
+  "\"Default Link Category\"": {
+    "noun": "Defaŭlta ligilokategorio"
+  },
+  "\"Default Mail Category\"": {
+    "noun": "Defaŭlta retpoŝta kategorio"
+  },
+  "\"Default Post Category\"": {
+    "noun": "Defaŭlta afiŝokategorio"
+  },
+  "\"Default Post Format\"": {
+    "noun": "Defaŭlta aranĝo por afiŝoj"
+  },
+  "\"Default Template\"": {
+    "noun": "Defaŭlta modelo"
+  },
+  "\"Default volume\"": {
+    "noun": "Defaŭlta laŭteco"
+  },
+  "\"Default width\"": {
+    "noun": "Defaŭlta larĝo"
+  },
+  "\"Default\"": {
+    "noun": "Defaŭlto"
+  },
+  "\"Definition description\"": {
+    "noun": "Difinopriskribo"
+  },
+  "\"Delete all\"": {
+    "noun": "Forviŝi ĉiujn"
+  },
+  "\"Delete Gallery\"": {
+    "noun": "Forviŝi galerion"
+  },
+  "\"Delete Image\"": {
+    "noun": "Forviŝi bildon"
+  },
+  "\"Delete Menu\"": {
+    "noun": "Forviŝi menuon"
+  },
+  "\"Delete Permantly\"": {
+    "noun": "Forviŝi porĉiame"
+  },
+  "\"Delete row\"": {
+    "noun": "Forviŝi vicon"
+  },
+  "\"Delete Site\"": {
+    "noun": "Forviŝi retejon"
+  },
+  "\"Delete table\"": {
+    "noun": "Forviŝi tabelon"
+  },
+  "\"Delete this plugin\"": {
+    "noun": "Forviŝi la kromprogramon"
+  },
+  "\"Delete Users\"": {
+    "noun": "Forviŝi uzantojn"
+  },
+  "\"Delete\"": {
+    "noun": "Forviŝi"
+  },
+  "\"Deleting Links\"": {
+    "noun": "Forviŝas ligilojn"
+  },
+  "\"Deletion\"": {
+    "noun": "Forviŝado"
+  },
+  "\"Descending\"": {
+    "noun": "Malkreskas"
+  },
+  "\"Description\"": {
+    "noun": "Priskribo"
+  },
+  "\"Designer\"": {
+    "noun": "Dezajnisto"
+  },
+  "\"Details\"": {
+    "noun": "Detaloj"
+  },
+  "\"Developer\"": {
+    "noun": "Programisto"
+  },
+  "\"Dictionary lookup\"": {
+    "noun": "Vortara priserĉo"
+  },
+  "\"Dimensions\"": {
+    "noun": "Dimensioj"
+  },
+  "\"Disable accessibility mode\"": {
+    "noun": "Malebligi faciligan reĝimon"
+  },
+  "\"Disc\"": {
+    "noun": "Disko"
+  },
+  "\"Discussion Settings\"": {
+    "noun": "Diskutagordoj"
+  },
+  "\"Discussion\"": {
+    "noun": "Diskuto"
+  },
+  "\"Dismiss\"": {
+    "noun": "Forsendi"
+  },
+  "\"Display as dropdown\"": {
+    "noun": "Montri ĝin kiel falmenuo"
+  },
+  "\"Display Options\"": {
+    "noun": "Agordoj de montrado"
+  },
+  "\"Display Text\"": {
+    "noun": "Montri tekston"
+  },
+  "\"Div\"": {
+    "noun": "Div"
+  },
+  "\"Do not allow\"": {
+    "noun": "Ne permesi"
+  },
+  "\"Document properties\"": {
+    "noun": "Ecoj de dokumento"
+  },
+  "\"Documtation\"": {
+    "noun": "Dokumentado"
+  },
+  "\"Done\"": {
+    "noun": "Farite"
+  },
+  "\"Download Export File\"": {
+    "noun": "Elŝuti eksportan dosieron"
+  },
+  "\"Download nightly build\"": {
+    "noun": "Elŝuti noktan version"
+  },
+  "\"Draft\"": {
+    "noun": "Malneto"
+  },
+  "\"Drop files here\"": {
+    "noun": "Lasu faligi dosierojn"
+  },
+  "\"Easier Uploading\"": {
+    "noun": "Pli facila alŝutado"
+  },
+  "\"Edit Category\"": {
+    "noun": "Redakti kategorion"
+  },
+  "\"Edit Comment\"": {
+    "noun": "Redakti la komenton"
+  },
+  "\"Edit CSS Style\"": {
+    "noun": "Redakti CSS-stilon"
+  },
+  "\"Edit Gallery\"": {
+    "noun": "Modifi galerion"
+  },
+  "\"Edit HTML Source\"": {
+    "noun": "Redakti HTML-an fontokodon"
+  },
+  "\"Edit Image\"": {
+    "noun": "Redakti la bildon"
+  },
+  "\"Edit Link Category\"": {
+    "noun": "Redakti ligilan kategorion"
+  },
+  "\"Edit Link\"": {
+    "noun": "Redakti ligilon"
+  },
+  "\"Edit Menu Item\"": {
+    "noun": "Redakti menueron"
+  },
+  "\"Edit My Profile\"": {
+    "noun": "Modifi mian profilon"
+  },
+  "\"Edit Page\"": {
+    "noun": "Redakti paĝon"
+  },
+  "\"Edit Plugins\"": {
+    "noun": "Redakti kromprogramojn"
+  },
+  "\"Edit Post\"": {
+    "noun": "Redakti afiŝon"
+  },
+  "\"Edit Tag\"": {
+    "noun": "Redakti etikedon"
+  },
+  "\"Edit Themes\"": {
+    "noun": "Redakti etosojn"
+  },
+  "\"Edit this item\"": {
+    "noun": "Redakti tiun ĉi eron"
+  },
+  "\"Edit This\"": {
+    "noun": "Redakti"
+  },
+  "\"Edit User\"": {
+    "noun": "Redakti uzanton"
+  },
+  "\"Edit\"": {
+    "noun": "Redakti"
+  },
+  "\"Editor API Overhaul\"": {
+    "noun": "Refaro de redaktilo-API"
+  },
+  "\"Editor Style\"": {
+    "noun": "Redaktila stilo"
+  },
+  "\"Editor\"": {
+    "noun": "Redaktilo"
+  },
+  "\"Email\"": {
+    "noun": "Retpoŝto"
+  },
+  "\"Embed a Video\"": {
+    "noun": "Enkorpigi filmeton"
+  },
+  "\"Embed Code\"": {
+    "noun": "Enkorpigi la kodon"
+  },
+  "\"Emotions\"": {
+    "noun": "Emocioj"
+  },
+  "\"Empty command string\"": {
+    "noun": "Malplena komando-ĉeno"
+  },
+  "\"Empty filename\"": {
+    "noun": "Malplena dosiernomo"
+  },
+  "\"Empty Spam\"": {
+    "noun": "Malplenigi trudujon"
+  },
+  "\"Empty Term\"": {
+    "noun": "Malplena termino"
+  },
+  "\"Empty Trash\"": {
+    "noun": "Malplenigi rubujon"
+  },
+  "\"Enable accessibility mode\"": {
+    "noun": "Ebligi faciligan reĝimon"
+  },
+  "\"Enable JavaScript\"": {
+    "noun": "Ebligi Ĝavoskripton"
+  },
+  "\"Enabled\"": {
+    "noun": "Ebligita"
+  },
+  "\"End Date\"": {
+    "noun": "Findato"
+  },
+  "\"End time\"": {
+    "noun": "Fintempo"
+  },
+  "\"Enter new\"": {
+    "noun": "Entajpu la novan"
+  },
+  "\"Enter the URL\"": {
+    "noun": "Entajpu la URL-on"
+  },
+  "\"Enter title here\"": {
+    "noun": "Entajpu titolon"
+  },
+  "\"Excerpt View\"": {
+    "noun": "Afiŝeltiraĵo"
+  },
+  "\"Excerpt\"": {
+    "noun": "Eltiraĵo"
+  },
+  "\"Exit fullscreen\"": {
+    "noun": "Eliri el plena ekrano"
+  },
+  "\"Export\"": {
+    "noun": "Eksportado"
+  },
+  "\"Extended Core Team\"": {
+    "noun": "Pliampleksa kerna teamo"
+  },
+  "\"External Libraries\"": {
+    "noun": "Eksteraj bibliotekoj"
+  },
+  "\"family\"": {
+    "noun": "familio"
+  },
+  "\"Feature Filter\"": {
+    "noun": "Filtrilo de kvalitoj"
+  },
+  "\"Featured Image Header\"": {
+    "noun": "Elstarigita bildkapo"
+  },
+  "\"Featured Image\"": {
+    "noun": "Elstarigita bildo"
+  },
+  "\"Featured Images\"": {
+    "noun": "Elstarigitaj bildoj"
+  },
+  "\"Featured\"": {
+    "noun": "Elstarigitaj"
+  },
+  "\"Features\"": {
+    "noun": "Kvalitoj"
+  },
+  "\"February\"": {
+    "noun": "Februaro"
+  },
+  "\"Feb_February_abbreviation\"": {
+    "noun": "Feb"
+  },
+  "\"Feedback\"": {
+    "noun": "Pritakso"
+  },
+  "\"File Type Detection\"": {
+    "noun": "Malkovro de dosierstrukturo"
+  },
+  "\"File URL\"": {
+    "noun": "Dosiera URL"
+  },
+  "\"File\"": {
+    "noun": "Dosiero"
+  },
+  "\"Find Themes\"": {
+    "noun": "Trovi etosojn"
+  },
+  "\"Find\"": {
+    "noun": "Trovi"
+  },
+  "\"First Name\"": {
+    "noun": "Persona nomo"
+  },
+  "\"First Post\"": {
+    "noun": "Unua afiŝo"
+  },
+  "\"first\"": {
+    "noun": "unua"
+  },
+  "\"Fixed Width\"": {
+    "noun": "Fiksita larĝo"
+  },
+  "\"Fixed\"": {
+    "noun": "Fiksita"
+  },
+  "\"Flash options\"": {
+    "noun": "Flaŝ-agordoj"
+  },
+  "\"Flash video options\"": {
+    "noun": "Agordoj de Flaŝ-video"
+  },
+  "\"Flashvars\"": {
+    "noun": "Flaŝ-variabloj"
+  },
+  "\"Flexible Permalinks\"": {
+    "noun": "Flekseblaj fiksligiloj"
+  },
+  "\"Flexible Width\"": {
+    "noun": "Variabla larĝo"
+  },
+  "\"Flip horizontally\"": {
+    "noun": "Inversigi horizontale"
+  },
+  "\"Flip vertically\"": {
+    "noun": "Inversigi kapo-suben"
+  },
+  "\"Flyout Menus\"": {
+    "noun": "Dinamikaj menuoj"
+  },
+  "\"Font size\"": {
+    "noun": "Tipara grando"
+  },
+  "\"Format\"": {
+    "noun": "Tekstaranĝo"
+  },
+  "\"Formatting\"": {
+    "noun": "Tekstaranĝo"
+  },
+  "\"Four Columns\"": {
+    "noun": "Kvar kolumnoj"
+  },
+  "\"Freedoms\"": {
+    "noun": "Liberoj"
+  },
+  "\"Fri\"": {
+    "noun": "ven"
+  },
+  "\"Friday\"": {
+    "noun": "vendredo"
+  },
+  "\"friend\"": {
+    "noun": "amiko"
+  },
+  "\"friendship\"": {
+    "noun": "amikeco"
+  },
+  "\"From Computer\"": {
+    "noun": "De komputilo"
+  },
+  "\"From URL\"": {
+    "noun": "El URL"
+  },
+  "\"Front page displays\"": {
+    "noun": "La ĉefpaĝo montras"
+  },
+  "\"Front Page Posting\"": {
+    "noun": "Ĉefpaĝa afiŝado"
+  },
+  "\"FTP Password\"": {
+    "noun": "pasvorto por FTP"
+  },
+  "\"FTP Username\"": {
+    "noun": "Uzantonomo por FTP"
+  },
+  "\"FTP\"": {
+    "noun": "FTP"
+  },
+  "\"Full Size\"": {
+    "noun": "Plena grando"
+  },
+  "\"Full text\"": {
+    "noun": "Plena teksto"
+  },
+  "\"Full Width Template\"": {
+    "noun": "Plenlarĝa ŝablono"
+  },
+  "\"Full\"": {
+    "noun": "Plena"
+  },
+  "\"fullscreen\"": {
+    "noun": "Plena ekrano"
+  },
+  "\"Fullscreen\"": {
+    "noun": "Plena ekrano"
+  },
+  "\"FYI\"": {
+    "noun": "Informoj"
+  },
+  "\"F_Friday_initial\"": {
+    "noun": "V"
+  },
+  "\"Gallery Settings\"": {
+    "noun": "Galeriaj agordoj"
+  },
+  "\"Gallery\"": {
+    "noun": "Galerio"
+  },
+  "\"General Usage\"": {
+    "noun": "Ĝenerala uzado"
+  },
+  "\"General\"": {
+    "noun": "Ĝenerala"
+  },
+  "\"geographical\"": {
+    "noun": "geografia"
+  },
+  "\"Get New Password\"": {
+    "noun": "Havigi novan pasvorton"
+  },
+  "\"Get Shortlink\"": {
+    "noun": "Havigi mallongan ligilon"
+  },
+  "\"Global Dashboard\"": {
+    "noun": "Ĉiea panelo"
+  },
+  "\"Go back\"": {
+    "noun": "Reiri"
+  },
+  "\"Gold\"": {
+    "noun": "Ora"
+  },
+  "\"Gravatar Logo\"": {
+    "noun": "Bildo de gravataro"
+  },
+  "\"Gray\"": {
+    "noun": "Griza"
+  },
+  "\"Grayish blue\"": {
+    "noun": "Grize blua"
+  },
+  "\"Green\"": {
+    "noun": "Verda"
+  },
+  "\"Guest Committer\"": {
+    "noun": "Ekstera enmetanto"
+  },
+  "\"Header Image\"": {
+    "noun": "Kapa bildo"
+  },
+  "\"Heading 1\"": {
+    "noun": "Titolo 1"
+  },
+  "\"Heading 2\"": {
+    "noun": "Titolo 2"
+  },
+  "\"Heading 3\"": {
+    "noun": "Titolo 3"
+  },
+  "\"Heading 4\"": {
+    "noun": "Titolo 4"
+  },
+  "\"Heading 5\"": {
+    "noun": "Titolo 5"
+  },
+  "\"Heading 6\"": {
+    "noun": "Titolo 6"
+  },
+  "\"Height\"": {
+    "noun": "Alto"
+  },
+  "\"Help Tabs\"": {
+    "noun": "Langetoj de helpo"
+  },
+  "\"Help\"": {
+    "noun": "Helpo"
+  },
+  "\"Hidden GUI\"": {
+    "noun": "Kaŝita fasado"
+  },
+  "\"Hidden\"": {
+    "noun": "Kaŝita"
+  },
+  "\"Hide Details\"": {
+    "noun": "Kaŝi detalojn"
+  },
+  "\"Hide hidden updates\"": {
+    "noun": "Kaŝi kaŝitajn ĝisdatigojn"
+  },
+  "\"Hide this update\"": {
+    "noun": "Kaŝi tiun ĉi ĝisdatigon."
+  },
+  "\"Hide\"": {
+    "noun": "Kaŝi"
+  },
+  "\"History\"": {
+    "noun": "Historio"
+  },
+  "\"Home\"": {
+    "noun": "Ĉefpaĝo"
+  },
+  "\"Horizontal rule\"": {
+    "noun": "Horizontala streko"
+  },
+  "\"Horizontal space\"": {
+    "noun": "Horizontala spaco"
+  },
+  "\"Hotkeys\"": {
+    "noun": "Fulmoklavoj"
+  },
+  "\"How to Update\"": {
+    "noun": "Kiel ĝisdatigi"
+  },
+  "\"href\"": {
+    "noun": "href"
+  },
+  "\"HTML Source Editor\"": {
+    "noun": "Redaktilo de HTML-a fontokodo"
+  },
+  "\"HTML\"": {
+    "noun": "HTML"
+  },
+  "\"HTML5 Video Options\"": {
+    "noun": "Elektoj por HTML5-video"
+  },
+  "\"Icon Design\"": {
+    "noun": "Piktograma desegno"
+  },
+  "\"Id\"": {
+    "noun": "Id"
+  },
+  "\"identity\"": {
+    "noun": "identeco"
+  },
+  "\"Ignore all\"": {
+    "noun": "Ignori ĉiujn"
+  },
+  "\"Ignore word\"": {
+    "noun": "Ignori vorton"
+  },
+  "\"Image Address\"": {
+    "noun": "Bildadreso"
+  },
+  "\"Image Attachment Template\"": {
+    "noun": "Bilda aldonaĵomodelo"
+  },
+  "\"Image Caption\"": {
+    "noun": "Bildopriskribo"
+  },
+  "\"Image Crop\"": {
+    "noun": "Bildostuco"
+  },
+  "\"Image description\"": {
+    "noun": "Bildopriskribo"
+  },
+  "\"Image File\"": {
+    "noun": "Bildodosiero"
+  },
+  "\"Image list\"": {
+    "noun": "Bildolisto"
+  },
+  "\"Image Processing Error\"": {
+    "noun": "Eraro okazis dum pritrakti bildon"
+  },
+  "\"Image properties\"": {
+    "noun": "Bildaj ecoj"
+  },
+  "\"Image saved\"": {
+    "noun": "La bildo estis konservita."
+  },
+  "\"Image sizes\"": {
+    "noun": "Bildaj grandoj"
+  },
+  "\"Image status\"": {
+    "noun": "Stato de bildo"
+  },
+  "\"Image Upload Error\"": {
+    "noun": "Eraro dum alŝutas bildon"
+  },
+  "\"Image URL\"": {
+    "noun": "Bilda adreso"
+  },
+  "\"Image\"": {
+    "noun": "Bildo"
+  },
+  "\"Images and attachments\"": {
+    "noun": "Bildoj kaj aldonaĵoj"
+  },
+  "\"Images\"": {
+    "noun": "Bildoj"
+  },
+  "\"Import\"": {
+    "noun": "Importado"
+  },
+  "\"In Response To\"": {
+    "noun": "Responde al"
+  },
+  "\"Inactive Widgets\"": {
+    "noun": "Neaktivaj kromprogrametoj"
+  },
+  "\"Incoming Links\"": {
+    "noun": "Ligiloj ĉi tien"
+  },
+  "\"Indent\"": {
+    "noun": "Deŝovo"
+  },
+  "\"Indigo\"": {
+    "noun": "Indiga"
+  },
+  "\"Information needed\"": {
+    "noun": "Informoj bezonitaj"
+  },
+  "\"Insert an Image\"": {
+    "noun": "Enmeti bildon"
+  },
+  "\"Insert column after\"": {
+    "noun": "Enmeti kolumnon post"
+  },
+  "\"Insert column before\"": {
+    "noun": "Enmeti kolumnon antaŭ"
+  },
+  "\"Insert custom character\"": {
+    "noun": "Enmeti specialan signon"
+  },
+  "\"Insert date\"": {
+    "noun": "Enmeti daton"
+  },
+  "\"Insert gallery\"": {
+    "noun": "Enmeti galerion"
+  },
+  "\"Insert horizontal ruler\"": {
+    "noun": "Enmeti horizontalan strekon"
+  },
+  "\"Insert Image\"": {
+    "noun": "Enmeti bildon"
+  },
+  "\"Insert into Post\"": {
+    "noun": "Enmeti en la afiŝon"
+  },
+  "\"Insert link\"": {
+    "noun": "Enmeti ligilon"
+  },
+  "\"Insert More Tag\"": {
+    "noun": "Enmeti Plu-markon"
+  },
+  "\"Insert new layer\"": {
+    "noun": "Enmeti novan tavolon"
+  },
+  "\"Insert Page Break\"": {
+    "noun": "Enmeti paĝodividon"
+  },
+  "\"Insert row after\"": {
+    "noun": "Enmeti vicon post"
+  },
+  "\"Insert row before\"": {
+    "noun": "Enmeti vicon antaŭ"
+  },
+  "\"Insert time\"": {
+    "noun": "Enmeti horon"
+  },
+  "\"Insert Video\"": {
+    "noun": "Enmeti filmeton"
+  },
+  "\"Insert\"": {
+    "noun": "Enmeti"
+  },
+  "\"Insertion\"": {
+    "noun": "Enmetado"
+  },
+  "\"Install importer\"": {
+    "noun": "Instali importilon"
+  },
+  "\"Install Now\"": {
+    "noun": "Instali nun"
+  },
+  "\"Install Plugins\"": {
+    "noun": "Instali kromprogramojn"
+  },
+  "\"Install Themes\"": {
+    "noun": "Instali etosojn"
+  },
+  "\"Install Update Now\"": {
+    "noun": "Instali ĝisdatigon nun"
+  },
+  "\"Install WordPress\"": {
+    "noun": "Instali WordPress-on"
+  },
+  "\"Install\"": {
+    "noun": "Instali"
+  },
+  "\"Installation Failed\"": {
+    "noun": "La instalado malsukcesis"
+  },
+  "\"Installed Plugins\"": {
+    "noun": "Instalitaj kromprogramoj"
+  },
+  "\"Installed\"": {
+    "noun": "Instalita"
+  },
+  "\"Insufficient Requirements\"": {
+    "noun": "Bezonoj ne trovitaj"
+  },
+  "\"Internationalization\"": {
+    "noun": "Internaciigo"
+  },
+  "\"Invalid database prefix\"": {
+    "noun": "Nevalida prefikso por la datumbazo"
+  },
+  "\"Invalid file type\"": {
+    "noun": "Nevalida dosiertipo"
+  },
+  "\"Invalid key\"": {
+    "noun": "Nevalida ŝlosilo"
+  },
+  "\"Invalid object ID\"": {
+    "noun": "Nevalida identigilo de objekto."
+  },
+  "\"Invalid plugin page\"": {
+    "noun": "Nevalida kromprograma paĝo"
+  },
+  "\"Invalid post format\"": {
+    "noun": "Nevalida aranĝo por afiŝo"
+  },
+  "\"Invalid post type\"": {
+    "noun": "Nevalida formo de afiŝo"
+  },
+  "\"Invalid post\"": {
+    "noun": "Nevalida afiŝo."
+  },
+  "\"Invalid Taxonomy\"": {
+    "noun": "Nevalida taksonomio"
+  },
+  "\"Invalid term ID\"": {
+    "noun": "Nevalida ID-numero de termino"
+  },
+  "\"Invoke URLs\"": {
+    "noun": "Envoki retadresojn"
+  },
+  "\"Italic\"": {
+    "noun": "Kursive"
+  },
+  "\"items\"": {
+    "noun": "eroj"
+  },
+  "\"January\"": {
+    "noun": "Januaro"
+  },
+  "\"Jan_January_abbreviation\"": {
+    "noun": "Jan"
+  },
+  "\"JS Callback\"": {
+    "noun": "JS-voko per referenco"
+  },
+  "\"July\"": {
+    "noun": "Julio"
+  },
+  "\"Jul_July_abbreviation\"": {
+    "noun": "Jul"
+  },
+  "\"June\"": {
+    "noun": "Junio"
+  },
+  "\"Jun_June_abbreviation\"": {
+    "noun": "Jun"
+  },
+  "\"Justify Text\"": {
+    "noun": "Ĝisrandigi ambaŭflanke"
+  },
+  "\"Keep linebreaks\"": {
+    "noun": "Konservi linisaltojn"
+  },
+  "\"Key\"": {
+    "noun": "Ŝlosilo"
+  },
+  "\"Keyboard Shortcuts\"": {
+    "noun": "Klavarokomandoj"
+  },
+  "\"kin\"": {
+    "noun": "parenco"
+  },
+  "\"Kiosk mode\"": {
+    "noun": "Enviciga reĝimo"
+  },
+  "\"Label\"": {
+    "noun": "Etikedo"
+  },
+  "\"Languages\"": {
+    "noun": "Lingvoj"
+  },
+  "\"Large size\"": {
+    "noun": "Granda"
+  },
+  "\"Large\"": {
+    "noun": "Granda"
+  },
+  "\"Last Modified\"": {
+    "noun": "Laste modifita"
+  },
+  "\"Last Name\"": {
+    "noun": "Familia nomo"
+  },
+  "\"Last Post\"": {
+    "noun": "Lasta afiŝo"
+  },
+  "\"Last updated\"": {
+    "noun": "Laste ĝisdatigita"
+  },
+  "\"last\"": {
+    "noun": "lasta"
+  },
+  "\"Latest Version Installed\"": {
+    "noun": "La plej freŝa versio estas instalita"
+  },
+  "\"Latest\"": {
+    "noun": "Lastaj"
+  },
+  "\"Layout\"": {
+    "noun": "Aranĝo"
+  },
+  "\"Lead Developer\"": {
+    "noun": "Ĉefa programisto"
+  },
+  "\"Learn word\"": {
+    "noun": "Lernu vorton"
+  },
+  "\"Leave a Comment\"": {
+    "noun": "Komenti"
+  },
+  "\"Leave a Reply\"": {
+    "noun": "Respondi"
+  },
+  "\"Left Sidebar\"": {
+    "noun": "Maldekstra flankpanelo"
+  },
+  "\"Left\"": {
+    "noun": "Maldekstre"
+  },
+  "\"Letter\"": {
+    "noun": "Litero"
+  },
+  "\"Library\"": {
+    "noun": "Aŭdovida biblioteko"
+  },
+  "\"License\"": {
+    "noun": "Permesilo"
+  },
+  "\"Light sky blue\"": {
+    "noun": "Hele ĉielblua"
+  },
+  "\"Light yellow\"": {
+    "noun": "Hele flava"
+  },
+  "\"Lime\"": {
+    "noun": "Flave verda"
+  },
+  "\"lines\"": {
+    "noun": "linioj"
+  },
+  "\"Link Categories\"": {
+    "noun": "Ligilokategorioj"
+  },
+  "\"Link Category\"": {
+    "noun": "Ligila kategorio"
+  },
+  "\"Link list\"": {
+    "noun": "Ligilolisto"
+  },
+  "\"Link Rel\"": {
+    "noun": "URL-rilato"
+  },
+  "\"Link Target\"": {
+    "noun": "Ligila celo"
+  },
+  "\"Link to file\"": {
+    "noun": "Ligi al dosiero"
+  },
+  "\"Link to Image\"": {
+    "noun": "Ligi al bildo"
+  },
+  "\"Link to page\"": {
+    "noun": "Ligi al paĝo"
+  },
+  "\"Link URL\"": {
+    "noun": "Ligila URL"
+  },
+  "\"Link\"": {
+    "noun": "Ligilo"
+  },
+  "\"Links Template\"": {
+    "noun": "Ligilomodelo"
+  },
+  "\"Links\"": {
+    "noun": "Ligiloj"
+  },
+  "\"List View\"": {
+    "noun": "Lista prezento"
+  },
+  "\"List\"": {
+    "noun": "Listo"
+  },
+  "\"LiveJournal\"": {
+    "noun": "LiveJournal"
+  },
+  "\"Loaded plugins\"": {
+    "noun": "Ŝargitaj kromprogramoj"
+  },
+  "\"Log in\"": {
+    "noun": "Ensaluti"
+  },
+  "\"Log out\"": {
+    "noun": "Elsaluti"
+  },
+  "\"Login Name\"": {
+    "noun": "Uzantonomo"
+  },
+  "\"lookup\"": {
+    "noun": "serĉo"
+  },
+  "\"Lookup\"": {
+    "noun": "Pri"
+  },
+  "\"Loop\"": {
+    "noun": "Iteracio"
+  },
+  "\"Lost Password\"": {
+    "noun": "Perdita pasvorto"
+  },
+  "\"Lower alpha\"": {
+    "noun": "Minuskla alfa"
+  },
+  "\"Lower greek\"": {
+    "noun": "Minuskla greka"
+  },
+  "\"Lower roman\"": {
+    "noun": "Minuskla roma"
+  },
+  "\"ltr\"": {
+    "noun": "Dekstren"
+  },
+  "\"Magenta\"": {
+    "noun": "Malva"
+  },
+  "\"Mail Server\"": {
+    "noun": "Retpoŝta servilo"
+  },
+  "\"Main Index Template\"": {
+    "noun": "Ĉefa indeksa modelo"
+  },
+  "\"Maintain aspect\"": {
+    "noun": "Konservi proporcion"
+  },
+  "\"Maintance Release\"": {
+    "noun": "Funkcitena eldono"
+  },
+  "\"Maintenance\"": {
+    "noun": "Funkcitenado"
+  },
+  "\"Manage Audio\"": {
+    "noun": "Administri aŭdaĵojn"
+  },
+  "\"Manage Comments\"": {
+    "noun": "Administri komentojn"
+  },
+  "\"Manage Images\"": {
+    "noun": "Administri bildojn"
+  },
+  "\"Manage Themes\"": {
+    "noun": "Administri etosojn"
+  },
+  "\"Manage Video\"": {
+    "noun": "Administri filmetojn"
+  },
+  "\"Managing Pages\"": {
+    "noun": "Administro de paĝoj"
+  },
+  "\"Manual Offsets\"": {
+    "noun": "Permanaj deŝovoj"
+  },
+  "\"March\"": {
+    "noun": "Marto"
+  },
+  "\"Mark as Spam\"": {
+    "noun": "Marki kiel trudaĵo"
+  },
+  "\"Maroon\"": {
+    "noun": "Brune karmezina"
+  },
+  "\"Mar_March_abbreviation\"": {
+    "noun": "Mar"
+  },
+  "\"Max Height\"": {
+    "noun": "Maksimuma alto"
+  },
+  "\"Max Width\"": {
+    "noun": "Maksimuma larĝo"
+  },
+  "\"Maximum embed size\"": {
+    "noun": "Maksimuma grando de enkorpigaĵoj"
+  },
+  "\"Maximum Rating\"": {
+    "noun": "Maksimuma pritakso"
+  },
+  "\"May\"": {
+    "noun": "Majo"
+  },
+  "\"May_May_abbreviation\"": {
+    "noun": "Maj"
+  },
+  "\"Media items\"": {
+    "noun": "Aŭdvidaĵoj"
+  },
+  "\"Medium gray\"": {
+    "noun": "Mezgriza"
+  },
+  "\"Medium size\"": {
+    "noun": "Meza grando"
+  },
+  "\"Medium\"": {
+    "noun": "Meza"
+  },
+  "\"Membership\"": {
+    "noun": "Membreco"
+  },
+  "\"Menu Item\"": {
+    "noun": "Menuero"
+  },
+  "\"Menu Name\"": {
+    "noun": "Menu-nomo"
+  },
+  "\"Menu order\"": {
+    "noun": "Menuordo"
+  },
+  "\"Menus\"": {
+    "noun": "Menuoj"
+  },
+  "\"Merge table cells\"": {
+    "noun": "Kunfandi tabelĉelojn"
+  },
+  "\"met\"": {
+    "noun": "renkontis"
+  },
+  "\"Meta\"": {
+    "noun": "Metadatumoj"
+  },
+  "\"Microformats\"": {
+    "noun": "Semantika markado laŭ Mikroformato"
+  },
+  "\"Middle\"": {
+    "noun": "Mezo"
+  },
+  "\"Mismatch\"": {
+    "noun": "Ne kongruas"
+  },
+  "\"Missed schedule\"": {
+    "noun": "Maltrafis planitan daton"
+  },
+  "\"Missing attachment\"": {
+    "noun": "Mankanta aldonaĵo"
+  },
+  "\"Missing Widgets\"": {
+    "noun": "Mankantaj kromprogrametoj"
+  },
+  "\"Moderate Comment\"": {
+    "noun": "Administri komenton"
+  },
+  "\"Moderating Comments\"": {
+    "noun": "Kontrolo de komentoj"
+  },
+  "\"Mon\"": {
+    "noun": "lun"
+  },
+  "\"Monday\"": {
+    "noun": "lundo"
+  },
+  "\"Month and name\"": {
+    "noun": "Monato kaj nomo"
+  },
+  "\"More colors\"": {
+    "noun": "Pli da koloroj"
+  },
+  "\"More File Formats\"": {
+    "noun": "Pliaj dosiertipoj"
+  },
+  "\"Most Popular\"": {
+    "noun": "Plej popularaj"
+  },
+  "\"Most Recent\"": {
+    "noun": "Plej lastaj"
+  },
+  "\"Most Used\"": {
+    "noun": "Plej multe uzataj"
+  },
+  "\"Move backward\"": {
+    "noun": "Reiri"
+  },
+  "\"Move down\"": {
+    "noun": "Movi malsupren"
+  },
+  "\"Move forward\"": {
+    "noun": "Iri antaŭen"
+  },
+  "\"Move to Trash\"": {
+    "noun": "Movi rubujen"
+  },
+  "\"Move up\"": {
+    "noun": "Supren"
+  },
+  "\"Mr WordPress\"": {
+    "noun": "Sinjoro WordPress"
+  },
+  "\"Muse\"": {
+    "noun": "inspiro"
+  },
+  "\"Mute\"": {
+    "noun": "Dampi"
+  },
+  "\"My Account\"": {
+    "noun": "Mia konto"
+  },
+  "\"My Site\"": {
+    "noun": "Mia retejo"
+  },
+  "\"My Sites\"": {
+    "noun": "Miaj ejoj"
+  },
+  "\"Mystery Man\"": {
+    "noun": "Homo de mistero"
+  },
+  "\"M_Monday_initial\"": {
+    "noun": "L"
+  },
+  "\"Name\"": {
+    "noun": "Nomo"
+  },
+  "\"Named colors\"": {
+    "noun": "Nomataj koloroj"
+  },
+  "\"Named\"": {
+    "noun": "Nomita"
+  },
+  "\"Narrower\"": {
+    "noun": "Pli mallarĝa"
+  },
+  "\"Navigation Label\"": {
+    "noun": "Navigada etikedo"
+  },
+  "\"Navigation Menu Item\"": {
+    "noun": "Navigada menuero"
+  },
+  "\"Navigation Menu Items\"": {
+    "noun": "Navigadaj menueroj"
+  },
+  "\"Navigation Menu\"": {
+    "noun": "Navigada menuo"
+  },
+  "\"Navigation Menus\"": {
+    "noun": "Navigadaj menuoj"
+  },
+  "\"Navigation\"": {
+    "noun": "Navigado"
+  },
+  "\"Navy Blue\"": {
+    "noun": "Maristblua"
+  },
+  "\"neighbor\"": {
+    "noun": "najbaro"
+  },
+  "\"Network able\"": {
+    "noun": "Ebligi tutrete"
+  },
+  "\"Network Activate\"": {
+    "noun": "Reta aktivigo"
+  },
+  "\"Network Admin\"": {
+    "noun": "Reta administranto"
+  },
+  "\"Network Deactivate\"": {
+    "noun": "Reta malaktivigo"
+  },
+  "\"Network Setup\"": {
+    "noun": "Agordo de reto"
+  },
+  "\"Network Status\"": {
+    "noun": "Reta stato"
+  },
+  "\"New category name\"": {
+    "noun": "Kategorinomo"
+  },
+  "\"New Category Name\"": {
+    "noun": "Nova kategorinomo"
+  },
+  "\"New document\"": {
+    "noun": "Nova dokumento"
+  },
+  "\"New Feature Pointers\"": {
+    "noun": "Montroj al novaj ebloj"
+  },
+  "\"New Page\"": {
+    "noun": "Nova paĝo"
+  },
+  "\"New password\"": {
+    "noun": "Nova pasvorto"
+  },
+  "\"New Post\"": {
+    "noun": "Nova afiŝo"
+  },
+  "\"New Tag Name\"": {
+    "noun": "Nova etikedonomo"
+  },
+  "\"new WordPress Loop\"": {
+    "noun": "nova WordPress-iteracio"
+  },
+  "\"New WordPress Site\"": {
+    "noun": "Nova WordPress-a retejo"
+  },
+  "\"New\"": {
+    "noun": "Nova"
+  },
+  "\"newer\"": {
+    "noun": "pli nova"
+  },
+  "\"Newest Plugins\"": {
+    "noun": "Plej novaj kromprogramoj"
+  },
+  "\"Newest\"": {
+    "noun": "Pli novaj"
+  },
+  "\"Next page\"": {
+    "noun": "La sekva paĝo"
+  },
+  "\"Next Post\"": {
+    "noun": "Sekva afiŝo"
+  },
+  "\"Nickname\"": {
+    "noun": "Karesnomo"
+  },
+  "\"No categories\"": {
+    "noun": "Neniuj kategorioj"
+  },
+  "\"No Comments\"": {
+    "noun": "Neniu komento"
+  },
+  "\"No correction\"": {
+    "noun": "Nenia korekto"
+  },
+  "\"No java\"": {
+    "noun": "Neniu Ĝavo"
+  },
+  "\"No password submitted\"": {
+    "noun": "Neniu pasvorto estas donita"
+  },
+  "\"No Repeat\"": {
+    "noun": "Neniu ripeto"
+  },
+  "\"No server banner\"": {
+    "noun": "Nenia servilostandardo"
+  },
+  "\"No server specified\"": {
+    "noun": "Neniu servilo estas indikita"
+  },
+  "\"No Sidebars Defined\"": {
+    "noun": "Neniuj difinitaj flankpaneloj"
+  },
+  "\"No suggestions\"": {
+    "noun": "Sen proponoj"
+  },
+  "\"No Tags\"": {
+    "noun": "Sen etikedoj"
+  },
+  "\"No Update Required\"": {
+    "noun": "Ne bezonas promocion"
+  },
+  "\"No\"": {
+    "noun": "Ne"
+  },
+  "\"None\"": {
+    "noun": "Neniu"
+  },
+  "\"none\"": {
+    "noun": "nenia"
+  },
+  "\"not configured\"": {
+    "noun": "ne agordita"
+  },
+  "\"Not Spam\"": {
+    "noun": "Ne trudaĵo"
+  },
+  "\"Not Sticky\"": {
+    "noun": "Ne gluita"
+  },
+  "\"Notes\"": {
+    "noun": "Notoj"
+  },
+  "\"November\"": {
+    "noun": "Novembro"
+  },
+  "\"Nov_November_abbreviation\"": {
+    "noun": "Nov"
+  },
+  "\"Num loops\"": {
+    "noun": "Regiloj"
+  },
+  "\"number_format_decimal_point\"": {
+    "noun": ","
+  },
+  "\"number_format_thousands_sep\"": {
+    "noun": "."
+  },
+  "\"Numeric\"": {
+    "noun": "Numera"
+  },
+  "\"October\"": {
+    "noun": "Oktobro"
+  },
+  "\"Oct_October_abbreviation\"": {
+    "noun": "Okt"
+  },
+  "\"Old\"": {
+    "noun": "Malnovaj"
+  },
+  "\"older\"": {
+    "noun": "pli malnova"
+  },
+  "\"Olive\"": {
+    "noun": "Oliva"
+  },
+  "\"Once Daily\"": {
+    "noun": "Po unu fojon ĉiutage"
+  },
+  "\"Once Hourly\"": {
+    "noun": "Po unu fojon hore"
+  },
+  "\"One Column\"": {
+    "noun": "Unu kolumno"
+  },
+  "\"Optional\"": {
+    "noun": "Libervola"
+  },
+  "\"Orange\"": {
+    "noun": "Oranĝkolora"
+  },
+  "\"Order\"": {
+    "noun": "Ordigi"
+  },
+  "\"Original Size\"": {
+    "noun": "Origina grando"
+  },
+  "\"Other Comment settings\"": {
+    "noun": "Aliaj komentaj agordoj"
+  },
+  "\"Other WordPress News\"": {
+    "noun": "Aliaj WordPress-novaĵoj"
+  },
+  "\"Overview\"": {
+    "noun": "Antaŭrigardo"
+  },
+  "\"Page Attributes\"": {
+    "noun": "Atributoj de paĝo"
+  },
+  "\"Page ID\"": {
+    "noun": "Paĝa identigilo"
+  },
+  "\"Page not found\"": {
+    "noun": "Ne eblis trovi la paĝon"
+  },
+  "\"Page order\"": {
+    "noun": "Paĝordo"
+  },
+  "\"Page Template\"": {
+    "noun": "Modelo por paĝoj"
+  },
+  "\"Page title\"": {
+    "noun": "Paĝotitolo"
+  },
+  "\"Page\"": {
+    "noun": "Paĝo"
+  },
+  "\"Pages\"": {
+    "noun": "Paĝoj"
+  },
+  "\"Pale cyan\"": {
+    "noun": "Hele bluverda"
+  },
+  "\"Pale green\"": {
+    "noun": "Hele verda"
+  },
+  "\"Palette colors\"": {
+    "noun": "Paletraj koloroj"
+  },
+  "\"Paragraph\"": {
+    "noun": "Alineo"
+  },
+  "\"Parent Category\"": {
+    "noun": "Patra kategorio"
+  },
+  "\"Password Protected\"": {
+    "noun": "Protektita per pasvorto"
+  },
+  "\"Password protected\"": {
+    "noun": "Pasvorta protektita"
+  },
+  "\"Password Reset\"": {
+    "noun": "Pasvorto restarigita"
+  },
+  "\"Password\"": {
+    "noun": "Pasvorto"
+  },
+  "\"Paste from Word\"": {
+    "noun": "Englui el Word"
+  },
+  "\"Pending Review\"": {
+    "noun": "Pritraktota"
+  },
+  "\"Pending\"": {
+    "noun": "Pritraktota"
+  },
+  "\"Permalink Settings\"": {
+    "noun": "Fiksligilaj agordoj"
+  },
+  "\"Permalink structure updated\"": {
+    "noun": "La fiksligila strukturo estas ĝisdatigita"
+  },
+  "\"Permalinks\"": {
+    "noun": "Fiksligiloj"
+  },
+  "\"Permanently Delete Comment\"": {
+    "noun": "Forĉiame viŝi komenton"
+  },
+  "\"Personal Options\"": {
+    "noun": "Personaj Agordoj"
+  },
+  "\"Photoblogging\"": {
+    "noun": "Fotoblogado"
+  },
+  "\"physical\"": {
+    "noun": "reala vivo"
+  },
+  "\"Picker\"": {
+    "noun": "Elektilo"
+  },
+  "\"Play count\"": {
+    "noun": "Ludigonombro"
+  },
+  "\"Play every frame\"": {
+    "noun": "Legi ĉiun kadron"
+  },
+  "\"Plugin Files\"": {
+    "noun": "Kromprogramaj dosieroj"
+  },
+  "\"Plugin Install\"": {
+    "noun": "Kromprograma instalo"
+  },
+  "\"Plugin Reactivation\"": {
+    "noun": "Kromprograma reaktivigo"
+  },
+  "\"Plugin zip file\"": {
+    "noun": "Kromprograma zip-dosiero"
+  },
+  "\"Plum\"": {
+    "noun": "Pruna"
+  },
+  "\"Popular Tags\"": {
+    "noun": "Plej ŝatataj etikedoj"
+  },
+  "\"Popular tags\"": {
+    "noun": "Popularaj etikedoj"
+  },
+  "\"Popular\"": {
+    "noun": "Popularaj"
+  },
+  "\"Popup Comments Template\"": {
+    "noun": "Komentomodelo por ŝprucfenestroj"
+  },
+  "\"Popup Comments\"": {
+    "noun": "Komentoj en ŝprucfenestroj"
+  },
+  "\"Position\"": {
+    "noun": "Pozicio"
+  },
+  "\"Post Comment\"": {
+    "noun": "Afiŝi komenton"
+  },
+  "\"Post Format\"": {
+    "noun": "Prezento de afiŝoj"
+  },
+  "\"Post Formats\"": {
+    "noun": "Prezentoj de afiŝoj"
+  },
+  "\"Post name\"": {
+    "noun": "Afiŝo-nomo"
+  },
+  "\"Post Via Email\"": {
+    "noun": "Afiŝi retpoŝte"
+  },
+  "\"posts\"": {
+    "noun": "afiŝojn"
+  },
+  "\"Powered by WordPress\"": {
+    "noun": "Kreata pere de WordPress"
+  },
+  "\"Prefetch\"": {
+    "noun": "Antaŭŝargi"
+  },
+  "\"Preload\"": {
+    "noun": "Antaŭŝargi"
+  },
+  "\"Preview Changes\"": {
+    "noun": "Antaŭrigardi ŝanĝojn"
+  },
+  "\"Previous page\"": {
+    "noun": "La antaŭa paĝo"
+  },
+  "\"Previous Post\"": {
+    "noun": "Antaŭa afiŝo"
+  },
+  "\"Print\"": {
+    "noun": "Presi"
+  },
+  "\"Privacy Settings\"": {
+    "noun": "Agordoj de privateco"
+  },
+  "\"Privacy\"": {
+    "noun": "Privateco"
+  },
+  "\"Private\"": {
+    "noun": "Privata"
+  },
+  "\"Privately Published\"": {
+    "noun": "Private publikigita"
+  },
+  "\"Proceed\"": {
+    "noun": "Daŭrigi"
+  },
+  "\"professional\"": {
+    "noun": "profesia"
+  },
+  "\"Profile\"": {
+    "noun": "Profilo"
+  },
+  "\"Progress\"": {
+    "noun": "Progreso"
+  },
+  "\"Project Leaders\"": {
+    "noun": "Projektaj estroj"
+  },
+  "\"Public\"": {
+    "noun": "Publika"
+  },
+  "\"Publish\"": {
+    "noun": "Afiŝi"
+  },
+  "\"Published\"": {
+    "noun": "Publikigita"
+  },
+  "\"Purple\"": {
+    "noun": "Purpura"
+  },
+  "\"QT Src\"": {
+    "noun": "QT-fonto"
+  },
+  "\"Quality\"": {
+    "noun": "Kvalito"
+  },
+  "\"Quick Edit\"": {
+    "noun": "Rapide redakti"
+  },
+  "\"Quicktime options\"": {
+    "noun": "Quicktime-agordoj"
+  },
+  "\"Quote\"": {
+    "verb": "Citi"
+  },
+  "\"Random\"": {
+    "adjective": "Hazarda"
+  },
+  "\"Rate\"": {
+    "noun": "Pritaksi aŭ ofteco"
+  },
+  "\"Rating\"": {
+    "noun": "Pritakso"
+  },
+  "\"Reading Settings\"": {
+    "noun": "Legagordoj"
+  },
+  "\"Reading\"": {
+    "noun": "Legagordoj"
+  },
+  "\"Recent Drafts\"": {
+    "noun": "Lastaj malnetoj"
+  },
+  "\"Recent Posts\"": {
+    "noun": "Lastaj afiŝoj"
+  },
+  "\"Recent Rockstars\"": {
+    "noun": "Lastaj steluloj"
+  },
+  "\"Recently Updated\"": {
+    "noun": "Lastatempe ĝisdatigitaj"
+  },
+  "\"Red\"": {
+    "noun": "Ruĝa"
+  },
+  "\"Redo\"": {
+    "noun": "Refari"
+  },
+  "\"Refresh\"": {
+    "noun": "Reŝargi"
+  },
+  "\"Register\"": {
+    "noun": "Registriĝi"
+  },
+  "\"Reject Comments\"": {
+    "noun": "Malakcepti komentojn"
+  },
+  "\"Relationship\"": {
+    "noun": "Rilato"
+  },
+  "\"Remember Me\"": {
+    "noun": "Memoru min"
+  },
+  "\"Remote Publishing\"": {
+    "noun": "Fora eldonado"
+  },
+  "\"Remove Background Image\"": {
+    "noun": "Forigi fonan bildon"
+  },
+  "\"Remove column\"": {
+    "noun": "Forigi kolumnon"
+  },
+  "\"Remove featured image\"": {
+    "noun": "Forigi elstarigitan bildon"
+  },
+  "\"Remove formatting\"": {
+    "noun": "Forigi aranĝon"
+  },
+  "\"Remove Header Image\"": {
+    "noun": "Viŝi kapan bildon"
+  },
+  "\"Remove Image\"": {
+    "noun": "Forigi bildon"
+  },
+  "\"Remove link\"": {
+    "noun": "Forigi ligilon"
+  },
+  "\"Remove\"": {
+    "noun": "Forpreni"
+  },
+  "\"Removing and Reusing\"": {
+    "noun": "Forigo kaj reuzo"
+  },
+  "\"Repair Database\"": {
+    "noun": "Ripari datumbazon"
+  },
+  "\"Repeat\"": {
+    "noun": "Ripeti"
+  },
+  "\"Reply to Comment\"": {
+    "noun": "Respondi al komento"
+  },
+  "\"Reply\"": {
+    "noun": "Respondi"
+  },
+  "\"Reset Image\"": {
+    "noun": "Restarigi bildon"
+  },
+  "\"Reset Password\"": {
+    "noun": "Restarigi pasvorton"
+  },
+  "\"Reset Text Color\"": {
+    "noun": "Restarigi tekstokoloron"
+  },
+  "\"Resize path invalid\"": {
+    "noun": "La pado por la bildeto ne estas valida"
+  },
+  "\"Responsive Design\"": {
+    "noun": "Fleksebla desajno"
+  },
+  "\"Restore image\"": {
+    "noun": "Restarigi bildon"
+  },
+  "\"Restore Original Image\"": {
+    "noun": "Restarigi la originan bildon"
+  },
+  "\"Restore\"": {
+    "noun": "Restarigi"
+  },
+  "\"Return to Importers\"": {
+    "noun": "Reveni al importiloj"
+  },
+  "\"Return to Updates\"": {
+    "noun": "Reveni al WordPress-aj ĝisdatigoj"
+  },
+  "\"Revision\"": {
+    "noun": "Revizio"
+  },
+  "\"Rich Editing Basics\"": {
+    "noun": "Rudimentoj pri riĉa redaktado"
+  },
+  "\"Rich Editor Help\"": {
+    "noun": "Helpo pri la riĉa redaktilo"
+  },
+  "\"Right Now\"": {
+    "noun": "Nun"
+  },
+  "\"Right Sidebar\"": {
+    "noun": "Dekstra flankpanelo"
+  },
+  "\"Right\"": {
+    "noun": "Dekstre"
+  },
+  "\"Role\"": {
+    "noun": "Rolo"
+  },
+  "\"romantic\"": {
+    "noun": "amrilato"
+  },
+  "\"Rotate clockwise\"": {
+    "noun": "Turni dekstren"
+  },
+  "\"Row\"": {
+    "noun": "Vico"
+  },
+  "\"Royal blue\"": {
+    "noun": "Intense blua"
+  },
+  "\"RSS Address\"": {
+    "noun": "RSS-adreso"
+  },
+  "\"RTL Language Support\"": {
+    "noun": "RTL-lingva subteno"
+  },
+  "\"RTL Stylesheet\"": {
+    "noun": "RTL-a stilfolio"
+  },
+  "\"Run spell checking\"": {
+    "noun": "Uzi literumilon"
+  },
+  "\"SAlign\"": {
+    "noun": "Fiksi ĝisrandigon"
+  },
+  "\"Sample Page\"": {
+    "noun": "Ekzempla paĝo"
+  },
+  "\"Saturday\"": {
+    "noun": "sabato"
+  },
+  "\"Save all changes\"": {
+    "noun": "Konservi ĉiujn ŝanĝojn"
+  },
+  "\"Save as Pending\"": {
+    "noun": "Konservi kiel pritraktotan"
+  },
+  "\"Save Changes\"": {
+    "noun": "Konservi la ŝanĝojn"
+  },
+  "\"Save Draft\"": {
+    "noun": "Konservi malneton"
+  },
+  "\"Save failed\"": {
+    "noun": "La konservo malsukcesis"
+  },
+  "\"Save Menu\"": {
+    "noun": "Konservi menuon"
+  },
+  "\"Save Widget\"": {
+    "noun": "Konservi la kromprogrameton"
+  },
+  "\"Scale Image\"": {
+    "noun": "Skali bildon"
+  },
+  "\"Scale mode\"": {
+    "noun": "Skala reĝimo"
+  },
+  "\"Schedule\"": {
+    "noun": "Planita"
+  },
+  "\"Scheduled\"": {
+    "noun": "Planitaj"
+  },
+  "\"screen content\"": {
+    "noun": "Enhavo de fenestro"
+  },
+  "\"Screen Display\"": {
+    "noun": "Fenestra montrado"
+  },
+  "\"Screen Layout\"": {
+    "noun": "Ekrana aranĝo"
+  },
+  "\"Screen Options\"": {
+    "noun": "Fenestraj agordoj"
+  },
+  "\"Script callbacks\"": {
+    "noun": "Enskriptaj per-referencaj vokoj"
+  },
+  "\"Scroll\"": {
+    "noun": "Rulumi"
+  },
+  "\"Sea green\"": {
+    "noun": "Marverda"
+  },
+  "\"Search Categories\"": {
+    "noun": "Priserĉi kategoriojn"
+  },
+  "\"Search Comments\"": {
+    "noun": "Priserĉi komentojn"
+  },
+  "\"Search Engines Blocked\"": {
+    "noun": "Serĉiloj estas baritaj"
+  },
+  "\"Search Form\"": {
+    "noun": "Serĉo-formularo"
+  },
+  "\"Search Installed Plugins\"": {
+    "noun": "Priserĉi instalitajn kromprogramojn"
+  },
+  "\"Search Installed Themes\"": {
+    "noun": "Priserĉi instalitajn etosojn"
+  },
+  "\"Search Link Categories\"": {
+    "noun": "Priserĉi ligilajn kategoriojn"
+  },
+  "\"Search Links\"": {
+    "noun": "Serĉi ligilojn"
+  },
+  "\"Search Pages\"": {
+    "noun": "Priserĉi paĝojn"
+  },
+  "\"Search Plugins\"": {
+    "noun": "Serĉi kromprogramojn"
+  },
+  "\"Search Posts\"": {
+    "noun": "Priserĉi afiŝojn"
+  },
+  "\"Search Results\"": {
+    "noun": "Serĉorezultoj"
+  },
+  "\"Search Sites\"": {
+    "noun": "Priserĉi retejojn"
+  },
+  "\"Search Tags\"": {
+    "noun": "Priserĉi etikedojn"
+  },
+  "\"Search Users\"": {
+    "noun": "Serĉi uzantojn"
+  },
+  "\"Search\"": {
+    "noun": "Serĉi"
+  },
+  "\"Seasonal\"": {
+    "noun": "Sezona"
+  },
+  "\"Security Release\"": {
+    "noun": "Sekureca eldono"
+  },
+  "\"Select a city\"": {
+    "noun": "Elekti urbon"
+  },
+  "\"Select a color\"": {
+    "noun": "Elekti koloron"
+  },
+  "\"Select all\"": {
+    "noun": "Elekti ĉiujn"
+  },
+  "\"Select All\"": {
+    "noun": "Elekti ĉion"
+  },
+  "\"Select background color\"": {
+    "noun": "Elekti fonkoloron"
+  },
+  "\"Select Category\"": {
+    "noun": "Elekti kategorion"
+  },
+  "\"Select custom character\"": {
+    "noun": "Elekti specialan signon"
+  },
+  "\"Select Files\"": {
+    "noun": "Elekti dosierojn"
+  },
+  "\"Select Link Category\"": {
+    "noun": "Elekti kategorion de ligilo"
+  },
+  "\"Select Month\"": {
+    "noun": "Elekti monaton"
+  },
+  "\"Select text color\"": {
+    "noun": "Elekti tekstokoloron"
+  },
+  "\"Select\"": {
+    "noun": "Elekti"
+  },
+  "\"September\"": {
+    "noun": "Septembro"
+  },
+  "\"Sep_September_abbreviation\"": {
+    "noun": "Sep"
+  },
+  "\"Server Connectivity\"": {
+    "noun": "Konekta stato de servilo"
+  },
+  "\"Set featured image\"": {
+    "noun": "Difini elstarigitan bildon"
+  },
+  "\"Settings\"": {
+    "noun": "Agordo"
+  },
+  "\"Shockwave options\"": {
+    "noun": "Shockwave-elektoj"
+  },
+  "\"Shortlink\"": {
+    "noun": "Mallonga ligilo"
+  },
+  "\"Show all dates\"": {
+    "noun": "Montri ĉiujn datojn"
+  },
+  "\"Show Avatars\"": {
+    "noun": "Montri avatarojn"
+  },
+  "\"Show Comments\"": {
+    "noun": "Montri komentojn"
+  },
+  "\"Show Details\"": {
+    "noun": "Montri detalojn"
+  },
+  "\"Show hidden updates\"": {
+    "noun": "Montri kaŝitajn ĝisdatigojn"
+  },
+  "\"Show hierarchy\"": {
+    "noun": "Montri hierarkion"
+  },
+  "\"Show Link Description\"": {
+    "noun": "Montri la priskribon de la ligilo"
+  },
+  "\"Show Link Image\"": {
+    "noun": "Montri la bildon de la ligilo"
+  },
+  "\"Show Link Name\"": {
+    "noun": "Montri la nomon de la ligilo"
+  },
+  "\"Show Link Rating\"": {
+    "noun": "Montri la pritakson de la ligilo"
+  },
+  "\"Show Menu\"": {
+    "noun": "Montri menuon"
+  },
+  "\"Show more Comments\"": {
+    "noun": "Montri pli da komentoj"
+  },
+  "\"Show on screen\"": {
+    "noun": "Montri surekrane"
+  },
+  "\"Show post counts\"": {
+    "noun": "Montri sumon de afiŝoj"
+  },
+  "\"Show scale modes\"": {
+    "noun": "Montri skal-reĝimojn"
+  },
+  "\"Silver\"": {
+    "noun": "Arĝentkolora"
+  },
+  "\"Single Post\"": {
+    "noun": "Unuopa afiŝo"
+  },
+  "\"Site Admin\"": {
+    "noun": "Administri"
+  },
+  "\"Site Language\"": {
+    "noun": "Lingvo de retejo"
+  },
+  "\"Site Tagline\"": {
+    "noun": "Frapfrazo de retejo"
+  },
+  "\"Site Title\"": {
+    "noun": "Titolo de retejo"
+  },
+  "\"Site URL\"": {
+    "noun": "Reteja URL"
+  },
+  "\"Site Visibility\"": {
+    "noun": "Videbleco de retejo"
+  },
+  "\"Sites\"": {
+    "noun": "Retejoj"
+  },
+  "\"Size\"": {
+    "noun": "Amplekso"
+  },
+  "\"Skip Confirmation Email\"": {
+    "noun": "Ne sendi konfirman retpoŝton"
+  },
+  "\"Sky blue\"": {
+    "noun": "Ĉielblua"
+  },
+  "\"Smooth video\"": {
+    "noun": "Glata filmeto"
+  },
+  "\"Software Name\"": {
+    "noun": "Nomo de programo"
+  },
+  "\"Software Version\"": {
+    "noun": "Versio de programo"
+  },
+  "\"Somebody\"": {
+    "noun": "Iu"
+  },
+  "\"Someone\"": {
+    "noun": "Iu"
+  },
+  "\"Sound\"": {
+    "noun": "Sono"
+  },
+  "\"Source\"": {
+    "noun": "Fonto"
+  },
+  "\"Space Allowed\"": {
+    "noun": "Permesita grando"
+  },
+  "\"Space Used\"": {
+    "noun": "Uzata spaco"
+  },
+  "\"Spam Blocked\"": {
+    "noun": "Trudaĵo estas blokita"
+  },
+  "\"Spam Comment\"": {
+    "noun": "Rubigi komenton"
+  },
+  "\"Spellchecker settings\"": {
+    "noun": "Literumilaj agordoj"
+  },
+  "\"spouse\"": {
+    "noun": "geedzo"
+  },
+  "\"Square\"": {
+    "noun": "Kvadrato"
+  },
+  "\"SSH2\"": {
+    "noun": "SSH2"
+  },
+  "\"Standard\"": {
+    "noun": "Normala"
+  },
+  "\"Start Date\"": {
+    "noun": "Komencohoro"
+  },
+  "\"Start image\"": {
+    "noun": "Komenca bildo"
+  },
+  "\"Start time\"": {
+    "noun": "Komencohoro"
+  },
+  "\"Sticky Post\"": {
+    "noun": "Gluita afiŝo"
+  },
+  "\"Storage Space\"": {
+    "noun": "Tenejo"
+  },
+  "\"Strength indicator\"": {
+    "noun": "Forteca indikilo"
+  },
+  "\"Stretch style\"": {
+    "noun": "Etendita stilo"
+  },
+  "\"Stretch to fit\"": {
+    "noun": "Etendi laŭbezone"
+  },
+  "\"Strikethrough\"": {
+    "noun": "Trastreko"
+  },
+  "\"Styles\"": {
+    "noun": "Stiloj"
+  },
+  "\"Subject\"": {
+    "noun": "Temo"
+  },
+  "\"Submit Comment\"": {
+    "noun": "Proponi komenton"
+  },
+  "\"Submit for Review\"": {
+    "noun": "Proponi"
+  },
+  "\"Submit Reply\"": {
+    "noun": "Sendi respondon"
+  },
+  "\"Subscriber\"": {
+    "noun": "Abonanto"
+  },
+  "\"Subscript\"": {
+    "noun": "Malsupre skribita"
+  },
+  "\"Suggestions\"": {
+    "noun": "Proponoj"
+  },
+  "\"Summary\"": {
+    "noun": "Resumo"
+  },
+  "\"Sun\"": {
+    "noun": "dim"
+  },
+  "\"Sunday\"": {
+    "noun": "dimanĉo"
+  },
+  "\"Super Admin\"": {
+    "noun": "Superadministranto"
+  },
+  "\"Superscript\"": {
+    "noun": "Supre skribita"
+  },
+  "\"Support Forums\"": {
+    "noun": "Helpforumoj"
+  },
+  "\"sweetheart\"": {
+    "noun": "karulo"
+  },
+  "\"Syndicate this content\"": {
+    "noun": "Publikigi ĉi tiun enhavon per RSS"
+  },
+  "\"S_Saturday_initial\"": {
+    "noun": "S"
+  },
+  "\"S_Sunday_initial\"": {
+    "noun": "D"
+  },
+  "\"Table cell properties\"": {
+    "noun": "Ecoj de tabelĉeloj"
+  },
+  "\"Table properties\"": {
+    "noun": "Ecoj de tabelo"
+  },
+  "\"Table row properties\"": {
+    "noun": "Ecoj de tabelvicoj"
+  },
+  "\"Tag base\"": {
+    "noun": "Etikedobazo"
+  },
+  "\"Tag Cloud\"": {
+    "noun": "Etikedo-nubo"
+  },
+  "\"Tag Template\"": {
+    "noun": "Modelo por etikedo"
+  },
+  "\"Tag\"": {
+    "noun": "Etikedo"
+  },
+  "\"Tagline\"": {
+    "noun": "Frapfrazo"
+  },
+  "\"Tags\"": {
+    "noun": "Etikedoj"
+  },
+  "\"Tan\"": {
+    "noun": "Bruneta"
+  },
+  "\"Target cache\"": {
+    "noun": "Cela kaŝmemoro"
+  },
+  "\"Target\"": {
+    "noun": "Celo"
+  },
+  "\"Teal\"": {
+    "noun": "Bluverda"
+  },
+  "\"Template\"": {
+    "noun": "Modelo"
+  },
+  "\"Templates\"": {
+    "noun": "Modeloj"
+  },
+  "\"Term\"": {
+    "noun": "Termino"
+  },
+  "\"Text bottom\"": {
+    "noun": "Tekstomalsupro"
+  },
+  "\"Text Color\"": {
+    "noun": "Teksta koloro"
+  },
+  "\"Text top\"": {
+    "noun": "Tekstosupro"
+  },
+  "\"Text\"": {
+    "noun": "Teksto"
+  },
+  "\"Theme filters\"": {
+    "noun": "Etosaj filtriloj"
+  },
+  "\"Theme Functions\"": {
+    "noun": "Etosofunkcioj"
+  },
+  "\"Theme Install\"": {
+    "noun": "Instali etoson"
+  },
+  "\"Theme Locations\"": {
+    "noun": "Etosaj lokoj"
+  },
+  "\"Theme Options\"": {
+    "noun": "Etosaj opcioj"
+  },
+  "\"Themes page\"": {
+    "noun": "Etosa paĝo"
+  },
+  "\"Themes\"": {
+    "noun": "Etosoj"
+  },
+  "\"Threaded Comments\"": {
+    "noun": "Fadenigitaj komentoj"
+  },
+  "\"Three Columns\"": {
+    "noun": "Tri kolumnoj"
+  },
+  "\"Thu\"": {
+    "noun": "ĵaŭ"
+  },
+  "\"Thumbnail Height\"": {
+    "noun": "Bildeta alto"
+  },
+  "\"Thumbnail Settings\"": {
+    "noun": "Bildetaj agordoj"
+  },
+  "\"Thumbnail size\"": {
+    "noun": "Bildetaj grandoj"
+  },
+  "\"Thumbnail Width\"": {
+    "noun": "Bildeta larĝo"
+  },
+  "\"Thumbnail\"": {
+    "noun": "Bildeto"
+  },
+  "\"Thursday\"": {
+    "noun": "ĵaŭdo"
+  },
+  "\"Tile Horizontally\"": {
+    "noun": "Kaheligi horizontale"
+  },
+  "\"Tile Vertically\"": {
+    "noun": "Kaheligi vertikale"
+  },
+  "\"Tile\"": {
+    "noun": "Kaheligi"
+  },
+  "\"Time Format\"": {
+    "noun": "Horoprezento"
+  },
+  "\"Time Zone\"": {
+    "noun": "Horzono"
+  },
+  "\"Timezone\"": {
+    "noun": "Horzono"
+  },
+  "\"Title Attribute\"": {
+    "noun": "Titola atributo"
+  },
+  "\"Title\"": {
+    "noun": "Titolo"
+  },
+  "\"Toggle absolute positioning\"": {
+    "noun": "Baskuligi absolutan poziciigadon"
+  },
+  "\"Toggle fullscreen mode\"": {
+    "noun": "Baskuligi plenekranan reĝimon"
+  },
+  "\"Toolbar\"": {
+    "noun": "Ilobreto"
+  },
+  "\"Tools\"": {
+    "noun": "Iloj"
+  },
+  "\"Top left\"": {
+    "noun": "Supre dekstre"
+  },
+  "\"Top right\"": {
+    "noun": "Malsupre maldekstre"
+  },
+  "\"Top\"": {
+    "noun": "Supro"
+  },
+  "\"Translation Ready\"": {
+    "noun": "Preta por tradukado"
+  },
+  "\"Translators\"": {
+    "noun": "Tradukistoj"
+  },
+  "\"Trash Comment\"": {
+    "noun": "Meti komenton en rubujon"
+  },
+  "\"Trash\"": {
+    "noun": "Rubujo"
+  },
+  "\"Troubleshooting\"": {
+    "noun": "Problemsolvado"
+  },
+  "\"Try again\"": {
+    "noun": "Provu denove"
+  },
+  "\"Tue\"": {
+    "noun": "mar"
+  },
+  "\"Tuesday\"": {
+    "noun": "mardo"
+  },
+  "\"Tumblr Importer\"": {
+    "noun": "Importilo de Tumblr."
+  },
+  "\"Tumblr\"": {
+    "noun": "Tumblr"
+  },
+  "\"Turquoise\"": {
+    "noun": "Malhele verdeblua"
+  },
+  "\"Twice Daily\"": {
+    "noun": "(Po) du fojojn ĉiutage"
+  },
+  "\"Two Columns\"": {
+    "noun": "Du kolumnoj"
+  },
+  "\"Type\"": {
+    "noun": "Tipo"
+  },
+  "\"Types\"": {
+    "noun": "Tipoj"
+  },
+  "\"T_Thursday_initial\"": {
+    "noun": "Ĵ"
+  },
+  "\"T_Tuesday_initial\"": {
+    "noun": "M"
+  },
+  "\"UI Mode\"": {
+    "noun": "Montroreĝimo"
+  },
+  "\"Unapprove this Comment\"": {
+    "noun": "Malaprobi tiun ĉi komenton"
+  },
+  "\"Unapprove\"": {
+    "noun": "Malaprobi"
+  },
+  "\"Unapproved\"": {
+    "noun": "Neaprobita"
+  },
+  "\"Uncategorized\"": {
+    "noun": "Senkategoria"
+  },
+  "\"Under the Hood\"": {
+    "noun": "Sub la fasado"
+  },
+  "\"Underline\"": {
+    "noun": "Substrekite"
+  },
+  "\"Undo\"": {
+    "noun": "Malfari"
+  },
+  "\"Unknown Feed\"": {
+    "noun": "Nekonata distribuo"
+  },
+  "\"Unpublished\"": {
+    "noun": "Nepublikigita"
+  },
+  "\"Untitled\"": {
+    "noun": "Sentitola"
+  },
+  "\"Update Category\"": {
+    "noun": "Ĝisdatigi kategorion"
+  },
+  "\"Update Comment\"": {
+    "noun": "Ĝisdatigi komenton"
+  },
+  "\"Update Complete\"": {
+    "noun": "Finis la promocion"
+  },
+  "\"Update File\"": {
+    "noun": "Ĝisdatigi la dosieron"
+  },
+  "\"Update gallery settings\"": {
+    "noun": "Ĝisdatigi galeriajn agordojn"
+  },
+  "\"Update Link Category\"": {
+    "noun": "Ĝisdatigi ligilan kategorion"
+  },
+  "\"Update Link\"": {
+    "noun": "Ĝisdatigi ligilon"
+  },
+  "\"Update Media\"": {
+    "noun": "Ĝisdatigi aŭdvidaĵon."
+  },
+  "\"Update Now\"": {
+    "noun": "Ĝisdatigi nun"
+  },
+  "\"Update Plugin\"": {
+    "noun": "Ĝisdatigi kromprogramon"
+  },
+  "\"Update Plugins\"": {
+    "noun": "Ĝisdatigi la kromprogramojn"
+  },
+  "\"Update Profile\"": {
+    "noun": "Ĝisdatigi la profilon"
+  },
+  "\"Update Services\"": {
+    "noun": "Ĝisdatigoservoj"
+  },
+  "\"Update Tag\"": {
+    "noun": "Ĝisdatigi etikedon"
+  },
+  "\"Update Theme\"": {
+    "noun": "Ĝisdatigi etoson"
+  },
+  "\"Update Themes\"": {
+    "noun": "Ĝisdatigi etoson"
+  },
+  "\"Update User\"": {
+    "noun": "Ĝisdatigi uzanton"
+  },
+  "\"Update WordPress Database\"": {
+    "noun": "Ĝisdatigi WordPress-an datumbazon"
+  },
+  "\"Update WordPress\"": {
+    "noun": "Ĝisdatigi WordPress-on"
+  },
+  "\"Update\"": {
+    "noun": "Ĝisdatigi"
+  },
+  "\"Upload Image\"": {
+    "noun": "Alŝuti bildon"
+  },
+  "\"Upload New Media\"": {
+    "noun": "Alŝuti novan aŭdvidaĵon"
+  },
+  "\"Upload Plugin\"": {
+    "noun": "Alŝuti kromprogramon"
+  },
+  "\"Upload Theme\"": {
+    "noun": "Alŝuti etoson"
+  },
+  "\"Upload\"": {
+    "noun": "Alŝuti"
+  },
+  "\"Uploaded Images\"": {
+    "noun": "Alŝutitaj bildoj"
+  },
+  "\"Uploading Files\"": {
+    "noun": "Alŝutas dosierojn"
+  },
+  "\"Uploads\"": {
+    "noun": "Alŝutoj"
+  },
+  "\"Upper alpha\"": {
+    "noun": "Majuskla alfa"
+  },
+  "\"Upper roman\"": {
+    "noun": "Majuskla roma"
+  },
+  "\"URL\"": {
+    "noun": "URL"
+  },
+  "\"Use https\"": {
+    "noun": "Uzi https"
+  },
+  "\"User Experience Lead\"": {
+    "noun": "Ĉefa prizorganto de spertoj de uzantoj"
+  },
+  "\"User Roles\"": {
+    "noun": "Roloj de uzantoj"
+  },
+  "\"User\"": {
+    "noun": "Uzanto"
+  },
+  "\"Username\"": {
+    "noun": "Uzantonomo"
+  },
+  "\"Users\"": {
+    "noun": "Uzantoj"
+  },
+  "\"UTC\"": {
+    "noun": "UTC"
+  },
+  "\"Value\"": {
+    "noun": "Valoro"
+  },
+  "\"Version\"": {
+    "noun": "Versio"
+  },
+  "\"Vertical space\"": {
+    "noun": "Vertikala spaco"
+  },
+  "\"Very dark gray\"": {
+    "noun": "Tre malhele griza"
+  },
+  "\"Very weak\"": {
+    "noun": "Tre malforta"
+  },
+  "\"Video Attachment Template\"": {
+    "noun": "Filmeta aldonaĵomodelo"
+  },
+  "\"Video\"": {
+    "noun": "Filmeto"
+  },
+  "\"View all categories\"": {
+    "noun": "Montri ĉiujn kategoriojn"
+  },
+  "\"View all\"": {
+    "noun": "Rigardi ĉion"
+  },
+  "\"View Category\"": {
+    "noun": "Rigardi kategorion"
+  },
+  "\"View Comment history\"": {
+    "noun": "Rigardi komentan historion"
+  },
+  "\"View Comment\"": {
+    "noun": "Rigardi komenton"
+  },
+  "\"View Page\"": {
+    "noun": "Rigardi la paĝon"
+  },
+  "\"View post\"": {
+    "noun": "Montri afiŝon"
+  },
+  "\"View Post\"": {
+    "noun": "Nova afiŝo"
+  },
+  "\"View Tag\"": {
+    "noun": "Rigardi la etikedon"
+  },
+  "\"View Trash\"": {
+    "noun": "Vidi rubujon"
+  },
+  "\"View\"": {
+    "verb": "Montri"
+  },
+  "\"Visible\"": {
+    "noun": "Videbla"
+  },
+  "\"Visit author homepage\"": {
+    "noun": "Viziti la hejmpaĝon de la aŭtoro"
+  },
+  "\"Visit Link\"": {
+    "noun": "Viziti ligilocelon"
+  },
+  "\"Visit Network\"": {
+    "noun": "Viziti reton"
+  },
+  "\"Visit plugin homepage\"": {
+    "noun": "Viziti kromprograman paĝon"
+  },
+  "\"Visit plugin site\"": {
+    "noun": "Viziti la TTT-ejon de la kromprogramo"
+  },
+  "\"Visit Site\"": {
+    "noun": "Viziti la TTT-ejon"
+  },
+  "\"Visual Editor Stylesheet\"": {
+    "noun": "Grafika redaktila stilfolio"
+  },
+  "\"Visual Editor\"": {
+    "noun": "Grafika redaktilo"
+  },
+  "\"Visual\"": {
+    "noun": "Prezento"
+  },
+  "\"Volume\"": {
+    "noun": "Laŭteco"
+  },
+  "\"Weak\"": {
+    "noun": "Malforta"
+  },
+  "\"Web Address\"": {
+    "noun": "Retadreso"
+  },
+  "\"Website\"": {
+    "noun": "TTT-ejo"
+  },
+  "\"Wed\"": {
+    "noun": "mer"
+  },
+  "\"Wednesday\"": {
+    "noun": "merkredo"
+  },
+  "\"Week Starts On\"": {
+    "noun": "Semajno komenciĝas en"
+  },
+  "\"Welcome\"": {
+    "noun": "Bonvenon"
+  },
+  "\"White\"": {
+    "noun": "Blanka"
+  },
+  "\"Wider\"": {
+    "noun": "Pli larĝa"
+  },
+  "\"Widget Improvemts\"": {
+    "noun": "Plibonigoj al kromprogrametoj"
+  },
+  "\"Widgets\"": {
+    "noun": "Kromprogrametoj"
+  },
+  "\"Width\"": {
+    "noun": "Larĝo"
+  },
+  "\"Windowless video\"": {
+    "noun": "Enkorpigita filmeto"
+  },
+  "\"WMode\"": {
+    "noun": "Enpaĝa fenestro"
+  },
+  "\"Word wrap\"": {
+    "noun": "Linifaldado"
+  },
+  "\"WordPress Blog\"": {
+    "noun": "WordPress-blogo"
+  },
+  "\"WordPress Failure Notice\"": {
+    "noun": "WordPress-a eraronotico"
+  },
+  "\"WordPress updated successfully\"": {
+    "noun": "WordPress estas sukcese ĝisdatigita"
+  },
+  "\"WordPress Updates\"": {
+    "noun": "WordPress-aj ĝisdatigoj"
+  },
+  "\"WordPress\"": {
+    "noun": "WordPress"
+  },
+  "\"WP_screen API\"": {
+    "noun": "WP_screen API"
+  },
+  "\"Writing Settings\"": {
+    "noun": "Skribagordoj"
+  },
+  "\"Writing\"": {
+    "noun": "Skribagordoj"
+  },
+  "\"W_Wednesday_initial\"": {
+    "noun": "Me"
+  },
+  "\"XFN\"": {
+    "noun": "XFN"
+  },
+  "\"XHTML Friends Network\"": {
+    "noun": "XHTML-amika reto"
+  },
+  "\"Yahoo IM\"": {
+    "noun": "Yahoo-a tujmesaĝilo"
+  },
+  "\"Yellow green\"": {
+    "noun": "Flave verda"
+  },
+  "\"Yellow\"": {
+    "noun": "Flava"
+  },
+  "\"Yes\"": {
+    "noun": "Jes"
+  },
+  "\"Your blogroll\"": {
+    "noun": "Via bloglisto"
+  },
+  "\"Your Comment\"": {
+    "noun": "Via komento"
+  },
+  "\"Your latest posts\"": {
+    "noun": "La lastajn afiŝojn"
+  },
+  "\"Your Profile\"": {
+    "noun": "Via profilo"
+  },
+  "404 Template": {
+    "noun": "Modelo por 404-paĝo"
+  },
+  "Abbreviation": {
+    "noun": "Mallongigo"
+  },
+  "abort": {
+    "verb": "ĉesigi"
+  },
+  "About Pages": {
+    "noun": "Pri-paĝoj"
+  },
+  "About the software": {
+    "noun": "Pri la programo"
+  },
+  "About the user": {
+    "noun": "Pri la uzanto"
+  },
+  "Accessibility Help": {
+    "noun": "Helpo pri faciliga reĝimo"
+  },
+  "Accessible": {
+    "noun": "Alirebla"
+  },
+  "acquaintance": {
+    "noun": "konato"
+  },
+  "Acronym": {
+    "noun": "Akronimo"
+  },
+  "Action": {
+    "noun": "Ago"
+  },
+  "Activate": {
+    "noun": "Aktivigi"
+  },
+  "Activate importer": {
+    "noun": "Aktivigi importilon"
+  },
+  "Activate Plugin": {
+    "noun": "Aktivigi kromprogramon"
+  },
+  "Add from URL": {
+    "noun": "Aldoni el URL"
+  },
+  "Add Link": {
+    "noun": "Aldoni ligilon"
+  },
+  "Administrator": {
+    "noun": "Administranto"
+  },
+  "Advanced": {
+    "adverb": "Altnivele"
+  },
+  "Akismet": {
+    "noun": "Akismet"
+  },
+  "Align": {
+    "verb": "Ĝisrandigi"
+  },
+  "Align Center": {
+    "verb": "Centrigi"
+  },
+  "Align Left": {
+    "verb": "Ĝisrandigi maldekstren"
+  },
+  "Align Right": {
+    "verb": "Ĝisrandigi dekstren"
+  },
+  "Alignment": {
+    "noun": "Ĝisrandigo"
+  },
+  "Appearance": {
+    "noun": "Aspekto"
+  },
+  "Archives": {
+    "noun": "Arkivoj"
+  },
+  "Ascending": {
+    "adjective": "Kreskas"
+  },
+  "attachment": {
+    "noun": "alkroĉaĵo"
+  },
+  "Attributes": {
+    "noun": "Atributoj"
+  },
+  "Audio": {
+    "noun": "Aŭdaĵo"
+  },
+  "Authentication Keys": {
+    "noun": "Aŭtentigaj ŝlosiloj"
+  },
+  "Avatars": {
+    "noun": "Avataroj"
+  },
+  "Balance": {
+    "noun": "Ekvilibro"
+  },
+  "Blavatar": {
+    "noun": "Blavataro"
+  },
+  "Bulk Actions": {
+    "noun": "Agoj amase"
+  },
+  "Click to toggle": {
+    "noun": "Alklaku por baskuli"
+  },
+  "Collapse Menu": {
+    "noun": "Maletendi menuon"
+  },
+  "Comment": {
+    "noun": "Komento"
+  },
+  "Configure": {
+    "noun": "Agordi"
+  },
+  "Console": {
+    "noun": "Konsolo"
+  },
+  "Contact Info": {
+    "noun": "Kontaktinformoj"
+  },
+  "Credits": {
+    "noun": "Agnoskoj"
+  },
+  "Crop Aspect Ratio": {
+    "noun": "Stuci proporcie"
+  },
+  "Custom Field": {
+    "noun": "Propra kampo"
+  },
+  "Filter": {
+    "noun": "Filtrilo"
+  },
+  "Font family": {
+    "noun": "Tipara familio"
+  },
+  "Footer": {
+    "noun": "Piedo"
+  },
+  "Full screen": {
+    "noun": "Plenekrana reĝimo"
+  },
+  "General Settings": {
+    "noun": "Ĝeneralaj agordoj"
+  },
+  "Header": {
+    "noun": "Kapo"
+  },
+  "Holiday": {
+    "noun": "Feritago"
+  },
+  "Hostname": {
+    "noun": "Servilonomo"
+  },
+  "OK": {
+    "noun": "Bone"
+  },
+  "Outdent": {
+    "noun": "Maldeŝovo"
+  },
+  "Palette": {
+    "noun": "Paletro"
+  },
+  "parent": {
+    "noun": "patro"
+  },
+  "Parent": {
+    "noun": "Patro"
+  },
+  "Paste": {
+    "noun": "Englui"
+  },
+  "Path": {
+    "noun": "Pado"
+  },
+  "Peach": {
+    "noun": "Persika"
+  },
+  "Pending": {
+    "noun": "Pritraktota"
+  },
+  "Pingback": {
+    "noun": "Resondado"
+  },
+  "Pings": {
+    "noun": "Eĥosondoj"
+  },
+  "Pink": {
+    "noun": "Rozkolora"
+  },
+  "Plugin": {
+    "noun": "Kromprogramo"
+  },
+  "Plugins": {
+    "noun": "Kromprogramoj"
+  },
+  "pm": {
+    "noun": "ptm"
+  },
+  "Port": {
+    "noun": "Pordo"
+  },
+  "Post": {
+    "noun": "Afiŝo"
+  },
+  "Poster": {
+    "noun": "Afiŝanto"
+  },
+  "Press This": {
+    "noun": "Presi ĉi tion"
+  },
+  "Preview": {
+    "verb": "Antaŭrigardi"
+  },
+  "Publish Box": {
+    "noun": "Publikada skatolo"
+  },
+  "QuickPress": {
+    "verb": "Rapidpresi"
+  },
+  "Registration Form": {
+    "noun": "Registro-formularo"
+  },
+  "Reset": {
+    "verb": "Restarigi"
+  },
+  "Rich Text Area": {
+    "noun": "Riĉteksta loko"
+  },
+  "RSS": {
+    "noun": "RSS"
+  },
+  "Sat": {
+    "noun": "sab"
+  },
+  "Save": {
+    "verb": "Konservi"
+  },
+  "Scale": {
+    "verb": "Skali"
+  },
+  "Show": {
+    "noun": "Montri"
+  },
+  "Shuffle": {
+    "noun": "Miksi"
+  },
+  "sibling": {
+    "noun": "gefrato"
+  },
+  "Sidebar": {
+    "noun": "Flankpanelo"
+  },
+  "slug": {
+    "noun": "URL-nomo"
+  },
+  "Spam": {
+    "noun": "Trudaĵo"
+  },
+  "star": {
+    "noun": "steleto"
+  },
+  "Status": {
+    "noun": "Stato"
+  },
+  "Sticky": {
+    "adjective": "Gluita"
+  },
+  "Strong": {
+    "adjective": "Forta"
+  },
+  "Stylesheet": {
+    "noun": "Stilfolio"
+  },
+  "Submit": {
+    "noun": "Sendi"
+  },
+  "Trackback": {
+    "noun": "Respurado"
+  },
+  "Add Media": {
+    "noun": "Aldoni aŭdvidaĵon"
+  },
+  "aspect ratio": {
+    "noun": "proporcio"
+  },
+  "bitrate": {
+    "noun": "bitrapido"
+  },
+  "Blockquote": {
+    "noun": "Blokcitaĵo"
+  },
+  "bookmarklet": {
+    "noun": "legosignilo"
+  },
+  "browse": {
+    "verb": "foliumi, trafoliumi, trarigardi"
+  },
+  "Buffer": {
+    "noun": "Bufro"
+  },
+  "child": {
+    "noun": "ido"
+  },
+  "Choke speed": {
+    "noun": "Limiga rapido"
+  },
+  "Citation": {
+    "noun": "Referenco, Citaĵo"
+  },
+  "Color picker": {
+    "noun": "Kolorelektilo"
+  },
+  "committer": {
+    "noun": "enmetanto"
+  },
+  "content": {
+    "noun": "enhavo"
+  },
+  "Controller": {
+    "noun": "Regilo"
+  },
+  "Controls": {
+    "noun": "Regiloj"
+  },
+  "Core Committer": {
+    "noun": "Kerna enmetanto"
+  },
+  "Core Developers": {
+    "noun": "Kernaj programistoj"
+  },
+  "Crop": {
+    "noun": "Stuci"
+  },
+  "crush": {
+    "noun": "enamiĝo"
+  },
+  "Customizer": {
+    "noun": "Tajlorilo"
+  },
+  "dead link": {
+    "noun": "ne plu funkcianta ligilo"
+  },
+  "Detach": {
+    "verb": "Malkroĉi"
+  },
+  "dropdown": {
+    "noun": "falmenuo"
+  },
+  "Edit embedded media": {
+    "noun": "Redakti enkorpigitan aŭdvidaĵon"
+  },
+  "Edit Media": {
+    "noun": "Redakti aŭdvidaĵojn"
+  },
+  "Embeds": {
+    "noun": "Enkorpigaĵoj"
+  },
+  "eraser index": {
+    "noun": "viŝa indekso, forviŝa indekso"
+  },
+  "extension": {
+    "noun": "etendaĵo"
+  },
+  "global": {
+    "adjective": "ĉiea, malloka"
+  },
+  "hook": {
+    "noun": "rethoko, kroĉregulo"
+  },
+  "hover": {
+    "verb": "musumi"
+  },
+  "imbalanced": {
+    "adjective": "ne-para"
+  },
+  "item": {
+    "noun": "ero"
+  },
+  "Learn more": {
+    "noun": "Ekscii pli"
+  },
+  "logo": {
+    "noun": "emblemo"
+  },
+  "loopback": {
+    "noun": "inversa ciklo"
+  },
+  "Media": {
+    "noun": "Aŭdvidaĵoj"
+  },
+  "media": {
+    "noun": "aŭdvidaĵo",
+    "adjective": "aŭdvida"
+  },
+  "Media Library": {
+    "noun": "Aŭdvida biblioteko"
+  },
+  "Media Settings": {
+    "noun": "Aŭdvidaj agordoj"
+  },
+  "mode": {
+    "noun": "reĝimo"
+  },
+  "off": {
+    "adjective": "malŝaltita"
+  },
+  "Oops!": {
+    "interjection": "Oj!"
+  },
+  "overlay": {
+    "noun": "supermetaĵo"
+  },
+  "Preformatted": {
+    "adjective": "Antaŭaranĝita"
+  },
+  "pretty permalink": {
+    "noun": "afabla fiksita ligilo"
+  },
+  "Privacy Impact Assessment": {
+    "noun": "Takson de Trafo al Privateco"
+  },
+  "Pull quote, pullquote": {
+    "noun": "Eltirita citaĵo"
+  },
+  "Search Media": {
+    "noun": "Priserĉi aŭdvidaĵojn"
+  },
+  "shift-click": {
+    "verb": "majuskle alklaku"
+  },
+  "short-circuit filter": {
+    "noun": "preterira filtrilo"
+  },
+  "static": {
+    "noun": "statika"
+  },
+  "take over": {
+    "verb": "transpreni"
+  },
+  "taxonomy": {
+    "noun": "taksonomio"
+  },
+  "teaser": {
+    "noun": "alloga teksto, eltiraĵo"
+  },
+  "trackback": {
+    "noun": "respurado"
+  },
+  "two factor authentication": {
+    "noun": "dupaŝa aŭtentigo"
+  },
+  "untrash": {
+    "verb": "savi, malrubujigi"
+  },
+  "Updated Media Uploader": {
+    "noun": "La aŭdvida alŝutilo estas ĝisdatigita."
+  }
+}

@@ -1,0 +1,800 @@
+{
+  "accessory": {
+    "noun": "อุปกรณ์เสริม"
+  },
+  "account": {
+    "noun": "บัญชี"
+  },
+  "activate": {
+    "verb": "เปิดใช้งาน"
+  },
+  "activated": {
+    "adjective": "เปิดใช้งานแล้ว"
+  },
+  "active": {
+    "adjective": "เปิดใช้งาน"
+  },
+  "admin": {
+    "noun": "ผู้ควบคุม"
+  },
+  "Admin": {
+    "noun": "ผู้ควบคุม"
+  },
+  "admin bar": {
+    "noun": "แถบผู้ควบคุม"
+  },
+  "admin panel": {
+    "noun": "แผงควบคุม"
+  },
+  "administrator": {
+    "noun": "ผู้ควบคุม"
+  },
+  "allow": {
+    "verb": "อนุญาต"
+  },
+  "Appearance": {
+    "noun": "รูปแบบ"
+  },
+  "application": {
+    "noun": "แอปพลิเคชัน"
+  },
+  "archive": {
+    "noun": "คลังเก็บ",
+    "verb": "เก็บเข้าคลัง"
+  },
+  "array": {
+    "noun": "array"
+  },
+  "ascending": {
+    "noun": "น้อยไปมาก"
+  },
+  "attachment": {
+    "noun": "ไฟล์แนบ"
+  },
+  "attribute": {
+    "noun": "แอตทริบิวต์"
+  },
+  "audio": {
+    "noun": "เสียง"
+  },
+  "author": {
+    "noun": "ผู้เขียน"
+  },
+  "autosave": {
+    "noun": "บันทึกอัตโนมัติ"
+  },
+  "backup": {
+    "verb": "สำรองข้อมูล"
+  },
+  "Backup": {
+    "noun": "ข้อมูลสำรอง"
+  },
+  "binary": {
+    "noun": "ไบนารี"
+  },
+  "block": {
+    "verb": "ปิดกั้น",
+    "noun": "บล็อก"
+  },
+  "block editor": {
+    "noun": "ตัวแก้ไขบล็อก"
+  },
+  "blog": {
+    "noun": "บล็อก"
+  },
+  "browser": {
+    "noun": "เบราว์เซอร์"
+  },
+  "BuddyPress": {
+    "noun": "BuddyPress"
+  },
+  "bulk actions": {
+    "noun": "การกระทำจำนวนมาก"
+  },
+  "button": {
+    "noun": "ปุ่ม"
+  },
+  "cart": {
+    "noun": "ตระกร้าสินค้า"
+  },
+  "category": {
+    "noun": "หมวดหมู่"
+  },
+  "child theme": {
+    "noun": "ธีมลูก"
+  },
+  "classic editor": {
+    "noun": "ตัวแก้ไขดั้งเดิม"
+  },
+  "clear": {
+    "verb": "ล้างค่า"
+  },
+  "click": {
+    "verb": "กด"
+  },
+  "clipboard": {
+    "noun": "คลิปบอร์ด"
+  },
+  "color scheme": {
+    "noun": "เฉดสี"
+  },
+  "comment": {
+    "verb": "แสดงความเห็น",
+    "noun": "ความเห็น"
+  },
+  "computer": {
+    "noun": "คอมพิวเตอร์"
+  },
+  "constant": {
+    "noun": "ค่าคงที่"
+  },
+  "Contributors": {
+    "noun": "ผู้มีส่วนร่วม"
+  },
+  "Cookie": {
+    "noun": "คุกกี้"
+  },
+  "copy": {
+    "verb": "คัดลอก"
+  },
+  "custom": {
+    "noun": "กำหนดเอง"
+  },
+  "Custom Colors": {
+    "noun": "ปรับแต่งสี, กำหนดสี"
+  },
+  "Custom CSS": {
+    "noun": "ปรับแต่ง CSS, CSS กำหนดเอง"
+  },
+  "Custom Design": {
+    "noun": "ปรับแต่งหน้าตา"
+  },
+  "Custom Field": {
+    "noun": "ช่องกำหนดเอง"
+  },
+  "Custom Fields": {
+    "noun": "ช่องกำหนดเอง"
+  },
+  "Custom Fonts": {
+    "noun": "ปรับแต่งตัวอักษร"
+  },
+  "Custom Menu": {
+    "noun": "เมนูปรับแต่ง, เมนูกำหนดเอง"
+  },
+  "Custom Post Type": {
+    "noun": "ประเภทเรื่องปรับแต่ง"
+  },
+  "customize": {
+    "verb": "ปรับแต่ง"
+  },
+  "dashboard": {
+    "noun": "หน้าควบคุม"
+  },
+  "database": {
+    "noun": "ฐานข้อมูล"
+  },
+  "deactivate": {
+    "verb": "ปิดการใช้งาน"
+  },
+  "debug": {
+    "noun": "แก้จุดบกพร่อง"
+  },
+  "default": {
+    "noun": "ค่าเริ่มต้น"
+  },
+  "default theme": {
+    "noun": "ธีมเริ่มต้น"
+  },
+  "deprecated": {
+    "adjective": "ถูกยกเลิกการใช้งาน, เลิกใช้แล้ว"
+  },
+  "descending": {
+    "noun": "มากไปน้อย"
+  },
+  "deselect": {
+    "verb": "ยกเลิกการเลือก"
+  },
+  "developer": {
+    "noun": "ผู้พัฒนา"
+  },
+  "dialog": {
+    "noun": "การโต้ตอบ"
+  },
+  "digital": {
+    "noun": "ดิจิทัล"
+  },
+  "directory": {
+    "noun": "ไดเรกทอรี"
+  },
+  "downgrade": {
+    "noun": "ดาวน์เกรด, ปรับลดรุ่น"
+  },
+  "download": {
+    "verb": "ดาวน์โหลด"
+  },
+  "draft": {
+    "noun": "ฉบับร่าง"
+  },
+  "Draft": {
+    "noun": "ฉบับร่าง"
+  },
+  "duplicate": {
+    "verb": "ทำสำเนา"
+  },
+  "editing": {
+    "noun": "การแก้ไข"
+  },
+  "editor": {
+    "noun": "ตัวแก้ไข"
+  },
+  "email": {
+    "noun": "อีเมล"
+  },
+  "email address": {
+    "noun": "ที่อยู่อีเมล"
+  },
+  "embed": {
+    "verb": "ฝัง"
+  },
+  "error": {
+    "noun": "ผิดพลาด"
+  },
+  "excerpt": {
+    "noun": "เกริ่นนำ"
+  },
+  "export": {
+    "verb": "ส่งออก"
+  },
+  "Facebook": {
+    "noun": "เฟซบุ๊ค"
+  },
+  "failed": {
+    "adjective": "ล้มเหลว"
+  },
+  "fatal": {
+    "adjective": "อย่างร้ายแรง"
+  },
+  "feature": {
+    "noun": "คุณสมบัติพิเศษ"
+  },
+  "Featured": {
+    "noun": "พิเศษ"
+  },
+  "featured image": {
+    "noun": "รูปพิเศษ"
+  },
+  "featured post": {
+    "noun": "เรื่องเด่น"
+  },
+  "feed": {
+    "noun": "ฟีด"
+  },
+  "file": {
+    "noun": "ไฟล์"
+  },
+  "filter": {
+    "noun": "ตัวกรอง"
+  },
+  "folder": {
+    "noun": "โฟลเดอร์"
+  },
+  "Follower": {
+    "noun": "ผู้ติดตาม"
+  },
+  "font": {
+    "noun": "แบบอักษร"
+  },
+  "forbidden": {
+    "adjective": "ต้องห้าม"
+  },
+  "full site editing": {
+    "noun": "ตัวแก้ไขเว็บเต็มรูปแบบ"
+  },
+  "gallery": {
+    "noun": "คลัง, แกลอรี่"
+  },
+  "Happiness Engineer": {
+    "noun": "Happiness Engineers"
+  },
+  "Happiness Engineers": {
+    "noun": "Happiness Engineers"
+  },
+  "Header": {
+    "noun": "ส่วนหัว"
+  },
+  "Header Image": {
+    "noun": "รูปส่วนหัว"
+  },
+  "Header Text": {
+    "noun": "ข้อความส่วนหัว"
+  },
+  "Header Text Color": {
+    "noun": "สีข้อความส่วนหัว"
+  },
+  "home page": {
+    "noun": "หน้าแรก"
+  },
+  "Home page": {
+    "noun": "หน้าแรก"
+  },
+  "homepage": {
+    "noun": "หน้าแรก"
+  },
+  "Homepage": {
+    "noun": "หน้าแรก"
+  },
+  "host": {
+    "noun": "โฮสต์"
+  },
+  "hosting provider": {
+    "noun": "ผู้ให้บริการโฮสติ้ง"
+  },
+  "icon": {
+    "noun": "ไอคอน"
+  },
+  "ID": {
+    "noun": "ID"
+  },
+  "image": {
+    "noun": "รูป"
+  },
+  "Import": {
+    "verb": "นำเข้า"
+  },
+  "insert": {
+    "verb": "แทรก"
+  },
+  "installation": {
+    "noun": "การติดตั้ง"
+  },
+  "internet": {
+    "noun": "อินเทอร์เน็ต"
+  },
+  "invalid": {
+    "adjective": "ไม่ถูกต้อง"
+  },
+  "IP address": {
+    "noun": "หมายเลขไอพี"
+  },
+  "JavaScript": {
+    "noun": "จาวาสคริปท์"
+  },
+  "Jetpack": {
+    "noun": "Jetpack"
+  },
+  "keyboard": {
+    "noun": "แป้นพิมพ์"
+  },
+  "layout": {
+    "noun": "เค้าโครง"
+  },
+  "license": {
+    "noun": "ใบอนุญาต"
+  },
+  "Like": {
+    "noun": "ชื่นชอบ"
+  },
+  "Likes": {
+    "noun": "ชื่นชอบ"
+  },
+  "link": {
+    "noun": "ลิงก์"
+  },
+  "live preview": {
+    "noun": "ตัวอย่างแบบสด"
+  },
+  "log in": {
+    "noun": "เข้าสู่ระบบ"
+  },
+  "log out": {
+    "noun": "ออกจากระบบ"
+  },
+  "logged in": {
+    "adjective": "เข้าสู่ระบบแล้ว"
+  },
+  "logged out": {
+    "adjective": "ออกจากระบบแล้ว"
+  },
+  "login": {
+    "verb": "เข้าสู่ระบบ"
+  },
+  "logo": {
+    "noun": "รูปโลโก้"
+  },
+  "logout": {
+    "verb": "ออกจากระบบ"
+  },
+  "media file": {
+    "noun": "ไฟล์สื่อ"
+  },
+  "media library": {
+    "noun": "คลังไฟล์สื่อ"
+  },
+  "Media Uploader": {
+    "noun": "ตัวอัปโหลดไฟล์สื่อ"
+  },
+  "menu": {
+    "noun": "เมนู"
+  },
+  "meta": {
+    "noun": "meta"
+  },
+  "minimum requirement": {
+    "noun": "คุณสมบัติขั้นต่ำ"
+  },
+  "moderation": {
+    "noun": "การจัดการ"
+  },
+  "multisite": {
+    "noun": "หลายเว็บไซต์"
+  },
+  "navigation": {
+    "noun": "นำทาง"
+  },
+  "network admin": {
+    "noun": "ผู้ควบคุมเครือข่าย"
+  },
+  "Network Admin": {
+    "noun": "ผู้ควบคุมเครือข่าย"
+  },
+  "Network Administrator": {
+    "noun": "ผู้ควบคุมเครือข่าย"
+  },
+  "next post": {
+    "noun": "เรื่องต่อไป"
+  },
+  "not allowed": {
+    "verb": "ไม่ได้รับอนุญาต"
+  },
+  "not sticky": {
+    "adjective": "ไม่ปักหมุด"
+  },
+  "object": {
+    "noun": "object"
+  },
+  "older post": {
+    "noun": "เรื่องที่เก่ากว่า"
+  },
+  "option": {
+    "noun": "ตัวเลือก"
+  },
+  "page": {
+    "noun": "หน้า"
+  },
+  "pagination": {
+    "noun": "ตัวนำทาง"
+  },
+  "parameter": {
+    "noun": "พารามิเตอร์"
+  },
+  "parent": {
+    "noun": "หลัก"
+  },
+  "pattern": {
+    "noun": "แพตเทิร์น"
+  },
+  "pending": {
+    "verb": "รอตรวจสอบ"
+  },
+  "permalink": {
+    "noun": "ลิงก์ถาวร"
+  },
+  "permission": {
+    "noun": "การอนุญาต, สิทธิ์"
+  },
+  "personal": {
+    "adjective": "ส่วนตัว"
+  },
+  "please": {
+    "expression": "โปรด"
+  },
+  "plugin": {
+    "noun": "ปลั๊กอิน"
+  },
+  "poll": {
+    "noun": "โพลล์"
+  },
+  "Polldaddy": {
+    "noun": "Polldaddy"
+  },
+  "post": {
+    "noun": "เรื่อง",
+    "verb": "ส่ง"
+  },
+  "post format": {
+    "noun": "รูปแบบเรื่อง"
+  },
+  "post status": {
+    "noun": "สถานะเรื่อง"
+  },
+  "post thumbnail": {
+    "noun": "รูปขนาดเล็กของเรื่อง"
+  },
+  "post type": {
+    "noun": "ประเภทเรื่อง"
+  },
+  "Press This": {
+    "noun": "Press This"
+  },
+  "preview": {
+    "noun": "ตัวอย่าง"
+  },
+  "Preview": {
+    "noun": "ตัวอย่าง"
+  },
+  "previous post": {
+    "noun": "เรื่องก่อนหน้า"
+  },
+  "privacy policy": {
+    "noun": "นโยบายความเป็นส่วนตัว"
+  },
+  "private": {
+    "noun": "ส่วนตัว"
+  },
+  "property": {
+    "noun": "คุณสมบัติ"
+  },
+  "publish": {
+    "verb": "เผยแพร่"
+  },
+  "query": {
+    "verb": "สืบค้น",
+    "noun": "การสืบค้น, Query"
+  },
+  "Quick Post": {
+    "noun": "เขียนอย่างเร็ว"
+  },
+  "Reader": {
+    "noun": "การอ่าน"
+  },
+  "reblog": {
+    "verb": "รีบล็อก"
+  },
+  "release": {
+    "verb": "ปล่อย"
+  },
+  "remove": {
+    "verb": "ลบออก"
+  },
+  "request": {
+    "verb": "ร้องขอ"
+  },
+  "required": {
+    "noun": "ต้องการ"
+  },
+  "reset": {
+    "verb": "ล้างค่า"
+  },
+  "responsive": {
+    "adjective": "เรสปอนซิฟ"
+  },
+  "REST API": {
+    "noun": "REST API"
+  },
+  "return value": {
+    "noun": "คืนค่า"
+  },
+  "Rich gallery": {
+    "noun": "Rich แกลอรี่"
+  },
+  "role": {
+    "noun": "บทบาท"
+  },
+  "RSS": {
+    "noun": "RSS"
+  },
+  "RTL": {
+    "noun": "เขียนจากขวาไปซ้าย"
+  },
+  "schema": {
+    "noun": "โครงสร้าง"
+  },
+  "Search results": {
+    "noun": "ผลลัพท์การค้นหา"
+  },
+  "self-hosted": {
+    "adjective": "ใช้โฮสท์ของตัวเอง"
+  },
+  "server": {
+    "noun": "เซิร์ฟเวอร์"
+  },
+  "service": {
+    "noun": "บริการ"
+  },
+  "share": {
+    "verb": "แชร์"
+  },
+  "shortcode": {
+    "noun": "shortcode"
+  },
+  "sidebar": {
+    "noun": "ไซด์บาร์"
+  },
+  "single post": {
+    "noun": "เรื่องเดี่ยว"
+  },
+  "site": {
+    "noun": "เว็บ"
+  },
+  "slug": {
+    "noun": "slug"
+  },
+  "sorry": {
+    "expression": "ขออภัย"
+  },
+  "sort": {
+    "verb": "เรียง"
+  },
+  "spaces": {
+    "noun": "พื้นที่"
+  },
+  "spam": {
+    "noun": "สแปม"
+  },
+  "status": {
+    "noun": "สถานะ"
+  },
+  "stick": {
+    "verb": "ปักหมุด"
+  },
+  "sticky": {
+    "adjective": "ปักหมุด"
+  },
+  "string": {
+    "noun": "สตริง"
+  },
+  "Style": {
+    "noun": "สไตล์, รูปแบบ"
+  },
+  "support": {
+    "noun": "สนับสนุน, รองรับ"
+  },
+  "supported": {
+    "noun": "สนับสนุน, รองรับ"
+  },
+  "survey": {
+    "noun": "สำรวจ"
+  },
+  "tag": {
+    "noun": "แท็ก"
+  },
+  "tagline": {
+    "noun": "คำโปรย"
+  },
+  "taxonomies": {
+    "noun": "การจัดหมวดหมู่"
+  },
+  "taxonomy": {
+    "noun": "การจัดหมวดหมู่"
+  },
+  "template": {
+    "noun": "เทมเพลต"
+  },
+  "template hierarchy": {
+    "noun": "ลำดับเทมเพลต"
+  },
+  "term": {
+    "noun": "ป้ายคำ"
+  },
+  "text editor": {
+    "noun": "ตัวแก้ไขข้อความ"
+  },
+  "theme": {
+    "noun": "ธีม"
+  },
+  "thumbnail": {
+    "noun": "รูปขนาดเล็ก"
+  },
+  "timezone": {
+    "noun": "เขตเวลา"
+  },
+  "Toolbar": {
+    "noun": "แถบเครื่องมือ"
+  },
+  "Transient": {
+    "noun": "Transient"
+  },
+  "Twitter": {
+    "noun": "Twitter"
+  },
+  "two factor authentication": {
+    "noun": "การยืนยันตัวตนสองชั้น"
+  },
+  "type": {
+    "noun": "ประเภท"
+  },
+  "Up to date": {
+    "noun": "รุ่นล่าสุด"
+  },
+  "update": {
+    "noun": "อัปเดต"
+  },
+  "updating": {
+    "noun": "การอัปเดต"
+  },
+  "upgrade": {
+    "noun": "อัปเกรด"
+  },
+  "upload": {
+    "verb": "อัปโหลด"
+  },
+  "uploader": {
+    "noun": "ตัวอัปโหลด"
+  },
+  "URL": {
+    "noun": "URL"
+  },
+  "user": {
+    "noun": "ผู้ใช้"
+  },
+  "username": {
+    "noun": "ชื่อผู้ใช้"
+  },
+  "valid": {
+    "adjective": "ใช้งานได้"
+  },
+  "VaultPress": {
+    "noun": "VaultPress"
+  },
+  "version": {
+    "noun": "รุ่น"
+  },
+  "version control": {
+    "noun": "จัดการควบคุมรุ่น"
+  },
+  "video": {
+    "noun": "วิดีโอ"
+  },
+  "VideoPress": {
+    "noun": "VideoPress"
+  },
+  "view": {
+    "verb": "ดู",
+    "noun": "มุมมอง"
+  },
+  "Visual Editor": {
+    "noun": "ตัวแก้ไขเสมือนจริง"
+  },
+  "warn": {
+    "verb": "แจ้งเตือน"
+  },
+  "warning": {
+    "noun": "คำเตือน"
+  },
+  "web": {
+    "noun": "เว็บ"
+  },
+  "web server": {
+    "noun": "เว็บเซิร์ฟเวอร์"
+  },
+  "website": {
+    "noun": "เว็บไซต์"
+  },
+  "widget": {
+    "noun": "วิดเจ็ต"
+  },
+  "WordCamp": {
+    "noun": "WordCamp"
+  },
+  "WordPress": {
+    "noun": "WordPress"
+  },
+  "WordPress Dashboard": {
+    "noun": "หน้าควบคุม WordPress"
+  },
+  "WordPress.com": {
+    "noun": "WordPress.com"
+  },
+  "WordPress.com Business": {
+    "noun": "WordPress.com Business"
+  },
+  "WordPress.com Enterprise": {
+    "noun": "WordPress.com Enterprise"
+  },
+  "WordPress.com Premium": {
+    "noun": "WordPress.com Premium"
+  },
+  "XML-RPC": {
+    "noun": "XML-RPC"
+  }
+}

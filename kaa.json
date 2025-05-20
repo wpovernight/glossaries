@@ -1,0 +1,370 @@
+{
+  "Action": {
+    "noun": "Háreket"
+  },
+  "Add": {
+    "verb": "Qosıw"
+  },
+  "Apply": {
+    "verb": "Qabıllaw"
+  },
+  "Back": {
+    "verb": "Qaytıw",
+    "adverb": "Izge"
+  },
+  "Body": {
+    "noun": "Dene"
+  },
+  "Bold": {
+    "noun": "Juwan"
+  },
+  "Button": {
+    "noun": "Túyme"
+  },
+  "Cart": {
+    "noun": "Sebet"
+  },
+  "Color": {
+    "noun": "Reń"
+  },
+  "Column": {
+    "noun": "Baǵana"
+  },
+  "Comment": {
+    "noun": "Talqılaw"
+  },
+  "Content": {
+    "noun": "Mazmun"
+  },
+  "Copy": {
+    "noun": "Kóshirme",
+    "verb": "Kóshirip alıw"
+  },
+  "Create": {
+    "verb": "Jaratıw"
+  },
+  "Custom": {
+    "adjective": "Ózgeshe"
+  },
+  "Dashboard": {
+    "noun": "Basqarıw taqtası"
+  },
+  "Date": {
+    "noun": "Sáne"
+  },
+  "Dedicated": {
+    "adjective": "Arnawlı"
+  },
+  "Default": {
+    "adjective": "Ádepki"
+  },
+  "Description": {
+    "noun": "Táripleme"
+  },
+  "Direct": {
+    "adverb": "Tikkeley"
+  },
+  "Display": {
+    "verb": "Kórsetiw",
+    "noun": "Kórinis"
+  },
+  "Embed": {
+    "verb": "Ornalastırıw",
+    "noun": "Ornalastırılǵan obyekt"
+  },
+  "Entry": {
+    "noun": "Jazba"
+  },
+  "Error": {
+    "noun": "Qáte"
+  },
+  "Excerpt": {
+    "noun": "Úzindi"
+  },
+  "Exclude": {
+    "verb": "Qospaw"
+  },
+  "Feed": {
+    "noun": "Taspa"
+  },
+  "Filter": {
+    "verb": "Súziw",
+    "noun": "Súzgish"
+  },
+  "Find": {
+    "verb": "Tabıw"
+  },
+  "Fixed": {
+    "adjective": "Turaqlı"
+  },
+  "Footer": {
+    "noun": "Ayaqlama"
+  },
+  "Form": {
+    "noun": "Qálip"
+  },
+  "Gray": {
+    "adjective": "Sur"
+  },
+  "Grid": {
+    "noun": "Tor"
+  },
+  "Guest": {
+    "noun": "Miyman"
+  },
+  "Guide": {
+    "noun": "Qollanba"
+  },
+  "Header": {
+    "noun": "Baslama"
+  },
+  "Height": {
+    "noun": "Biyiklik"
+  },
+  "Hide": {
+    "verb": "Jasırıw"
+  },
+  "Horizontal": {
+    "adjective": "Jatıq"
+  },
+  "Hover": {
+    "verb": "Kursordı qaratıw"
+  },
+  "Huge": {
+    "adjective": "Oǵada iri"
+  },
+  "Icon": {
+    "noun": "Tańba"
+  },
+  "Image": {
+    "noun": "Súwret"
+  },
+  "Input": {
+    "noun": "Kiritpe",
+    "verb": "Kiritiw"
+  },
+  "Install": {
+    "verb": "Ornatıw"
+  },
+  "Italic": {
+    "adjective": "Qıya"
+  },
+  "Keyword": {
+    "noun": "Gilt sóz"
+  },
+  "Large": {
+    "adjective": "Iri"
+  },
+  "Legacy": {
+    "adjective": "Góne"
+  },
+  "Light": {
+    "adjective": "Jeńil"
+  },
+  "Link": {
+    "noun": "Silteme"
+  },
+  "List": {
+    "noun": "Dizim"
+  },
+  "Login": {
+    "verb": "Kiriw",
+    "noun": "Login"
+  },
+  "Logout": {
+    "verb": "Shıǵıw"
+  },
+  "Magenta": {
+    "adjective": "Qoyıw qızıl"
+  },
+  "Medium": {
+    "adjective": "Ortasha iri"
+  },
+  "Model": {
+    "noun": "Órnek"
+  },
+  "New": {
+    "adjective": "Jańa"
+  },
+  "Next": {
+    "adjective": "Keyingi"
+  },
+  "Normal": {
+    "adjective": "Ortasha"
+  },
+  "Orange": {
+    "adjective": "Qızǵılt sarı"
+  },
+  "Page": {
+    "noun": "Bet"
+  },
+  "Pagination": {
+    "verb": "Betlew"
+  },
+  "Panel": {
+    "noun": "Taqta"
+  },
+  "Pattern": {
+    "noun": "Úlgi"
+  },
+  "Photo": {
+    "noun": "Foto"
+  },
+  "Picture": {
+    "noun": "Súwret"
+  },
+  "Pink": {
+    "adjective": "Qızǵılt"
+  },
+  "Placeholder": {
+    "noun": "Toltırǵısh"
+  },
+  "Plugin": {
+    "noun": "Plagin"
+  },
+  "Policy": {
+    "noun": "Siyasat"
+  },
+  "Post": {
+    "noun": "Maqala"
+  },
+  "Preview": {
+    "verb": "Aldın ala kóriw"
+  },
+  "Previous": {
+    "adjective": "Burınǵı"
+  },
+  "Priority": {
+    "noun": "Artıqmashlıq"
+  },
+  "Privacy": {
+    "noun": "Qupıyalılıq"
+  },
+  "Publish": {
+    "verb": "Jarıyalaw"
+  },
+  "Purple": {
+    "noun": "Qızǵılt kók"
+  },
+  "Query": {
+    "noun": "Soraw"
+  },
+  "Recent": {
+    "adjective": "Sońǵı"
+  },
+  "Redirect": {
+    "verb": "Qayta jóneltiw"
+  },
+  "Register": {
+    "verb": "Tirkeliw"
+  },
+  "Registration": {
+    "noun": "Tirkeliw"
+  },
+  "Reset": {
+    "verb": "Biykarlaw"
+  },
+  "Reverse": {
+    "noun": "Keri"
+  },
+  "Row": {
+    "noun": "Qatar"
+  },
+  "Search": {
+    "verb": "Izlew"
+  },
+  "Semi": {
+    "noun": "Yarım"
+  },
+  "Settings": {
+    "noun": "Sazlawlar"
+  },
+  "Show": {
+    "verb": "Kórsetiw"
+  },
+  "Sidebar": {
+    "noun": "Qaptalǵı taqta"
+  },
+  "Sign in": {
+    "verb": "Kiriw"
+  },
+  "Sign up": {
+    "verb": "Tirkeliw"
+  },
+  "Signup": {
+    "verb": "Tirkeliw"
+  },
+  "Size": {
+    "noun": "Ólshem"
+  },
+  "Small": {
+    "adjective": "Kishkene"
+  },
+  "Software": {
+    "noun": "Baǵdarlama"
+  },
+  "Sort": {
+    "verb": "Saralaw"
+  },
+  "Source": {
+    "noun": "Derek"
+  },
+  "Spreadsheet": {
+    "noun": "Keste"
+  },
+  "Stickied": {
+    "verb": "Bekitilgen"
+  },
+  "Sticky": {
+    "adjective": "Jabısqaq"
+  },
+  "Table": {
+    "noun": "Keste"
+  },
+  "Tag": {
+    "noun": "Teg"
+  },
+  "Tagline": {
+    "noun": "Uran"
+  },
+  "Template": {
+    "noun": "Úlgi"
+  },
+  "Thin": {
+    "adjective": "Jińishke"
+  },
+  "Title": {
+    "noun": "Atama"
+  },
+  "Trash": {
+    "noun": "Shıǵındı"
+  },
+  "Use": {
+    "verb": "Isletiw"
+  },
+  "User": {
+    "noun": "Paydalanıwshı"
+  },
+  "Value": {
+    "noun": "Máni"
+  },
+  "Version": {
+    "noun": "Nusqa"
+  },
+  "Vertical": {
+    "adjective": "Tik"
+  },
+  "View": {
+    "noun": "Kórinis",
+    "verb": "Kóriw"
+  },
+  "Visit": {
+    "verb": "Ótiw"
+  },
+  "Vivid": {
+    "adjective": "Ashıq"
+  },
+  "Width": {
+    "noun": "En"
+  }
+}

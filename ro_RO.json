@@ -1,0 +1,683 @@
+{
+  "add-on": {
+    "noun": "supliment"
+  },
+  "are you sure...?": {
+    "expression": "sigur ...?"
+  },
+  "aside": {
+    "noun": "notă"
+  },
+  "assets": {
+    "noun": "resurse"
+  },
+  "backend": {
+    "noun": "partea administrativă a site-ului"
+  },
+  "backup": {
+    "noun": "copie de siguranță"
+  },
+  "bandwith": {
+    "expression": "lățime de bandă"
+  },
+  "blogger": {
+    "noun": "bloger"
+  },
+  "bookmark": {
+    "verb": "pune un semn de carte"
+  },
+  "bookmarklet": {
+    "noun": "marcator"
+  },
+  "bot(s), botnet": {
+    "expression": "bot, bot de rețea"
+  },
+  "bounce rate": {
+    "expression": "rată de respingere"
+  },
+  "box": {
+    "noun": "casetă"
+  },
+  "boxed": {
+    "adjective": "încasetat"
+  },
+  "breadcrumbs": {
+    "noun": "firimituri"
+  },
+  "browse": {
+    "verb": "răsfoi"
+  },
+  "browser": {
+    "noun": "navigator"
+  },
+  "buffered": {
+    "noun": "înșiruite"
+  },
+  "bug": {
+    "noun": "eroare"
+  },
+  "builder": {
+    "noun": "constructor"
+  },
+  "built-in": {
+    "adjective": "nativ"
+  },
+  "bullet list": {
+    "expression": "listă punctată"
+  },
+  "cache": {
+    "noun": "cache"
+  },
+  "call to action": {
+    "expression": "apel la acțiune"
+  },
+  "callback": {
+    "adjective": "apel-înapoi"
+  },
+  "cancel": {
+    "verb": "anula"
+  },
+  "caption": {
+    "expression": "text asociat"
+  },
+  "carousel": {
+    "noun": "carusel"
+  },
+  "change": {
+    "verb": "modifica"
+  },
+  "changelog": {
+    "expression": "istoric modificări"
+  },
+  "changeset": {
+    "expression": "set de modificări"
+  },
+  "chart": {
+    "noun": "diagramă"
+  },
+  "checkbox": {
+    "noun": "bifă"
+  },
+  "clipboard": {
+    "noun": "clipbord"
+  },
+  "code snippet": {
+    "expression": "fragment de cod"
+  },
+  "codec": {
+    "noun": "codec"
+  },
+  "commit": {
+    "verb": "contribui"
+  },
+  "commiter": {
+    "noun": "contributor"
+  },
+  "copyright": {
+    "expression": "drepturi de autor"
+  },
+  "core": {
+    "noun": "nucleu"
+  },
+  "create": {
+    "verb": "crea"
+  },
+  "credits": {
+    "noun": "recunoștințe"
+  },
+  "cross browser compatible": {
+    "expression": "compatibilitate între navigatoare"
+  },
+  "custom post type": {
+    "expression": "tip de articol personalizat"
+  },
+  "Customizer": {
+    "noun": "Personalizator"
+  },
+  "cut and paste": {
+    "expression": "taie și plasează"
+  },
+  "dashboard": {
+    "noun": "Panou control"
+  },
+  "debug": {
+    "verb": "depana"
+  },
+  "deprecated": {
+    "adjective": "învechit"
+  },
+  "display": {
+    "verb": "afișa"
+  },
+  "docked": {
+    "adjective": "ancorat"
+  },
+  "downgrade": {
+    "verb": "retrograda"
+  },
+  "download": {
+    "verb": "descărca"
+  },
+  "draft": {
+    "noun": "ciornă"
+  },
+  "drag and drop": {
+    "expression": "trage și plasează"
+  },
+  "drop cap": {
+    "noun": "letrină"
+  },
+  "dropdown menu": {
+    "expression": "meniu derulant"
+  },
+  "e-mail": {
+    "noun": "email"
+  },
+  "easing effect": {
+    "expression": "efect de tranziție"
+  },
+  "edit": {
+    "verb": "edita"
+  },
+  "email": {
+    "noun": "email"
+  },
+  "embed": {
+    "verb": "îngloba"
+  },
+  "emojis": {
+    "noun": "emoticoane"
+  },
+  "endpoint": {
+    "noun": "punct-final"
+  },
+  "escaping": {
+    "verb": "escapare"
+  },
+  "excerpt": {
+    "noun": "rezumat"
+  },
+  "fade in/fade out": {
+    "expression": "apariție/dispariție"
+  },
+  "fail": {
+    "verb": "eșua"
+  },
+  "FAQ": {
+    "expression": "ÎF, ÎPF"
+  },
+  "feature": {
+    "verb": "evidenția",
+    "noun": "funcționalitate"
+  },
+  "feature image": {
+    "expression": "imagine reprezentativă"
+  },
+  "featured": {
+    "adjective": "reprezentativ"
+  },
+  "feed": {
+    "noun": "flux"
+  },
+  "feedback": {
+    "noun": "impresii"
+  },
+  "fetching": {
+    "verb": "se aduc"
+  },
+  "fix": {
+    "noun": "corecție"
+  },
+  "folder": {
+    "noun": "dosar"
+  },
+  "folower": {
+    "noun": "urmăritor"
+  },
+  "font": {
+    "noun": "font"
+  },
+  "footer": {
+    "noun": "subsol"
+  },
+  "front page": {
+    "expression": "pagina din față"
+  },
+  "frontend, front-end": {
+    "expression": "partea din față"
+  },
+  "geotagging": {
+    "expression": "geo-etichetare"
+  },
+  "grid": {
+    "noun": "grilă"
+  },
+  "header": {
+    "noun": "antet"
+  },
+  "homepage": {
+    "expression": "prima pagină"
+  },
+  "hook": {
+    "noun": "cârlig"
+  },
+  "hover": {
+    "verb": "trece peste"
+  },
+  "hovercard": {
+    "noun": "carte de vizită"
+  },
+  "icon": {
+    "noun": "icon"
+  },
+  "importer": {
+    "noun": "importator"
+  },
+  "impressions": {
+    "noun": "impresionări"
+  },
+  "inbox": {
+    "noun": "intrări"
+  },
+  "indent": {
+    "adjective": "indentare"
+  },
+  "initial release": {
+    "expression": "lansare inițială"
+  },
+  "inline": {
+    "expression": "în-linie"
+  },
+  "insights": {
+    "noun": "privire generală"
+  },
+  "keychain connections": {
+    "expression": "conexiuni înlănțuite"
+  },
+  "language pack": {
+    "expression": "pachet lingvistic"
+  },
+  "layout": {
+    "noun": "aranjament"
+  },
+  "lean & mean": {
+    "expression": "simplu și semnificativ"
+  },
+  "library": {
+    "noun": "bibliotecă"
+  },
+  "like": {
+    "noun": "apreciere"
+  },
+  "link": {
+    "noun": "legătură"
+  },
+  "locale": {
+    "noun": "locală"
+  },
+  "logged in": {
+    "adjective": "autentificat"
+  },
+  "logged out": {
+    "adjective": "dezautentificat"
+  },
+  "login": {
+    "verb": "autentifica"
+  },
+  "look and feel": {
+    "expression": "aspect general"
+  },
+  "ltr": {
+    "expression": "ltr"
+  },
+  "markup": {
+    "adjective": "markup"
+  },
+  "media": {
+    "noun": "media"
+  },
+  "membership": {
+    "noun": "apartenență"
+  },
+  "merge": {
+    "verb": "îmbină"
+  },
+  "metadata": {
+    "noun": "metadate"
+  },
+  "minify": {
+    "verb": "minifica"
+  },
+  "miscellaneous": {
+    "adjective": "diverse"
+  },
+  "mobile-first": {
+    "expression": "întâi-mobil"
+  },
+  "module": {
+    "noun": "extensie"
+  },
+  "mouse": {
+    "noun": "maus"
+  },
+  "namespace": {
+    "expression": "nume-spațiu"
+  },
+  "nested": {
+    "adjective": "imbricat"
+  },
+  "nonce": {
+    "noun": "nunic/nunice"
+  },
+  "obfuscated code": {
+    "expression": "cod obscurizat"
+  },
+  "off": {
+    "adjective": "oprit"
+  },
+  "on": {
+    "adjective": "pornit"
+  },
+  "on the fly": {
+    "expression": "din mers"
+  },
+  "override": {
+    "verb": "contramanda"
+  },
+  "padding": {
+    "noun": "distanțare"
+  },
+  "parallax": {
+    "noun": "paralaxă"
+  },
+  "parser": {
+    "noun": "interpretor"
+  },
+  "patch": {
+    "noun": "corectură"
+  },
+  "picker": {
+    "noun": "selector"
+  },
+  "pie chart": {
+    "expression": "diagramă (sectorial) circulară"
+  },
+  "placeholder": {
+    "noun": "substituent"
+  },
+  "play": {
+    "verb": "rula"
+  },
+  "player": {
+    "noun": "player"
+  },
+  "plays": {
+    "noun": "rulări"
+  },
+  "please": {
+    "expression": "te rog"
+  },
+  "plugin": {
+    "noun": "modul"
+  },
+  "post": {
+    "noun": "articol",
+    "verb": "publica"
+  },
+  "privacy": {
+    "adjective": "confidențialitate"
+  },
+  "proofreading": {
+    "noun": "corectură"
+  },
+  "publicize": {
+    "verb": "(a face) publicitate"
+  },
+  "push notifications": {
+    "expression": "notificări imediate"
+  },
+  "raster": {
+    "noun": "rastru"
+  },
+  "referal": {
+    "noun": "referire"
+  },
+  "referrer": {
+    "noun": "referent"
+  },
+  "refresh": {
+    "verb": "reîmprospăta"
+  },
+  "related": {
+    "adjective": "similar"
+  },
+  "remove": {
+    "verb": "înlătura"
+  },
+  "render": {
+    "verb": "randa"
+  },
+  "repository": {
+    "noun": "depozitar"
+  },
+  "responsive": {
+    "adjective": "responsiv"
+  },
+  "revamped": {
+    "adjective": "modernizat"
+  },
+  "review": {
+    "noun": "recenzie"
+  },
+  "reviewer": {
+    "noun": "recenzent"
+  },
+  "rtl": {
+    "expression": "rtl"
+  },
+  "sanitize": {
+    "verb": "sanitiza"
+  },
+  "screen": {
+    "noun": "ecran"
+  },
+  "scroll": {
+    "verb": "derula"
+  },
+  "send to trash": {
+    "expression": "arunca la gunoi"
+  },
+  "setup": {
+    "noun": "inițializare"
+  },
+  "share": {
+    "verb": "partaja"
+  },
+  "shopping cart": {
+    "expression": "coș de cumpărături"
+  },
+  "shortcode": {
+    "noun": "scurtcod"
+  },
+  "shortcut": {
+    "noun": "scurtătură"
+  },
+  "shortlink": {
+    "noun": "legătură scurtă"
+  },
+  "show": {
+    "verb": "arăta"
+  },
+  "showcase": {
+    "noun": "exemplificare"
+  },
+  "site": {
+    "noun": "site"
+  },
+  "sitemap": {
+    "expression": "hartă site"
+  },
+  "skin": {
+    "noun": "aspect"
+  },
+  "slider": {
+    "noun": "carusel"
+  },
+  "slides": {
+    "noun": "diapozitive"
+  },
+  "slug": {
+    "noun": "descriptor"
+  },
+  "smooth": {
+    "adjective": "lin"
+  },
+  "snippet": {
+    "noun": "fragment"
+  },
+  "sorry, but": {
+    "expression": "regret, dar"
+  },
+  "staging": {
+    "noun": "instanțiere"
+  },
+  "sticky": {
+    "adjective": "reprezentativ"
+  },
+  "stiky header": {
+    "expression": "antet fixat"
+  },
+  "strikethrough": {
+    "adjective": "barare"
+  },
+  "string": {
+    "noun": "șir"
+  },
+  "styler": {
+    "noun": "stilist"
+  },
+  "stylesheet": {
+    "expression": "foaie de stiluri"
+  },
+  "submenu": {
+    "noun": "sub-meniu"
+  },
+  "submit": {
+    "verb": "trimite"
+  },
+  "subscript": {
+    "adjective": "indice-jos"
+  },
+  "superscript": {
+    "adjective": "indice-sus"
+  },
+  "swich": {
+    "verb": "comuta"
+  },
+  "tab": {
+    "noun": "filă"
+  },
+  "tag": {
+    "noun": "etichetă"
+  },
+  "tap": {
+    "verb": "tap"
+  },
+  "template": {
+    "noun": "șablon"
+  },
+  "testimonial": {
+    "noun": "testimonial"
+  },
+  "text area": {
+    "expression": "zonă text"
+  },
+  "text-domain": {
+    "expression": "domeniu-text"
+  },
+  "theme": {
+    "noun": "temă"
+  },
+  "thumbnail": {
+    "noun": "miniatură"
+  },
+  "tiled": {
+    "adjective": "placat"
+  },
+  "tips": {
+    "noun": "sfaturi"
+  },
+  "toggle": {
+    "noun": "comutator"
+  },
+  "token": {
+    "noun": "token"
+  },
+  "toolbar": {
+    "noun": "bară de unelte"
+  },
+  "tooltip": {
+    "expression": "text explicativ"
+  },
+  "trigger": {
+    "noun": "declanșator"
+  },
+  "tweets": {
+    "noun": "twituri"
+  },
+  "typografy": {
+    "noun": "tipografice"
+  },
+  "underscore": {
+    "expression": "liniuță-jos"
+  },
+  "undo": {
+    "verb": "reveni"
+  },
+  "unfollow": {
+    "verb": "anula urmărirea"
+  },
+  "update": {
+    "verb": "actualiza",
+    "noun": "actualizare"
+  },
+  "upgrade": {
+    "noun": "actualizare"
+  },
+  "upload": {
+    "verb": "încărca"
+  },
+  "usability": {
+    "adjective": "utilizabilitate"
+  },
+  "view": {
+    "verb": "vedea"
+  },
+  "viewport": {
+    "expression": "spațiu vizibil"
+  },
+  "watermark": {
+    "noun": "filigran"
+  },
+  "wearables": {
+    "expression": "lucruri de purtat"
+  },
+  "widget": {
+    "noun": "piesă"
+  },
+  "widgetized area": {
+    "expression": "zonă asamblabilă"
+  },
+  "wildcard": {
+    "noun": "metacaracter"
+  },
+  "workaround": {
+    "expression": "soluție ocolitoare"
+  },
+  "you are not allowed to": {
+    "expression": "nu ai voie să"
+  },
+  "zip/unzip": {
+    "verb": "comprimă/decomprimă"
+  }
+}

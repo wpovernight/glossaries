@@ -1,0 +1,152 @@
+{
+  "audio": {
+    "noun": "ਆਡੀਓ"
+  },
+  "author": {
+    "noun": "ਲੇਖਕ"
+  },
+  "avatar": {
+    "noun": "ਅਵਤਾਰ"
+  },
+  "blog": {
+    "noun": "ਬਲੌਗ"
+  },
+  "comment": {
+    "noun": "ਟਿੱਪਣੀ"
+  },
+  "development version": {
+    "noun": "ਵਿਕਾਸ ਸੰਸਕਰਨ"
+  },
+  "dimension": {
+    "noun": "ਪਸਾਰਾ"
+  },
+  "document": {
+    "noun": "ਕਾਗਜ਼"
+  },
+  "documentation": {
+    "noun": "ਕਾਗਜ਼ਾਤ"
+  },
+  "download": {
+    "noun": "ਡਾਊਨਲੋਡ"
+  },
+  "edit": {
+    "noun": "ਸੋਧ"
+  },
+  "editor": {
+    "noun": "ਸੋਧਕ"
+  },
+  "excerpt": {
+    "noun": "ਅੰਸ਼"
+  },
+  "feature": {
+    "noun": "ਵਿਸ਼ੇਸ਼ਤਾ"
+  },
+  "featured": {
+    "adjective": "ਚੋਣਵਾਂ"
+  },
+  "file": {
+    "noun": "ਫਾਇਲ"
+  },
+  "footer": {
+    "noun": "ਪਦਲੇਖ"
+  },
+  "format": {
+    "noun": "ਬਣਤਰ"
+  },
+  "heading": {
+    "noun": "ਸਿਰਨਾਵਾਂ"
+  },
+  "image": {
+    "noun": "ਤਸਵੀਰ"
+  },
+  "install": {
+    "verb": "ਸਥਾਪਤ ਕਰੋ"
+  },
+  "Jetpack": {
+    "noun": "ਜੈੱਟਪੈਕ"
+  },
+  "media": {
+    "noun": "ਮੀਡੀਆ"
+  },
+  "object": {
+    "noun": "ਆਬਜੈਕਟ"
+  },
+  "ok": {
+    "noun": "ਠੀਕ ਹੈ"
+  },
+  "Parent": {
+    "noun": "ਪੇਰੈਂਟ"
+  },
+  "password": {
+    "noun": "ਪਾਸਵਰਡ"
+  },
+  "plugin": {
+    "noun": "ਪਲੱਗਇਨ"
+  },
+  "post": {
+    "noun": "ਸੰਪਾਦਨਾ"
+  },
+  "Press This": {
+    "noun": "ਪ੍ਰੈੱਸ ਦਿਸ"
+  },
+  "profile": {
+    "noun": "ਪ੍ਰੋਫਾਇਲ"
+  },
+  "registration": {
+    "noun": "ਰਜਿਸਟਰੇਸ਼ਨ"
+  },
+  "REST": {
+    "noun": "REST"
+  },
+  "scroll": {
+    "verb": "ਸਕਰੋਲ ਕਰੋ"
+  },
+  "site": {
+    "noun": "ਸਾਈਟ"
+  },
+  "Taxonomy": {
+    "noun": "ਵਰਗੀਕਰਨ"
+  },
+  "term": {
+    "noun": "ਪਦ"
+  },
+  "theme": {
+    "noun": "ਥੀਮ"
+  },
+  "title": {
+    "noun": "ਸਿਰਲੇਖ"
+  },
+  "toolbar": {
+    "noun": "ਸੰਦ-ਪੱਟੀ"
+  },
+  "update": {
+    "verb": "ਨਵਿਆਓ"
+  },
+  "upload": {
+    "verb": "ਅਪਲੋਡ ਕਰੋ"
+  },
+  "URL": {
+    "noun": "URL"
+  },
+  "user": {
+    "noun": "ਵਰਤੋਂਕਾਰ"
+  },
+  "username": {
+    "noun": "ਵਰਤੋਂਕਾਰ-ਨਾਂ"
+  },
+  "version": {
+    "noun": "ਸੰਸਕਰਨ"
+  },
+  "video": {
+    "noun": "ਵੀਡੀਓ"
+  },
+  "website": {
+    "noun": "ਵੈੱਬਸਾਈਟ"
+  },
+  "WooCommerce": {
+    "noun": "ਵੂ-ਕਾਮਰਸ"
+  },
+  "wordpress": {
+    "noun": "ਵਰਡਪ੍ਰੈੱਸ"
+  }
+}

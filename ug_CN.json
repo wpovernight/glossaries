@@ -1,0 +1,788 @@
+{
+  "add": {
+    "verb": "قوش"
+  },
+  "add-on": {
+    "noun": "قوشۇلما"
+  },
+  "Addon": {
+    "noun": "قوشۇلما"
+  },
+  "AI": {
+    "noun": "سۈنئىي ئەقىل"
+  },
+  "anchor": {
+    "noun": "لەڭگەر"
+  },
+  "Application": {
+    "noun": "پىروگرامما"
+  },
+  "apply": {
+    "verb": "قوللان"
+  },
+  "argument": {
+    "noun": "ئەركىن ئۆزگەرگۈچى"
+  },
+  "array": {
+    "noun": "سانلار قاتارى"
+  },
+  "attachment": {
+    "noun": "يۈكلەنمە، قوشۇمچە"
+  },
+  "Audio": {
+    "noun": "ئۈن، ئاۋاز"
+  },
+  "authentication": {
+    "noun": "دەلىللەش"
+  },
+  "author": {
+    "noun": "يازغۇچى"
+  },
+  "Authorization header": {
+    "noun": "دەلىللەش بېشى"
+  },
+  "Avatar": {
+    "noun": "سىما"
+  },
+  "Background": {
+    "noun": "تەگلىك"
+  },
+  "banner": {
+    "noun": "لەۋھە"
+  },
+  "barcode": {
+    "noun": "تاياقچە كود، چىپار كود"
+  },
+  "beige": {
+    "noun": "ئاق سېرىق"
+  },
+  "Block": {
+    "noun": "بۆلەك",
+    "verb": "توس"
+  },
+  "Bloganuary": {
+    "noun": "بىلوگ يىلى"
+  },
+  "bookmark": {
+    "noun": "خەتكۈش"
+  },
+  "Boxes": {
+    "noun": "قۇتا"
+  },
+  "Breach": {
+    "noun": "سىزما"
+  },
+  "breadcrumb": {
+    "noun": "بەلگە ئىزى"
+  },
+  "Breadcrumbs": {
+    "noun": "(بەلگە ئىزى (بۇردا نان"
+  },
+  "Browse": {
+    "verb": "كۆز يۈگۈرت"
+  },
+  "Browser": {
+    "noun": "توركۆرگۈ"
+  },
+  "button": {
+    "noun": "توپچە"
+  },
+  "cache": {
+    "noun": "غەملەك"
+  },
+  "callback": {
+    "noun": "چاقىرىق ئىنكاسى"
+  },
+  "Cancel": {
+    "noun": "ئىناۋەتسىز"
+  },
+  "cancel": {
+    "verb": "ۋاز كەچ"
+  },
+  "canvas": {
+    "noun": "كەرگە"
+  },
+  "caption": {
+    "noun": "چۈشەندۈرۈش"
+  },
+  "Categories": {
+    "noun": "سەھىپىلەر"
+  },
+  "Category": {
+    "noun": "سەھىپە"
+  },
+  "certificate": {
+    "noun": "گۇۋاھنامە"
+  },
+  "checkbox": {
+    "noun": "تەكشۈرۈش رامكىسى، كۆپ تاللاش رامكىسى"
+  },
+  "Checkout": {
+    "noun": "چىقىمدان"
+  },
+  "Citation": {
+    "noun": "نەقىل"
+  },
+  "Citation Reference": {
+    "noun": "نەقىل پايدىلانمىسى"
+  },
+  "Clear": {
+    "verb": "تازىلا"
+  },
+  "clipboard": {
+    "noun": "چاپلاش تاختىسى"
+  },
+  "Close": {
+    "verb": "ياپ"
+  },
+  "Collapse": {
+    "verb": "يىغ"
+  },
+  "color palette": {
+    "noun": "رەڭ تاختا"
+  },
+  "Column": {
+    "noun": "رەت"
+  },
+  "comment": {
+    "noun": "ئىنكاس"
+  },
+  "Committer": {
+    "noun": "يوللىغۇچى"
+  },
+  "Community": {
+    "noun": "جامائەت"
+  },
+  "Container": {
+    "noun": "يۈكدان"
+  },
+  "context element": {
+    "noun": "مەزمۇن ئېلېمنتى"
+  },
+  "Cookies": {
+    "noun": "ساقلانما"
+  },
+  "copy": {
+    "verb": "كۆچۈر"
+  },
+  "Cover": {
+    "noun": "مۇقاۋا",
+    "verb": "قاپلا"
+  },
+  "crop": {
+    "verb": "قايچىلا"
+  },
+  "Custom": {
+    "noun": "ئىختىيارى، ئىختىيارىچە"
+  },
+  "Customize": {
+    "verb": "خاسلاشتۇر"
+  },
+  "Customizer": {
+    "noun": "خاسلاشتۇرغۇچ"
+  },
+  "cut": {
+    "verb": "كەس"
+  },
+  "cyan": {
+    "noun": "قېنىق كۆك"
+  },
+  "Dashboard": {
+    "noun": "باشقۇرۇش تاختا، تىزگىن تاختا"
+  },
+  "database": {
+    "noun": "ساندان"
+  },
+  "Date": {
+    "noun": "ۋاقىت، چېسلا"
+  },
+  "Debug": {
+    "noun": "سازلاش"
+  },
+  "Default": {
+    "noun": "كۆڭۈلدىكى"
+  },
+  "delete": {
+    "verb": "ئۆچۈر"
+  },
+  "Developer": {
+    "noun": "ئىجادكار"
+  },
+  "Development": {
+    "noun": "ئىجادىيەت"
+  },
+  "Disable": {
+    "verb": "چەكلە"
+  },
+  "Distraction free mode": {
+    "noun": "بىزارلىقتىن خالىي ھالىتى"
+  },
+  "Document": {
+    "noun": "پۈتۈك"
+  },
+  "Documentation": {
+    "noun": "قوللانما"
+  },
+  "domain": {
+    "noun": "دائىرە، دائىرە ئاتى"
+  },
+  "Draft": {
+    "noun": "دەسلەپكى نۇسخا"
+  },
+  "Drag and drop": {
+    "verb": "سۆرەپ تاشلا"
+  },
+  "Drop-ins": {
+    "verb": "كۈچەيتىلگەن قىستۇرما"
+  },
+  "dropdown": {
+    "noun": "تارتما، ئېسىلما"
+  },
+  "eagerness value": {
+    "noun": "ئارزۇ قىممىتى"
+  },
+  "ebony": {
+    "noun": "قارا ئەينۇس"
+  },
+  "editor": {
+    "noun": "تەھرىرلىگۈچ"
+  },
+  "Email": {
+    "noun": "ئېلخەت"
+  },
+  "Event": {
+    "noun": "پائالىيەت"
+  },
+  "Excerpt": {
+    "noun": "ئۈزۈندە"
+  },
+  "Expand": {
+    "verb": "ياي"
+  },
+  "exporter": {
+    "noun": "چىقارغۇچ"
+  },
+  "extension": {
+    "noun": "كېڭەيتىلمە"
+  },
+  "fallback": {
+    "noun": "قايتىش، زاپاس، تەييار"
+  },
+  "fallback menu": {
+    "noun": "زاپاس تىزىملىك"
+  },
+  "Featured": {
+    "noun": "تەۋسىيەلىك"
+  },
+  "feed": {
+    "noun": "مەنبە"
+  },
+  "feedback": {
+    "noun": "قايتۇرما ئىنكاس"
+  },
+  "flag": {
+    "noun": "بايراق",
+    "verb": "پاش قىل"
+  },
+  "Follow": {
+    "noun": "ئەگەش"
+  },
+  "Footer": {
+    "noun": "بەت ئاستى"
+  },
+  "Footnotes": {
+    "noun": "بەت ئاستى ئىزاھات"
+  },
+  "Format": {
+    "noun": "پىچىم، پىچىمى"
+  },
+  "Full screen": {
+    "noun": "پۈتۈن ئېكران"
+  },
+  "full-screen": {
+    "noun": "پۈتۈن ئېكران"
+  },
+  "Gallery": {
+    "noun": "سۈرەتدان"
+  },
+  "General Public License": {
+    "noun": "ئادەتتىكى ئاممىۋى ئىجازەتنامە"
+  },
+  "global": {
+    "noun": "ئومۇمىيەت"
+  },
+  "globally": {
+    "noun": "ئومۇمىيەت"
+  },
+  "Google": {
+    "noun": "گۇگىل"
+  },
+  "gradient": {
+    "noun": "رەڭ ئۆزگىرىشى، ئۆزگىرىشى"
+  },
+  "guidelines": {
+    "noun": "يېتەكچى"
+  },
+  "header": {
+    "noun": "بەت قاش، باش"
+  },
+  "hide": {
+    "verb": "يوشۇر"
+  },
+  "homepage": {
+    "noun": "باش بەت"
+  },
+  "Horizontal": {
+    "noun": "توغرىسىغا، يانتۇ"
+  },
+  "icon": {
+    "noun": "سىنبەلگە"
+  },
+  "ID": {
+    "noun": "كىملىك"
+  },
+  "image": {
+    "noun": "سۈرەت"
+  },
+  "Importer": {
+    "noun": "ئەكىرگۈچ"
+  },
+  "Indicator": {
+    "noun": "كۆرسەتكۈچ"
+  },
+  "Inline": {
+    "noun": "قۇر ئىچى"
+  },
+  "inline code": {
+    "noun": "بىر قۇر كود"
+  },
+  "Install": {
+    "verb": "ئورنات"
+  },
+  "Installation": {
+    "noun": "ئورنىتىش"
+  },
+  "interactive": {
+    "noun": "تەسىرلىشىشچان"
+  },
+  "Interface": {
+    "noun": "ئارايۈز"
+  },
+  "item": {
+    "noun": "تۈر"
+  },
+  "Kebab-case": {
+    "noun": "كاۋاپ-سۆز"
+  },
+  "keyboard": {
+    "noun": "ھەرپتاختا"
+  },
+  "keyphrase": {
+    "noun": "ئاچقۇچ ئىبارە"
+  },
+  "Keyphrases": {
+    "noun": "ئاچقۇچلۇق ئىبارە"
+  },
+  "keyword": {
+    "noun": "ھالقىلىق سۆز، ئاچقۇچلۇق سۆز"
+  },
+  "label": {
+    "noun": "بەلگە"
+  },
+  "Layer": {
+    "noun": "قاتلام"
+  },
+  "layout": {
+    "noun": "جايلاشتۇرۇش"
+  },
+  "lazy-loaded": {
+    "noun": "كېچىكتۈرۈپ يۈكلەنگەن"
+  },
+  "Lead": {
+    "noun": "باشلامچى"
+  },
+  "Library": {
+    "noun": "ئامبار"
+  },
+  "link": {
+    "noun": "ئۇلانما"
+  },
+  "list": {
+    "noun": "تىزىم"
+  },
+  "Log": {
+    "noun": "خاتىرە"
+  },
+  "log out": {
+    "noun": "تىزىمدىن چىقىڭ"
+  },
+  "Login": {
+    "noun": "تىزىمغا كىرىڭ"
+  },
+  "logo": {
+    "noun": "تۇغ"
+  },
+  "Loopback": {
+    "noun": "ئايلانما ئىنكاس"
+  },
+  "margin": {
+    "noun": "گىرۋەك"
+  },
+  "Media": {
+    "noun": "ۋاسىتە"
+  },
+  "menu": {
+    "noun": "تىزىملىك"
+  },
+  "namespace": {
+    "noun": "ئات بوشلۇقى"
+  },
+  "Navigation Menu": {
+    "noun": "يولباشچى تىزىملىك"
+  },
+  "next": {
+    "noun": "كېيىنكى"
+  },
+  "off": {
+    "noun": "تاقاق"
+  },
+  "Offcanvas": {
+    "noun": "يوشۇرۇن پەردە"
+  },
+  "OK": {
+    "noun": "ھەئە"
+  },
+  "on": {
+    "adjective": "ئوچۇق"
+  },
+  "open": {
+    "noun": "ئوچۇق",
+    "verb": "ئاچ"
+  },
+  "optional": {
+    "noun": "تاللاشچان"
+  },
+  "Package": {
+    "noun": "بولاق، بوغچا"
+  },
+  "Padding": {
+    "noun": "ئەتراپ بوشلۇقى"
+  },
+  "pagination": {
+    "noun": "بەتكە ئايرىش"
+  },
+  "palette": {
+    "noun": "رەڭ تاختا"
+  },
+  "Paragraph": {
+    "noun": "ئابزاس"
+  },
+  "part": {
+    "noun": "پارچە"
+  },
+  "password": {
+    "noun": "ئىم، پارول"
+  },
+  "paste": {
+    "verb": "چاپلا"
+  },
+  "Pattern": {
+    "noun": "ئەندىزە"
+  },
+  "Paywall": {
+    "noun": "چىقىم تام"
+  },
+  "Permalink": {
+    "noun": "ئۆزگەرمەس ئۇلانما"
+  },
+  "permission": {
+    "noun": "ئىجازەت"
+  },
+  "photo": {
+    "noun": "سۈرەت"
+  },
+  "picture": {
+    "noun": "رەسىم"
+  },
+  "pingback": {
+    "noun": "ئىنكاسى ping"
+  },
+  "Placeholder": {
+    "noun": "ئورۇن بەلگىسى"
+  },
+  "plugin": {
+    "noun": "قىستۇرما"
+  },
+  "podcast": {
+    "noun": "تارقاتقۇ"
+  },
+  "pointer": {
+    "noun": "نىشانلىغۇچ"
+  },
+  "popover": {
+    "noun": "قاڭقىش ئۇچۇرى"
+  },
+  "post": {
+    "noun": "يازما"
+  },
+  "preference": {
+    "noun": "مايىللىق"
+  },
+  "Preview": {
+    "verb": "ئالدىن كۆزەت"
+  },
+  "Previous": {
+    "noun": "ئالدىنقى"
+  },
+  "Privacy": {
+    "noun": "شەخسىيەت"
+  },
+  "Privacy Policy": {
+    "noun": "شەخسىيەت تۈزۈمى"
+  },
+  "profile": {
+    "noun": "تەرجىمىھال"
+  },
+  "Project": {
+    "noun": "قۇرۇلۇش"
+  },
+  "purple": {
+    "noun": "بېنەپشە، سۆسۈن"
+  },
+  "rating": {
+    "noun": "باھالاش"
+  },
+  "redirect": {
+    "noun": "قايتا نىشانلاش"
+  },
+  "Reference": {
+    "noun": "پايدىلانما"
+  },
+  "Remove": {
+    "verb": "چىقىرىۋەت"
+  },
+  "Repository": {
+    "noun": "خەزىنە"
+  },
+  "reset": {
+    "verb": "ئەسلىگە قايتۇر"
+  },
+  "response array": {
+    "noun": "ئىنكاس سانلار قاتارى"
+  },
+  "restore": {
+    "verb": "ئەسلىگە قايتۇر"
+  },
+  "reusable": {
+    "noun": "كۆپ ئىشلىتىشلىك"
+  },
+  "revision": {
+    "noun": "تۈزىتىلگەن نۇسخا، تۈزىتىلمە"
+  },
+  "Rotate": {
+    "verb": "ئايلاندۇر"
+  },
+  "sable": {
+    "noun": "قارا بۇلغۇن"
+  },
+  "scan": {
+    "verb": "تارا، سايىلە"
+  },
+  "scanner": {
+    "noun": "تاراۋۇل، تاراغۇچ"
+  },
+  "schedule": {
+    "noun": "كۈنتەرتىپ",
+    "verb": "پىلانلىماق"
+  },
+  "screenshot": {
+    "noun": "ئېكران كەسمىسى"
+  },
+  "Search": {
+    "verb": "ئىزدە"
+  },
+  "SEO": {
+    "noun": "ئىزدەش موتورىغا ئەلالاشتۇرۇش"
+  },
+  "Session": {
+    "noun": "ئەڭگىمە"
+  },
+  "setting": {
+    "noun": "تەڭشەك"
+  },
+  "Settings": {
+    "noun": "تەڭشەكلەر"
+  },
+  "Share": {
+    "verb": "ھەمبەھىرلە"
+  },
+  "shortcut": {
+    "noun": "قىسقا يول، تېزلەتمە"
+  },
+  "Shortlink": {
+    "noun": "قىسقا ئۇلانما"
+  },
+  "show": {
+    "verb": "كۆرسەت"
+  },
+  "sidebar": {
+    "noun": "يانبالداق"
+  },
+  "sidebars": {
+    "noun": "يانبالداقلار"
+  },
+  "site": {
+    "noun": "بېكەت، تور بېكەت"
+  },
+  "Slide": {
+    "verb": "سىيرىل",
+    "noun": "سىيرىلما، تام تەسۋىر"
+  },
+  "Slug": {
+    "noun": "قىسقارتما"
+  },
+  "Social Media": {
+    "noun": "ئىجتىمائىي تاراتقۇ"
+  },
+  "somebody": {
+    "noun": "بىرەيلەن، بىركىم"
+  },
+  "spam": {
+    "noun": "ئەخلەت"
+  },
+  "speculation rule": {
+    "noun": "قىياس قائىدىسى"
+  },
+  "Speculative loading": {
+    "noun": "مۆلچەرلەپ يۈكلەش"
+  },
+  "string": {
+    "noun": "ھەرپ تىزىقى"
+  },
+  "style": {
+    "noun": "ئۇسلۇب"
+  },
+  "Subscribe": {
+    "noun": "خەتلىنىش",
+    "verb": "خەتلەت"
+  },
+  "Subtitle": {
+    "noun": "قوشۇمچە ماۋزۇ"
+  },
+  "summary": {
+    "noun": "ئۈزۈندە"
+  },
+  "Sync": {
+    "verb": "قەدەمداشلا",
+    "noun": "قەدامداش"
+  },
+  "tab": {
+    "noun": "بەتكۈچ"
+  },
+  "Tag": {
+    "noun": "بەلگە"
+  },
+  "Tagline": {
+    "noun": "شوئار"
+  },
+  "taxonomy": {
+    "noun": "تۈرلىنىشى، تۈرلەرگە ئايرىش"
+  },
+  "template": {
+    "noun": "قېلىپ"
+  },
+  "term": {
+    "noun": "ئاتالغۇ"
+  },
+  "theme": {
+    "noun": "ئۆرنەك"
+  },
+  "thumbnail": {
+    "noun": "كىچىك كۆرۈنۈش"
+  },
+  "timezone": {
+    "noun": "ۋاقىت رايونى"
+  },
+  "title": {
+    "noun": "ماۋزۇ"
+  },
+  "To Do": {
+    "noun": "بېجىرىدىغان"
+  },
+  "token": {
+    "noun": "پەرمان تاختا"
+  },
+  "toolbar": {
+    "noun": "قورال بالداق"
+  },
+  "Topic": {
+    "noun": "تېما"
+  },
+  "Trash": {
+    "noun": "ئەخلەتخانا"
+  },
+  "Troubleshooting": {
+    "noun": "كاشىلا ئوڭشاش"
+  },
+  "tutorial": {
+    "noun": "دەرسلىك"
+  },
+  "two-factor": {
+    "noun": "ئىككى ئامىللىق دەلىللەش"
+  },
+  "Two-Factor Authentication": {
+    "noun": "ئىككى ئامىللىق دەلىللەش"
+  },
+  "Typography": {
+    "noun": "بەتچىلىك"
+  },
+  "update": {
+    "verb": "يېڭىلا"
+  },
+  "upgrade": {
+    "verb": "يۈكسەلت"
+  },
+  "Upload": {
+    "verb": "يۈكلە"
+  },
+  "URL": {
+    "noun": "تور ئادرېسى"
+  },
+  "User": {
+    "noun": "ئىشلەتكۈچى"
+  },
+  "Username": {
+    "noun": "ئىشلەتكۈچى ئاتى"
+  },
+  "variation": {
+    "noun": "ئۆزگەرگۈچى، خىلى"
+  },
+  "version": {
+    "noun": "نەشرى"
+  },
+  "Vertical": {
+    "noun": "بويىغا، تىك"
+  },
+  "Video": {
+    "noun": "سىن"
+  },
+  "View": {
+    "noun": "كۆرۈنۈش",
+    "verb": "كۆرسەت"
+  },
+  "vivid": {
+    "noun": "پارقىراق"
+  },
+  "website": {
+    "noun": "تور بېكەت"
+  },
+  "widget": {
+    "noun": "ئەپچە"
+  },
+  "WordPress": {
+    "noun": "WordPress"
+  },
+  "wrapper": {
+    "noun": "ئورىغۇچ"
+  }
+}

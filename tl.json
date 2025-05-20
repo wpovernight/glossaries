@@ -1,0 +1,454 @@
+{
+  "action hook": {
+    "noun": "action hook"
+  },
+  "activate": {
+    "verb": "paganahin"
+  },
+  "activated": {
+    "adjective": "gumagana"
+  },
+  "admin bar": {
+    "noun": "admin bar"
+  },
+  "admin panel": {
+    "noun": "admin panel"
+  },
+  "administrator": {
+    "noun": "tagapangasiwa"
+  },
+  "After the Deadline": {
+    "noun": "After the Deadline"
+  },
+  "all": {
+    "adjective": "lahat"
+  },
+  "Appearance": {
+    "noun": "Hitsura"
+  },
+  "archive": {
+    "noun": "arkibo",
+    "verb": "arkibo"
+  },
+  "argument": {
+    "noun": "argumento"
+  },
+  "array": {
+    "noun": "array"
+  },
+  "attachment": {
+    "noun": "pagkakabit"
+  },
+  "audio": {
+    "noun": "awdio"
+  },
+  "author": {
+    "noun": "may-akda"
+  },
+  "binary": {
+    "noun": "binary"
+  },
+  "bookmarklet": {
+    "noun": "bookmarklet"
+  },
+  "browser": {
+    "noun": "browser"
+  },
+  "BuddyPress": {
+    "noun": "BuddyPress"
+  },
+  "category": {
+    "noun": "kategorya"
+  },
+  "character code": {
+    "noun": "character code"
+  },
+  "character entity reference": {
+    "noun": "character entity reference"
+  },
+  "character set": {
+    "noun": "character set"
+  },
+  "chracteter code": {
+    "noun": "hudyat ng karakter"
+  },
+  "color scheme": {
+    "noun": "iskema ng kulay"
+  },
+  "comment": {
+    "noun": "puna",
+    "verb": "punain"
+  },
+  "computer": {
+    "noun": "kompyuter"
+  },
+  "conditional tag": {
+    "noun": "kondisyunal na kataga"
+  },
+  "constant": {
+    "noun": "tapat"
+  },
+  "contact form": {
+    "noun": "form upang makipag-alam"
+  },
+  "Cookie": {
+    "noun": "Cookie"
+  },
+  "Custom Post Type": {
+    "noun": "Pasadyang Uri ng Post"
+  },
+  "customize": {
+    "verb": "baguhin"
+  },
+  "Dashboard": {
+    "noun": "Dashbord"
+  },
+  "deactivate": {
+    "verb": "buwagin"
+  },
+  "default": {
+    "noun": "default"
+  },
+  "default theme": {
+    "noun": "default na tema"
+  },
+  "deprecated": {
+    "adjective": "hindi ginagamit"
+  },
+  "developer": {
+    "noun": "gumawa"
+  },
+  "directories": {
+    "noun": "mga sanggunian"
+  },
+  "directory": {
+    "noun": "sanggunian"
+  },
+  "Distraction Free Writing": {
+    "noun": "Walang Abalang Pagsusulat"
+  },
+  "domain mapping": {
+    "noun": "pagmamapa ng domain"
+  },
+  "domain registrar": {
+    "noun": "tagatala ng domain"
+  },
+  "draft": {
+    "noun": "plano"
+  },
+  "eCommerce": {
+    "noun": "eCommerce"
+  },
+  "editor": {
+    "noun": "patnugot"
+  },
+  "email": {
+    "noun": "email"
+  },
+  "error": {
+    "noun": "pagkakamali"
+  },
+  "excerpt": {
+    "noun": "sipi"
+  },
+  "Facebook": {
+    "noun": "Facebook"
+  },
+  "featured image": {
+    "noun": "itinatampok na larawan"
+  },
+  "featured post": {
+    "noun": "itinatampok na post"
+  },
+  "feed": {
+    "noun": "feed"
+  },
+  "filter": {
+    "noun": "panala",
+    "verb": "salain"
+  },
+  "filter hook": {
+    "noun": "panalang hook"
+  },
+  "folder": {
+    "noun": "polder"
+  },
+  "front end": {
+    "adjective": "pangharap",
+    "noun": "harap"
+  },
+  "gallery": {
+    "noun": "galerya"
+  },
+  "Happiness Engineers": {
+    "noun": "Inhinyero ng Kaligayahan"
+  },
+  "hosting provider": {
+    "noun": "tagapagtustos ng host"
+  },
+  "hosts": {
+    "noun": "mga host"
+  },
+  "invalid": {
+    "adjective": "walang bisa"
+  },
+  "IP address": {
+    "noun": "IP address"
+  },
+  "log in": {
+    "noun": "pumasok"
+  },
+  "log out": {
+    "noun": "lumbas"
+  },
+  "logged in": {
+    "adjective": "nakapasok na"
+  },
+  "logged out": {
+    "adjective": "nakalabas na"
+  },
+  "login": {
+    "verb": "pumasok"
+  },
+  "logout": {
+    "verb": "lumabas"
+  },
+  "Media Uploader": {
+    "noun": "Media Uploader"
+  },
+  "meta": {
+    "noun": "meta"
+  },
+  "multisite": {
+    "noun": "multisite"
+  },
+  "My Upgrades": {
+    "noun": "Mga Pagpapaunlad Ko"
+  },
+  "name server": {
+    "noun": "name server"
+  },
+  "nameserver": {
+    "noun": "nameserver"
+  },
+  "navigation": {
+    "noun": "nabigasyon"
+  },
+  "next post": {
+    "noun": "susunod na post"
+  },
+  "nonce": {
+    "noun": "nonce"
+  },
+  "not sticky": {
+    "adjective": "hindi nakadikit"
+  },
+  "older post": {
+    "noun": "lumang post"
+  },
+  "option": {
+    "noun": "pagpipilian"
+  },
+  "page": {
+    "noun": "pahina"
+  },
+  "parameter": {
+    "noun": "parametro"
+  },
+  "permalink": {
+    "noun": "permalink"
+  },
+  "permission": {
+    "noun": "pahintulot"
+  },
+  "ping": {
+    "noun": "ping"
+  },
+  "pingback": {
+    "noun": "i-ping pabalik"
+  },
+  "plugin": {
+    "noun": "plugin"
+  },
+  "poll": {
+    "noun": "pagtatala ng mga boto"
+  },
+  "Polldaddy": {
+    "noun": "Polldaddy"
+  },
+  "post": {
+    "noun": "post",
+    "verb": "ipaskil"
+  },
+  "post format": {
+    "noun": "ayos ng post"
+  },
+  "post status": {
+    "noun": "estado ng post"
+  },
+  "post thumbnail": {
+    "noun": "maliit na larawan ng post"
+  },
+  "post type": {
+    "noun": "uri ng post"
+  },
+  "Press This": {
+    "noun": "Press This"
+  },
+  "previous post": {
+    "noun": "nakaraang post"
+  },
+  "query": {
+    "noun": "tanong"
+  },
+  "Quick Post": {
+    "noun": "Mabilisang Post"
+  },
+  "reader": {
+    "noun": "mambabasa"
+  },
+  "referrer": {
+    "noun": "tagatukoy"
+  },
+  "registrar": {
+    "noun": "tagapagtala"
+  },
+  "required": {
+    "noun": "kailangan"
+  },
+  "responsive": {
+    "adjective": "sumsang-ayon"
+  },
+  "return value": {
+    "noun": "binabalik na halaga"
+  },
+  "role": {
+    "noun": "tungkulin"
+  },
+  "RSS": {
+    "noun": "RSS"
+  },
+  "self-hosted": {
+    "adjective": "sariling host"
+  },
+  "server": {
+    "noun": "server"
+  },
+  "sidebar": {
+    "noun": "sidebar"
+  },
+  "single post": {
+    "noun": "nag-iisang post"
+  },
+  "site": {
+    "noun": "site"
+  },
+  "slug": {
+    "noun": "slug"
+  },
+  "spam": {
+    "noun": "spam"
+  },
+  "status": {
+    "noun": "estado"
+  },
+  "stick": {
+    "verb": "idikit"
+  },
+  "sticky": {
+    "adjective": "nakadikit"
+  },
+  "string": {
+    "noun": "string"
+  },
+  "subpanel": {
+    "noun": "subpanel"
+  },
+  "Subversion": {
+    "noun": "Subversion"
+  },
+  "survey": {
+    "noun": "pagsisiyasat"
+  },
+  "tag": {
+    "noun": "kataga"
+  },
+  "tagline": {
+    "noun": "tagline"
+  },
+  "taxonomy": {
+    "noun": "taxonomy"
+  },
+  "template hierarchy": {
+    "noun": "ayos ng template"
+  },
+  "term": {
+    "noun": "termino"
+  },
+  "text editor": {
+    "noun": "editor ng teksto"
+  },
+  "theme": {
+    "noun": "tema"
+  },
+  "Toolbar": {
+    "noun": "Gamit"
+  },
+  "trackback": {
+    "noun": "balik-subaybay"
+  },
+  "Transient": {
+    "noun": "Nawawala"
+  },
+  "troubleshooting": {
+    "noun": "pagsasaayos"
+  },
+  "Twitter": {
+    "noun": "Twitter"
+  },
+  "two factor authentication": {
+    "noun": "dalawang salik sa pagpapatunay"
+  },
+  "upgrade": {
+    "noun": "pagpapaunlad"
+  },
+  "uploader": {
+    "noun": "pang-upload"
+  },
+  "URI": {
+    "noun": "URI"
+  },
+  "user": {
+    "noun": "gumagamit"
+  },
+  "valid": {
+    "adjective": "mabisa"
+  },
+  "video": {
+    "noun": "bidyo"
+  },
+  "view": {
+    "verb": "tignan"
+  },
+  "web server": {
+    "noun": "web server"
+  },
+  "website": {
+    "noun": "website"
+  },
+  "WordCamp": {
+    "noun": "WordCamp"
+  },
+  "WordPress": {
+    "noun": "WordPress"
+  },
+  "WordPress Dashboard": {
+    "noun": "WordPress Dashboard"
+  },
+  "WordPress.com": {
+    "noun": "WordPress.com"
+  },
+  "XML-RPC": {
+    "noun": "XML-RPC"
+  }
+}

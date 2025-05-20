@@ -1,0 +1,540 @@
+{
+  "admin bar": {
+    "noun": "Toolbar"
+  },
+  "adminbar": {
+    "noun": "Toolbar"
+  },
+  "AJAX": {
+    "noun": "Ajax"
+  },
+  "analyze": {
+    "verb": "analyse"
+  },
+  "analyzed": {
+    "verb": "analysed"
+  },
+  "analyzes": {
+    "verb": "analyses"
+  },
+  "analyzing": {
+    "verb": "analysing"
+  },
+  "anonymize": {
+    "verb": "anonymise"
+  },
+  "atom": {
+    "noun": "Atom"
+  },
+  "authorization": {
+    "verb": "authorisation"
+  },
+  "authorize": {
+    "verb": "authorise"
+  },
+  "authorized": {
+    "verb": "authorised"
+  },
+  "back-end": {
+    "noun": "back end"
+  },
+  "backend": {
+    "noun": "back end"
+  },
+  "backwards compat": {
+    "noun": "back-compat"
+  },
+  "backwards compatibility": {
+    "noun": "backward compatibility"
+  },
+  "bbpress": {
+    "noun": "bbPress"
+  },
+  "behavior": {
+    "noun": "behaviour"
+  },
+  "block editor": {
+    "noun": "Block Editor"
+  },
+  "buddypress": {
+    "noun": "BuddyPress"
+  },
+  "canceling": {
+    "verb": "cancelling"
+  },
+  "capitalize": {
+    "verb": "capitalise"
+  },
+  "capitalized": {
+    "verb": "capitalised"
+  },
+  "capitalizes": {
+    "verb": "capitalises"
+  },
+  "cart": {
+    "noun": "basket"
+  },
+  "catalog": {
+    "verb": "catalogue"
+  },
+  "categorize": {
+    "verb": "categorise"
+  },
+  "categorized": {
+    "verb": "categorised"
+  },
+  "center": {
+    "noun": "centre",
+    "verb": "centre"
+  },
+  "changelog": {
+    "noun": "change log"
+  },
+  "classic editor": {
+    "noun": "Classic Editor"
+  },
+  "Code Editor": {
+    "noun": "code editor"
+  },
+  "color": {
+    "noun": "colour",
+    "verb": "colour"
+  },
+  "colorful": {
+    "adjective": "colourful"
+  },
+  "colors": {
+    "noun": "colours"
+  },
+  "css": {
+    "noun": "CSS"
+  },
+  "customizable": {
+    "verb": "customisable"
+  },
+  "customization": {
+    "verb": "customisation"
+  },
+  "customizations": {
+    "verb": "customisations"
+  },
+  "customize": {
+    "verb": "customise"
+  },
+  "customized": {
+    "verb": "customised"
+  },
+  "Customizer": {
+    "noun": "Customiser"
+  },
+  "customizing": {
+    "verb": "customising"
+  },
+  "dialog": {
+    "verb": "dialogue"
+  },
+  "dialogs": {
+    "verb": "dialogues"
+  },
+  "e-mail": {
+    "noun": "email"
+  },
+  "ebook": {
+    "noun": "eBook"
+  },
+  "embed": {
+    "noun": "oEmbed"
+  },
+  "end of cycle": {
+    "noun": "end-of-cycle"
+  },
+  "end of life": {
+    "noun": "end-of-life"
+  },
+  "end of sale": {
+    "noun": "end-of-sale"
+  },
+  "end of state": {
+    "noun": "end-of-state"
+  },
+  "endeavor": {
+    "verb": "endeavour"
+  },
+  "excerpt": {
+    "noun": "Excerpt"
+  },
+  "favorite": {
+    "verb": "favourite"
+  },
+  "favorited": {
+    "verb": "favourited"
+  },
+  "favorites": {
+    "verb": "favourites"
+  },
+  "feed": {
+    "noun": "Feed"
+  },
+  "fiber": {
+    "noun": "fibre"
+  },
+  "friction-less": {
+    "noun": "frictionless"
+  },
+  "front-end": {
+    "noun": "front end",
+    "adjective": "front-end"
+  },
+  "frontend": {
+    "noun": "front end"
+  },
+  "google maps": {
+    "noun": "Google Maps"
+  },
+  "gray": {
+    "adjective": "grey"
+  },
+  "gutenberg": {
+    "noun": "Gutenberg"
+  },
+  "gutenberg editor": {
+    "noun": "Gutenberg Editor"
+  },
+  "Hi": {
+    "noun": "Howzit"
+  },
+  "home page": {
+    "noun": "homepage"
+  },
+  "hood": {
+    "noun": "bonnet"
+  },
+  "howdy": {
+    "noun": "Howzit"
+  },
+  "Howdy!": {
+    "noun": "Howzit!"
+  },
+  "html": {
+    "noun": "HTML"
+  },
+  "html editor": {
+    "noun": "HTML editor"
+  },
+  "huh?": {
+    "expression": "né?"
+  },
+  "initialize": {
+    "verb": "initialise"
+  },
+  "initialized": {
+    "verb": "initialised"
+  },
+  "initializing": {
+    "verb": "initialising"
+  },
+  "internationalization": {
+    "verb": "internationalisation"
+  },
+  "internationalize": {
+    "verb": "internationalise"
+  },
+  "internationalized": {
+    "verb": "internationalised"
+  },
+  "javascript": {
+    "noun": "JavaScript"
+  },
+  "jquery": {
+    "noun": "jQuery"
+  },
+  "license": {
+    "noun": "licence",
+    "verb": "license"
+  },
+  "localization": {
+    "verb": "localisation"
+  },
+  "localize": {
+    "verb": "localise"
+  },
+  "localized": {
+    "verb": "localised"
+  },
+  "log-in": {
+    "noun": "log in"
+  },
+  "log-out": {
+    "noun": "log out"
+  },
+  "login": {
+    "noun": "log in"
+  },
+  "logout": {
+    "noun": "log out"
+  },
+  "maximize": {
+    "verb": "maximise"
+  },
+  "maximized": {
+    "verb": "maximised"
+  },
+  "meta-box": {
+    "noun": "meta box"
+  },
+  "metabox": {
+    "noun": "meta box"
+  },
+  "minimize": {
+    "verb": "minimise"
+  },
+  "minimized": {
+    "verb": "minimised"
+  },
+  "modernize": {
+    "verb": "modernise"
+  },
+  "modernized": {
+    "verb": "modernised"
+  },
+  "neighbor": {
+    "verb": "neighbour"
+  },
+  "normalize": {
+    "verb": "normalise"
+  },
+  "normalized": {
+    "verb": "normalised"
+  },
+  "optimization": {
+    "verb": "optimisation"
+  },
+  "optimizations": {
+    "verb": "optimisations"
+  },
+  "optimize": {
+    "verb": "optimise"
+  },
+  "optimized": {
+    "verb": "optimised"
+  },
+  "optimizing": {
+    "verb": "optimising"
+  },
+  "organization": {
+    "verb": "organisation"
+  },
+  "organizations": {
+    "verb": "organisations"
+  },
+  "organize": {
+    "verb": "organise"
+  },
+  "organized": {
+    "verb": "organised"
+  },
+  "organizer": {
+    "verb": "organiser"
+  },
+  "organizers": {
+    "verb": "organisers"
+  },
+  "organizing": {
+    "verb": "organising"
+  },
+  "Paypal": {
+    "noun": "PayPal"
+  },
+  "personalization": {
+    "noun": "personalisation"
+  },
+  "personalize": {
+    "verb": "personalise"
+  },
+  "personalized": {
+    "verb": "personalised"
+  },
+  "php": {
+    "noun": "PHP"
+  },
+  "prioritization": {
+    "verb": "prioritisation"
+  },
+  "Publicize": {
+    "noun": "Publicise"
+  },
+  "publicize": {
+    "verb": "publicise"
+  },
+  "randomize": {
+    "verb": "randomise"
+  },
+  "randomizing": {
+    "verb": "randomising"
+  },
+  "rdf": {
+    "noun": "RDF"
+  },
+  "rdf feed": {
+    "noun": "RDF Feed"
+  },
+  "realize": {
+    "verb": "realise"
+  },
+  "realized": {
+    "verb": "realised"
+  },
+  "recognize": {
+    "verb": "recognise"
+  },
+  "recognized": {
+    "verb": "recognised"
+  },
+  "reorganization": {
+    "verb": "reorganisation"
+  },
+  "reorganize": {
+    "verb": "reorganise"
+  },
+  "reorganized": {
+    "verb": "reorganised"
+  },
+  "retreive": {
+    "noun": "retrieve"
+  },
+  "retrive": {
+    "noun": "retrieve"
+  },
+  "rss": {
+    "noun": "RSS"
+  },
+  "rss feed": {
+    "noun": "RSS Feed"
+  },
+  "sanitization": {
+    "verb": "sanitisation",
+    "noun": "sanitisation"
+  },
+  "sanitize": {
+    "verb": "sanitise"
+  },
+  "sanitized": {
+    "verb": "sanitised"
+  },
+  "sanitizing": {
+    "verb": "sanitising"
+  },
+  "seo": {
+    "noun": "SEO"
+  },
+  "serialize": {
+    "verb": "serialise"
+  },
+  "serialized": {
+    "verb": "serialised"
+  },
+  "serve happy": {
+    "noun": "ServeHappy"
+  },
+  "servehappy": {
+    "noun": "ServeHappy"
+  },
+  "short-circuit": {
+    "noun": "short circuit"
+  },
+  "shot-circuit": {
+    "verb": "short-circuit"
+  },
+  "sign-up": {
+    "noun": "sign up"
+  },
+  "standardize": {
+    "verb": "standardise"
+  },
+  "standardized": {
+    "noun": "standardised"
+  },
+  "stylesheet": {
+    "noun": "style sheet"
+  },
+  "stylesheets": {
+    "noun": "style sheets"
+  },
+  "symbolize": {
+    "verb": "symbolise"
+  },
+  "symbolizes": {
+    "verb": "symbolises"
+  },
+  "synchronization": {
+    "verb": "synchronisation"
+  },
+  "synchronize": {
+    "verb": "synchronise"
+  },
+  "synchronized": {
+    "verb": "synchronised"
+  },
+  "termmeta": {
+    "noun": "term meta"
+  },
+  "Text Editor": {
+    "noun": "text editor"
+  },
+  "timezone": {
+    "noun": "time zone"
+  },
+  "toolbar": {
+    "noun": "Toolbar"
+  },
+  "trash": {
+    "noun": "bin",
+    "verb": "bin"
+  },
+  "trashed": {
+    "verb": "binned"
+  },
+  "traveling": {
+    "verb": "travelling"
+  },
+  "unauthorized": {
+    "verb": "unauthorised"
+  },
+  "uncategorized": {
+    "verb": "uncategorised"
+  },
+  "url": {
+    "noun": "URL"
+  },
+  "urls": {
+    "noun": "URL's"
+  },
+  "utilize": {
+    "verb": "utilise"
+  },
+  "utilized": {
+    "noun": "utilised",
+    "verb": "utilised"
+  },
+  "utilizes": {
+    "verb": "utilises"
+  },
+  "utilizing": {
+    "verb": "utilising"
+  },
+  "Visual Editor": {
+    "noun": "visual editor"
+  },
+  "widgetized": {
+    "verb": "widgetised"
+  },
+  "Woocommerce": {
+    "noun": "WooCommerce"
+  },
+  "wordpress": {
+    "noun": "WordPress"
+  },
+  "zoom": {
+    "noun": "Zoom"
+  }
+}

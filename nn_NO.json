@@ -1,0 +1,29 @@
+{
+  "aside": {
+    "noun": "notis"
+  },
+  "comment": {
+    "noun": "kommentar"
+  },
+  "pingback": {
+    "noun": "tilbakeping"
+  },
+  "plugin": {
+    "noun": "tillegg, programtillegg"
+  },
+  "post": {
+    "noun": "innlegg"
+  },
+  "term": {
+    "noun": "nemning"
+  },
+  "theme": {
+    "noun": "bunad"
+  },
+  "trackback": {
+    "noun": "tilbaketråkk"
+  },
+  "widget": {
+    "noun": "småprogram"
+  }
+}

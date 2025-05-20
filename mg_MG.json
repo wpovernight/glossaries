@@ -1,0 +1,670 @@
+{
+  "2X-small": {
+    "adjective": "2X-kely"
+  },
+  "accessibility": {
+    "noun": "fampiatiana"
+  },
+  "add": {
+    "verb": "ampio"
+  },
+  "add-on": {
+    "noun": "tovana"
+  },
+  "add-ons": {
+    "noun": "tovana"
+  },
+  "admin": {
+    "noun": "mpitantana"
+  },
+  "advanced": {
+    "adjective": "tafaroso"
+  },
+  "allowed": {
+    "verb": "manan-jo"
+  },
+  "alphabetically": {
+    "adjective": "manaraka ny abidia"
+  },
+  "An error occurred": {
+    "expression": "Nisy olana niseho"
+  },
+  "app": {
+    "noun": "rindrankajy"
+  },
+  "aside": {
+    "noun": "fanamarihana"
+  },
+  "audio": {
+    "noun": "feo"
+  },
+  "author": {
+    "noun": "mpanoratra"
+  },
+  "background": {
+    "noun": "lafika"
+  },
+  "background color": {
+    "noun": "loko lafika"
+  },
+  "backgroung image": {
+    "noun": "sary lafika"
+  },
+  "bio": {
+    "noun": "biografia"
+  },
+  "block": {
+    "noun": "koja"
+  },
+  "block editor": {
+    "noun": "fikirakirana koja"
+  },
+  "blog": {
+    "noun": "blaogy"
+  },
+  "box": {
+    "noun": "kesika"
+  },
+  "branch": {
+    "noun": "rantsana"
+  },
+  "browse": {
+    "verb": "misava"
+  },
+  "build": {
+    "verb": "manorina"
+  },
+  "button": {
+    "noun": "bokotra"
+  },
+  "category": {
+    "noun": "sokajy"
+  },
+  "charcoal": {
+    "noun": "mainty arina"
+  },
+  "child theme": {
+    "noun": "zanaka bika"
+  },
+  "clipboard": {
+    "noun": "hela-tsilaka"
+  },
+  "collapse": {
+    "verb": "avalona"
+  },
+  "column": {
+    "noun": "tsanganana"
+  },
+  "comment": {
+    "noun": "fanehoankevitra"
+  },
+  "community": {
+    "noun": "maimaimpoana"
+  },
+  "Community": {
+    "noun": "Fiarahamonina"
+  },
+  "configuration": {
+    "noun": "fify"
+  },
+  "confirmation screen": {
+    "noun": "dingana fakana toky"
+  },
+  "contact form": {
+    "noun": "fafana fandefasan-kafatra"
+  },
+  "container": {
+    "noun": "fiaty"
+  },
+  "content": {
+    "noun": "ventiny"
+  },
+  "contributor": {
+    "noun": "mpandray anjara"
+  },
+  "Course": {
+    "noun": "Fianarana"
+  },
+  "cropped": {
+    "adjective": "voahety"
+  },
+  "cursor": {
+    "noun": "tondron-dahatsoratra"
+  },
+  "customization": {
+    "noun": "Personalisation"
+  },
+  "Customize": {
+    "noun": "Amboary"
+  },
+  "default": {
+    "adjective": "nolovaina"
+  },
+  "delete": {
+    "verb": "fafao"
+  },
+  "demo": {
+    "noun": "fampiderana"
+  },
+  "description": {
+    "noun": "famaritana"
+  },
+  "details": {
+    "noun": "antsipirihany"
+  },
+  "developer": {
+    "noun": "mpanamboatra"
+  },
+  "development": {
+    "noun": "fanamboarana"
+  },
+  "directory": {
+    "noun": "lahatahiry"
+  },
+  "disable": {
+    "verb": "tsy alefa"
+  },
+  "display": {
+    "verb": "asehoy"
+  },
+  "dist": {
+    "noun": "/dist"
+  },
+  "document": {
+    "noun": "tahirin-kevitra"
+  },
+  "documentation": {
+    "noun": "tahirin-kevitra"
+  },
+  "domain": {
+    "noun": "anaran-tranonkala"
+  },
+  "download": {
+    "verb": "hisintona"
+  },
+  "drag and drop": {
+    "verb": "bataina"
+  },
+  "e-commerce": {
+    "noun": "e-varotra"
+  },
+  "editor": {
+    "noun": "mpandrindra"
+  },
+  "element": {
+    "noun": "singa"
+  },
+  "empty": {
+    "noun": "banga"
+  },
+  "enable": {
+    "verb": "alefa"
+  },
+  "extension": {
+    "noun": "tovana"
+  },
+  "feature": {
+    "noun": "zava-bitany"
+  },
+  "featured": {
+    "adjective": "misongadina"
+  },
+  "Feed": {
+    "noun": "Fanehoana"
+  },
+  "file": {
+    "noun": "rakitra"
+  },
+  "files": {
+    "noun": "fisie"
+  },
+  "filter": {
+    "noun": "sivana",
+    "verb": "misivana"
+  },
+  "flexible": {
+    "adjective": "fingotra"
+  },
+  "footer": {
+    "noun": "tongopejy"
+  },
+  "fork": {
+    "noun": "rantsana"
+  },
+  "form": {
+    "noun": "fameno"
+  },
+  "format": {
+    "noun": "karazana"
+  },
+  "forms": {
+    "noun": "fameno"
+  },
+  "forums": {
+    "noun": "tafasiry"
+  },
+  "free": {
+    "adjective": "malalaka"
+  },
+  "FSE": {
+    "noun": "FSE"
+  },
+  "gallery": {
+    "noun": "andian-tsary"
+  },
+  "General Translation Editor": {
+    "noun": "Mpandrindra dikateny ankapobeny (GTE)"
+  },
+  "handbook": {
+    "noun": "torolalana"
+  },
+  "header": {
+    "noun": "lohampejy"
+  },
+  "hint": {
+    "noun": "sopapa"
+  },
+  "homepage": {
+    "noun": "pejifandraisana"
+  },
+  "hosting": {
+    "noun": "fampiantranoana"
+  },
+  "hosting provider": {
+    "noun": "mpampiantrano"
+  },
+  "icon": {
+    "noun": "singantsary"
+  },
+  "Image": {
+    "noun": "Sary"
+  },
+  "install": {
+    "verb": "ampidirina"
+  },
+  "item": {
+    "noun": "singan-javatra"
+  },
+  "keyboard": {
+    "noun": "kitendry"
+  },
+  "landscape": {
+    "adjective": "mitsivalana"
+  },
+  "layout": {
+    "noun": "firafitra"
+  },
+  "Lesson": {
+    "noun": "Lesona"
+  },
+  "Level": {
+    "noun": "Haavo"
+  },
+  "library": {
+    "noun": "fandraketana"
+  },
+  "link": {
+    "noun": "rohy"
+  },
+  "list": {
+    "noun": "lisitra"
+  },
+  "Locale": {
+    "noun": "Fiteny"
+  },
+  "lock": {
+    "verb": "hidiana"
+  },
+  "log": {
+    "noun": "diary"
+  },
+  "log in": {
+    "verb": "midira"
+  },
+  "logo": {
+    "noun": "sary famantarana"
+  },
+  "loop": {
+    "noun": "faribolankodina"
+  },
+  "lowercase": {
+    "noun": "soramadinika"
+  },
+  "Make team": {
+    "noun": "Ekipa Make"
+  },
+  "mature": {
+    "noun": "matoy"
+  },
+  "moderation": {
+    "noun": "sivana"
+  },
+  "n/j/Y g:i A": {
+    "expression": "d/m/Y H:s"
+  },
+  "namespace": {
+    "noun": "habak'anarana"
+  },
+  "navigate": {
+    "verb": "mitety"
+  },
+  "navigation": {
+    "noun": "fitetezana"
+  },
+  "network": {
+    "noun": "andian-tranonkala"
+  },
+  "next": {
+    "adverb": "manaraka"
+  },
+  "open source": {
+    "noun": "open source"
+  },
+  "orientation": {
+    "noun": "fitodika"
+  },
+  "pack": {
+    "noun": "fehezana"
+  },
+  "package": {
+    "noun": "fehezana"
+  },
+  "pagination": {
+    "noun": "fanapejiana"
+  },
+  "parent": {
+    "noun": "reniny"
+  },
+  "parent theme": {
+    "noun": "bika reniny"
+  },
+  "password": {
+    "noun": "tenimiafina"
+  },
+  "pattern": {
+    "noun": "lamy"
+  },
+  "percentage": {
+    "noun": "isan-jato"
+  },
+  "performance": {
+    "noun": "hakingana"
+  },
+  "plugin": {
+    "noun": "plugin"
+  },
+  "Polyglots": {
+    "noun": "Polyglots"
+  },
+  "post": {
+    "noun": "lahatsoratra"
+  },
+  "Post Comments": {
+    "noun": "Fanehoankevitra Lahatsoratra"
+  },
+  "post type": {
+    "noun": "karazana lahatsoratra"
+  },
+  "preview": {
+    "noun": "santionany"
+  },
+  "previous": {
+    "noun": "teo aloha"
+  },
+  "private post": {
+    "noun": "lahatsoratra voatokana"
+  },
+  "public": {
+    "adjective": "ampahibemaso"
+  },
+  "query": {
+    "noun": "hataka"
+  },
+  "Query Loop": {
+    "noun": "Hataka Faribolankodina"
+  },
+  "Quizz": {
+    "noun": "Adina"
+  },
+  "quote": {
+    "noun": "teny indrana"
+  },
+  "rating": {
+    "noun": "salanisa domberina"
+  },
+  "Read more": {
+    "verb": "Tohiny"
+  },
+  "redirect": {
+    "verb": "alefa"
+  },
+  "release": {
+    "noun": "vokatra"
+  },
+  "remove": {
+    "verb": "esory"
+  },
+  "render": {
+    "verb": "amoahana"
+  },
+  "repository": {
+    "noun": "ivo-pametrahana"
+  },
+  "review": {
+    "noun": "domberina"
+  },
+  "revision": {
+    "noun": "fanitsiana"
+  },
+  "roadmap": {
+    "noun": "soridalana"
+  },
+  "save": {
+    "verb": "tehirizo"
+  },
+  "saved": {
+    "verb": "voatahiry"
+  },
+  "screen": {
+    "noun": "efijery"
+  },
+  "screenshot": {
+    "noun": "sariefijery"
+  },
+  "scroll": {
+    "verb": "misosa"
+  },
+  "search": {
+    "verb": "mikaroka"
+  },
+  "security": {
+    "noun": "fiarovana"
+  },
+  "set": {
+    "noun": "andia"
+  },
+  "settings": {
+    "noun": "lamina"
+  },
+  "showcase": {
+    "noun": "fampirantiana",
+    "verb": "aranty"
+  },
+  "sidebar": {
+    "noun": "bara anila"
+  },
+  "slash": {
+    "noun": "tsipika misompirana"
+  },
+  "small": {
+    "adjective": "kely"
+  },
+  "software": {
+    "noun": "rindrankajy"
+  },
+  "source": {
+    "noun": "akora"
+  },
+  "spam": {
+    "noun": "mailapako"
+  },
+  "stats": {
+    "noun": "antontanisa"
+  },
+  "status": {
+    "noun": "toetra"
+  },
+  "sticky": {
+    "adjective": "raikitra"
+  },
+  "sticky post": {
+    "noun": "lahatsoratra raikitra"
+  },
+  "sticky posts": {
+    "noun": "lahatsoratra raikitra"
+  },
+  "style": {
+    "noun": "angaly"
+  },
+  "style variation": {
+    "noun": "fiovan'angaly"
+  },
+  "sub-directory": {
+    "noun": "rantsana an-tranonkala"
+  },
+  "sub-domain": {
+    "noun": "zana-tranonkala"
+  },
+  "subdirectory": {
+    "noun": "zanaka lahatahiry"
+  },
+  "subdomain": {
+    "noun": "zana-tranonkala"
+  },
+  "support": {
+    "noun": "tantsoroka"
+  },
+  "Survey": {
+    "noun": "Fanadihadihana"
+  },
+  "synced": {
+    "adjective": "miradia"
+  },
+  "table": {
+    "noun": "fafana"
+  },
+  "tag": {
+    "noun": "lohahevitra"
+  },
+  "template": {
+    "noun": "lasitra"
+  },
+  "temporary": {
+    "adjective": "miserana"
+  },
+  "theme": {
+    "noun": "bika"
+  },
+  "theme directory": {
+    "noun": "tahirim-bika"
+  },
+  "Thumbnail": {
+    "noun": "Sary kely"
+  },
+  "ticket": {
+    "noun": "tapakila"
+  },
+  "Timezone": {
+    "noun": "Faritry ny fotoana"
+  },
+  "title": {
+    "noun": "lohateny"
+  },
+  "tools": {
+    "noun": "fitaovana"
+  },
+  "trackback": {
+    "noun": "rohy domberina"
+  },
+  "Translators Handbook": {
+    "noun": "Tondrozotran'ny Mpandikateny"
+  },
+  "transparent": {
+    "adjective": "makarakara"
+  },
+  "trash": {
+    "noun": "fako"
+  },
+  "tutorial": {
+    "noun": "torolalana"
+  },
+  "two-factor authentication": {
+    "noun": "fanamarinana roa dingana"
+  },
+  "typography": {
+    "noun": "endri-tsoratra"
+  },
+  "uninstall": {
+    "verb": "esorina"
+  },
+  "update": {
+    "noun": "fanavaozana"
+  },
+  "updated": {
+    "verb": "nohavaozina"
+  },
+  "updating": {
+    "adverb": "eo am-panavaozana"
+  },
+  "upload": {
+    "verb": "halatsaka"
+  },
+  "uppercase": {
+    "noun": "sorabaventy"
+  },
+  "URL": {
+    "noun": "URL"
+  },
+  "user": {
+    "noun": "mpikambana"
+  },
+  "username": {
+    "noun": "solonanarana"
+  },
+  "variation": {
+    "noun": "fiova"
+  },
+  "version": {
+    "noun": "rantsany"
+  },
+  "video": {
+    "noun": "horonantsary"
+  },
+  "Visibility": {
+    "noun": "Fisehoana"
+  },
+  "visual": {
+    "adjective": "amimaso"
+  },
+  "website": {
+    "noun": "tranonkala"
+  },
+  "white space": {
+    "noun": "malalaka"
+  },
+  "wide": {
+    "noun": "mivelatra"
+  },
+  "widget": {
+    "noun": "vakana"
+  },
+  "widgets": {
+    "noun": "vakana"
+  },
+  "width": {
+    "noun": "sakany"
+  },
+  "WordPress Community": {
+    "noun": "Fianakaviambe WordPress"
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "aspect ratio": {
+    "noun": "स्वरूप अनुपात"
+  },
+  "attachment": {
+    "adjective": "संलग्नित",
+    "noun": "संलग्न"
+  },
+  "author": {
+    "noun": "लेखक"
+  },
+  "Avatar": {
+    "noun": "अवतार"
+  },
+  "bug": {
+    "verb": "त्रुटि",
+    "noun": "त्रुटि"
+  },
+  "bug report": {
+    "noun": "बग रिपोर्ट"
+  },
+  "comment": {
+    "noun": "टिप्पणी"
+  },
+  "customized": {
+    "adjective": "कस्टमाइज"
+  },
+  "development version": {
+    "noun": "विकास संस्करण"
+  },
+  "Document": {
+    "noun": "दस्तावेज़"
+  },
+  "documentation": {
+    "verb": "दस्तावेज़ीकरण",
+    "noun": "दस्तावेज़"
+  },
+  "Download": {
+    "noun": "डाउनलोड"
+  },
+  "edit": {
+    "verb": "सम्पादित",
+    "noun": "संपादन"
+  },
+  "editor": {
+    "noun": "संपादक"
+  },
+  "error": {
+    "noun": "त्रुटि"
+  },
+  "Event": {
+    "noun": "कार्यक्रम"
+  },
+  "Excerpt": {
+    "noun": "अंश"
+  },
+  "Feature": {
+    "noun": "विशेषता"
+  },
+  "Featured": {
+    "adjective": "विशेष रुप से प्रदर्शित"
+  },
+  "format": {
+    "noun": "प्रारूप (फॉर्मेट)"
+  },
+  "image": {
+    "noun": "चित्र"
+  },
+  "install": {
+    "verb": "स्थापित"
+  },
+  "Media": {
+    "noun": "मीडिया"
+  },
+  "Object": {
+    "noun": "ऑब्जेक्ट (Object)"
+  },
+  "Parent": {
+    "noun": "पेरेंट (Parent)"
+  },
+  "password": {
+    "noun": "पासवर्ड"
+  },
+  "Plugin": {
+    "noun": "प्लगइन"
+  },
+  "Post": {
+    "noun": "पोस्ट"
+  },
+  "Press This": {
+    "noun": "प्रेस दिस"
+  },
+  "Privacy Policy": {
+    "noun": "गोपनीयता नीति"
+  },
+  "Profile": {
+    "noun": "विवरण"
+  },
+  "Resource": {
+    "noun": "रिसोर्स"
+  },
+  "REST": {
+    "noun": "रेस्ट (REST)"
+  },
+  "Schedule": {
+    "verb": "निर्धारित करना"
+  },
+  "scroll": {
+    "verb": "स्क्रॉल"
+  },
+  "Set": {
+    "verb": "निर्धारित"
+  },
+  "site": {
+    "noun": "साइट"
+  },
+  "Source": {
+    "noun": "सोर्स"
+  },
+  "Style": {
+    "noun": "स्टाइल"
+  },
+  "support forum": {
+    "noun": "सहायता केंद्र"
+  },
+  "Tag": {
+    "noun": "टैग"
+  },
+  "team": {
+    "noun": "टीम"
+  },
+  "Term": {
+    "noun": "टर्म"
+  },
+  "Text": {
+    "noun": "टेक्स्ट"
+  },
+  "theme": {
+    "noun": "थीम"
+  },
+  "Tiktok": {
+    "noun": "टिकटॉक"
+  },
+  "Title": {
+    "noun": "शीर्षक"
+  },
+  "update": {
+    "verb": "अपडेट"
+  },
+  "upload": {
+    "noun": "अपलोड"
+  },
+  "URL": {
+    "noun": "यूआरएल"
+  },
+  "user": {
+    "noun": "उपयोगकर्ता"
+  },
+  "username": {
+    "noun": "उपयोगकर्ता नाम"
+  },
+  "version": {
+    "noun": "संस्करण"
+  },
+  "Video": {
+    "noun": "वीडियो"
+  },
+  "WordPress": {
+    "noun": "वर्डप्रेस"
+  }
+}

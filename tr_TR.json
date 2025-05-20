@@ -1,0 +1,1432 @@
+{
+  "accent color": {
+    "noun": "vurgu rengi"
+  },
+  "access": {
+    "verb": "erişmek"
+  },
+  "account recovery": {
+    "noun": "hesap kurtarma"
+  },
+  "action": {
+    "noun": "eylem"
+  },
+  "action hook": {
+    "noun": "eylem kancası"
+  },
+  "activate": {
+    "verb": "etkinleştir"
+  },
+  "activated": {
+    "adjective": "etkinleştirildi"
+  },
+  "activation": {
+    "verb": "etkinleştirmek"
+  },
+  "activation e-mail": {
+    "noun": "etkinleştirme e-postası"
+  },
+  "ad policy": {
+    "noun": "reklam ilkesi"
+  },
+  "add email": {
+    "expression": "e-posta ekle"
+  },
+  "address": {
+    "verb": "adres"
+  },
+  "admin bar": {
+    "noun": "yönetici araç çubuğu"
+  },
+  "admin panel": {
+    "noun": "yönetim paneli"
+  },
+  "administrator": {
+    "noun": "yönetici"
+  },
+  "After the Deadline": {
+    "noun": "After the Deadline"
+  },
+  "again": {
+    "adverb": "yeniden"
+  },
+  "ajax": {
+    "abbreviation": "AJAX"
+  },
+  "alphanumeric": {
+    "noun": "alfasayısal"
+  },
+  "Appearance": {
+    "noun": "Görünüm"
+  },
+  "applicable law": {
+    "noun": "geçerli yasa"
+  },
+  "approve": {
+    "verb": "onaylamak"
+  },
+  "arbitral decision": {
+    "noun": "tahkim kararı"
+  },
+  "archive": {
+    "noun": "arşiv",
+    "verb": "arşivle"
+  },
+  "archives": {
+    "noun": "arşivler"
+  },
+  "are you sure you want": {
+    "expression": "istediğinize emin misiniz"
+  },
+  "argument": {
+    "noun": "bağımsız değişken"
+  },
+  "array": {
+    "noun": "dizilim"
+  },
+  "article": {
+    "noun": "makale"
+  },
+  "aside": {
+    "noun": "ayrı"
+  },
+  "Aspect ratio": {
+    "noun": "En-boy oranı"
+  },
+  "at the bottom": {
+    "preposition": "altta"
+  },
+  "attachment": {
+    "noun": "ek dosya"
+  },
+  "attribute": {
+    "noun": "öznitelik"
+  },
+  "audio": {
+    "noun": "ses"
+  },
+  "audit": {
+    "verb": "denetlemek"
+  },
+  "Authenticator app": {
+    "noun": "Kimlik doğrulayıcı uygulaması"
+  },
+  "author": {
+    "noun": "geliştirici"
+  },
+  "auto renew": {
+    "noun": "otomatik yenileme"
+  },
+  "automatic renewal": {
+    "noun": "otomatik yenileme"
+  },
+  "avatar": {
+    "noun": "avatar"
+  },
+  "background": {
+    "noun": "arka plan"
+  },
+  "background color": {
+    "noun": "arka plan rengi"
+  },
+  "background image": {
+    "noun": "arka plan görüntüsü"
+  },
+  "background pattern": {
+    "noun": "arka plan deseni"
+  },
+  "backup code": {
+    "noun": "yedekleme kodu"
+  },
+  "base": {
+    "noun": "temel"
+  },
+  "Basic": {
+    "noun": "Temel"
+  },
+  "behavior": {
+    "noun": "davranış"
+  },
+  "billing history": {
+    "noun": "ödeme geçmişi"
+  },
+  "binary": {
+    "noun": "ikili"
+  },
+  "blavatar": {
+    "noun": "blavatar"
+  },
+  "blog": {
+    "noun": "blog"
+  },
+  "blog address": {
+    "noun": "blog adresi"
+  },
+  "blog post": {
+    "noun": "blog gönderisi"
+  },
+  "blog theme": {
+    "noun": "blog teması"
+  },
+  "blogger": {
+    "noun": "blog yazarı"
+  },
+  "bookmarklet": {
+    "noun": "kod içeren yer işareti"
+  },
+  "Border": {
+    "noun": "Sınır"
+  },
+  "Breadcrumbs": {
+    "noun": "Gezinti bağlantıları"
+  },
+  "Browse Happy": {
+    "noun": "Browse Happy"
+  },
+  "browser": {
+    "noun": "tarayıcı"
+  },
+  "BuddyPress": {
+    "noun": "BuddyPress"
+  },
+  "built-in": {
+    "noun": "yerleşik"
+  },
+  "bundle": {
+    "noun": "paket"
+  },
+  "Button": {
+    "noun": "Düğme"
+  },
+  "cache": {
+    "noun": "ön bellek"
+  },
+  "capabilities": {
+    "noun": "yetkinlikler"
+  },
+  "caption": {
+    "noun": "alt yazı"
+  },
+  "Carousel": {
+    "noun": "dönme dolap"
+  },
+  "cart": {
+    "noun": "sepet"
+  },
+  "category": {
+    "noun": "kategori"
+  },
+  "character code": {
+    "noun": "karakter kodu"
+  },
+  "character entity reference": {
+    "noun": "karakter varlık başvurusu"
+  },
+  "character set": {
+    "noun": "karakter kümesi"
+  },
+  "chargeback": {
+    "noun": "Kredi kartı iadesi"
+  },
+  "checksum": {
+    "noun": "sağlama"
+  },
+  "click": {
+    "verb": "tıkla"
+  },
+  "CNAME record": {
+    "noun": "CNAME kaydı"
+  },
+  "collection": {
+    "noun": "derleme"
+  },
+  "color scheme": {
+    "noun": "renk düzeni"
+  },
+  "comment": {
+    "noun": "yorum",
+    "verb": "yorum yap"
+  },
+  "compat": {
+    "noun": "uyumluluk"
+  },
+  "compatibility": {
+    "noun": "uyumluluk"
+  },
+  "computer": {
+    "noun": "bilgisayar"
+  },
+  "conditional tag": {
+    "noun": "koşullu etiket"
+  },
+  "configuration": {
+    "noun": "yapılandırma"
+  },
+  "constant": {
+    "noun": "sabit"
+  },
+  "contact form": {
+    "noun": "iletişim formu"
+  },
+  "content": {
+    "noun": "içerik"
+  },
+  "Content Area": {
+    "noun": "İçerik Alanı"
+  },
+  "context": {
+    "noun": "bağlam"
+  },
+  "contributor": {
+    "noun": "katkıda bulunan"
+  },
+  "controller": {
+    "noun": "denetçi"
+  },
+  "converter": {
+    "noun": "dönüştürücü"
+  },
+  "Cookie": {
+    "noun": "Tanımlama bilgisi"
+  },
+  "Cover": {
+    "noun": "Manşet"
+  },
+  "create": {
+    "verb": "oluşturmak"
+  },
+  "Creative Commons": {
+    "noun": "Creative Commons"
+  },
+  "crop": {
+    "verb": "kırpmak"
+  },
+  "Custom Colors": {
+    "noun": "Özel Renkler"
+  },
+  "Custom CSS": {
+    "noun": "Özel CSS"
+  },
+  "Custom Fonts": {
+    "noun": "Özel Yazı Tipleri"
+  },
+  "custom post type": {
+    "noun": "özel yazı türü"
+  },
+  "customize": {
+    "verb": "özelleştir"
+  },
+  "Customizer": {
+    "noun": "Özelleştirici"
+  },
+  "Dashboard": {
+    "noun": "Başlangıç ekranı"
+  },
+  "deactivate": {
+    "verb": "etkisizleştir"
+  },
+  "default": {
+    "noun": "varsayılan"
+  },
+  "default theme": {
+    "noun": "varsayılan tema"
+  },
+  "deprecated": {
+    "adjective": "kullanımdan kaldırılmış"
+  },
+  "developer": {
+    "noun": "geliştirici"
+  },
+  "Digital Millennium Copyright Act": {
+    "noun": "Dijital Milenyum Telif Hakkı Yasası"
+  },
+  "direction": {
+    "noun": "yönerge"
+  },
+  "directory": {
+    "noun": "klasör"
+  },
+  "disable": {
+    "verb": "etkisizleştir"
+  },
+  "disclaimer": {
+    "noun": "sorumluluk reddi"
+  },
+  "Distraction Free Writing": {
+    "noun": "Odaklanmış yazma"
+  },
+  "Documentation": {
+    "noun": "Belgeler"
+  },
+  "domain": {
+    "noun": "etki alanı"
+  },
+  "domain name": {
+    "noun": "etki alanı adı"
+  },
+  "download": {
+    "expression": "indir"
+  },
+  "draft": {
+    "noun": "taslak"
+  },
+  "E-mail": {
+    "noun": "E-posta"
+  },
+  "editor": {
+    "noun": "editör"
+  },
+  "element": {
+    "noun": "bileşen"
+  },
+  "email": {
+    "noun": "e-posta"
+  },
+  "email address": {
+    "noun": "e-posta adresi"
+  },
+  "embed": {
+    "verb": "göm",
+    "adjective": "gömülü"
+  },
+  "emoji": {
+    "noun": "emoji"
+  },
+  "emoticon": {
+    "noun": "ifade"
+  },
+  "enable": {
+    "expression": "etkinleştir"
+  },
+  "entry": {
+    "noun": "kayıt"
+  },
+  "entry title": {
+    "noun": "kayıt başlığı"
+  },
+  "error": {
+    "noun": "hata"
+  },
+  "excerpt": {
+    "noun": "özet"
+  },
+  "exclude": {
+    "expression": "katılmasın"
+  },
+  "extra": {
+    "noun": "ek"
+  },
+  "extra storage": {
+    "noun": "ek depolama alanı"
+  },
+  "Facebook": {
+    "noun": "Facebook"
+  },
+  "favicon": {
+    "noun": "site simgesi"
+  },
+  "favorite": {
+    "verb": "beğen",
+    "noun": "beğeni"
+  },
+  "feature": {
+    "verb": "öne çıkar",
+    "noun": "özellik"
+  },
+  "featured": {
+    "noun": "öne çıkarılmış"
+  },
+  "featured Image": {
+    "noun": "öne çıkarılmış görsel"
+  },
+  "featured post": {
+    "noun": "öne çıkarılmış yazı"
+  },
+  "feed": {
+    "noun": "akış"
+  },
+  "Field Guide": {
+    "noun": "Alan Rehberi"
+  },
+  "file": {
+    "noun": "dosya"
+  },
+  "filter": {
+    "noun": "süzgeç",
+    "expression": "süz"
+  },
+  "filter hook": {
+    "noun": "süzgeç kancası"
+  },
+  "Firehose": {
+    "noun": "Firehose"
+  },
+  "fix": {
+    "noun": "düzeltme",
+    "verb": "düzeltmek"
+  },
+  "folder": {
+    "noun": "klasör"
+  },
+  "Follow": {
+    "verb": "Takip Et"
+  },
+  "Follower": {
+    "noun": "Takipçi"
+  },
+  "Following": {
+    "verb": "Takip ediliyor"
+  },
+  "Font": {
+    "noun": "Yazı tipi"
+  },
+  "footer": {
+    "noun": "alt kısım"
+  },
+  "Format": {
+    "noun": "Biçim"
+  },
+  "Forum": {
+    "noun": "Forum"
+  },
+  "free trial": {
+    "noun": "Ücretsiz deneme"
+  },
+  "Freshly Pressed": {
+    "noun": "Yeni Çıktı"
+  },
+  "front end": {
+    "noun": "ara yüz"
+  },
+  "gallery": {
+    "noun": "galeri"
+  },
+  "Gravatar": {
+    "noun": "Gravatar"
+  },
+  "Gravatar Profile": {
+    "noun": "Gravatar profili"
+  },
+  "Guided Transfer": {
+    "noun": "Rehberli aktarım"
+  },
+  "Ham": {
+    "noun": "İstenmeyen Değil"
+  },
+  "Hammiest": {
+    "adjective": "En az istenmeyen içeren"
+  },
+  "Happiness Engineer": {
+    "noun": "Mutluluk Mühendisi"
+  },
+  "header": {
+    "noun": "üst kısım"
+  },
+  "headers": {
+    "noun": "üst bilgiler"
+  },
+  "Help Center": {
+    "noun": "Yardım Merkezi"
+  },
+  "hierarchy": {
+    "noun": "hiyerarşi"
+  },
+  "home": {
+    "noun": "giriş"
+  },
+  "host": {
+    "verb": "barındır",
+    "noun": "sunucu"
+  },
+  "hosting provider": {
+    "noun": "barındırma hizmeti sağlayıcı"
+  },
+  "hover": {
+    "noun": "vurgu",
+    "adjective": "vurgu",
+    "verb": "üzerine gelmek"
+  },
+  "hovercard": {
+    "noun": "bilgi kartı"
+  },
+  "howdy": {
+    "expression": "merhaba"
+  },
+  "human-readable": {
+    "noun": "insan tarafından okunabilen"
+  },
+  "icon": {
+    "noun": "simge"
+  },
+  "id": {
+    "noun": "kimlik"
+  },
+  "identifier": {
+    "noun": "belirteç"
+  },
+  "image": {
+    "noun": "görsel"
+  },
+  "improve": {
+    "verb": "iyileştir"
+  },
+  "improved": {
+    "verb": "iyileştirildi"
+  },
+  "include": {
+    "expression": "katılsın"
+  },
+  "inconsistent": {
+    "noun": "tutarsız"
+  },
+  "index": {
+    "noun": "dizin"
+  },
+  "Insights": {
+    "noun": "Tek Bakışta"
+  },
+  "install": {
+    "verb": "kur"
+  },
+  "instant comment email": {
+    "noun": "anında yorum e-postası"
+  },
+  "instant post email": {
+    "noun": "anında yazı e-postası"
+  },
+  "integration": {
+    "noun": "bütünleştirme"
+  },
+  "internet": {
+    "noun": "internet"
+  },
+  "Internet Corporation for Assigned Names and Numbers (ICANN)": {
+    "noun": "Internet Corporation for Assigned Names and Numbers (ICANN)"
+  },
+  "invalid": {
+    "adjective": "geçersiz"
+  },
+  "IP address": {
+    "noun": "IP adresi"
+  },
+  "issue": {
+    "noun": "sorun"
+  },
+  "item": {
+    "noun": "öge"
+  },
+  "Jetpack": {
+    "noun": "Jetpack"
+  },
+  "Jetpack Monitor": {
+    "noun": "Jetpack İzleyici"
+  },
+  "key": {
+    "noun": "tuş"
+  },
+  "Keyboard": {
+    "noun": "klavye"
+  },
+  "keyword": {
+    "noun": "anahtar sözcük"
+  },
+  "Late Renewal Fee": {
+    "noun": "Gecikmiş Yenileme Bedeli"
+  },
+  "layout": {
+    "noun": "yerleşim"
+  },
+  "level": {
+    "noun": "düzey"
+  },
+  "library": {
+    "noun": "kütüphane"
+  },
+  "Like": {
+    "noun": "Beğeni"
+  },
+  "like": {
+    "verb": "beğen",
+    "preposition": "gibi"
+  },
+  "Likes": {
+    "noun": "Beğeniler"
+  },
+  "Link": {
+    "noun": "Bağlantı"
+  },
+  "link": {
+    "noun": "bağlantı"
+  },
+  "link hover": {
+    "noun": "bağlantı vurgusu"
+  },
+  "live chat": {
+    "noun": "canlı sohbet"
+  },
+  "live chat support": {
+    "noun": "canlı sohbet ile destek"
+  },
+  "location": {
+    "noun": "konum"
+  },
+  "log in": {
+    "noun": "oturum aç"
+  },
+  "log out": {
+    "noun": "oturumu kapat"
+  },
+  "logged in": {
+    "adjective": "oturum açıldı"
+  },
+  "logged out": {
+    "adjective": "oturum kapatıldı"
+  },
+  "login": {
+    "verb": "giriş"
+  },
+  "logout": {
+    "verb": "çıkış"
+  },
+  "mapped domain": {
+    "noun": "yönlendirilmiş etki alanı"
+  },
+  "Media": {
+    "noun": "Ortam"
+  },
+  "media file": {
+    "noun": "ortam dosyası"
+  },
+  "media item": {
+    "noun": "ortam ögesi"
+  },
+  "Media Uploader": {
+    "noun": "Ortam yükleyici"
+  },
+  "member": {
+    "noun": "üye"
+  },
+  "members": {
+    "noun": "üyeler"
+  },
+  "menu": {
+    "noun": "menü"
+  },
+  "menu item": {
+    "noun": "menü ögesi"
+  },
+  "menu location": {
+    "noun": "menü konumu"
+  },
+  "message": {
+    "noun": "ileti"
+  },
+  "meta": {
+    "noun": "üst veri"
+  },
+  "minimalist theme": {
+    "noun": "minimalist tema"
+  },
+  "mobile device": {
+    "noun": "mobil cihaz"
+  },
+  "mode": {
+    "noun": "kip"
+  },
+  "moderate": {
+    "verb": "yönet"
+  },
+  "moderator": {
+    "noun": "görevli"
+  },
+  "modern design": {
+    "noun": "modern tasarım"
+  },
+  "multisite": {
+    "noun": "çoklu site"
+  },
+  "name": {
+    "noun": "ad"
+  },
+  "namespace": {
+    "noun": "adlandırma alanı"
+  },
+  "navigation": {
+    "noun": "dolaşım"
+  },
+  "next post": {
+    "noun": "sonraki yazı"
+  },
+  "Nickname": {
+    "noun": "Takma ad"
+  },
+  "nonce": {
+    "noun": "geçici"
+  },
+  "normal": {
+    "noun": "normal"
+  },
+  "normalize": {
+    "verb": "normalleştirmek"
+  },
+  "not sticky": {
+    "adjective": "sabitlenmemiş"
+  },
+  "notification": {
+    "noun": "bildirim"
+  },
+  "offline": {
+    "noun": "çevrim dışı"
+  },
+  "older post": {
+    "noun": "daha eski yazı"
+  },
+  "online": {
+    "noun": "çevrim içi"
+  },
+  "option": {
+    "noun": "seçenek"
+  },
+  "orientation": {
+    "noun": "doğrultu"
+  },
+  "original": {
+    "noun": "özgün"
+  },
+  "overlay": {
+    "noun": "kaplama"
+  },
+  "override": {
+    "expression": "değiştir"
+  },
+  "padding": {
+    "noun": "dolgu"
+  },
+  "Page": {
+    "noun": "Sayfa"
+  },
+  "Page Builder": {
+    "noun": "Sayfa oluşturucu"
+  },
+  "pagination": {
+    "noun": "sayfalama"
+  },
+  "panel": {
+    "noun": "pano"
+  },
+  "parameter": {
+    "noun": "parametre"
+  },
+  "parent": {
+    "noun": "üst"
+  },
+  "password": {
+    "noun": "parola"
+  },
+  "pattern": {
+    "noun": "model"
+  },
+  "pause": {
+    "expression": "duraklat"
+  },
+  "pending": {
+    "verb": "bekleyen"
+  },
+  "performance": {
+    "noun": "başarım"
+  },
+  "permalink": {
+    "noun": "kalıcı bağlantı"
+  },
+  "permission": {
+    "noun": "izin"
+  },
+  "permission denied": {
+    "expression": "izin verilmedi"
+  },
+  "personal blog": {
+    "noun": "kişisel blog"
+  },
+  "personal blogger": {
+    "noun": "kişisel blog yazarı"
+  },
+  "photoblogger": {
+    "noun": "fotoğraf blogu yazarı"
+  },
+  "ping": {
+    "noun": "geri bağlantı"
+  },
+  "pingback": {
+    "noun": "geri bağlantı"
+  },
+  "placeholder": {
+    "noun": "yer belirtici"
+  },
+  "plugin": {
+    "noun": "eklenti"
+  },
+  "policy": {
+    "noun": "ilke, politika"
+  },
+  "poll": {
+    "noun": "anket"
+  },
+  "Polldaddy": {
+    "noun": "Polldaddy"
+  },
+  "popular": {
+    "noun": "beğenilen"
+  },
+  "Portfolio Page": {
+    "noun": "Portföy Sayfası"
+  },
+  "portfolio theme": {
+    "noun": "portföy teması"
+  },
+  "Post": {
+    "noun": "Yazı"
+  },
+  "post": {
+    "verb": "gönder",
+    "noun": "yazı"
+  },
+  "Post Carousel": {
+    "noun": "Yazı dönme dolabı"
+  },
+  "post format": {
+    "noun": "yazı biçimi"
+  },
+  "Post List": {
+    "noun": "Yazı Listesi"
+  },
+  "post meta": {
+    "noun": "yazı üst verileri"
+  },
+  "post status": {
+    "noun": "yazı durumu"
+  },
+  "post thumbnail": {
+    "noun": "yazı küçük görseli"
+  },
+  "post type": {
+    "noun": "yazı türü"
+  },
+  "posting goal": {
+    "noun": "yazı hedefi"
+  },
+  "premium theme": {
+    "noun": "ücretli tema"
+  },
+  "premium upgrade": {
+    "noun": "ücretli yükseltme"
+  },
+  "Press This": {
+    "noun": "Press This"
+  },
+  "preview": {
+    "verb": "ön izle",
+    "noun": "ön izleme"
+  },
+  "previous post": {
+    "noun": "önceki yazı"
+  },
+  "primary domain": {
+    "noun": "birincil etki alanı"
+  },
+  "privacy": {
+    "noun": "gizlilik"
+  },
+  "private": {
+    "noun": "kişisel, gizli, özel"
+  },
+  "private key": {
+    "noun": "kişisel anahtar"
+  },
+  "problem": {
+    "noun": "sorun"
+  },
+  "profile": {
+    "noun": "profil"
+  },
+  "public": {
+    "noun": "herkese açık"
+  },
+  "public key": {
+    "noun": "herkese açık anahtar"
+  },
+  "Publicize": {
+    "noun": "Publicize"
+  },
+  "publish": {
+    "expression": "yayınla"
+  },
+  "publishing platform": {
+    "noun": "yayın platformu"
+  },
+  "query": {
+    "noun": "sorgu"
+  },
+  "Quick Post": {
+    "noun": "Hızlı Yazı"
+  },
+  "Quiz": {
+    "noun": "Test"
+  },
+  "rating": {
+    "noun": "puan"
+  },
+  "reader": {
+    "noun": "okuyucu"
+  },
+  "Reblog": {
+    "verb": "Reblogla",
+    "noun": "Reblog"
+  },
+  "Redirect": {
+    "noun": "yönlendirme"
+  },
+  "reference": {
+    "noun": "başvuru"
+  },
+  "referrer": {
+    "noun": "yönlendiren"
+  },
+  "refine": {
+    "verb": "daraltmak"
+  },
+  "refund policy": {
+    "noun": "iade ilkesi"
+  },
+  "register": {
+    "verb": "hesap aç, kayıt"
+  },
+  "registrar": {
+    "noun": "kayıt kuruluşu"
+  },
+  "related posts": {
+    "noun": "benzer yazılar"
+  },
+  "relative": {
+    "adjective": "göreli"
+  },
+  "release": {
+    "noun": "dağıtım"
+  },
+  "reply": {
+    "verb": "yanıtla",
+    "noun": "yanıt"
+  },
+  "required": {
+    "noun": "gerekli"
+  },
+  "responsive": {
+    "adjective": "uyumlu"
+  },
+  "restore": {
+    "expression": "geri yükle"
+  },
+  "resume": {
+    "expression": "sürdür"
+  },
+  "retry": {
+    "expression": "yeniden dene"
+  },
+  "return value": {
+    "noun": "geri dönüş değeri"
+  },
+  "revision": {
+    "noun": "sürüm"
+  },
+  "revoke": {
+    "expression": "geçersiz kıl"
+  },
+  "ribbon": {
+    "noun": "şerit"
+  },
+  "role": {
+    "noun": "rol"
+  },
+  "root": {
+    "noun": "kök"
+  },
+  "RSS": {
+    "noun": "RSS"
+  },
+  "schedule": {
+    "verb": "zamanla"
+  },
+  "scheme": {
+    "noun": "düzen"
+  },
+  "screen": {
+    "noun": "ekran"
+  },
+  "script": {
+    "noun": "betik"
+  },
+  "search": {
+    "verb": "ara"
+  },
+  "self-hosted": {
+    "adjective": "kullanıcı tarafından barındırılan"
+  },
+  "server": {
+    "noun": "sunucu"
+  },
+  "setting": {
+    "noun": "ayar"
+  },
+  "share": {
+    "noun": "paylaşım",
+    "expression": "paylaş"
+  },
+  "sharing": {
+    "verb": "paylaşılıyor"
+  },
+  "sharing button": {
+    "noun": "paylaşım düğmesi"
+  },
+  "sharing settings": {
+    "noun": "paylaşım ayarları"
+  },
+  "shortcode": {
+    "noun": "kısa kod"
+  },
+  "Showcase": {
+    "noun": "Vitrin"
+  },
+  "sidebar": {
+    "noun": "kenar çubuğu"
+  },
+  "sign on": {
+    "verb": "oturum aç"
+  },
+  "sign out": {
+    "verb": "oturumu kapat"
+  },
+  "sign up": {
+    "verb": "hesap aç"
+  },
+  "sign-in": {
+    "verb": "giriş yap"
+  },
+  "Simplenote": {
+    "noun": "Simplenote"
+  },
+  "single post": {
+    "noun": "tekil yazı"
+  },
+  "Single Sign-On": {
+    "noun": "Tek hesapla oturum açma"
+  },
+  "site": {
+    "noun": "site"
+  },
+  "Site Builder": {
+    "noun": "Site oluşturucu"
+  },
+  "Site Redirect": {
+    "noun": "Site Yönlendirme"
+  },
+  "Slider": {
+    "noun": "Slayt Gösterisi Aracı"
+  },
+  "slideshow": {
+    "noun": "slayt gösterisi"
+  },
+  "slug": {
+    "noun": "kısaltma"
+  },
+  "Social Media": {
+    "noun": "Sosyal Medya"
+  },
+  "Space Upgrade": {
+    "noun": "Depolama alanı yükseltmesi"
+  },
+  "spam": {
+    "noun": "istenmeyen"
+  },
+  "Spammiest": {
+    "adjective": "En çok istenmeyen içeren"
+  },
+  "SRV record": {
+    "noun": "SRV kaydı"
+  },
+  "staging site": {
+    "noun": "prova sitesi"
+  },
+  "status": {
+    "noun": "durum"
+  },
+  "stick": {
+    "verb": "sabitle",
+    "noun": "çubuk"
+  },
+  "sticky": {
+    "adjective": "sabit"
+  },
+  "Sticky Post": {
+    "noun": "Sabit yazı"
+  },
+  "store": {
+    "noun": "mağaza"
+  },
+  "string": {
+    "noun": "dizge"
+  },
+  "style": {
+    "noun": "biçem"
+  },
+  "subpanel": {
+    "noun": "alt panel"
+  },
+  "subscribe": {
+    "verb": "abone olmak"
+  },
+  "subscription": {
+    "noun": "abonelik"
+  },
+  "subscription dashboard": {
+    "noun": "abonelik panosu"
+  },
+  "subtitle": {
+    "noun": "alt yazı"
+  },
+  "Subversion": {
+    "noun": "Subversion"
+  },
+  "summary emails": {
+    "noun": "özet e-postaları"
+  },
+  "super-charge": {
+    "verb": "süper yükseltme"
+  },
+  "support guide": {
+    "noun": "destek rehberi"
+  },
+  "support page": {
+    "noun": "destek sayfası"
+  },
+  "support team": {
+    "noun": "destek ekibi"
+  },
+  "survey": {
+    "noun": "anket"
+  },
+  "swag": {
+    "noun": "destekleme ürünleri"
+  },
+  "synced patterns": {
+    "noun": "eşitlenen modeller"
+  },
+  "synchronization": {
+    "noun": "eşitlemek"
+  },
+  "tab": {
+    "noun": "sekme"
+  },
+  "tag": {
+    "noun": "kod imi"
+  },
+  "tagline": {
+    "noun": "slogan"
+  },
+  "taxonomy": {
+    "noun": "sınıflandırma"
+  },
+  "template": {
+    "noun": "şablon"
+  },
+  "template hierarchy": {
+    "noun": "şablon hiyerarşisi"
+  },
+  "term": {
+    "noun": "terim"
+  },
+  "terms and conditions": {
+    "noun": "hüküm ve koşullar"
+  },
+  "terms of service": {
+    "noun": "hizmet koşulları"
+  },
+  "testimonial": {
+    "noun": "deneyim"
+  },
+  "text editor": {
+    "noun": "metin düzenleyici"
+  },
+  "theme": {
+    "noun": "tema"
+  },
+  "Theme Showcase": {
+    "noun": "Tema Vitrini"
+  },
+  "thumbnail": {
+    "noun": "küçük görsel"
+  },
+  "time stamp": {
+    "noun": "zaman damgası"
+  },
+  "timestamp": {
+    "noun": "zaman damgası"
+  },
+  "timezone": {
+    "noun": "saat dilimi"
+  },
+  "token": {
+    "noun": "belirteç"
+  },
+  "tolerance": {
+    "noun": "hata payı"
+  },
+  "tool": {
+    "noun": "araç"
+  },
+  "Toolbar": {
+    "noun": "Araç çubuğu"
+  },
+  "topic": {
+    "noun": "konu"
+  },
+  "trackback": {
+    "noun": "geri izleme"
+  },
+  "traffic": {
+    "noun": "trafik"
+  },
+  "Transfer Code": {
+    "noun": "Aktarım Kodu"
+  },
+  "Transient": {
+    "noun": "Geçici"
+  },
+  "translate": {
+    "expression": "çevir"
+  },
+  "translation": {
+    "noun": "çeviri"
+  },
+  "trial period": {
+    "noun": "deneme süresi"
+  },
+  "trophy": {
+    "noun": "kupa"
+  },
+  "troubleshooting": {
+    "noun": "sorun giderme"
+  },
+  "Twitter": {
+    "noun": "Twitter"
+  },
+  "two factor authentication": {
+    "noun": "iki adımlı doğrulama"
+  },
+  "type": {
+    "noun": "tür",
+    "verb": "yazmak"
+  },
+  "unapprove": {
+    "verb": "reddetmek"
+  },
+  "Unfollow": {
+    "verb": "Takip Etmeyi Bırak"
+  },
+  "unique": {
+    "noun": "eşsiz"
+  },
+  "Unlimited Storage": {
+    "noun": "Sınırsız Depolama Alanı"
+  },
+  "Unlimited Themes": {
+    "noun": "Sınırsız Tema"
+  },
+  "unmute": {
+    "verb": "sesi aç"
+  },
+  "unstick": {
+    "expression": "sabitlemeyi kaldır"
+  },
+  "update": {
+    "verb": "güncelle",
+    "noun": "güncelleme"
+  },
+  "upgrade": {
+    "noun": "yükseltme",
+    "verb": "yükselt"
+  },
+  "Upgrades page": {
+    "noun": "Yükseltmeler sayfası"
+  },
+  "upload": {
+    "expression": "yükle"
+  },
+  "uploader": {
+    "noun": "yükleyici"
+  },
+  "URI": {
+    "noun": "URI"
+  },
+  "url": {
+    "noun": "adres"
+  },
+  "user": {
+    "noun": "kullanıcı"
+  },
+  "users": {
+    "noun": "kullanıcılar"
+  },
+  "valid": {
+    "adjective": "geçerli"
+  },
+  "variant": {
+    "noun": "çeşit"
+  },
+  "various": {
+    "noun": "çeşitli"
+  },
+  "verification code": {
+    "noun": "doğrulama kodu"
+  },
+  "video": {
+    "noun": "video"
+  },
+  "view": {
+    "verb": "görüntüle"
+  },
+  "Visual Editor": {
+    "noun": "Görsel düzenleyici"
+  },
+  "web server": {
+    "noun": "site sunucusu"
+  },
+  "website": {
+    "noun": "site"
+  },
+  "widget": {
+    "noun": "gereç"
+  },
+  "widgets": {
+    "noun": "bileşenler"
+  },
+  "word": {
+    "noun": "sözcük"
+  },
+  "WordCamp": {
+    "noun": "WordCamp"
+  },
+  "WordPress": {
+    "noun": "WordPress"
+  },
+  "WordPress Dashboard": {
+    "noun": "WordPress Başlangıç ekranı"
+  },
+  "X": {
+    "noun": "X"
+  },
+  "XML-RPC": {
+    "noun": "XML-RPC"
+  },
+  "Yummy Pie": {
+    "noun": "Pasta Grafik"
+  }
+}

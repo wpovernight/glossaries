@@ -1,0 +1,971 @@
+{
+  "abridgment": {
+    "noun": "abridgement"
+  },
+  "acknowledgment": {
+    "noun": "acknowledgement"
+  },
+  "admin bar": {
+    "noun": "Toolbar"
+  },
+  "advertize": {
+    "verb": "advertize"
+  },
+  "akismet": {
+    "noun": "Akismet"
+  },
+  "ameba": {
+    "noun": "amoeba"
+  },
+  "amphitheater": {
+    "noun": "amphitheatre"
+  },
+  "anesthesia": {
+    "noun": "anaesthesia"
+  },
+  "anymore": {
+    "adverb": "any more"
+  },
+  "appall": {
+    "verb": "appal"
+  },
+  "arbor": {
+    "noun": "arbour"
+  },
+  "archeology": {
+    "noun": "archaeology"
+  },
+  "ardor": {
+    "noun": "ardour"
+  },
+  "armor": {
+    "noun": "armour"
+  },
+  "atom": {
+    "noun": "Atom"
+  },
+  "ax": {
+    "noun": "axe"
+  },
+  "barreled": {
+    "verb": "barrelled"
+  },
+  "barreling": {
+    "verb": "barrelling"
+  },
+  "bedeviled": {
+    "verb": "bedevilled"
+  },
+  "bedeviling": {
+    "verb": "bedevilling"
+  },
+  "behavior": {
+    "noun": "behaviour"
+  },
+  "belabor": {
+    "verb": "belabour"
+  },
+  "Block Editor": {
+    "noun": "block editor"
+  },
+  "brunet": {
+    "noun": "brunette"
+  },
+  "buret": {
+    "noun": "burette"
+  },
+  "byproduct": {
+    "noun": "by-product"
+  },
+  "caesarean": {
+    "noun": "cesarean"
+  },
+  "caldron": {
+    "noun": "cauldron"
+  },
+  "caliber": {
+    "noun": "calibre"
+  },
+  "calliper": {
+    "noun": "caliper"
+  },
+  "cancelation": {
+    "noun": "cancellation"
+  },
+  "canceled": {
+    "noun": "cancelled"
+  },
+  "canceling": {
+    "verb": "cancelling"
+  },
+  "candor": {
+    "noun": "candour"
+  },
+  "catalog": {
+    "verb": "catalogue"
+  },
+  "center": {
+    "verb": "centre"
+  },
+  "centered": {
+    "verb": "centred"
+  },
+  "centering": {
+    "noun": "centring"
+  },
+  "centimeter": {
+    "noun": "centimetre"
+  },
+  "centimeters": {
+    "noun": "centimetres"
+  },
+  "check": {
+    "noun": "cheque"
+  },
+  "chrome": {
+    "noun": "Chrome"
+  },
+  "chrome extension": {
+    "noun": "Chrome Extension"
+  },
+  "clamor": {
+    "noun": "clamour"
+  },
+  "clangor": {
+    "noun": "clangour"
+  },
+  "classic block": {
+    "noun": "Classic block"
+  },
+  "Classic Editor": {
+    "noun": "classic editor"
+  },
+  "classic paragraph block": {
+    "noun": "Classic Paragraph block"
+  },
+  "coauthor": {
+    "noun": "Co-Author"
+  },
+  "Code Editor": {
+    "noun": "code editor"
+  },
+  "color": {
+    "verb": "colour"
+  },
+  "colorful": {
+    "noun": "colourful"
+  },
+  "colors": {
+    "noun": "colours"
+  },
+  "coopt": {
+    "noun": "co-opt"
+  },
+  "councilor": {
+    "noun": "councillor"
+  },
+  "counseled": {
+    "verb": "counselled"
+  },
+  "counseling": {
+    "noun": "counselling"
+  },
+  "counselor": {
+    "noun": "counsellor"
+  },
+  "counterattack": {
+    "noun": "counter-attack"
+  },
+  "crueler": {
+    "adjective": "crueller"
+  },
+  "cruelest": {
+    "adjective": "cruellest"
+  },
+  "crystaline": {
+    "noun": "crystalline"
+  },
+  "crystalize": {
+    "verb": "crystallize"
+  },
+  "css": {
+    "noun": "CSS"
+  },
+  "curl": {
+    "noun": "cURL"
+  },
+  "Customize": {
+    "verb": "Customize"
+  },
+  "Customizer": {
+    "noun": "Customizer"
+  },
+  "datacenter": {
+    "noun": "data centre"
+  },
+  "defense": {
+    "noun": "defence"
+  },
+  "demagog": {
+    "noun": "demagogue"
+  },
+  "demeanor": {
+    "noun": "demeanour"
+  },
+  "dependent": {
+    "noun": "dependant"
+  },
+  "dialed": {
+    "verb": "dialled"
+  },
+  "dialing": {
+    "verb": "dialling"
+  },
+  "dialog": {
+    "verb": "dialogue"
+  },
+  "dialogs": {
+    "noun": "dialogues"
+  },
+  "dietician": {
+    "noun": "dietitian"
+  },
+  "disheveled": {
+    "adjective": "dishevelled"
+  },
+  "disk": {
+    "noun": "disc"
+  },
+  "distill": {
+    "verb": "distil"
+  },
+  "donut": {
+    "noun": "doughnut"
+  },
+  "dueled": {
+    "verb": "duelled"
+  },
+  "dueling": {
+    "verb": "duelling"
+  },
+  "e-commerce": {
+    "noun": "eCommerce"
+  },
+  "e-mail": {
+    "noun": "email"
+  },
+  "ebook": {
+    "noun": "eBook"
+  },
+  "ecommerce": {
+    "noun": "eCommerce"
+  },
+  "egis": {
+    "noun": "aegis"
+  },
+  "enamor": {
+    "verb": "enamour"
+  },
+  "end of cycle": {
+    "noun": "end-of-cycle"
+  },
+  "end of life": {
+    "noun": "end-of-life"
+  },
+  "end of sale": {
+    "noun": "end-of-sale"
+  },
+  "end of state": {
+    "noun": "end-of-state"
+  },
+  "endeavor": {
+    "noun": "endeavour"
+  },
+  "enroll": {
+    "verb": "enrol"
+  },
+  "enrollment": {
+    "noun": "enrolment"
+  },
+  "enthrall": {
+    "verb": "enthral"
+  },
+  "eon": {
+    "noun": "aeon"
+  },
+  "epilog": {
+    "noun": "epilogue"
+  },
+  "equaled": {
+    "verb": "equalled"
+  },
+  "equaling": {
+    "verb": "equalling"
+  },
+  "esthetic": {
+    "adjective": "aesthetic"
+  },
+  "extoll": {
+    "verb": "extol"
+  },
+  "facebook": {
+    "noun": "Facebook"
+  },
+  "faucet": {
+    "noun": "tap"
+  },
+  "favor": {
+    "noun": "favour"
+  },
+  "favorite": {
+    "verb": "favourite"
+  },
+  "favorited": {
+    "verb": "favourited"
+  },
+  "favorites": {
+    "verb": "favourites"
+  },
+  "fervor": {
+    "noun": "fervour"
+  },
+  "fiber": {
+    "noun": "fibre"
+  },
+  "flavor": {
+    "noun": "flavour"
+  },
+  "focussed": {
+    "verb": "focused"
+  },
+  "focussing": {
+    "noun": "focusing"
+  },
+  "fueled": {
+    "verb": "fuelled"
+  },
+  "fueling": {
+    "verb": "fuelling"
+  },
+  "fulfill": {
+    "verb": "fulfil"
+  },
+  "fulfillment": {
+    "adverb": "fulfilment"
+  },
+  "funneled": {
+    "adverb": "funnelled"
+  },
+  "funneling": {
+    "adverb": "funnelling"
+  },
+  "gage": {
+    "noun": "gauge"
+  },
+  "github": {
+    "noun": "GitHub"
+  },
+  "glamor": {
+    "verb": "glamour"
+  },
+  "glotdict": {
+    "noun": "GlotDict"
+  },
+  "glotpress": {
+    "noun": "GlotPress"
+  },
+  "goiter": {
+    "noun": "goitre"
+  },
+  "good-by": {
+    "expression": "goodbye"
+  },
+  "good-bye": {
+    "expression": "goodbye"
+  },
+  "google maps": {
+    "noun": "Google Maps"
+  },
+  "google plus": {
+    "noun": "Google+"
+  },
+  "googleplus": {
+    "noun": "Google+"
+  },
+  "gravatar": {
+    "noun": "Gravatar"
+  },
+  "gray": {
+    "adjective": "grey"
+  },
+  "grueling": {
+    "adjective": "gruelling"
+  },
+  "gutenberg": {
+    "noun": "Gutenberg"
+  },
+  "harbor": {
+    "noun": "harbour"
+  },
+  "hirable": {
+    "adjective": "hireable"
+  },
+  "honor": {
+    "noun": "honour"
+  },
+  "honorable": {
+    "adjective": "honourable"
+  },
+  "honored": {
+    "noun": "honoured"
+  },
+  "honors": {
+    "noun": "honours"
+  },
+  "Howdy!": {
+    "noun": "Hi!"
+  },
+  "htaccess": {
+    "noun": ".htaccess"
+  },
+  "html": {
+    "noun": "HTML"
+  },
+  "html editor": {
+    "noun": "HTML editor"
+  },
+  "http://wordpress.org": {
+    "noun": "https://en-ca.wordpress.org"
+  },
+  "https://wordpress.org": {
+    "expression": "https://en-ca.wordpress.org"
+  },
+  "huh": {
+    "expression": "eh"
+  },
+  "humor": {
+    "noun": "humour"
+  },
+  "imperiled": {
+    "adjective": "imperilled"
+  },
+  "imperiling": {
+    "adjective": "imperilling"
+  },
+  "indepth": {
+    "noun": "in-depth"
+  },
+  "initialed": {
+    "adjective": "initialled"
+  },
+  "initialing": {
+    "adjective": "initialling"
+  },
+  "installment": {
+    "noun": "instalment"
+  },
+  "javascript": {
+    "noun": "JavaScript"
+  },
+  "jetpack": {
+    "noun": "Jetpack"
+  },
+  "jeweler": {
+    "noun": "jeweller"
+  },
+  "jewelry": {
+    "noun": "jewellery"
+  },
+  "kidnaped": {
+    "verb": "kidnapped"
+  },
+  "kilometer": {
+    "noun": "kilometre"
+  },
+  "labeled": {
+    "noun": "labelled"
+  },
+  "labeling": {
+    "verb": "labelling"
+  },
+  "labor": {
+    "noun": "labour"
+  },
+  "leukemia": {
+    "noun": "leukaemia"
+  },
+  "leveled": {
+    "verb": "levelled"
+  },
+  "leveling": {
+    "verb": "levelling"
+  },
+  "libelous": {
+    "adjective": "libellous"
+  },
+  "license": {
+    "noun": "licence"
+  },
+  "licenses": {
+    "noun": "licences"
+  },
+  "liter": {
+    "noun": "litre"
+  },
+  "louver": {
+    "noun": "louvre"
+  },
+  "luster": {
+    "noun": "lustre"
+  },
+  "macaber": {
+    "adjective": "macabre"
+  },
+  "mailchimp": {
+    "noun": "Mailchimp"
+  },
+  "maneuver": {
+    "noun": "manoeuvre"
+  },
+  "mariadb": {
+    "noun": "MariaDB"
+  },
+  "marshall": {
+    "noun": "marshal"
+  },
+  "marveled": {
+    "adjective": "marvelled"
+  },
+  "marveling": {
+    "adjective": "marvelling"
+  },
+  "marvelous": {
+    "adjective": "marvellous"
+  },
+  "mask": {
+    "noun": "masque"
+  },
+  "matt": {
+    "adjective": "matte"
+  },
+  "meager": {
+    "adjective": "meagre"
+  },
+  "medalist": {
+    "noun": "medallist"
+  },
+  "meter": {
+    "noun": "metre"
+  },
+  "meters": {
+    "noun": "metres"
+  },
+  "millimeter": {
+    "noun": "millimetre"
+  },
+  "millimeters": {
+    "noun": "millimetres"
+  },
+  "misdemeanor": {
+    "noun": "misdemeanour"
+  },
+  "miter": {
+    "noun": "mitre"
+  },
+  "modeled": {
+    "adjective": "modelled"
+  },
+  "modeling": {
+    "adjective": "modelling"
+  },
+  "mold": {
+    "noun": "mould"
+  },
+  "mollusk": {
+    "noun": "mollusc"
+  },
+  "molt": {
+    "noun": "moult"
+  },
+  "monolog": {
+    "noun": "monologue"
+  },
+  "mp3": {
+    "noun": "MP3"
+  },
+  "mp4": {
+    "noun": "MP4"
+  },
+  "mustache": {
+    "noun": "moustache"
+  },
+  "mysql": {
+    "noun": "MySQL"
+  },
+  "namable": {
+    "adjective": "nameable"
+  },
+  "neighbor": {
+    "noun": "neighbour"
+  },
+  "neighborhood": {
+    "noun": "neighbourhood"
+  },
+  "nonplused": {
+    "adjective": "nonplussed"
+  },
+  "occured": {
+    "verb": "occurred"
+  },
+  "ocher": {
+    "noun": "ochre"
+  },
+  "odor": {
+    "noun": "odour"
+  },
+  "offense": {
+    "noun": "offence"
+  },
+  "omelet": {
+    "noun": "omelette"
+  },
+  "pajamas": {
+    "noun": "pyjamas"
+  },
+  "palaeolothic": {
+    "noun": "paleolothic"
+  },
+  "paneled": {
+    "verb": "panelled"
+  },
+  "paneling": {
+    "verb": "panelling"
+  },
+  "panelist": {
+    "noun": "panellist"
+  },
+  "paragraph block": {
+    "noun": "Paragraph block"
+  },
+  "parlor": {
+    "noun": "parlour"
+  },
+  "pean": {
+    "noun": "paean"
+  },
+  "pedagog": {
+    "noun": "pedagogue"
+  },
+  "php": {
+    "noun": "PHP"
+  },
+  "pinterest": {
+    "noun": "Pinterest"
+  },
+  "Postcode": {
+    "noun": "Postal code"
+  },
+  "practice": {
+    "verb": "practise"
+  },
+  "preeminent": {
+    "adjective": "pre-eminent"
+  },
+  "preempt": {
+    "adjective": "pre-empt"
+  },
+  "preexist": {
+    "adjective": "pre-exist"
+  },
+  "prefill": {
+    "conjunction": "pre-fill"
+  },
+  "prewar": {
+    "adjective": "pre-war"
+  },
+  "privacy policy": {
+    "noun": "Privacy Policy"
+  },
+  "program": {
+    "noun": "programme"
+  },
+  "programed": {
+    "verb": "programmed"
+  },
+  "prolog": {
+    "noun": "prologue"
+  },
+  "propellor": {
+    "noun": "propeller"
+  },
+  "pummeled": {
+    "adjective": "pummelled"
+  },
+  "pummeling": {
+    "adjective": "pummelling"
+  },
+  "queuing": {
+    "verb": "queueing"
+  },
+  "racket": {
+    "noun": "racquet"
+  },
+  "rancor": {
+    "noun": "rancour"
+  },
+  "ratable": {
+    "adjective": "rateable"
+  },
+  "raw": {
+    "noun": "RAW"
+  },
+  "reconnoiter": {
+    "noun": "reconnoitre"
+  },
+  "reeducate": {
+    "verb": "re-educate"
+  },
+  "reelect": {
+    "verb": "re-elect"
+  },
+  "reenter": {
+    "verb": "re-enter"
+  },
+  "reentry": {
+    "adverb": "re-entry"
+  },
+  "reexamine": {
+    "adverb": "re-examine"
+  },
+  "reveled": {
+    "adjective": "revelled"
+  },
+  "reveling": {
+    "noun": "revelling"
+  },
+  "rigor": {
+    "noun": "rigour"
+  },
+  "rss": {
+    "noun": "RSS"
+  },
+  "rumor": {
+    "noun": "rumour"
+  },
+  "salable": {
+    "adjective": "saleable"
+  },
+  "savior": {
+    "noun": "saviour"
+  },
+  "savor": {
+    "verb": "savour"
+  },
+  "savory": {
+    "adjective": "savoury"
+  },
+  "scepter": {
+    "noun": "sceptre"
+  },
+  "serp": {
+    "noun": "SERP"
+  },
+  "serps": {
+    "noun": "SERPs"
+  },
+  "serve happy": {
+    "noun": "ServeHappy"
+  },
+  "servehappy": {
+    "noun": "ServeHappy"
+  },
+  "shriveled": {
+    "adjective": "shrivelled"
+  },
+  "shriveling": {
+    "adjective": "shrivelling"
+  },
+  "sign-up": {
+    "noun": "sign up"
+  },
+  "signaled": {
+    "adjective": "signalled"
+  },
+  "signaling": {
+    "adjective": "signalling"
+  },
+  "sirup": {
+    "noun": "syrup"
+  },
+  "sizable": {
+    "adjective": "sizeable"
+  },
+  "skillful": {
+    "adjective": "skilful"
+  },
+  "skype": {
+    "noun": "Skype"
+  },
+  "smolder": {
+    "verb": "smoulder"
+  },
+  "somber": {
+    "verb": "sombre"
+  },
+  "specter": {
+    "noun": "spectre"
+  },
+  "spiraled": {
+    "adjective": "spiralled"
+  },
+  "spiraling": {
+    "adjective": "spiralling"
+  },
+  "splendor": {
+    "verb": "splendour"
+  },
+  "sql": {
+    "noun": "SQL"
+  },
+  "state": {
+    "noun": "province"
+  },
+  "story": {
+    "noun": "storey"
+  },
+  "stylesheet": {
+    "noun": "style sheet"
+  },
+  "stylesheets": {
+    "noun": "style sheets"
+  },
+  "succor": {
+    "noun": "succour"
+  },
+  "sulfate": {
+    "noun": "sulphate"
+  },
+  "sulfur": {
+    "noun": "sulphur"
+  },
+  "sulfuric": {
+    "adverb": "sulphuric"
+  },
+  "theater": {
+    "noun": "theatre"
+  },
+  "timezone": {
+    "noun": "time zone"
+  },
+  "tinymce": {
+    "noun": "TinyMCE"
+  },
+  "ton": {
+    "noun": "tonne"
+  },
+  "toolbar": {
+    "noun": "Toolbar"
+  },
+  "top toolbar": {
+    "noun": "Top Toolbar"
+  },
+  "totaled": {
+    "adjective": "totalled"
+  },
+  "totaling": {
+    "adjective": "totalling"
+  },
+  "tranquility": {
+    "noun": "tranquillity"
+  },
+  "tranquilize": {
+    "verb": "tranquillize"
+  },
+  "traveled": {
+    "adjective": "travelled"
+  },
+  "traveler": {
+    "noun": "traveller"
+  },
+  "traveling": {
+    "verb": "travelling"
+  },
+  "travelog": {
+    "noun": "travelogue"
+  },
+  "tumor": {
+    "noun": "tumour"
+  },
+  "tunneled": {
+    "verb": "tunnelled"
+  },
+  "tunneling": {
+    "verb": "tunnelling"
+  },
+  "twitter": {
+    "noun": "Twitter"
+  },
+  "ui": {
+    "noun": "UI"
+  },
+  "understory": {
+    "noun": "understorey"
+  },
+  "unlicensed": {
+    "adjective": "unlicenced"
+  },
+  "url": {
+    "noun": "URL"
+  },
+  "urls": {
+    "noun": "URLs"
+  },
+  "useable": {
+    "noun": "usable"
+  },
+  "valor": {
+    "noun": "valour"
+  },
+  "vapor": {
+    "noun": "vapour"
+  },
+  "vigor": {
+    "noun": "vigour"
+  },
+  "vise": {
+    "noun": "vice"
+  },
+  "vk": {
+    "noun": "VK"
+  },
+  "willful": {
+    "verb": "wilful"
+  },
+  "woocommerce": {
+    "noun": "WooCommerce"
+  },
+  "wordcamp": {
+    "noun": "WordCamp"
+  },
+  "wordpress": {
+    "noun": "WordPress"
+  },
+  "worshiped": {
+    "adverb": "worshipped"
+  },
+  "wp": {
+    "noun": "WP"
+  },
+  "xing": {
+    "noun": "XING"
+  },
+  "youtube": {
+    "noun": "YouTube"
+  },
+  "zip": {
+    "noun": "postal"
+  },
+  "zip code": {
+    "noun": "postal code"
+  }
+}

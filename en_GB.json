@@ -1,0 +1,758 @@
+{
+  "add on": {
+    "noun": "add-on"
+  },
+  "addon": {
+    "noun": "add-on"
+  },
+  "addons": {
+    "noun": "add-ons"
+  },
+  "admin bar": {
+    "noun": "Admin Bar"
+  },
+  "adminbar": {
+    "noun": "Admin Bar"
+  },
+  "airplane": {
+    "noun": "aeroplane"
+  },
+  "AJAX": {
+    "noun": "Ajax"
+  },
+  "ajax": {
+    "noun": "Ajax"
+  },
+  "akismet": {
+    "noun": "Akismet"
+  },
+  "analyze": {
+    "verb": "analyse"
+  },
+  "analyzed": {
+    "verb": "analysed"
+  },
+  "analyzes": {
+    "verb": "analyses"
+  },
+  "analyzing": {
+    "verb": "analysing"
+  },
+  "anonymize": {
+    "verb": "anonymise"
+  },
+  "Api": {
+    "noun": "API"
+  },
+  "atom": {
+    "noun": "Atom"
+  },
+  "authorization": {
+    "verb": "authorisation"
+  },
+  "authorize": {
+    "verb": "authorise"
+  },
+  "authorized": {
+    "verb": "authorised"
+  },
+  "back end": {
+    "adjective": "back-end"
+  },
+  "back-end": {
+    "noun": "back end"
+  },
+  "backend": {
+    "adjective": "back-end",
+    "noun": "back end"
+  },
+  "backorder": {
+    "noun": "back order",
+    "verb": "back-order"
+  },
+  "bbpress": {
+    "noun": "bbPress"
+  },
+  "behavior": {
+    "noun": "behaviour"
+  },
+  "Block Editor": {
+    "noun": "block editor"
+  },
+  "buddypress": {
+    "noun": "BuddyPress"
+  },
+  "canceled": {
+    "verb": "cancelled"
+  },
+  "canceling": {
+    "verb": "cancelling"
+  },
+  "capitalization": {
+    "verb": "capitalisation"
+  },
+  "capitalize": {
+    "verb": "capitalise"
+  },
+  "capitalized": {
+    "verb": "capitalised"
+  },
+  "capitalizes": {
+    "verb": "capitalises"
+  },
+  "cart": {
+    "noun": "basket"
+  },
+  "catalog": {
+    "verb": "catalogue"
+  },
+  "categorize": {
+    "verb": "categorise"
+  },
+  "categorized": {
+    "verb": "categorised"
+  },
+  "center": {
+    "verb": "centre"
+  },
+  "changelog": {
+    "noun": "change log"
+  },
+  "checkbox": {
+    "noun": "tickbox"
+  },
+  "chrome": {
+    "noun": "Chrome"
+  },
+  "chrome extension": {
+    "noun": "Chrome Extension"
+  },
+  "classic block": {
+    "noun": "Classic Block"
+  },
+  "classic editor": {
+    "noun": "Classic Editor"
+  },
+  "classic paragraph block": {
+    "noun": "Classic Paragraph Block"
+  },
+  "coauthor": {
+    "noun": "Co-Author"
+  },
+  "Code Editor": {
+    "noun": "code editor"
+  },
+  "color": {
+    "verb": "colour"
+  },
+  "colorful": {
+    "adjective": "colourful"
+  },
+  "colors": {
+    "noun": "colours"
+  },
+  "css": {
+    "noun": "CSS"
+  },
+  "curl": {
+    "noun": "cURL"
+  },
+  "customizable": {
+    "verb": "customisable"
+  },
+  "customization": {
+    "verb": "customisation"
+  },
+  "customizations": {
+    "verb": "customisations"
+  },
+  "customize": {
+    "verb": "customise"
+  },
+  "customized": {
+    "verb": "customised"
+  },
+  "Customizer": {
+    "noun": "Customiser"
+  },
+  "customizing": {
+    "verb": "customising"
+  },
+  "db": {
+    "noun": "DB"
+  },
+  "democratize": {
+    "verb": "democratise"
+  },
+  "dialog": {
+    "verb": "dialogue"
+  },
+  "dialogs": {
+    "verb": "dialogues"
+  },
+  "digitize": {
+    "verb": "digitise"
+  },
+  "e-commerce": {
+    "noun": "eCommerce"
+  },
+  "e-mail": {
+    "noun": "email"
+  },
+  "ebook": {
+    "noun": "eBook"
+  },
+  "ecommerce": {
+    "noun": "eCommerce"
+  },
+  "end of cycle": {
+    "noun": "end-of-cycle"
+  },
+  "end of life": {
+    "noun": "end-of-life"
+  },
+  "end of sale": {
+    "noun": "end-of-sale"
+  },
+  "end of state": {
+    "noun": "end-of-state"
+  },
+  "endeavor": {
+    "verb": "endeavour"
+  },
+  "excerpt": {
+    "noun": "Excerpt"
+  },
+  "facebook": {
+    "noun": "Facebook"
+  },
+  "favorite": {
+    "verb": "favourite"
+  },
+  "favorited": {
+    "verb": "favourited"
+  },
+  "favorites": {
+    "verb": "favourites"
+  },
+  "feed": {
+    "noun": "Feed"
+  },
+  "friction-less": {
+    "noun": "frictionless"
+  },
+  "front-end": {
+    "adjective": "front-end",
+    "noun": "front end"
+  },
+  "frontend": {
+    "noun": "front end"
+  },
+  "fulfill": {
+    "verb": "fulfil"
+  },
+  "fulfillment": {
+    "noun": "fulfilment"
+  },
+  "github": {
+    "noun": "GitHub"
+  },
+  "glotdict": {
+    "noun": "GlotDict"
+  },
+  "glotpress": {
+    "noun": "GlotPress"
+  },
+  "google maps": {
+    "noun": "Google Maps"
+  },
+  "google plus": {
+    "noun": "Google+"
+  },
+  "googleplus": {
+    "noun": "Google+"
+  },
+  "gravatar": {
+    "noun": "Gravatar"
+  },
+  "gray": {
+    "adjective": "grey"
+  },
+  "grayscale": {
+    "noun": "greyscale"
+  },
+  "gutenberg": {
+    "noun": "Gutenberg"
+  },
+  "gutenberg editor": {
+    "noun": "Gutenberg Editor"
+  },
+  "hiya": {
+    "noun": "Hi"
+  },
+  "home page": {
+    "noun": "homepage"
+  },
+  "hood": {
+    "noun": "bonnet"
+  },
+  "howdy": {
+    "noun": "Hi"
+  },
+  "htaccess": {
+    "noun": ".htaccess"
+  },
+  "html": {
+    "noun": "HTML"
+  },
+  "html editor": {
+    "noun": "HTML editor"
+  },
+  "http": {
+    "noun": "http"
+  },
+  "http://wordpress.org": {
+    "noun": "https://en-gb.wordpress.org"
+  },
+  "https": {
+    "noun": "https"
+  },
+  "https://wordpress.org": {
+    "noun": "https://en-gb.wordpress.org"
+  },
+  "huh?": {
+    "expression": "huh?"
+  },
+  "initialize": {
+    "verb": "initialise"
+  },
+  "initialized": {
+    "verb": "initialised"
+  },
+  "initializing": {
+    "verb": "initialising"
+  },
+  "internationalization": {
+    "verb": "internationalisation"
+  },
+  "internationalize": {
+    "verb": "internationalise"
+  },
+  "internationalized": {
+    "verb": "internationalised"
+  },
+  "javascript": {
+    "noun": "JavaScript"
+  },
+  "Javascript": {
+    "noun": "JavaScript"
+  },
+  "jetpack": {
+    "noun": "Jetpack"
+  },
+  "jquery": {
+    "noun": "jQuery"
+  },
+  "labeling": {
+    "verb": "labelling"
+  },
+  "license": {
+    "noun": "licence",
+    "verb": "license"
+  },
+  "Linkedin": {
+    "noun": "LinkedIn"
+  },
+  "localization": {
+    "verb": "localisation"
+  },
+  "localize": {
+    "verb": "localise"
+  },
+  "localized": {
+    "verb": "localised"
+  },
+  "log in": {
+    "adjective": "log-in"
+  },
+  "log-in": {
+    "noun": "login"
+  },
+  "log-out": {
+    "noun": "logout"
+  },
+  "login": {
+    "adjective": "log-in",
+    "verb": "log in"
+  },
+  "logout": {
+    "verb": "log out"
+  },
+  "lower case": {
+    "adjective": "lower-case"
+  },
+  "lowercase": {
+    "noun": "lower case"
+  },
+  "mariadb": {
+    "noun": "MariaDB"
+  },
+  "maximize": {
+    "verb": "maximise"
+  },
+  "maximized": {
+    "verb": "maximised"
+  },
+  "meta-box": {
+    "noun": "meta box"
+  },
+  "metabox": {
+    "noun": "meta box"
+  },
+  "minimize": {
+    "verb": "minimise"
+  },
+  "minimized": {
+    "verb": "minimised"
+  },
+  "modernize": {
+    "verb": "modernise"
+  },
+  "modernized": {
+    "verb": "modernised"
+  },
+  "mp3": {
+    "noun": "MP3"
+  },
+  "mp4": {
+    "noun": "MP4"
+  },
+  "mysql": {
+    "noun": "MySQL"
+  },
+  "mysqli": {
+    "noun": "MySQLi"
+  },
+  "neighbor": {
+    "verb": "neighbour"
+  },
+  "normalize": {
+    "verb": "normalise"
+  },
+  "normalized": {
+    "verb": "normalised"
+  },
+  "opt-in": {
+    "noun": "opt in"
+  },
+  "optimization": {
+    "verb": "optimisation"
+  },
+  "optimizations": {
+    "verb": "optimisations"
+  },
+  "optimize": {
+    "verb": "optimise"
+  },
+  "optimized": {
+    "verb": "optimised"
+  },
+  "optimizing": {
+    "verb": "optimising"
+  },
+  "optin": {
+    "noun": "opt in"
+  },
+  "organization": {
+    "verb": "organisation"
+  },
+  "organizations": {
+    "verb": "organisations"
+  },
+  "organize": {
+    "verb": "organise"
+  },
+  "organized": {
+    "verb": "organised"
+  },
+  "organizer": {
+    "verb": "organiser"
+  },
+  "organizers": {
+    "verb": "organisers"
+  },
+  "organizing": {
+    "verb": "organising"
+  },
+  "paragraph block": {
+    "noun": "Paragraph Block"
+  },
+  "personalization": {
+    "noun": "personalisation"
+  },
+  "personalize": {
+    "verb": "personalise"
+  },
+  "personalized": {
+    "verb": "personalised"
+  },
+  "php": {
+    "noun": "PHP"
+  },
+  "pinterest": {
+    "noun": "Pinterest"
+  },
+  "pngs": {
+    "noun": "PNGs"
+  },
+  "pre-packaged": {
+    "adjective": "prepackaged"
+  },
+  "prioritization": {
+    "verb": "prioritisation"
+  },
+  "prioritize": {
+    "verb": "prioritise"
+  },
+  "prioritized": {
+    "verb": "prioritised"
+  },
+  "privacy policy": {
+    "noun": "Privacy Policy"
+  },
+  "Publicize": {
+    "noun": "Publicise"
+  },
+  "publicize": {
+    "verb": "publicise"
+  },
+  "randomize": {
+    "verb": "randomise"
+  },
+  "randomizing": {
+    "verb": "randomising"
+  },
+  "raw": {
+    "noun": "RAW"
+  },
+  "rdf": {
+    "noun": "RDF"
+  },
+  "rdf feed": {
+    "noun": "RDF Feed"
+  },
+  "realize": {
+    "verb": "realise"
+  },
+  "realized": {
+    "verb": "realised"
+  },
+  "recognize": {
+    "verb": "recognise"
+  },
+  "recognized": {
+    "verb": "recognised"
+  },
+  "reorganization": {
+    "verb": "reorganisation"
+  },
+  "reorganize": {
+    "verb": "reorganise"
+  },
+  "reorganized": {
+    "verb": "reorganised"
+  },
+  "retreive": {
+    "noun": "retrieve"
+  },
+  "retrive": {
+    "noun": "retrieve"
+  },
+  "rss": {
+    "noun": "RSS"
+  },
+  "rss feed": {
+    "noun": "RSS Feed"
+  },
+  "sanitization": {
+    "verb": "sanitisation",
+    "noun": "sanitisation"
+  },
+  "sanitize": {
+    "verb": "sanitise"
+  },
+  "sanitized": {
+    "verb": "sanitised"
+  },
+  "sanitizing": {
+    "verb": "sanitising"
+  },
+  "seo": {
+    "noun": "SEO"
+  },
+  "serialize": {
+    "verb": "serialise"
+  },
+  "serialized": {
+    "verb": "serialised"
+  },
+  "serp": {
+    "noun": "SERP"
+  },
+  "serps": {
+    "noun": "SERPs"
+  },
+  "serve happy": {
+    "noun": "ServeHappy"
+  },
+  "servehappy": {
+    "noun": "ServeHappy"
+  },
+  "short-circuit": {
+    "verb": "short-circuit",
+    "noun": "short circuit"
+  },
+  "sign-up": {
+    "noun": "sign up"
+  },
+  "skype": {
+    "noun": "Skype"
+  },
+  "sql": {
+    "noun": "SQL"
+  },
+  "stabilize": {
+    "verb": "stabilise"
+  },
+  "stabilized": {
+    "verb": "stabilised"
+  },
+  "standardize": {
+    "verb": "standardise"
+  },
+  "standardized": {
+    "verb": "standardised"
+  },
+  "stylesheet": {
+    "noun": "style sheet"
+  },
+  "stylesheets": {
+    "noun": "style sheets"
+  },
+  "summarize": {
+    "verb": "summarise"
+  },
+  "summarized": {
+    "verb": "summarised"
+  },
+  "symbolize": {
+    "verb": "symbolise"
+  },
+  "symbolizes": {
+    "verb": "symbolises"
+  },
+  "synchronization": {
+    "verb": "synchronisation"
+  },
+  "synchronize": {
+    "verb": "synchronise"
+  },
+  "synchronized": {
+    "verb": "synchronised"
+  },
+  "termmeta": {
+    "noun": "term meta"
+  },
+  "Text Editor": {
+    "noun": "text editor"
+  },
+  "thankyou": {
+    "noun": "thank you"
+  },
+  "timezone": {
+    "noun": "time zone"
+  },
+  "tinymce": {
+    "noun": "TinyMCE"
+  },
+  "trash": {
+    "noun": "bin",
+    "verb": "bin"
+  },
+  "trashed": {
+    "verb": "binned"
+  },
+  "traveling": {
+    "verb": "travelling"
+  },
+  "twitter": {
+    "noun": "Twitter"
+  },
+  "ui": {
+    "noun": "UI"
+  },
+  "unauthorized": {
+    "verb": "unauthorised"
+  },
+  "uncategorized": {
+    "verb": "uncategorised"
+  },
+  "unchecked": {
+    "verb": "unticked"
+  },
+  "upper case": {
+    "adjective": "upper-case"
+  },
+  "uppercase": {
+    "noun": "upper case"
+  },
+  "url": {
+    "noun": "URL"
+  },
+  "urls": {
+    "noun": "URLs"
+  },
+  "utilize": {
+    "verb": "utilise"
+  },
+  "utilized": {
+    "noun": "utilised",
+    "verb": "utilised"
+  },
+  "utilizes": {
+    "verb": "utilises"
+  },
+  "utilizing": {
+    "verb": "utilising"
+  },
+  "Visual Editor": {
+    "noun": "visual editor"
+  },
+  "vk": {
+    "noun": "VK"
+  },
+  "whatsapp": {
+    "noun": "WhatsApp"
+  },
+  "widgetized": {
+    "verb": "widgetised"
+  },
+  "woocommerce": {
+    "noun": "WooCommerce"
+  },
+  "wordcamp": {
+    "noun": "WordCamp"
+  },
+  "wordpress": {
+    "noun": "WordPress"
+  },
+  "wp": {
+    "noun": "WP"
+  },
+  "xing": {
+    "noun": "XING"
+  },
+  "youtube": {
+    "noun": "YouTube"
+  }
+}

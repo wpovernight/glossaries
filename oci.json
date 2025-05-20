@@ -1,0 +1,118 @@
+{
+  "alignment": {
+    "noun": "alinhament"
+  },
+  "archive": {
+    "noun": "archiu"
+  },
+  "blog": {
+    "noun": "blog"
+  },
+  "caption": {
+    "noun": "legenda"
+  },
+  "clear": {
+    "verb": "escafar"
+  },
+  "click": {
+    "noun": "clicatz",
+    "verb": "clicatz"
+  },
+  "clipboard": {
+    "noun": "pòrtapapier"
+  },
+  "delay": {
+    "noun": "retard",
+    "verb": "retardar"
+  },
+  "delete": {
+    "verb": "suprimir"
+  },
+  "destination": {
+    "noun": "destinacion"
+  },
+  "email": {
+    "noun": "corrièr electronic"
+  },
+  "email address": {
+    "noun": "adreça de corrièr electronic"
+  },
+  "fallback": {
+    "noun": "alternativa"
+  },
+  "file": {
+    "noun": "fichièr"
+  },
+  "height": {
+    "noun": "nautor"
+  },
+  "hide": {
+    "verb": "amagar"
+  },
+  "hosting": {
+    "noun": "albergament"
+  },
+  "item": {
+    "noun": "element"
+  },
+  "manage": {
+    "verb": "gestionar"
+  },
+  "media": {
+    "noun": "mèdia"
+  },
+  "media library": {
+    "noun": "mediatèca"
+  },
+  "merge": {
+    "verb": "fusionar"
+  },
+  "plugin": {
+    "noun": "extension"
+  },
+  "post": {
+    "noun": "article"
+  },
+  "previous": {
+    "adjective": "precedent"
+  },
+  "primary": {
+    "adjective": "principal"
+  },
+  "privacy": {
+    "noun": "privacitat"
+  },
+  "remove": {
+    "verb": "suprimir"
+  },
+  "replace": {
+    "verb": "remplaçar"
+  },
+  "retrieve": {
+    "verb": "recuperar"
+  },
+  "role": {
+    "noun": "ròtle"
+  },
+  "slug": {
+    "noun": "identificant"
+  },
+  "status": {
+    "noun": "estat"
+  },
+  "tag": {
+    "noun": "etiqueta"
+  },
+  "theme": {
+    "noun": "tèma"
+  },
+  "trackback": {
+    "noun": "retroligam"
+  },
+  "use": {
+    "verb": "utilizar"
+  },
+  "width": {
+    "noun": "largor"
+  }
+}

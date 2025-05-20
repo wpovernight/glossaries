@@ -1,0 +1,111 @@
+{
+  "activate": {
+    "verb": "చేతనించు"
+  },
+  "active": {
+    "adjective": "చేతనం"
+  },
+  "category": {
+    "noun": "వర్గం"
+  },
+  "comment": {
+    "noun": "వ్యాఖ్య",
+    "verb": "వ్యాఖ్యానించు"
+  },
+  "deactivate": {
+    "verb": "అచేతనించు"
+  },
+  "default": {
+    "adjective": "అప్రమేయ"
+  },
+  "details": {
+    "noun": "వివరాలు"
+  },
+  "email": {
+    "noun": "ఈమెయిలు"
+  },
+  "example": {
+    "noun": "ఉదాహరణ"
+  },
+  "folder": {
+    "noun": "సంచయం"
+  },
+  "height": {
+    "noun": "ఎత్తు"
+  },
+  "help": {
+    "noun": "సహాయం"
+  },
+  "image": {
+    "noun": "బొమ్మ"
+  },
+  "invalid": {
+    "adjective": "చెల్లని"
+  },
+  "link": {
+    "noun": "లంకె"
+  },
+  "list": {
+    "noun": "జాబితా"
+  },
+  "logo": {
+    "noun": "చిహ్నం"
+  },
+  "name": {
+    "noun": "పేరు"
+  },
+  "order": {
+    "noun": "క్రమం"
+  },
+  "password": {
+    "noun": "సంకేతపదం"
+  },
+  "permalink": {
+    "noun": "స్థిరలంకె"
+  },
+  "post": {
+    "noun": "టపా"
+  },
+  "private": {
+    "adjective": "అంతరంగిక"
+  },
+  "public": {
+    "adjective": "బహిరంగ"
+  },
+  "publish": {
+    "verb": "ప్రచురించు"
+  },
+  "run": {
+    "verb": "నడుపు/నడిపించు"
+  },
+  "settings": {
+    "noun": "అమరికలు"
+  },
+  "show": {
+    "verb": "చూపించు"
+  },
+  "site": {
+    "noun": "సైటు"
+  },
+  "statistics": {
+    "noun": "గణాంకాలు"
+  },
+  "theme": {
+    "noun": "అలంకారం"
+  },
+  "title": {
+    "noun": "శీర్షిక"
+  },
+  "type": {
+    "noun": "రకం"
+  },
+  "user": {
+    "noun": "వాడుకరి"
+  },
+  "username": {
+    "noun": "వాడుకరి పేరు"
+  },
+  "width": {
+    "noun": "వెడల్పు"
+  }
+}

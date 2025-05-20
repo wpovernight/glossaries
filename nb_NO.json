@@ -1,0 +1,552 @@
+{
+  "8212": {
+    "noun": "8211"
+  },
+  "action": {
+    "noun": "handling"
+  },
+  "Activate": {
+    "verb": "Aktiver | Aktivere"
+  },
+  "Add": {
+    "verb": "Legge til | Legg til"
+  },
+  "add-on": {
+    "noun": "tillegg | tilleggsmodul | tilleggsprogram"
+  },
+  "added": {
+    "verb": "lagt til"
+  },
+  "align": {
+    "verb": "justere | juster"
+  },
+  "arrangement": {
+    "noun": "ordning | rangering"
+  },
+  "array": {
+    "noun": "rekke"
+  },
+  "attachment": {
+    "noun": "vedlegg"
+  },
+  "attribute": {
+    "noun": "attributt | egenskap"
+  },
+  "bar": {
+    "noun": "stripe | rad | linje"
+  },
+  "block": {
+    "noun": "blokk",
+    "verb": "blokker"
+  },
+  "blog": {
+    "noun": "nettsted | blogg",
+    "verb": "blogge | skrive innlegg"
+  },
+  "blogger": {
+    "noun": "nettsteder"
+  },
+  "border": {
+    "noun": "kantlinje"
+  },
+  "cart": {
+    "noun": "handlekurv"
+  },
+  "check out": {
+    "verb": "kjøpe"
+  },
+  "checkout": {
+    "noun": "kjøp | utsjekk"
+  },
+  "collapse": {
+    "noun": "trekke sammen"
+  },
+  "color": {
+    "noun": "farge"
+  },
+  "comment": {
+    "noun": "kommentar",
+    "verb": "kommentere | kommenter"
+  },
+  "community": {
+    "noun": "fellesskap | samfunn"
+  },
+  "conditipns": {
+    "noun": "vilkår"
+  },
+  "connect": {
+    "verb": "koble til"
+  },
+  "connection": {
+    "noun": "tilkobling"
+  },
+  "consent": {
+    "noun": "samtykke",
+    "verb": "samtykker"
+  },
+  "contain": {
+    "verb": "inneholde"
+  },
+  "contained": {
+    "adjective": "inneholdt"
+  },
+  "container": {
+    "noun": "beholder"
+  },
+  "Copyright": {
+    "noun": "Opphavsrett"
+  },
+  "count": {
+    "noun": "antall",
+    "verb": "telle"
+  },
+  "Cover": {
+    "noun": "Omslag"
+  },
+  "create": {
+    "verb": "opprett | lag | skap"
+  },
+  "custom": {
+    "adjective": "tilpasset | egendefinert"
+  },
+  "customize": {
+    "verb": "tilpasse | tilpass"
+  },
+  "Customizer": {
+    "noun": "Tilpasser"
+  },
+  "dashboard": {
+    "noun": "kontrollpanel"
+  },
+  "Deactivate": {
+    "verb": "Deaktiver"
+  },
+  "delete": {
+    "verb": "slette | slett"
+  },
+  "design": {
+    "noun": "utforming | design"
+  },
+  "device": {
+    "noun": "enhet"
+  },
+  "digit": {
+    "noun": "siffer"
+  },
+  "Disable": {
+    "verb": "Slå av"
+  },
+  "disabled": {
+    "adjective": "slått av, avslått, inaktiv"
+  },
+  "Dismiss": {
+    "verb": "Avfei"
+  },
+  "document": {
+    "noun": "dokument"
+  },
+  "download": {
+    "noun": "nedlasting",
+    "verb": "laste ned | last ned"
+  },
+  "e-mail": {
+    "noun": "e-post"
+  },
+  "e-mail address": {
+    "noun": "e-postadresse"
+  },
+  "edit": {
+    "verb": "redigere | rediger"
+  },
+  "editing": {
+    "verb": "redigering"
+  },
+  "editor": {
+    "noun": "redigeringsverktøy"
+  },
+  "email": {
+    "noun": "e-post"
+  },
+  "email address": {
+    "noun": "e-postadresse"
+  },
+  "embed": {
+    "noun": "innbygging",
+    "verb": "bygge inn | bygg inn"
+  },
+  "Enable": {
+    "verb": "Slå på"
+  },
+  "enabled": {
+    "adjective": "slått på, påslått, aktiv"
+  },
+  "endpoint": {
+    "noun": "endepunkt"
+  },
+  "entry": {
+    "noun": "innlegg | bidrag | oppføring"
+  },
+  "event": {
+    "noun": "arrangement | hendelse"
+  },
+  "expand": {
+    "verb": "utvide"
+  },
+  "extend": {
+    "verb": "utvid | forbedre"
+  },
+  "feature": {
+    "noun": "funksjon | egenskap"
+  },
+  "featured": {
+    "adjective": "fremhevet"
+  },
+  "field": {
+    "noun": "felt"
+  },
+  "filter": {
+    "noun": "filter",
+    "verb": "filtrere | filtrer"
+  },
+  "font": {
+    "noun": "skrifttype"
+  },
+  "font family": {
+    "noun": "skriftfamilie"
+  },
+  "footer": {
+    "noun": "sidebunn | bunnfelt | bunnområde"
+  },
+  "header": {
+    "noun": "sidetopp | toppfelt | sidehode | toppområde"
+  },
+  "heading": {
+    "noun": "overskrift | tittel"
+  },
+  "hide": {
+    "verb": "skule | skjul"
+  },
+  "hook": {
+    "noun": "knagg"
+  },
+  "host": {
+    "noun": "nettvert | webhotell",
+    "verb": "betjene"
+  },
+  "hosted": {
+    "verb": "betjent"
+  },
+  "Huge": {
+    "adjective": "Diger | Enorm"
+  },
+  "inherit": {
+    "verb": "arve"
+  },
+  "inline": {
+    "adjective": "innsatt"
+  },
+  "Install": {
+    "verb": "Installer"
+  },
+  "installed": {
+    "adjective": "installert | installerte"
+  },
+  "item": {
+    "noun": "element | punkt"
+  },
+  "layout": {
+    "noun": "oppsett"
+  },
+  "link": {
+    "noun": "lenke",
+    "verb": "lenke"
+  },
+  "Manage": {
+    "verb": "Behandle | Administrer | Håndter"
+  },
+  "manager": {
+    "noun": "administrator | behandler"
+  },
+  "many": {
+    "adjective": "mange"
+  },
+  "margin": {
+    "noun": "avstand | marg"
+  },
+  "maximal": {
+    "adjective": "maksimum"
+  },
+  "media attachment": {
+    "noun": "medievedlegg"
+  },
+  "media item": {
+    "noun": "medieobjekt"
+  },
+  "minimal": {
+    "adjective": "minimum"
+  },
+  "move": {
+    "verb": "flytte"
+  },
+  "multiple": {
+    "adjective": "flere"
+  },
+  "number": {
+    "noun": "tall"
+  },
+  "number of": {
+    "noun": "antall"
+  },
+  "Offset": {
+    "noun": "Forskyvning"
+  },
+  "offset": {
+    "verb": "forskyve"
+  },
+  "once": {
+    "adverb": "én gang"
+  },
+  "one": {
+    "expression": "én | ett"
+  },
+  "option": {
+    "noun": "alternativ | mulighet | valg | innstilling"
+  },
+  "optional": {
+    "adjective": "valgfri | valgfritt"
+  },
+  "order": {
+    "noun": "ordre | rekkefølge | bestilling",
+    "verb": "ordne"
+  },
+  "order by": {
+    "noun": "sortering",
+    "verb": "ordne etter"
+  },
+  "padding": {
+    "noun": "utfylling, fyll, polstring"
+  },
+  "page": {
+    "noun": "side"
+  },
+  "paragraph": {
+    "noun": "avsnitt"
+  },
+  "Parent": {
+    "noun": "Forelder"
+  },
+  "parents": {
+    "noun": "foreldre"
+  },
+  "per": {
+    "preposition": "pr."
+  },
+  "phrase": {
+    "noun": "frase"
+  },
+  "Please try again": {
+    "verb": "Forsøk på nytt."
+  },
+  "plugin": {
+    "noun": "utvidelse"
+  },
+  "portfolio": {
+    "noun": "portefølje"
+  },
+  "portfolio item": {
+    "noun": "portefølje-element | porteføljeprosjekt | prosjekt"
+  },
+  "post": {
+    "noun": "innlegg",
+    "verb": "publisere"
+  },
+  "post type": {
+    "noun": "innholdstype | innleggstype"
+  },
+  "powered": {
+    "verb": "drevet"
+  },
+  "properties": {
+    "noun": "egenskaper"
+  },
+  "proudly": {
+    "adverb": "stolt"
+  },
+  "query": {
+    "noun": "spørring"
+  },
+  "query for": {
+    "verb": "spørre etter"
+  },
+  "rate": {
+    "verb": "vurder"
+  },
+  "redirect": {
+    "verb": "omdirigere"
+  },
+  "refresh": {
+    "verb": "oppfriske"
+  },
+  "render": {
+    "verb": "gengi"
+  },
+  "reorder": {
+    "verb": "endre rekkefølge"
+  },
+  "reply": {
+    "noun": "svar",
+    "verb": "svare"
+  },
+  "repository": {
+    "noun": "repositorium"
+  },
+  "request": {
+    "verb": "be om | spør etter | forespør",
+    "noun": "forespørsel"
+  },
+  "required": {
+    "adjective": "påkrevet | obligatorisk | nødvendig"
+  },
+  "restore": {
+    "verb": "gjenopprette"
+  },
+  "Save": {
+    "verb": "Lagre"
+  },
+  "screen": {
+    "noun": "skjerm"
+  },
+  "Search": {
+    "noun": "Søk"
+  },
+  "search": {
+    "verb": "søke | søk"
+  },
+  "select": {
+    "verb": "velge | velg"
+  },
+  "separator": {
+    "noun": "skille"
+  },
+  "sidebar": {
+    "noun": "sidekolonne | sidestolpe"
+  },
+  "Simple Payments": {
+    "noun": "Enkle betalinger"
+  },
+  "site": {
+    "noun": "nettsted"
+  },
+  "sites": {
+    "noun": "nettsteder"
+  },
+  "slug": {
+    "noun": "identifikator"
+  },
+  "spam": {
+    "verb": "spamme | merk(e) som spam",
+    "noun": "spam"
+  },
+  "step": {
+    "noun": "trinn"
+  },
+  "steps": {
+    "noun": "trinn"
+  },
+  "style": {
+    "noun": "stil",
+    "verb": "style"
+  },
+  "styling": {
+    "noun": "styling"
+  },
+  "sub": {
+    "adjective": "under-"
+  },
+  "submit": {
+    "noun": "innsending",
+    "verb": "sende inn | send inn"
+  },
+  "submitted": {
+    "adjective": "innsendt | innsendte"
+  },
+  "subtitle": {
+    "noun": "undertittel"
+  },
+  "successfully": {
+    "adverb": "vellykket"
+  },
+  "support": {
+    "noun": "støtte | brukerstøtte",
+    "verb": "støtte | støtt"
+  },
+  "tate": {
+    "noun": "tilstand | delstat"
+  },
+  "taxonomy": {
+    "noun": "taksonomi"
+  },
+  "term": {
+    "noun": "term | begrep | betingelse"
+  },
+  "terms": {
+    "noun": "betingelser | termer | vilkår | begreper"
+  },
+  "testimonial": {
+    "noun": "omtale | anmeldelse"
+  },
+  "theme": {
+    "noun": "tema"
+  },
+  "thumbnail": {
+    "noun": "miniatyrbilde"
+  },
+  "title": {
+    "noun": "tittel | overskrift"
+  },
+  "toggle": {
+    "verb": "veksle"
+  },
+  "tool": {
+    "noun": "verktøy"
+  },
+  "toolbar": {
+    "noun": "verktøyrad | verktøylinje"
+  },
+  "trash": {
+    "noun": "papirkurv",
+    "verb": "flytte til papirkurven | kaste"
+  },
+  "type": {
+    "verb": "skrive | taste"
+  },
+  "update": {
+    "noun": "oppdatering",
+    "verb": "oppdatere | oppdater"
+  },
+  "upgrade": {
+    "noun": "oppgradering",
+    "verb": "oppgradere"
+  },
+  "upload": {
+    "verb": "laste opp",
+    "noun": "opplasting"
+  },
+  "view": {
+    "verb": "se"
+  },
+  "widgets": {
+    "noun": "widgeter"
+  },
+  "work": {
+    "noun": "arbeid",
+    "verb": "virke | fungere | arbeide"
+  },
+  "wrap": {
+    "verb": "pakke inn | pakk inn",
+    "noun": "innpakning"
+  },
+  "wrapper": {
+    "noun": "omslag"
+  }
+}

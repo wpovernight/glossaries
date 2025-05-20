@@ -1,0 +1,252 @@
+{
+  "Account": {
+    "noun": "अकाऊंट"
+  },
+  "Activate": {
+    "verb": "अॅक्टिवेट"
+  },
+  "Activation  Key": {
+    "expression": "अॅक्टिवेशन की"
+  },
+  "Address": {
+    "noun": "अॅड्रेस"
+  },
+  "Administrator": {
+    "noun": "प्रशासक"
+  },
+  "Anonymous": {
+    "adjective": "निनावी"
+  },
+  "Audio": {
+    "noun": "ऑडीओ"
+  },
+  "Avatar": {
+    "noun": "अवतार"
+  },
+  "Block themes": {
+    "noun": "ब्लॉक थिम"
+  },
+  "capability": {
+    "noun": "अधिकार"
+  },
+  "Caption": {
+    "noun": "कॅप्षन"
+  },
+  "Categories": {
+    "noun": "कॅटेगरीज"
+  },
+  "Category": {
+    "noun": "कॅटेगरी"
+  },
+  "Changeset": {
+    "noun": "चेंजसेट"
+  },
+  "Configuration": {
+    "noun": "कॉनफिग्युरेशन"
+  },
+  "Continue": {
+    "verb": "सुरू ठेवा"
+  },
+  "Default": {
+    "noun": "डीफाॅल्ट"
+  },
+  "Documentation": {
+    "noun": "डॉक्युमेन्टेशन"
+  },
+  "Domain": {
+    "noun": "डोमेन"
+  },
+  "Edit": {
+    "verb": "एडीट करा"
+  },
+  "email": {
+    "noun": "ईमेल"
+  },
+  "email address": {
+    "noun": "ईमेल अॅड्रेस"
+  },
+  "Enter": {
+    "verb": "टाईप करा"
+  },
+  "Entry": {
+    "noun": "एन्ट्री"
+  },
+  "Error": {
+    "noun": "चुक"
+  },
+  "File": {
+    "noun": "फाईल"
+  },
+  "Form": {
+    "noun": "फॉर्म"
+  },
+  "format": {
+    "noun": "स्वरूप"
+  },
+  "Forum": {
+    "noun": "फोरम"
+  },
+  "Hex Value": {
+    "expression": "Hex Value"
+  },
+  "Image": {
+    "noun": "इमेज"
+  },
+  "Inbox": {
+    "noun": "इनबॉक्स"
+  },
+  "Key": {
+    "noun": "Key"
+  },
+  "Link": {
+    "noun": "लिंक"
+  },
+  "Log In": {
+    "verb": "लॉग ईन"
+  },
+  "Log out": {
+    "verb": "लॉग आऊट"
+  },
+  "Maintenance": {
+    "noun": "मेन्टेनन्स"
+  },
+  "Menu Settings": {
+    "expression": "मेनू सेटिंग्स"
+  },
+  "Message": {
+    "noun": "मेसेज"
+  },
+  "Navigation Menu Item": {
+    "expression": "नॅविगेशन मेनू आयटम"
+  },
+  "Navigation Menu Items": {
+    "expression": "नॅविगेशन मेनू आयटम्स"
+  },
+  "Navigation Menus": {
+    "noun": "नॅविगेशन मेनूज"
+  },
+  "Network Admin": {
+    "expression": "नेटवर्क प्रशासक"
+  },
+  "New": {
+    "adjective": "नवा"
+  },
+  "new password": {
+    "expression": "नवा पासवर्ड"
+  },
+  "New Post": {
+    "expression": "नवा पोस्ट"
+  },
+  "New Site": {
+    "expression": "नवी साईट"
+  },
+  "Next": {
+    "noun": "पुढील"
+  },
+  "No": {
+    "noun": "नाही"
+  },
+  "nothing": {
+    "pronoun": "काही नाही"
+  },
+  "Page": {
+    "noun": "पृष्ठ"
+  },
+  "Page Template": {
+    "expression": "पेज टेमप्लेट"
+  },
+  "Password": {
+    "noun": "पासवर्ड"
+  },
+  "Plugin": {
+    "noun": "प्लगईन"
+  },
+  "Plugin Update": {
+    "expression": "प्लगईन अपडेट"
+  },
+  "Plugin Updates": {
+    "expression": "प्लगईन अपडेटस्"
+  },
+  "Plugins": {
+    "noun": "प्लगईन्स"
+  },
+  "Post format": {
+    "expression": "पोस्ट फॉरमॅट"
+  },
+  "Posted Title": {
+    "expression": "पोस्ट केलेलं शीर्षक"
+  },
+  "Previous": {
+    "noun": "मागील"
+  },
+  "Private": {
+    "noun": "खाजगी"
+  },
+  "Profile": {
+    "noun": "प्रोफाईल"
+  },
+  "Public": {
+    "noun": "सार्वजनिक"
+  },
+  "Published by": {
+    "expression": "लेखक"
+  },
+  "Resource": {
+    "noun": "संसाधन"
+  },
+  "Site": {
+    "noun": "साईट"
+  },
+  "Site Admin": {
+    "expression": "साईट अॅडमीन"
+  },
+  "spam": {
+    "noun": "स्पॅम"
+  },
+  "Support": {
+    "noun": "सपोर्ट"
+  },
+  "Tag": {
+    "noun": "टॅग"
+  },
+  "Tags": {
+    "noun": "टॅग्स"
+  },
+  "Taxonomy": {
+    "noun": "टॅक्सोनोमी"
+  },
+  "There are no options for this widget.": {
+    "expression": "ह्या विजेटचे ऑपशन्स उपलब्ध नाहीत."
+  },
+  "This": {
+    "pronoun": "ह्या"
+  },
+  "Type": {
+    "noun": "टाईप",
+    "verb": "टाईप"
+  },
+  "Uncategorized": {
+    "adjective": "अनकॅटेगराईज्ड"
+  },
+  "Update Category": {
+    "expression": "कॅटेगरी अपडेट करा"
+  },
+  "User": {
+    "noun": "वापरकर्ता"
+  },
+  "Username": {
+    "noun": "वापरकर्त्याचे नाव"
+  },
+  "Users": {
+    "noun": "वापरकर्ते"
+  },
+  "Video": {
+    "noun": "व्हिडीओ"
+  },
+  "WordPress": {
+    "noun": "वर्डप्रेस"
+  },
+  "Yes": {
+    "noun": "होय"
+  }
+}

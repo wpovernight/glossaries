@@ -1,0 +1,417 @@
+{
+  "admin bar": {
+    "noun": "topbjælke"
+  },
+  "ads": {
+    "noun": "annoncer"
+  },
+  "All Rights Reserved": {
+    "expression": "Alle rettigheder forbeholdes"
+  },
+  "An error occurred": {
+    "expression": "Der opstod en fejl"
+  },
+  "anchor": {
+    "noun": "anker"
+  },
+  "Apply": {
+    "verb": "Anvend"
+  },
+  "Approval": {
+    "noun": "Godkendelse"
+  },
+  "attachment": {
+    "noun": "vedhæftning"
+  },
+  "attribute": {
+    "noun": "egenskab"
+  },
+  "block editor": {
+    "noun": "blokeditor"
+  },
+  "block library": {
+    "noun": "blokbibliotek"
+  },
+  "block theme": {
+    "noun": "bloktema"
+  },
+  "border style": {
+    "noun": "kanttype"
+  },
+  "border width": {
+    "noun": "kantbredde"
+  },
+  "Browse": {
+    "verb": "Gennemse"
+  },
+  "caption text": {
+    "noun": "figurtekst"
+  },
+  "child": {
+    "adjective": "under"
+  },
+  "child theme": {
+    "noun": "undertema"
+  },
+  "class": {
+    "noun": "klasse"
+  },
+  "client": {
+    "noun": "kunde"
+  },
+  "color skin": {
+    "noun": "grundfarve"
+  },
+  "Committer": {
+    "noun": "Betroet"
+  },
+  "compatible": {
+    "adjective": "kompatibel"
+  },
+  "Compatible": {
+    "adjective": "Foreneligt"
+  },
+  "condition operator": {
+    "noun": "betingelsesoperator"
+  },
+  "Control Panel": {
+    "noun": "Kontrolpanel"
+  },
+  "create": {
+    "verb": "opret"
+  },
+  "custom": {
+    "adjective": "brugerdefineret"
+  },
+  "custom post type": {
+    "noun": "tilpasset indholdstype"
+  },
+  "customizer": {
+    "noun": "Tilpasser"
+  },
+  "deprecated": {
+    "verb": "udfaset"
+  },
+  "developer tool": {
+    "noun": "udviklerværktøj"
+  },
+  "display name": {
+    "noun": "vist navn"
+  },
+  "Distraction free mode": {
+    "noun": "Fuldskærmsvisning"
+  },
+  "document overview sidebar": {
+    "noun": "dokumentpanel"
+  },
+  "double quote": {
+    "noun": "dobbelte anførselstegn"
+  },
+  "draft": {
+    "noun": "kladde"
+  },
+  "drop-down": {
+    "noun": "rullemenu"
+  },
+  "dropdown": {
+    "noun": "rullemenu"
+  },
+  "duotone": {
+    "noun": "duotone"
+  },
+  "email confirmation": {
+    "noun": "bekræftelsesmail"
+  },
+  "erasure request": {
+    "expression": "anmodning om sletning"
+  },
+  "Excerpt": {
+    "noun": "Uddrag"
+  },
+  "F j, Y": {
+    "noun": "j. F Y"
+  },
+  "fallback": {
+    "adjective": "reserve",
+    "noun": "erstatning"
+  },
+  "feature-showcase website": {
+    "noun": "webstedet for funktionspræsentationer"
+  },
+  "featured image": {
+    "noun": "udvalgt billede"
+  },
+  "footer": {
+    "noun": "sidefod"
+  },
+  "form": {
+    "noun": "formular"
+  },
+  "free version": {
+    "noun": "gratis version"
+  },
+  "full": {
+    "adjective": "komplet"
+  },
+  "full site editing": {
+    "noun": "webstedsredigering"
+  },
+  "full text search": {
+    "noun": "fuldtekstsøgning"
+  },
+  "gradient": {
+    "noun": "hældning"
+  },
+  "header": {
+    "noun": "header"
+  },
+  "hide": {
+    "verb": "skjul"
+  },
+  "hierarchical": {
+    "noun": "hierarkisk"
+  },
+  "identifier": {
+    "noun": "identifikator"
+  },
+  "invalid": {
+    "adjective": "ugyldig"
+  },
+  "item": {
+    "noun": "element"
+  },
+  "javascript": {
+    "noun": "JavaScript"
+  },
+  "keyboard": {
+    "noun": "tastatur"
+  },
+  "landing page": {
+    "noun": "landingsside"
+  },
+  "legend": {
+    "noun": "Forklaring"
+  },
+  "letter spacing": {
+    "noun": "tegnafstand"
+  },
+  "list item": {
+    "noun": "liste-element"
+  },
+  "list table": {
+    "noun": "oversigtsliste"
+  },
+  "Log in": {
+    "verb": "Log ind"
+  },
+  "media": {
+    "noun": "medie"
+  },
+  "media library": {
+    "noun": "mediebibliotek"
+  },
+  "minify": {
+    "verb": "komprimere"
+  },
+  "mode": {
+    "noun": "tilstand"
+  },
+  "Moderate": {
+    "verb": "Vurdere"
+  },
+  "multiple": {
+    "adjective": "flere"
+  },
+  "necessary": {
+    "adjective": "fornødne"
+  },
+  "optional": {
+    "verb": "valgfri"
+  },
+  "options": {
+    "noun": "muligheder"
+  },
+  "paragraph": {
+    "noun": "afsnit"
+  },
+  "parent": {
+    "adjective": "overordnet"
+  },
+  "parent theme": {
+    "noun": "hovedtema"
+  },
+  "password": {
+    "noun": "adgangskode"
+  },
+  "pattern": {
+    "noun": "blokgruppe"
+  },
+  "patterns": {
+    "noun": "blokgrupper"
+  },
+  "permalink": {
+    "noun": "permanent link"
+  },
+  "personal data": {
+    "noun": "persondata"
+  },
+  "personal data request": {
+    "noun": "persondataforspørgsel"
+  },
+  "plugin": {
+    "noun": "plugin"
+  },
+  "post comments block": {
+    "noun": "indlægskommentar"
+  },
+  "post type": {
+    "noun": "indholdstype"
+  },
+  "post types": {
+    "noun": "indholdstyper"
+  },
+  "premium plugin": {
+    "noun": "betalt version af plugin"
+  },
+  "Preview": {
+    "noun": "Forhåndsvisning"
+  },
+  "preview": {
+    "verb": "forhåndsvis"
+  },
+  "pricing plan": {
+    "noun": "prispakke"
+  },
+  "privacy policy": {
+    "noun": "privatlivspolitik"
+  },
+  "publish": {
+    "verb": "udgiv"
+  },
+  "query": {
+    "noun": "forespørgsel"
+  },
+  "quick inserter": {
+    "noun": "hurtigindsætning"
+  },
+  "quote": {
+    "noun": "tilbud"
+  },
+  "rating": {
+    "noun": "bedømmelse"
+  },
+  "Release Notes": {
+    "noun": "udgivelsesnotater"
+  },
+  "result set": {
+    "noun": "svar"
+  },
+  "reusable block": {
+    "noun": "genanvendelig blok"
+  },
+  "review": {
+    "noun": "anmeldelse"
+  },
+  "rich text": {
+    "noun": "formateret text"
+  },
+  "role": {
+    "noun": "rolle"
+  },
+  "schema": {
+    "noun": "skema"
+  },
+  "section": {
+    "noun": "sektion"
+  },
+  "serial key": {
+    "noun": "licensnøgle"
+  },
+  "shortcode": {
+    "noun": "shortcode"
+  },
+  "sidebar": {
+    "noun": "sidepanel"
+  },
+  "site": {
+    "noun": "websted"
+  },
+  "slug": {
+    "noun": "korttitel"
+  },
+  "string": {
+    "noun": "tekststreng"
+  },
+  "stylesheet": {
+    "noun": "stylesheet"
+  },
+  "styling": {
+    "noun": "design"
+  },
+  "successfully": {
+    "adjective": "uden problemer"
+  },
+  "table": {
+    "noun": "bord"
+  },
+  "table prefix": {
+    "noun": "tabelpræfiks"
+  },
+  "tagline": {
+    "noun": "beskrivelse"
+  },
+  "target": {
+    "noun": "destination"
+  },
+  "taxonomy": {
+    "noun": "klassificering"
+  },
+  "toggle": {
+    "verb": "skift"
+  },
+  "tutorial": {
+    "noun": "selvstudie"
+  },
+  "unique": {
+    "adjective": "særligt"
+  },
+  "unsupported": {
+    "verb": "ikke understøttet"
+  },
+  "upload": {
+    "verb": "upload"
+  },
+  "URL": {
+    "noun": "URL"
+  },
+  "valid": {
+    "verb": "gyldig"
+  },
+  "value type": {
+    "noun": "værditype"
+  },
+  "various contexts": {
+    "noun": "forskellige sammenhænge"
+  },
+  "viewport": {
+    "noun": "viewport"
+  },
+  "visitor": {
+    "noun": "besøgende"
+  },
+  "website": {
+    "noun": "websted"
+  },
+  "widget": {
+    "noun": "widget"
+  },
+  "widget area": {
+    "noun": "widget-område"
+  },
+  "WordPress Plugin Directory": {
+    "noun": "WordPress pluginbibliotek"
+  },
+  "WordPress Theme Directory": {
+    "noun": "WordPress Temabibliotek"
+  }
+}

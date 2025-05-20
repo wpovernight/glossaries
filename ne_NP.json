@@ -1,0 +1,1147 @@
+{
+  "access": {
+    "noun": "पहुँच"
+  },
+  "accessibility": {
+    "noun": "सर्वसुगमता"
+  },
+  "accordion": {
+    "noun": "अकोर्डियन"
+  },
+  "account": {
+    "noun": "खाता"
+  },
+  "activation": {
+    "noun": "सक्रियकरण"
+  },
+  "active": {
+    "noun": "सक्रिय"
+  },
+  "add": {
+    "verb": "थप्नु"
+  },
+  "admin": {
+    "noun": "प्रशासक, व्यवस्थापक"
+  },
+  "administration": {
+    "noun": "प्रशासन"
+  },
+  "administrative": {
+    "adjective": "प्रशासनिक , प्रशासकीय"
+  },
+  "administrator": {
+    "adjective": "प्रशासक"
+  },
+  "allocate": {
+    "verb": "निर्धारण गर्नु, विनियोजन गर्नु"
+  },
+  "allocation": {
+    "noun": "निर्धारण"
+  },
+  "alphanumeric": {
+    "noun": "अल्फान्युमेरिक"
+  },
+  "amber": {
+    "adjective": "अम्बर"
+  },
+  "analytics": {
+    "noun": "एनालिटिक्स"
+  },
+  "anchor": {
+    "noun": "एङ्कर"
+  },
+  "Apache": {
+    "noun": "अपाचे"
+  },
+  "API": {
+    "noun": "एपिआई"
+  },
+  "application": {
+    "noun": "एप्लिकेसन"
+  },
+  "apply": {
+    "verb": "लागू गर्नु"
+  },
+  "approve": {
+    "verb": "स्वीकृत गर्नु"
+  },
+  "approved": {
+    "adjective": "स्वीकृत"
+  },
+  "archive": {
+    "noun": "अभिलेख",
+    "verb": "सङ्ग्रहित गर्नु"
+  },
+  "argument": {
+    "noun": "आर्गुमेन्ट"
+  },
+  "Array": {
+    "noun": "एरे"
+  },
+  "arrow": {
+    "noun": "वाण"
+  },
+  "assigned": {
+    "adjective": "तोकिएको, निर्दिष्ट"
+  },
+  "associated": {
+    "adjective": "सम्बद्ध"
+  },
+  "attribute": {
+    "noun": "विशेषता"
+  },
+  "audio": {
+    "noun": "अडियो"
+  },
+  "authentication": {
+    "noun": "प्रमाणीकरण"
+  },
+  "authorization": {
+    "noun": "प्राधिकरण"
+  },
+  "auto-update": {
+    "noun": "स्वत: अपडेट"
+  },
+  "automatic": {
+    "adjective": "स्वचालित"
+  },
+  "back": {
+    "noun": "पछाडि"
+  },
+  "backend": {
+    "noun": "ब्याकइन्ड"
+  },
+  "background": {
+    "noun": "पृष्ठभूमि"
+  },
+  "backup": {
+    "noun": "जगेडा, ब्याकअप"
+  },
+  "backward compatibility": {
+    "adjective": "पश्चानुकुलता"
+  },
+  "block": {
+    "noun": "ब्लक"
+  },
+  "blockquote": {
+    "noun": "उद्धरण"
+  },
+  "blue": {
+    "adjective": "निलो"
+  },
+  "border": {
+    "noun": "सीमा"
+  },
+  "brand new": {
+    "adjective": "बिल्कुल नयाँ"
+  },
+  "breadcrumb": {
+    "noun": "ब्रेडक्रम"
+  },
+  "brown": {
+    "adjective": "खैरो"
+  },
+  "built-in": {
+    "adjective": "अन्तरनिर्मित"
+  },
+  "bulk": {
+    "noun": "एकमुस्ट"
+  },
+  "button": {
+    "noun": "बटन"
+  },
+  "calendar": {
+    "noun": "क्यालेन्डर"
+  },
+  "capability": {
+    "noun": "क्षमता"
+  },
+  "caption": {
+    "noun": "क्याप्सन"
+  },
+  "category": {
+    "noun": "वर्ग"
+  },
+  "chat": {
+    "noun": "च्याट"
+  },
+  "checklist": {
+    "noun": "जाँचसूची"
+  },
+  "child theme": {
+    "noun": "चाइल्ड थिम"
+  },
+  "choose": {
+    "verb": "छान्नु, छनोट गर्नु"
+  },
+  "color": {
+    "noun": "रङ्ग, रंग"
+  },
+  "column": {
+    "noun": "कोलम"
+  },
+  "command": {
+    "noun": "कमान्ड"
+  },
+  "comment": {
+    "noun": "टिप्पणी",
+    "verb": "टिप्पणी गर्नु"
+  },
+  "commercial": {
+    "noun": "व्यावसायिक"
+  },
+  "communication": {
+    "noun": "सञ्चार"
+  },
+  "compatibility": {
+    "noun": "अनुकूलता"
+  },
+  "compatible": {
+    "adjective": "अनुकूल"
+  },
+  "configuration": {
+    "noun": "कन्फिगरेसन"
+  },
+  "configure": {
+    "verb": "कन्फिगर गर्नु"
+  },
+  "confirm": {
+    "verb": "पुष्टि गर्नु"
+  },
+  "confirmation": {
+    "noun": "पुष्टीकरण"
+  },
+  "confirmed": {
+    "adjective": "पुष्टीकृत"
+  },
+  "connection": {
+    "noun": "जडान"
+  },
+  "content": {
+    "noun": "सामग्री"
+  },
+  "control": {
+    "noun": "कन्ट्रोल, नियन्त्रण"
+  },
+  "cookie": {
+    "noun": "कुकी"
+  },
+  "coordinate": {
+    "noun": "निर्देशाङ्क",
+    "verb": "समन्वय गर्नु"
+  },
+  "coordinator": {
+    "adjective": "संयोजक"
+  },
+  "copy": {
+    "verb": "कपी गर्नु, प्रतिलिपि गर्नु",
+    "noun": "कपी, प्रतिलिपि"
+  },
+  "cover": {
+    "noun": "कभर"
+  },
+  "create": {
+    "verb": "सिर्जना गर्नु"
+  },
+  "crop": {
+    "verb": "काँटछाँट गर्नु, क्रप गर्नु",
+    "noun": "काँटछाँट, क्रप"
+  },
+  "CSS": {
+    "noun": "सिएसएस"
+  },
+  "current": {
+    "noun": "हाल, वर्तमान"
+  },
+  "custom": {
+    "noun": "कस्टम"
+  },
+  "Customize": {
+    "verb": "कस्टमाइज"
+  },
+  "Customizer": {
+    "noun": "कस्टमाइजर"
+  },
+  "cyan": {
+    "adjective": "सायान"
+  },
+  "database": {
+    "noun": "डाटाबेस"
+  },
+  "date": {
+    "noun": "मिति"
+  },
+  "decode": {
+    "noun": "असङ्केतन"
+  },
+  "default": {
+    "noun": "पूर्वनिर्धारित"
+  },
+  "delete": {
+    "verb": "मेटाउनु"
+  },
+  "deprecated": {
+    "noun": "बहिष्कृत"
+  },
+  "description": {
+    "noun": "विवरण"
+  },
+  "developer": {
+    "noun": "डेभलपर"
+  },
+  "dialog": {
+    "noun": "डाइलग"
+  },
+  "digit": {
+    "noun": "अङ्क"
+  },
+  "directory": {
+    "noun": "डाइरेक्टरी"
+  },
+  "disable": {
+    "verb": "अक्षम गर्नु"
+  },
+  "distraction free": {
+    "noun": "विकर्षण मुक्त"
+  },
+  "document": {
+    "noun": "डकुमेन्ट"
+  },
+  "documentation": {
+    "noun": "दस्तावेज"
+  },
+  "download": {
+    "noun": "डाउनलोड"
+  },
+  "draft": {
+    "noun": "ड्राफ्ट"
+  },
+  "duotone": {
+    "noun": "डुओटोन"
+  },
+  "dusk": {
+    "adjective": "पीतसूर्य"
+  },
+  "edit": {
+    "verb": "सम्पादन गर्नु"
+  },
+  "email": {
+    "noun": "इमेल"
+  },
+  "embed": {
+    "noun": "इम्बेड"
+  },
+  "enable": {
+    "verb": "सक्षम गर्नु"
+  },
+  "encoded": {
+    "adjective": "सङ्केतित"
+  },
+  "encoding": {
+    "noun": "सङ्केतन"
+  },
+  "enhanced": {
+    "adjective": "परिष्कृत"
+  },
+  "enlarged": {
+    "adjective": "विस्तारित"
+  },
+  "error": {
+    "noun": "त्रुटि"
+  },
+  "event": {
+    "noun": "कार्यक्रम"
+  },
+  "excerpt": {
+    "noun": "पाठांश"
+  },
+  "exclusive": {
+    "noun": "असमावेशी"
+  },
+  "exist": {
+    "verb": "अस्तित्वमा हुनु, अवस्थित हुनु"
+  },
+  "existing": {
+    "adjective": "विद्यमान"
+  },
+  "expected": {
+    "adjective": "अपेक्षित"
+  },
+  "exporter": {
+    "noun": "निर्यातक"
+  },
+  "featured": {
+    "noun": "विशेष"
+  },
+  "featured image": {
+    "noun": "विशेष तस्बिर"
+  },
+  "feed": {
+    "noun": "फिड"
+  },
+  "field": {
+    "noun": "फिल्ड"
+  },
+  "file": {
+    "noun": "फाइल"
+  },
+  "footer": {
+    "noun": "फुटर"
+  },
+  "footnote": {
+    "noun": "फुटनोट"
+  },
+  "form": {
+    "noun": "फाराम"
+  },
+  "format": {
+    "noun": "ढाँचा"
+  },
+  "formatted": {
+    "adjective": "ढाँचाबद्ध"
+  },
+  "forum": {
+    "noun": "फोरम, मञ्च"
+  },
+  "front": {
+    "noun": "अगाडि"
+  },
+  "front page": {
+    "noun": "मुखपृष्ठ"
+  },
+  "frontend": {
+    "noun": "फ्रन्टइन्ड"
+  },
+  "FTP": {
+    "noun": "एफटीपी"
+  },
+  "function": {
+    "noun": "फङ्कसन"
+  },
+  "gallery": {
+    "noun": "ग्यालरी"
+  },
+  "general": {
+    "adjective": "साधारण, जनरल"
+  },
+  "globally": {
+    "adjective": "सर्वव्यापी, विश्वव्यापी"
+  },
+  "go to": {
+    "noun": "जानुहोस्"
+  },
+  "GPL": {
+    "noun": "जिपिएल"
+  },
+  "Gravatar": {
+    "noun": "ग्राभटार"
+  },
+  "gray": {
+    "adjective": "खरानी"
+  },
+  "group": {
+    "noun": "समूह",
+    "verb": "समूहबद्ध गर्नु"
+  },
+  "GUID": {
+    "noun": "जियुआईडी"
+  },
+  "handler": {
+    "noun": "ह्यान्डलर"
+  },
+  "header": {
+    "noun": "हेडर"
+  },
+  "heading": {
+    "noun": "हेडिङ"
+  },
+  "health": {
+    "noun": "स्वास्थ्य"
+  },
+  "height": {
+    "noun": "उचाइ"
+  },
+  "help": {
+    "noun": "सहयोग"
+  },
+  "hierarchy": {
+    "noun": "पदानुक्रम"
+  },
+  "hint": {
+    "noun": "सङ्केत"
+  },
+  "HTML": {
+    "noun": "एचटिएमएल"
+  },
+  "HTTP": {
+    "noun": "एचटिटिपी"
+  },
+  "HTTPS": {
+    "noun": "एचटिटिपिएस"
+  },
+  "icon": {
+    "noun": "आइकन"
+  },
+  "id": {
+    "noun": "आईडी"
+  },
+  "identifier": {
+    "noun": "परिचायक"
+  },
+  "image": {
+    "noun": "तस्बिर"
+  },
+  "importer": {
+    "noun": "आयातक"
+  },
+  "inactive": {
+    "noun": "निष्क्रिय"
+  },
+  "inclusive": {
+    "noun": "समावेशी"
+  },
+  "incompatible": {
+    "adjective": "प्रतिकूल"
+  },
+  "index": {
+    "noun": "इन्डेक्स"
+  },
+  "indigo": {
+    "noun": "गाढा निलो"
+  },
+  "individual": {
+    "adjective": "व्यक्तिगत, छुट्टाछुट्टै"
+  },
+  "input": {
+    "noun": "इनपुट"
+  },
+  "inserter": {
+    "noun": "इन्सर्टर"
+  },
+  "install": {
+    "verb": "स्थापना गर्नु"
+  },
+  "integer": {
+    "noun": "पूर्णाङ्क"
+  },
+  "invalid": {
+    "adjective": "अमान्य"
+  },
+  "involved": {
+    "adjective": "संलग्न"
+  },
+  "IP": {
+    "noun": "आईपी"
+  },
+  "item": {
+    "noun": "आइटम"
+  },
+  "key": {
+    "noun": "की"
+  },
+  "keyboard": {
+    "noun": "किबोर्ड"
+  },
+  "large": {
+    "adjective": "ठूलो"
+  },
+  "latest": {
+    "noun": "नवीनतम"
+  },
+  "layout": {
+    "noun": "लेआउट"
+  },
+  "level": {
+    "noun": "स्तर"
+  },
+  "library": {
+    "noun": "लाइब्रेरी, पुस्तकालय"
+  },
+  "license": {
+    "noun": "लाइसेन्स"
+  },
+  "light": {
+    "adjective": "उज्यालो, हलुको, हल्का"
+  },
+  "limited": {
+    "adjective": "सीमित"
+  },
+  "link": {
+    "noun": "लिङ्क"
+  },
+  "list": {
+    "noun": "सूची"
+  },
+  "live preview": {
+    "noun": "प्रत्यक्ष पूर्वावलोकन"
+  },
+  "local": {
+    "adjective": "स्थानीय"
+  },
+  "localized": {
+    "adjective": "स्थानीयकृत"
+  },
+  "location": {
+    "noun": "स्थान, स्थल"
+  },
+  "login": {
+    "noun": "लगइन"
+  },
+  "logo": {
+    "noun": "लोगो"
+  },
+  "logout": {
+    "noun": "लगआउट"
+  },
+  "loop": {
+    "noun": "लुप"
+  },
+  "luminous": {
+    "adjective": "उज्यालो"
+  },
+  "machine": {
+    "noun": "मेसिन"
+  },
+  "management": {
+    "noun": "व्यवस्थापन"
+  },
+  "manual": {
+    "noun": "म्यानुअल"
+  },
+  "maroon": {
+    "adjective": "कलेजी"
+  },
+  "maximum": {
+    "noun": "अधिकतम"
+  },
+  "meeting": {
+    "noun": "मिटिङ, बैठक"
+  },
+  "meetup": {
+    "noun": "मिटअप"
+  },
+  "menu": {
+    "noun": "मेनु"
+  },
+  "message": {
+    "noun": "सन्देश"
+  },
+  "Microformat": {
+    "noun": "माइक्रोफर्म्याट"
+  },
+  "minimum": {
+    "noun": "न्यूनतम"
+  },
+  "moderation": {
+    "noun": "नियन्त्रण, जाँच"
+  },
+  "most used": {
+    "adjective": "सर्वप्रिय"
+  },
+  "multiple": {
+    "noun": "बहुसङ्ख्यक"
+  },
+  "multisite": {
+    "noun": "मल्टिसाइट"
+  },
+  "Must Use": {
+    "adjective": "परमावश्यक"
+  },
+  "MySQL": {
+    "noun": "माइएसक्युएल"
+  },
+  "navigation": {
+    "noun": "नेभिगेसन"
+  },
+  "Network": {
+    "noun": "नेटवर्क"
+  },
+  "new": {
+    "adjective": "नयाँ"
+  },
+  "non-empty": {
+    "adjective": "गैररिक्त"
+  },
+  "number": {
+    "noun": "नम्बर, अङ्क, सङ्ख्या"
+  },
+  "numbered": {
+    "adjective": "सङ्ख्यात्मक"
+  },
+  "object": {
+    "noun": "अब्जेक्ट"
+  },
+  "operation": {
+    "noun": "सञ्चालन"
+  },
+  "option": {
+    "noun": "विकल्प"
+  },
+  "outline": {
+    "noun": "रूपरेखा"
+  },
+  "overview": {
+    "noun": "परिदृश्य"
+  },
+  "page": {
+    "noun": "पृष्ठ"
+  },
+  "pagination": {
+    "noun": "पृष्ठाङ्कन"
+  },
+  "pale": {
+    "adjective": "फिक्का"
+  },
+  "parent theme": {
+    "noun": "प्यारेन्ट थिम"
+  },
+  "password": {
+    "noun": "पासवर्ड"
+  },
+  "pattern": {
+    "noun": "प्याटर्न"
+  },
+  "patterns": {
+    "noun": "प्याटर्नहरू"
+  },
+  "PDF": {
+    "noun": "पिडिएफ"
+  },
+  "pending": {
+    "noun": "विचाराधीन"
+  },
+  "performance": {
+    "noun": "कार्यसम्पादन"
+  },
+  "performant": {
+    "adjective": "निपुण, दक्ष, कार्यकुशल"
+  },
+  "permalink": {
+    "noun": "पर्मालिङ्क"
+  },
+  "permanent": {
+    "adjective": "स्थायी"
+  },
+  "permission": {
+    "noun": "अनुमति"
+  },
+  "persistent": {
+    "adjective": "दृढ"
+  },
+  "photo": {
+    "noun": "फोटो"
+  },
+  "PHP": {
+    "noun": "पिएचपी"
+  },
+  "picture": {
+    "noun": "तस्बिर"
+  },
+  "pingback": {
+    "noun": "पिङब्याक"
+  },
+  "pink": {
+    "adjective": "गुलाबी"
+  },
+  "pixel": {
+    "noun": "पिक्सेल"
+  },
+  "platform": {
+    "noun": "प्लेटफर्म"
+  },
+  "playlist": {
+    "noun": "प्लेलिस्ट"
+  },
+  "plugin": {
+    "noun": "प्लगिन"
+  },
+  "policy": {
+    "noun": "नीति"
+  },
+  "popular": {
+    "noun": "लोकप्रिय"
+  },
+  "post": {
+    "noun": "पोस्ट",
+    "verb": "पोस्ट गर्नु"
+  },
+  "pre-publish": {
+    "noun": "पूर्वप्रकाशन"
+  },
+  "preference": {
+    "noun": "रोजाइ, अभिरुची"
+  },
+  "preformatted": {
+    "adjective": "पूर्वस्वरूपित"
+  },
+  "preview": {
+    "noun": "पूर्वावलोकन"
+  },
+  "privacy": {
+    "noun": "गोपनीयता"
+  },
+  "profile": {
+    "noun": "प्रोफाइल"
+  },
+  "project": {
+    "noun": "परियोजना"
+  },
+  "property": {
+    "noun": "गुण, सम्पत्ति"
+  },
+  "protected": {
+    "adjective": "संरक्षित"
+  },
+  "publish": {
+    "verb": "प्रकाशित गर्नु"
+  },
+  "purple": {
+    "adjective": "प्याजी"
+  },
+  "purpose": {
+    "noun": "प्रयोजन, उद्देश्य"
+  },
+  "quote": {
+    "noun": "वाणी"
+  },
+  "random": {
+    "adjective": "अनियमित, क्रमरहित"
+  },
+  "rating": {
+    "noun": "रेटिङ्ग"
+  },
+  "readable": {
+    "adjective": "पठनीय"
+  },
+  "recovery": {
+    "noun": "पुनर्प्राप्ति"
+  },
+  "redirect": {
+    "verb": "रिडिरेक्ट गर्नु"
+  },
+  "release": {
+    "noun": "रिलीज"
+  },
+  "remove": {
+    "verb": "हटाउनु"
+  },
+  "repair": {
+    "noun": "मर्मत"
+  },
+  "repeat": {
+    "verb": "दोहोर्‍याउनु"
+  },
+  "replace": {
+    "verb": "प्रतिस्थापन गर्नु, बदल्नु"
+  },
+  "repo": {
+    "noun": "रिपो"
+  },
+  "repository": {
+    "noun": "रिपजिटरी"
+  },
+  "required": {
+    "adverb": "आवश्यक, अनिवार्य"
+  },
+  "resize": {
+    "verb": "रिसाइज गर्नु"
+  },
+  "resolution": {
+    "noun": "रिजोलुसन"
+  },
+  "response": {
+    "noun": "प्रतिक्रिया"
+  },
+  "restore": {
+    "verb": "पुनर्स्थापना गर्नु"
+  },
+  "result": {
+    "noun": "नतिजा"
+  },
+  "resume": {
+    "verb": "सुचारु गर्नु"
+  },
+  "return": {
+    "noun": "फर्कनुहोस्"
+  },
+  "review": {
+    "noun": "समीक्षा"
+  },
+  "revision": {
+    "noun": "संशोधन"
+  },
+  "role": {
+    "noun": "भूमिका"
+  },
+  "row": {
+    "noun": "पङ्क्ति"
+  },
+  "RTL": {
+    "noun": "आरटिएल"
+  },
+  "schedule": {
+    "noun": "अनुसूची"
+  },
+  "scheduled": {
+    "adjective": "अनुसूचित"
+  },
+  "screen": {
+    "noun": "स्क्रिन"
+  },
+  "screenshot": {
+    "noun": "स्क्रिनसट"
+  },
+  "search engine": {
+    "noun": "सर्च इन्जिन"
+  },
+  "second": {
+    "noun": "सेकेण्ड"
+  },
+  "set": {
+    "verb": "सेट गर्नु"
+  },
+  "setting": {
+    "noun": "सेटिङ"
+  },
+  "setup": {
+    "noun": "सेटअप"
+  },
+  "sharing dialog": {
+    "noun": "सेयरिङ डाइलग"
+  },
+  "showcase": {
+    "noun": "सोकेस"
+  },
+  "sidebar": {
+    "noun": "साइडबार"
+  },
+  "site": {
+    "noun": "साइट"
+  },
+  "size": {
+    "noun": "साइज, आकार"
+  },
+  "slug": {
+    "noun": "स्लग"
+  },
+  "sorry": {
+    "verb": "माफ गर्नुहोस्"
+  },
+  "source": {
+    "noun": "स्रोत"
+  },
+  "space": {
+    "noun": "स्पेस"
+  },
+  "specified": {
+    "adjective": "निर्दिष्ट"
+  },
+  "stage": {
+    "noun": "मञ्च"
+  },
+  "standard": {
+    "adjective": "स्तरीय"
+  },
+  "standard time": {
+    "noun": "मानक समय"
+  },
+  "start": {
+    "noun": "सुरु"
+  },
+  "static": {
+    "noun": "स्थिर"
+  },
+  "status": {
+    "noun": "स्थिति, स्टाटस"
+  },
+  "sticky": {
+    "noun": "स्टिकी"
+  },
+  "string": {
+    "noun": "स्ट्रिङ"
+  },
+  "structure": {
+    "noun": "संरचना, बनावट, बनोट"
+  },
+  "style": {
+    "noun": "स्टाइल"
+  },
+  "stylesheet": {
+    "noun": "स्टाइलसिट"
+  },
+  "submit": {
+    "verb": "पेस गर्नु"
+  },
+  "subtitle": {
+    "noun": "उपशीर्षक"
+  },
+  "summary": {
+    "noun": "सारांश"
+  },
+  "super admin": {
+    "noun": "वरिष्ठ प्रशासक"
+  },
+  "support": {
+    "noun": "सहायता, समर्थन"
+  },
+  "sync": {
+    "verb": "सिङ्क गर्नु"
+  },
+  "table": {
+    "noun": "टेबुल"
+  },
+  "tag": {
+    "noun": "ट्याग"
+  },
+  "take over": {
+    "verb": "अधिग्रहण गर्नु"
+  },
+  "taxonomy": {
+    "noun": "ट्याक्सोनोमी"
+  },
+  "team": {
+    "noun": "टोली / टिम"
+  },
+  "template": {
+    "noun": "टेम्प्लेट"
+  },
+  "temporary": {
+    "adjective": "अस्थायी"
+  },
+  "term": {
+    "noun": "टर्म"
+  },
+  "testimonial": {
+    "noun": "प्रशंसापत्र"
+  },
+  "theme": {
+    "noun": "थिम"
+  },
+  "thread": {
+    "noun": "थ्रेड"
+  },
+  "Threaded Comments": {
+    "noun": "थ्रेड गरिएका टिप्पणीहरू"
+  },
+  "thumbnail": {
+    "noun": "थम्बनेल"
+  },
+  "timezone": {
+    "noun": "टाइमजोन, समयक्षेत्र"
+  },
+  "title": {
+    "noun": "शीर्षक"
+  },
+  "toolbar": {
+    "noun": "टुलबार"
+  },
+  "trackback": {
+    "noun": "ट्र्याकब्याक"
+  },
+  "translated": {
+    "adjective": "अनूदित"
+  },
+  "trash": {
+    "noun": "रद्दीटोकरी"
+  },
+  "try": {
+    "verb": "प्रयास गर्नु, कोसिस गर्नु"
+  },
+  "tutorial": {
+    "noun": "व्याख्यान"
+  },
+  "type": {
+    "noun": "प्रकार"
+  },
+  "Typography": {
+    "noun": "टाइपोग्राफी"
+  },
+  "UI": {
+    "noun": "यूआई"
+  },
+  "unapprove": {
+    "verb": "अस्वीकृत गर्नु"
+  },
+  "unexpected": {
+    "adjective": "अनपेक्षित"
+  },
+  "ungroup": {
+    "verb": "असमूहीकृत गर्नु"
+  },
+  "up to date": {
+    "adjective": "नवीनतम"
+  },
+  "update": {
+    "noun": "अपडेट",
+    "verb": "अपडेट गर्नु"
+  },
+  "upgrade": {
+    "verb": "अपग्रेड गर्नु"
+  },
+  "upload": {
+    "noun": "अपलोड"
+  },
+  "URL": {
+    "noun": "युआरएल"
+  },
+  "user": {
+    "noun": "प्रयोगकर्ता"
+  },
+  "username": {
+    "noun": "युजरनेम"
+  },
+  "value": {
+    "noun": "मान"
+  },
+  "variant": {
+    "noun": "भेरियन्ट"
+  },
+  "variation": {
+    "noun": "विविधता, भिन्नता"
+  },
+  "verification": {
+    "noun": "प्रमाणीकरण"
+  },
+  "verse": {
+    "noun": "श्लोक"
+  },
+  "version": {
+    "noun": "संस्करण"
+  },
+  "violet": {
+    "adjective": "बैजनी"
+  },
+  "visibility": {
+    "noun": "दृश्यता, दृश्यात्मक"
+  },
+  "visible": {
+    "adjective": "दृश्यमान"
+  },
+  "visual editor": {
+    "noun": "दृश्य सम्पादक"
+  },
+  "Vivid": {
+    "adjective": "चहकिलो"
+  },
+  "waiting": {
+    "adjective": "प्रतीक्षा गर्दै"
+  },
+  "widget": {
+    "noun": "विजेट"
+  },
+  "wildcard": {
+    "noun": "वाइल्डकार्ड"
+  },
+  "WordCamp": {
+    "noun": "वर्डक्याम्प"
+  },
+  "WordPress": {
+    "noun": "वर्डप्रेस"
+  },
+  "writable": {
+    "adjective": "लेखनीय"
+  },
+  "yellow": {
+    "adjective": "पहेँलो"
+  }
+}

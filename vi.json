@@ -1,0 +1,809 @@
+{
+  "404 Not Found": {
+    "noun": "Không tồn tại - 404"
+  },
+  "a post": {
+    "noun": "bài viết"
+  },
+  "Accent Color": {
+    "noun": "Màu phụ"
+  },
+  "account": {
+    "noun": "tài khoản"
+  },
+  "Activate": {
+    "verb": "Kích hoạt"
+  },
+  "Active Plugins": {
+    "noun": "Plugin đã kích hoạt"
+  },
+  "Active Theme": {
+    "noun": "Giao diện đang sử dụng"
+  },
+  "Add": {
+    "verb": "Thêm"
+  },
+  "added to cart": {
+    "expression": "thêm vào giỏ hàng"
+  },
+  "Address": {
+    "noun": "Địa chỉ"
+  },
+  "admin": {
+    "noun": "admin"
+  },
+  "all": {
+    "adjective": "tất cả"
+  },
+  "An error has occurred": {
+    "expression": "Có lỗi xảy ra."
+  },
+  "any": {
+    "adjective": "bất kỳ"
+  },
+  "anyone": {
+    "expression": "bất kỳ ai"
+  },
+  "Appearance": {
+    "noun": "Giao diện"
+  },
+  "apply": {
+    "verb": "áp dụng"
+  },
+  "approve": {
+    "verb": "chấp thuận"
+  },
+  "archive": {
+    "noun": "lưu trữ",
+    "verb": "lưu trữ"
+  },
+  "Aside": {
+    "noun": "Aside"
+  },
+  "aspect ratio": {
+    "noun": "tỉ lệ"
+  },
+  "attachment": {
+    "noun": "đính kèm"
+  },
+  "author": {
+    "noun": "tác giả"
+  },
+  "autosave": {
+    "noun": "tự động lưu"
+  },
+  "available": {
+    "adjective": "có sẵn"
+  },
+  "Avatar": {
+    "noun": "Ảnh đại diện"
+  },
+  "avatar": {
+    "noun": "ảnh đại diện"
+  },
+  "backend": {
+    "noun": "backend"
+  },
+  "background": {
+    "noun": "nền"
+  },
+  "backup": {
+    "noun": "sao lưu"
+  },
+  "binary": {
+    "noun": "nhị phân"
+  },
+  "Block": {
+    "noun": "Block"
+  },
+  "block pattern": {
+    "noun": "mẫu block"
+  },
+  "block patterns": {
+    "noun": "mẫu block"
+  },
+  "blog": {
+    "noun": "blog"
+  },
+  "blogroll": {
+    "noun": "blogroll"
+  },
+  "bookmarklet": {
+    "noun": "bookmarlet"
+  },
+  "breadcrumb": {
+    "noun": "breadcrumb"
+  },
+  "browse": {
+    "verb": "duyệt"
+  },
+  "browser": {
+    "noun": "trình duyệt"
+  },
+  "bulk action": {
+    "noun": "tác vụ"
+  },
+  "button": {
+    "noun": "nút"
+  },
+  "cancel": {
+    "adverb": "huỷ",
+    "verb": "huỷ"
+  },
+  "capabilities": {
+    "noun": "khả năng"
+  },
+  "category": {
+    "noun": "chuyên mục"
+  },
+  "Characters": {
+    "noun": "Kí tự"
+  },
+  "checkbox": {
+    "noun": "checkbox"
+  },
+  "child theme": {
+    "noun": "child theme"
+  },
+  "Click": {
+    "verb": "Click"
+  },
+  "click": {
+    "verb": "click",
+    "noun": "click"
+  },
+  "clicking": {
+    "noun": "nhấp chuột vào"
+  },
+  "Clicking": {
+    "noun": "Nhấp chuột vào"
+  },
+  "close": {
+    "adjective": "đóng"
+  },
+  "color": {
+    "noun": "màu"
+  },
+  "comment": {
+    "noun": "bình luận",
+    "verb": "bình luận"
+  },
+  "computer": {
+    "noun": "máy tính"
+  },
+  "conditional tag": {
+    "noun": "thẻ điều kiện"
+  },
+  "Contributor": {
+    "noun": "Người đóng góp"
+  },
+  "Cookie": {
+    "noun": "Cookie"
+  },
+  "Corresponds": {
+    "noun": "Tương ứng"
+  },
+  "crop": {
+    "verb": "cắt"
+  },
+  "custom field": {
+    "noun": "custom field"
+  },
+  "custom post type": {
+    "noun": "custom post type"
+  },
+  "custom taxonomy": {
+    "noun": "custom taxonomy"
+  },
+  "customize": {
+    "verb": "tuỳ chỉnh"
+  },
+  "Customizer": {
+    "noun": "Công cụ tùy chỉnh"
+  },
+  "Dashboard": {
+    "noun": "Bảng điều khiển"
+  },
+  "database": {
+    "noun": "cơ sở dữ liệu"
+  },
+  "deactivate": {
+    "verb": "tắt"
+  },
+  "debug": {
+    "verb": "debug"
+  },
+  "default": {
+    "adjective": "mặc định"
+  },
+  "delete": {
+    "verb": "xoá"
+  },
+  "Description": {
+    "noun": "Mô tả"
+  },
+  "developer": {
+    "noun": "nhà phát triển"
+  },
+  "directory": {
+    "noun": "thư mục"
+  },
+  "disable": {
+    "verb": "tắt"
+  },
+  "Display": {
+    "verb": "Hiển thị"
+  },
+  "documentation": {
+    "noun": "tài liệu"
+  },
+  "download": {
+    "verb": "tải về"
+  },
+  "draft": {
+    "noun": "bản nháp"
+  },
+  "edit": {
+    "verb": "sửa"
+  },
+  "editor": {
+    "noun": "công cụ soạn thảo"
+  },
+  "email": {
+    "noun": "email"
+  },
+  "embed": {
+    "noun": "nhúng"
+  },
+  "enable": {
+    "verb": "bật"
+  },
+  "Error": {
+    "noun": "Lỗi"
+  },
+  "excerpt": {
+    "noun": "tóm tắt"
+  },
+  "FAQ": {
+    "noun": "FAQ"
+  },
+  "favicon": {
+    "noun": "favicon"
+  },
+  "feature": {
+    "noun": "tính năng"
+  },
+  "featured image": {
+    "noun": "ảnh đại diện"
+  },
+  "featured post": {
+    "noun": "bài viết nổi bật"
+  },
+  "file": {
+    "noun": "file"
+  },
+  "File": {
+    "noun": "File"
+  },
+  "folder": {
+    "noun": "thư mục"
+  },
+  "follower": {
+    "noun": "người theo dõi"
+  },
+  "font": {
+    "noun": "font"
+  },
+  "fonts": {
+    "noun": "font chữ"
+  },
+  "footer": {
+    "noun": "chân trang"
+  },
+  "Forgot": {
+    "verb": "Quên"
+  },
+  "form": {
+    "expression": "form"
+  },
+  "Free": {
+    "noun": "Miễn phí"
+  },
+  "Front page": {
+    "noun": "Trang chủ"
+  },
+  "Fullwidth": {
+    "adjective": "Tràn viền"
+  },
+  "gallery": {
+    "noun": "album ảnh"
+  },
+  "Guide": {
+    "noun": "Hướng dẫn"
+  },
+  "has been removed": {
+    "expression": "đã được gỡ"
+  },
+  "has been updated": {
+    "expression": "đã được cập nhật"
+  },
+  "header": {
+    "noun": "đầu trang"
+  },
+  "height": {
+    "expression": "chiều cao"
+  },
+  "Home": {
+    "noun": "Trang chủ"
+  },
+  "hover": {
+    "verb": "hover"
+  },
+  "human readable format": {
+    "noun": "định dạng người dùng đọc"
+  },
+  "ID": {
+    "noun": "ID"
+  },
+  "Image": {
+    "noun": "Ảnh"
+  },
+  "In Stock": {
+    "noun": "Còn hàng"
+  },
+  "inactive plugins": {
+    "expression": "plugin chưa kích hoạt"
+  },
+  "inactive theme": {
+    "noun": "giao diện không sử dụng"
+  },
+  "inactive themes": {
+    "noun": "giao diện không sử dụng"
+  },
+  "Install": {
+    "verb": "Cài"
+  },
+  "Installed version": {
+    "noun": "Phiên bản đã cài đặt"
+  },
+  "Installing and Activating Plugin": {
+    "expression": "Cài đặt và kích hoạt plugin"
+  },
+  "invalid": {
+    "adjective": "không hợp lệ"
+  },
+  "Invalid": {
+    "adjective": "Không hợp lệ"
+  },
+  "IP Ranges": {
+    "noun": "Dải địa chỉ IP"
+  },
+  "is available": {
+    "expression": "có sẵn"
+  },
+  "is supported": {
+    "expression": "được hỗ trợ"
+  },
+  "is up to date": {
+    "expression": "là bản mới nhất"
+  },
+  "item": {
+    "noun": "mục"
+  },
+  "layout": {
+    "noun": "bố cục"
+  },
+  "license": {
+    "noun": "giấy phép"
+  },
+  "Link": {
+    "noun": "Liên kết"
+  },
+  "list": {
+    "noun": "danh sách"
+  },
+  "locale": {
+    "noun": "locale"
+  },
+  "log in": {
+    "verb": "đăng nhập"
+  },
+  "log out": {
+    "verb": "đăng xuất"
+  },
+  "logged in": {
+    "adjective": "đã đăng nhập"
+  },
+  "logged out": {
+    "adjective": "đã đăng xuất"
+  },
+  "login": {
+    "noun": "đăng nhập"
+  },
+  "logo": {
+    "noun": "logo"
+  },
+  "Manage": {
+    "verb": "quản lý"
+  },
+  "Media Library": {
+    "noun": "Media"
+  },
+  "Media Uploader": {
+    "noun": "Media Uploader"
+  },
+  "menu": {
+    "noun": "menu"
+  },
+  "Meta": {
+    "noun": "Meta"
+  },
+  "meta": {
+    "noun": "meta"
+  },
+  "moderate": {
+    "verb": "kiểm duyệt"
+  },
+  "moderation": {
+    "noun": "kiểm duyệt"
+  },
+  "multisite": {
+    "noun": "multisite"
+  },
+  "Must Use Plugins": {
+    "noun": "Plugin nên sử dụng"
+  },
+  "My Wishlist": {
+    "noun": "Danh sách yêu thích"
+  },
+  "navigation": {
+    "noun": "menu"
+  },
+  "Newer Comments": {
+    "noun": "Bình luận mới hơn"
+  },
+  "Next post": {
+    "noun": "Bài tiếp theo"
+  },
+  "nonce": {
+    "noun": "nonce"
+  },
+  "Notes": {
+    "noun": "Ghi chú"
+  },
+  "Nothing Found": {
+    "expression": "Không tìm thấy"
+  },
+  "object": {
+    "noun": "đối tượng"
+  },
+  "Older Comments": {
+    "noun": "Bình luận cũ hơn"
+  },
+  "Opening Time": {
+    "noun": "Giờ mở cửa"
+  },
+  "option": {
+    "noun": "tuỳ chọn"
+  },
+  "optional": {
+    "adjective": "không bắt buộc"
+  },
+  "Other Themes": {
+    "noun": "Giao diện khác"
+  },
+  "Out of Stock": {
+    "noun": "Hết hàng"
+  },
+  "Page": {
+    "noun": "Trang"
+  },
+  "pagination": {
+    "noun": "phân trang"
+  },
+  "patterns": {
+    "noun": "mẫu"
+  },
+  "permalink": {
+    "noun": "đường dẫn"
+  },
+  "permission": {
+    "noun": "quyền"
+  },
+  "ping": {
+    "noun": "ping"
+  },
+  "pingback": {
+    "noun": "pingback"
+  },
+  "plugin": {
+    "noun": "plugin"
+  },
+  "post type": {
+    "noun": "post type"
+  },
+  "preview": {
+    "verb": "xem trước"
+  },
+  "Primary Color": {
+    "noun": "Màu chính"
+  },
+  "Privacy Policy": {
+    "noun": "Chính sách Bảo mật"
+  },
+  "Product Name": {
+    "noun": "Tên sản phẩm"
+  },
+  "profile": {
+    "noun": "hồ sơ"
+  },
+  "publish": {
+    "verb": "đăng"
+  },
+  "query": {
+    "noun": "truy vấn"
+  },
+  "read more": {
+    "expression": "đọc tiếp"
+  },
+  "refresh": {
+    "verb": "làm mới"
+  },
+  "Register": {
+    "verb": "Đăng ký"
+  },
+  "remove": {
+    "adverb": "gỡ bỏ",
+    "verb": "xoá"
+  },
+  "reply": {
+    "noun": "trả lời",
+    "verb": "trả lời"
+  },
+  "reset": {
+    "verb": "đặt lại"
+  },
+  "REST API": {
+    "noun": "REST API"
+  },
+  "Reusable Block": {
+    "expression": "Block tái sử dụng"
+  },
+  "review": {
+    "noun": "đánh giá"
+  },
+  "revision": {
+    "noun": "bản thảo"
+  },
+  "save": {
+    "verb": "lưu"
+  },
+  "Save Changes": {
+    "expression": "Lưu thay đổi"
+  },
+  "Scheduled events": {
+    "noun": "Sự kiện được lên lịch"
+  },
+  "screen": {
+    "noun": "trang"
+  },
+  "Search": {
+    "expression": "Tìm kiếm"
+  },
+  "Search Results for": {
+    "noun": "Kết quả tìm kiếm cho"
+  },
+  "selected": {
+    "adjective": "đã chọn"
+  },
+  "self-hosted": {
+    "adjective": "tự cài đặt"
+  },
+  "server": {
+    "noun": "máy chủ"
+  },
+  "settings": {
+    "noun": "cài đặt"
+  },
+  "shopping cart": {
+    "noun": "giỏ hàng"
+  },
+  "shortcode": {
+    "noun": "shortcode"
+  },
+  "sidebar": {
+    "noun": "sidebar"
+  },
+  "Sign up": {
+    "expression": "Đăng ký"
+  },
+  "single post": {
+    "noun": "bài viết"
+  },
+  "site": {
+    "noun": "trang web"
+  },
+  "Site Title": {
+    "noun": "Tên website"
+  },
+  "Skip to content": {
+    "expression": "Chuyển tới nội dung"
+  },
+  "slug": {
+    "noun": "slug"
+  },
+  "specified": {
+    "adjective": "được xác định"
+  },
+  "Stats": {
+    "noun": "Thống kê"
+  },
+  "status": {
+    "noun": "trạng thái"
+  },
+  "string": {
+    "noun": "chuỗi"
+  },
+  "submit": {
+    "verb": "gửi đi"
+  },
+  "Submit": {
+    "noun": "Gửi"
+  },
+  "subpanel": {
+    "noun": "subpanel"
+  },
+  "subscribe": {
+    "verb": "theo dõi"
+  },
+  "successfully": {
+    "adverb": "thành công"
+  },
+  "Support": {
+    "noun": "Hỗ trợ"
+  },
+  "tab": {
+    "noun": "tab"
+  },
+  "tag": {
+    "noun": "thẻ"
+  },
+  "tagline": {
+    "noun": "tagline"
+  },
+  "taxonomy": {
+    "noun": "taxonomy"
+  },
+  "template": {
+    "noun": "template"
+  },
+  "template hierarchy": {
+    "noun": "template hierarchy"
+  },
+  "term": {
+    "noun": "term"
+  },
+  "Thank you": {
+    "expression": "Cảm ơn"
+  },
+  "the latest version": {
+    "noun": "phiên bản mới nhất"
+  },
+  "theme": {
+    "noun": "giao diện"
+  },
+  "Theme by": {
+    "expression": "Giao diện tạo bởi"
+  },
+  "There are no posts to display": {
+    "expression": "Chưa có bài nào để hiển thị."
+  },
+  "thumbnail": {
+    "noun": "ảnh thu nhỏ"
+  },
+  "Title": {
+    "noun": "Tiêu đề"
+  },
+  "Toggle": {
+    "verb": "Đổi"
+  },
+  "toolbar": {
+    "noun": "thanh công cụ"
+  },
+  "topic": {
+    "noun": "chủ đề"
+  },
+  "Total": {
+    "noun": "Tổng số"
+  },
+  "trackback": {
+    "noun": "trackback"
+  },
+  "try again": {
+    "verb": "thử lại"
+  },
+  "undo": {
+    "verb": "hoàn tác"
+  },
+  "Untrash": {
+    "noun": "Khôi phục"
+  },
+  "update": {
+    "expression": "cập nhật"
+  },
+  "updating": {
+    "expression": "cập nhật"
+  },
+  "upload": {
+    "noun": "tải lên"
+  },
+  "URL": {
+    "noun": "URL"
+  },
+  "user": {
+    "noun": "người dùng"
+  },
+  "user name": {
+    "noun": "tên người dùng"
+  },
+  "username": {
+    "noun": "tên người dùng"
+  },
+  "utf8mb4": {
+    "noun": "utf8mb4"
+  },
+  "Value": {
+    "noun": "Giá trị"
+  },
+  "version": {
+    "noun": "phiên bản"
+  },
+  "video": {
+    "noun": "video"
+  },
+  "view": {
+    "verb": "xem"
+  },
+  "website": {
+    "noun": "trang web"
+  },
+  "widget": {
+    "noun": "widget"
+  },
+  "width": {
+    "expression": "chiều rộng"
+  },
+  "Wizard": {
+    "noun": "Các bước"
+  },
+  "WordPress": {
+    "noun": "WordPress"
+  },
+  "write": {
+    "verb": "viết"
+  },
+  "XML-RPC": {
+    "noun": "XML-RPC"
+  },
+  "you": {
+    "noun": "bạn"
+  },
+  "you are not allowed": {
+    "preposition": "bạn không được phép"
+  },
+  "your": {
+    "adverb": "của bạn"
+  },
+  "Your": {
+    "adverb": "của bạn"
+  },
+  "Your PHP version": {
+    "noun": "Phiên bản PHP của bạn"
+  },
+  "Your plugins": {
+    "noun": "Plugin của bạn"
+  },
+  "Your site": {
+    "noun": "Web của bạn"
+  }
+}

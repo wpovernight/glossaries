@@ -1,0 +1,410 @@
+{
+  "access": {
+    "noun": "πρόσβαση"
+  },
+  "Action": {
+    "noun": "Ενέργεια"
+  },
+  "Administration": {
+    "noun": "Διαχείριση"
+  },
+  "Administrator": {
+    "noun": "Διαχειριστής"
+  },
+  "Administrators": {
+    "noun": "Διαχειριστές"
+  },
+  "Akismet": {
+    "noun": "Akismet"
+  },
+  "anchor text": {
+    "noun": "κείμενο συνδέσμου"
+  },
+  "App": {
+    "noun": "Εφαρμογή"
+  },
+  "Appearance": {
+    "noun": "Εμφάνιση"
+  },
+  "aside": {
+    "noun": "Μικροάρθρο"
+  },
+  "Background": {
+    "noun": "Υπόβαθρο"
+  },
+  "Ban": {
+    "noun": "Αποκλεισμός"
+  },
+  "Block": {
+    "noun": "Μπλοκ"
+  },
+  "Blog": {
+    "noun": "Ιστολόγιο"
+  },
+  "Breadcrumb": {
+    "noun": "Διαδρομή"
+  },
+  "Browse": {
+    "noun": "Περιήγηση"
+  },
+  "Browser": {
+    "noun": "Περιηγητής"
+  },
+  "Caption": {
+    "noun": "Λεζάντα"
+  },
+  "Categories": {
+    "noun": "Κατηγορίες"
+  },
+  "Category": {
+    "noun": "Κατηγορία"
+  },
+  "Child Theme": {
+    "expression": "Θυγατρικό θέμα"
+  },
+  "Column": {
+    "noun": "Στήλη"
+  },
+  "Columns": {
+    "noun": "Στήλες"
+  },
+  "Comment": {
+    "noun": "Σχόλιο"
+  },
+  "Comments": {
+    "noun": "Σχόλια"
+  },
+  "Configuration": {
+    "noun": "Ρυθμίσεις"
+  },
+  "Content - Primary Sidebar": {
+    "expression": "Περιεχόμενο - Βασική πλευρική στήλη"
+  },
+  "Credentials": {
+    "noun": "Διαπιστευτήρια"
+  },
+  "Customizer": {
+    "noun": "Προσαρμογέας"
+  },
+  "Dashboard": {
+    "noun": "Πίνακας Ελέγχου"
+  },
+  "Debug": {
+    "noun": "Αποσφαλμάτωση"
+  },
+  "Default": {
+    "noun": "Προεπιλογή"
+  },
+  "Delete": {
+    "noun": "Διαγραφή"
+  },
+  "Directory": {
+    "noun": "Κατάλογος (αρχείων)"
+  },
+  "Distraction Free Writing mode": {
+    "expression": "Λειτουργία Αναπόσπαστης Γραφής"
+  },
+  "Documentation": {
+    "noun": "Τεκμηρίωση"
+  },
+  "Draft": {
+    "noun": "Προσχέδιο"
+  },
+  "Drag and Drop": {
+    "expression": "Σύρε και Άφησε"
+  },
+  "Dropdown": {
+    "adjective": "Πτυσσόμενο"
+  },
+  "Edit": {
+    "noun": "Τροποποίηση"
+  },
+  "Error": {
+    "noun": "Σφάλμα"
+  },
+  "Excerpt": {
+    "noun": "Απόσπασμα"
+  },
+  "Export": {
+    "noun": "Εξαγωγή"
+  },
+  "Featured image": {
+    "noun": "Χαρακτηριστική εικόνα"
+  },
+  "Featured Post": {
+    "noun": "Επιλεγμένο άρθρο"
+  },
+  "Folder": {
+    "noun": "Φάκελος"
+  },
+  "Footer": {
+    "noun": "Υποσέλιδο"
+  },
+  "Front end": {
+    "noun": "Εμπρόσθιο τμήμα"
+  },
+  "Front-end": {
+    "noun": "Εμπρόσθιο τμήμα"
+  },
+  "Frontend": {
+    "noun": "Εμπρόσθιο τμήμα"
+  },
+  "Gallery": {
+    "noun": "Συλλογή"
+  },
+  "General Settings": {
+    "expression": "Γενικές ρυθμίσεις"
+  },
+  "Header": {
+    "noun": "Κεφαλίδα"
+  },
+  "Hook": {
+    "noun": "Ζεύξη"
+  },
+  "hour": {
+    "noun": "ώρα"
+  },
+  "hours": {
+    "noun": "ώρες"
+  },
+  "Import": {
+    "noun": "Εισαγωγή"
+  },
+  "Initial release": {
+    "expression": "Αρχική έκδοση"
+  },
+  "Installation": {
+    "noun": "Εγκατάσταση"
+  },
+  "Installation Instructions": {
+    "expression": "Οδηγίες εγκατάστασης"
+  },
+  "Interface": {
+    "noun": "Διεπαφή"
+  },
+  "Invoice": {
+    "noun": "Παραστατικό"
+  },
+  "Item": {
+    "noun": "Στοιχείο"
+  },
+  "Layout": {
+    "noun": "Διάταξη"
+  },
+  "Left Sidebar": {
+    "expression": "Αριστερή πλευρική στήλη"
+  },
+  "Letter Spacing": {
+    "expression": "Απόσταση χαρακτήρων"
+  },
+  "Link": {
+    "noun": "Σύνδεσμος"
+  },
+  "Lowercase": {
+    "noun": "Πεζά"
+  },
+  "Margin": {
+    "noun": "Περιθώριο"
+  },
+  "Media": {
+    "noun": "Πολυμέσα"
+  },
+  "Member": {
+    "noun": "Μέλος"
+  },
+  "Members": {
+    "noun": "Μέλη"
+  },
+  "Minimum Requirements": {
+    "expression": "Ελάχιστες απαιτήσεις"
+  },
+  "Page": {
+    "noun": "Σελίδα"
+  },
+  "Pages": {
+    "noun": "Σελίδες"
+  },
+  "Parent": {
+    "noun": "Γονέας"
+  },
+  "Password": {
+    "noun": "Συνθηματικό"
+  },
+  "Pattern": {
+    "noun": "Μοτίβο"
+  },
+  "Permalinks": {
+    "noun": "Μόνιμοι σύνδεσμοι"
+  },
+  "Pingback": {
+    "noun": "Παράθεση"
+  },
+  "Plugin": {
+    "noun": "Πρόσθετο"
+  },
+  "Plugins": {
+    "noun": "Πρόσθετα"
+  },
+  "Pop up": {
+    "noun": "Αναδυόμενο παράθυρο"
+  },
+  "Post": {
+    "noun": "Άρθρο"
+  },
+  "Preview": {
+    "noun": "Προεπισκόπηση"
+  },
+  "Primary Sidebar - Content": {
+    "expression": "Βασική πλευρική στήλη - Περιεχόμενο"
+  },
+  "Primary Widget Area": {
+    "expression": "Βασική περιοχή μικροεφαρμογών"
+  },
+  "Reader": {
+    "noun": "Αναγνώστης"
+  },
+  "Recent Posts": {
+    "expression": "Πρόσφατα άρθρα"
+  },
+  "Reorder": {
+    "noun": "Αναδιάταξη"
+  },
+  "Request": {
+    "noun": "Αίτημα"
+  },
+  "Resource": {
+    "noun": "Πόρος"
+  },
+  "Responce": {
+    "noun": "Απάντηση"
+  },
+  "Responsive": {
+    "noun": "προσαρμοζόμενη στις κινητές συσκευές"
+  },
+  "Review": {
+    "noun": "Ανασκόπηση, αξιολόγηση"
+  },
+  "Revision": {
+    "noun": "Αναθεώρηση"
+  },
+  "Right Sidebar": {
+    "expression": "Δεξιά πλευρική στήλη"
+  },
+  "Row": {
+    "noun": "Γραμμή"
+  },
+  "Rows": {
+    "noun": "Γραμμές"
+  },
+  "Save changes": {
+    "expression": "Αποθήκευση αλλαγών"
+  },
+  "Scroll": {
+    "noun": "Κύλιση"
+  },
+  "Settings": {
+    "noun": "Ρυθμίσεις"
+  },
+  "Sidebar": {
+    "noun": "Πλευρική στήλη"
+  },
+  "Site": {
+    "noun": "Ιστότοπος"
+  },
+  "Slug": {
+    "expression": "Σύντομο όνομα"
+  },
+  "Sort": {
+    "noun": "Ταξινόμηση"
+  },
+  "Tab": {
+    "noun": "Καρτέλα"
+  },
+  "Tag": {
+    "noun": "Ετικέτα"
+  },
+  "Taxonomy": {
+    "noun": "Ταξινομία"
+  },
+  "Template": {
+    "noun": "Πρότυπο"
+  },
+  "templates": {
+    "noun": "πρότυπα"
+  },
+  "Term": {
+    "noun": "Όρος"
+  },
+  "Theme": {
+    "noun": "Θέμα εμφάνισης"
+  },
+  "Thumbnail": {
+    "noun": "Μικρογραφία"
+  },
+  "Timestamp": {
+    "noun": "Χρονοσήμανση"
+  },
+  "Title": {
+    "noun": "Τίτλος"
+  },
+  "Token": {
+    "noun": "Αναγνωριστικό"
+  },
+  "Toolbar": {
+    "noun": "Γραμμή εργαλείων"
+  },
+  "Tools": {
+    "noun": "Εργαλεία"
+  },
+  "Trackback": {
+    "noun": "Παραπομπή"
+  },
+  "UI": {
+    "noun": "Διεπαφή χρήστη"
+  },
+  "Update": {
+    "noun": "Ενημέρωση"
+  },
+  "Upload": {
+    "noun": "Μεταφόρτωση (Προτειν: Αποστολή)"
+  },
+  "Uppercase": {
+    "noun": "Κεφαλαία"
+  },
+  "User": {
+    "noun": "Χρήστης"
+  },
+  "User Interface": {
+    "noun": "Διεπαφή Χρήστη"
+  },
+  "Username": {
+    "noun": "Όνομα χρήστη"
+  },
+  "Users": {
+    "noun": "Χρήστες"
+  },
+  "Version": {
+    "noun": "Έκδοση"
+  },
+  "Webpage": {
+    "noun": "Ιστοσελίδα"
+  },
+  "Website": {
+    "noun": "Ιστότοπος"
+  },
+  "Widget": {
+    "noun": "Μικροεφαρμογή"
+  },
+  "Widget Area": {
+    "noun": "Περιοχή μικροεφαρμογών"
+  },
+  "Widget Title": {
+    "expression": "Τίτλος μικροεφαρμογής"
+  },
+  "Widgets": {
+    "noun": "Μικροεφαρμογές"
+  },
+  "Width": {
+    "noun": "Πλάτος"
+  }
+}

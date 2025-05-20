@@ -1,0 +1,598 @@
+{
+  "account": {
+    "noun": "Konto"
+  },
+  "action hook": {
+    "noun": "Action-Hook"
+  },
+  "activate": {
+    "verb": "aktivieren"
+  },
+  "activated": {
+    "adjective": "aktiviert"
+  },
+  "admin bar": {
+    "noun": "Adminleiste"
+  },
+  "admin panel": {
+    "noun": "Adminpanel"
+  },
+  "administrator": {
+    "noun": "Administrator"
+  },
+  "After the Deadline": {
+    "noun": "After the Deadline"
+  },
+  "Appearance": {
+    "noun": "Design"
+  },
+  "archive": {
+    "noun": "Archiv",
+    "verb": "archivieren"
+  },
+  "argument": {
+    "noun": "Argument"
+  },
+  "array": {
+    "noun": "Array"
+  },
+  "aside": {
+    "noun": "Kurzmitteilung"
+  },
+  "Attachment": {
+    "noun": "Anhang"
+  },
+  "audio": {
+    "noun": "Audio"
+  },
+  "author": {
+    "noun": "Autor"
+  },
+  "autosave": {
+    "noun": "Automatische Speicherung"
+  },
+  "Backend": {
+    "noun": "Backend"
+  },
+  "binary": {
+    "noun": "Binär-"
+  },
+  "bookmarklet": {
+    "noun": "Bookmarklet"
+  },
+  "browser": {
+    "noun": "Browser"
+  },
+  "BuddyPress": {
+    "noun": "BuddyPress"
+  },
+  "bulk actions": {
+    "noun": "Sammelaktionen"
+  },
+  "bundle": {
+    "noun": "Paket"
+  },
+  "button": {
+    "noun": "Button"
+  },
+  "cart": {
+    "noun": "Warenkorb"
+  },
+  "category": {
+    "noun": "Kategorie"
+  },
+  "character code": {
+    "noun": "Zeichencode"
+  },
+  "character entity reference": {
+    "noun": "Zeichenreferenz"
+  },
+  "character set": {
+    "noun": "Zeichensatz"
+  },
+  "Cheatin&#8217; uh?": {
+    "expression": "Schummeln, was?"
+  },
+  "color scheme": {
+    "noun": "Farbschema"
+  },
+  "comment": {
+    "verb": "kommentieren",
+    "noun": "Kommentar"
+  },
+  "computer": {
+    "noun": "Computer"
+  },
+  "conditional tag": {
+    "noun": "Conditional Tag"
+  },
+  "constant": {
+    "noun": "Konstante"
+  },
+  "Contributors": {
+    "noun": "Mitwirkende"
+  },
+  "Cookie": {
+    "noun": "Cookie"
+  },
+  "Custom Colors": {
+    "noun": "Individuelle Farben"
+  },
+  "Custom CSS": {
+    "noun": "Individuelles CSS"
+  },
+  "Custom Design": {
+    "noun": "Individuelles Design"
+  },
+  "Custom Fonts": {
+    "noun": "Individuelle Schriften"
+  },
+  "Custom Menu": {
+    "noun": "Individuelles Menü"
+  },
+  "Custom Post Type": {
+    "noun": "Individueller Inhaltstyp"
+  },
+  "customize": {
+    "verb": "anpassen"
+  },
+  "Customizer": {
+    "noun": "Customizer"
+  },
+  "Dashboard": {
+    "noun": "Dashboard"
+  },
+  "deactivate": {
+    "verb": "deaktivieren"
+  },
+  "default": {
+    "noun": "Standard"
+  },
+  "default theme": {
+    "noun": "Standard-Theme"
+  },
+  "deprecated": {
+    "adjective": "veraltet"
+  },
+  "developer": {
+    "noun": "Entwickler"
+  },
+  "directory": {
+    "noun": "Verzeichnis"
+  },
+  "draft": {
+    "noun": "Entwurf"
+  },
+  "drag and drop": {
+    "noun": "Drag & Drop"
+  },
+  "editor": {
+    "noun": "Redakteur"
+  },
+  "email": {
+    "noun": "E-Mail"
+  },
+  "email address": {
+    "noun": "E-Mail-Adresse"
+  },
+  "English": {
+    "adjective": "englisch"
+  },
+  "error": {
+    "noun": "Fehler"
+  },
+  "excerpt": {
+    "noun": "Auszug"
+  },
+  "Facebook": {
+    "noun": "Facebook"
+  },
+  "Featured": {
+    "noun": "Hervorgehoben"
+  },
+  "featured image": {
+    "noun": "Beitragsbild"
+  },
+  "featured post": {
+    "noun": "hervorgehobener Beitrag"
+  },
+  "feed": {
+    "noun": "Feed"
+  },
+  "filter": {
+    "noun": "Filter"
+  },
+  "filter hook": {
+    "noun": "Filter-Hook"
+  },
+  "folder": {
+    "noun": "Ordner"
+  },
+  "Follower": {
+    "noun": "Follower"
+  },
+  "Footer": {
+    "noun": "Footer"
+  },
+  "Freshly Pressed": {
+    "noun": "Druckfrisch"
+  },
+  "front end": {
+    "adjective": "Frontend-",
+    "noun": "Frontend"
+  },
+  "gallery": {
+    "noun": "Galerie"
+  },
+  "Happiness Engineer": {
+    "noun": "Happiness Engineer"
+  },
+  "Happiness Engineers": {
+    "noun": "Happiness Engineers"
+  },
+  "Header": {
+    "noun": "Header"
+  },
+  "Header Image": {
+    "noun": "Header-Bild"
+  },
+  "Header Text": {
+    "noun": "Header-Text"
+  },
+  "Header Text Color": {
+    "noun": "Header-Textfarbe"
+  },
+  "Honeypot": {
+    "noun": "Honeypot"
+  },
+  "hosting provider": {
+    "noun": "Hosting-Anbieter"
+  },
+  "hosts": {
+    "noun": "Hosts"
+  },
+  "hover": {
+    "adjective": "bei Mauszeigerkontakt"
+  },
+  "invalid": {
+    "adjective": "ungültig"
+  },
+  "IP address": {
+    "noun": "IP-Adresse"
+  },
+  "Jetpack": {
+    "noun": "Jetpack"
+  },
+  "Like": {
+    "noun": "Like"
+  },
+  "Likes": {
+    "noun": "Likes"
+  },
+  "log in": {
+    "verb": "anmelden"
+  },
+  "log out": {
+    "verb": "abmelden"
+  },
+  "logged in": {
+    "adjective": "angemeldet"
+  },
+  "logged out": {
+    "adjective": "abgemeldet"
+  },
+  "login": {
+    "noun": "Anmelden"
+  },
+  "logout": {
+    "noun": "Abmelden"
+  },
+  "media library": {
+    "noun": "Mediathek"
+  },
+  "Media Uploader": {
+    "noun": "Media Uploader"
+  },
+  "meta": {
+    "noun": "Meta"
+  },
+  "moderation": {
+    "noun": "Freischaltung"
+  },
+  "multisite": {
+    "noun": "Netzwerk"
+  },
+  "navigation": {
+    "noun": "Navigation"
+  },
+  "next post": {
+    "noun": "nächster Beitrag"
+  },
+  "nickname": {
+    "noun": "Spitzname"
+  },
+  "nonce": {
+    "noun": "Nonce"
+  },
+  "not sticky": {
+    "adjective": "nicht oben gehalten"
+  },
+  "older post": {
+    "noun": "älterer Beitrag"
+  },
+  "option": {
+    "noun": "Option"
+  },
+  "page": {
+    "noun": "Seite"
+  },
+  "pagination": {
+    "noun": "Seitennummerierung"
+  },
+  "parameter": {
+    "noun": "Parameter"
+  },
+  "pending": {
+    "verb": "ausstehend"
+  },
+  "permalink": {
+    "noun": "Permalink"
+  },
+  "permission": {
+    "noun": "Rechte"
+  },
+  "ping": {
+    "noun": "Ping"
+  },
+  "pingback": {
+    "noun": "Pingback"
+  },
+  "plugin": {
+    "noun": "Plugin"
+  },
+  "poll": {
+    "noun": "Umfrage"
+  },
+  "Polldaddy": {
+    "noun": "Polldaddy"
+  },
+  "post": {
+    "noun": "Beitrag",
+    "verb": "Beitrag veröffentlichen"
+  },
+  "post format": {
+    "noun": "Beitragsformat"
+  },
+  "post status": {
+    "noun": "Beitragsstatus"
+  },
+  "post thumbnail": {
+    "noun": "Beitrags-Vorschaubild"
+  },
+  "post type": {
+    "noun": "Inhaltstyp"
+  },
+  "Press This": {
+    "noun": "Press This"
+  },
+  "previous post": {
+    "noun": "vorheriger Beitrag"
+  },
+  "query": {
+    "noun": "Abfrage"
+  },
+  "Quick Post": {
+    "noun": "Schnellbeitrag"
+  },
+  "Reader": {
+    "noun": "Leser/Besucher/Reader"
+  },
+  "repository": {
+    "noun": "Repository"
+  },
+  "required": {
+    "adjective": "erforderlich"
+  },
+  "resource": {
+    "noun": "Ressource"
+  },
+  "Resource Hints": {
+    "noun": "Resource Hints"
+  },
+  "responsive": {
+    "adjective": "responsiv"
+  },
+  "return value": {
+    "noun": "Rückgabewert"
+  },
+  "role": {
+    "noun": "Rolle"
+  },
+  "RSS": {
+    "noun": "RSS"
+  },
+  "RTL": {
+    "noun": "Rechts-nach-links-Schreibrichtung"
+  },
+  "scheme": {
+    "noun": "Vorlagen"
+  },
+  "Screen Options": {
+    "noun": "Ansicht anpassen"
+  },
+  "Search results": {
+    "noun": "Suchergebnisse"
+  },
+  "self-hosted": {
+    "adjective": "selbst gehostet"
+  },
+  "server": {
+    "noun": "Server"
+  },
+  "service": {
+    "noun": "Dienst"
+  },
+  "Shortcode": {
+    "noun": "Shortcode"
+  },
+  "sidebar": {
+    "noun": "Seitenleiste"
+  },
+  "single post": {
+    "noun": "Einzelbeitrag"
+  },
+  "site": {
+    "noun": "Website"
+  },
+  "slide": {
+    "noun": "Slide"
+  },
+  "Slider": {
+    "noun": "Slider"
+  },
+  "slug": {
+    "noun": "Titelform"
+  },
+  "spaces": {
+    "noun": "Leerzeichen"
+  },
+  "spam": {
+    "noun": "Spam"
+  },
+  "status": {
+    "noun": "Status"
+  },
+  "stick": {
+    "verb": "oben halten"
+  },
+  "sticky": {
+    "adjective": "oben gehalten"
+  },
+  "string": {
+    "noun": "Zeichenfolge"
+  },
+  "subpanel": {
+    "noun": "Unterbereich"
+  },
+  "Subversion": {
+    "noun": "Subversion"
+  },
+  "super admin": {
+    "noun": "Super-Administrator"
+  },
+  "survey": {
+    "noun": "Befragung"
+  },
+  "tab": {
+    "noun": "Tab"
+  },
+  "tabs": {
+    "noun": "Tabs"
+  },
+  "tag": {
+    "noun": "Schlagwort"
+  },
+  "tagline": {
+    "noun": "Untertitel"
+  },
+  "tags": {
+    "noun": "Schlagwörter"
+  },
+  "taxonomies": {
+    "noun": "Taxonomien"
+  },
+  "taxonomy": {
+    "noun": "Taxonomie"
+  },
+  "template hierarchy": {
+    "noun": "Vorlagenhierarchie"
+  },
+  "term": {
+    "noun": "Begriff"
+  },
+  "text editor": {
+    "noun": "Texteditor"
+  },
+  "theme": {
+    "noun": "Theme"
+  },
+  "thumbnail": {
+    "noun": "Vorschaubild"
+  },
+  "Toolbar": {
+    "noun": "Werkzeugleiste"
+  },
+  "trackback": {
+    "noun": "Trackback"
+  },
+  "Transient": {
+    "noun": "Transient"
+  },
+  "troubleshooting": {
+    "noun": "Problembehandlung"
+  },
+  "Twitter": {
+    "noun": "Twitter"
+  },
+  "two factor authentication": {
+    "noun": "zweistufige Authentifizierung"
+  },
+  "upgrade": {
+    "noun": "Upgrade"
+  },
+  "uploader": {
+    "noun": "Uploader"
+  },
+  "URL": {
+    "noun": "URL"
+  },
+  "user": {
+    "noun": "Benutzer"
+  },
+  "username": {
+    "noun": "Benutzername"
+  },
+  "valid": {
+    "adjective": "gültig"
+  },
+  "VaultPress": {
+    "noun": "VaultPress"
+  },
+  "video": {
+    "noun": "Video"
+  },
+  "VideoPress": {
+    "noun": "VideoPress"
+  },
+  "view": {
+    "verb": "anzeigen",
+    "noun": "Aufruf"
+  },
+  "web server": {
+    "noun": "Webserver"
+  },
+  "WordCamp": {
+    "noun": "WordCamp"
+  },
+  "WordPress": {
+    "noun": "WordPress"
+  },
+  "WordPress Dashboard": {
+    "noun": "WordPress Dashboard"
+  },
+  "WordPress.com": {
+    "noun": "WordPress.com"
+  },
+  "WordPress.com Business": {
+    "noun": "WordPress.com Business"
+  },
+  "WordPress.com Enterprise": {
+    "noun": "WordPress.com Enterprise"
+  },
+  "WordPress.com Premium": {
+    "noun": "WordPress.com Premium"
+  },
+  "XML-RPC": {
+    "noun": "XML-RPC"
+  }
+}

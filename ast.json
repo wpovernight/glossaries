@@ -1,0 +1,464 @@
+{
+  "About (to)": {
+    "adverb": "Tocante a"
+  },
+  "Account": {
+    "noun": "Cuenta"
+  },
+  "Action": {
+    "noun": "Aición"
+  },
+  "Activate": {
+    "verb": "Activar"
+  },
+  "Add": {
+    "verb": "Amestar"
+  },
+  "Address": {
+    "noun": "Direición",
+    "verb": "Empobinar"
+  },
+  "Admin": {
+    "noun": "Alministrador"
+  },
+  "After the Deadline": {
+    "noun": "After the Deadline"
+  },
+  "Ajax": {
+    "noun": "Ajax"
+  },
+  "Allow": {
+    "verb": "Permitir"
+  },
+  "Anonymize": {
+    "verb": "Tornar anónimu"
+  },
+  "Apply": {
+    "verb": "Aplicar"
+  },
+  "Array": {
+    "noun": "Array"
+  },
+  "Aside": {
+    "noun": "Caxigalina"
+  },
+  "Attachment": {
+    "noun": "Axuntu"
+  },
+  "Author": {
+    "noun": "Autor"
+  },
+  "Autosave": {
+    "noun": "Guardáu automáticu"
+  },
+  "Bitrate": {
+    "noun": "Bitrate"
+  },
+  "Blog": {
+    "noun": "Blogue"
+  },
+  "Bookmarklet": {
+    "noun": "Marcador"
+  },
+  "Breadcrumb": {
+    "noun": "Ruta de navegación"
+  },
+  "Browse": {
+    "verb": "Restolar"
+  },
+  "Browser": {
+    "noun": "Restolador"
+  },
+  "BuddyPress": {
+    "noun": "BuddyPress"
+  },
+  "Built-in": {
+    "verb": "Incorporáu"
+  },
+  "Category": {
+    "noun": "Categoría"
+  },
+  "Choose": {
+    "verb": "Escoyer"
+  },
+  "Clean": {
+    "verb": "Llimpiar"
+  },
+  "Clear": {
+    "noun": "Llimpio",
+    "verb": "Llimpiar"
+  },
+  "Click": {
+    "verb": "Calcar"
+  },
+  "Comment": {
+    "noun": "Comentariu",
+    "verb": "Comentar"
+  },
+  "contact with your host": {
+    "expression": "Contautar col to proveedor d'agospiu web"
+  },
+  "Container": {
+    "noun": "Contenedor"
+  },
+  "Content": {
+    "noun": "Conteníu"
+  },
+  "contributor": {
+    "noun": "Collaborador"
+  },
+  "Cookie": {
+    "noun": "Cookie"
+  },
+  "Current": {
+    "noun": "Actual"
+  },
+  "Customize": {
+    "verb": "Personalizar"
+  },
+  "Customizer": {
+    "noun": "Personalizador"
+  },
+  "Dashboard": {
+    "noun": "Panel principal"
+  },
+  "Default": {
+    "adjective": "predetermináu"
+  },
+  "Deprecated": {
+    "adjective": "Anticuáu"
+  },
+  "Disable": {
+    "verb": "Deshabilitar"
+  },
+  "Draft": {
+    "noun": "Borrador"
+  },
+  "Drop-in": {
+    "noun": "Plugin empotráu"
+  },
+  "Email": {
+    "noun": "Corréu electrónicu"
+  },
+  "Embed": {
+    "verb": "Incrustar"
+  },
+  "Embedded": {
+    "adjective": "Incrustáu"
+  },
+  "Enable": {
+    "verb": "Habilitar"
+  },
+  "Enabled": {
+    "verb": "Habilitáu"
+  },
+  "Encounter": {
+    "verb": "Alcontrar"
+  },
+  "Enter": {
+    "noun": "Intro"
+  },
+  "Event": {
+    "noun": "Eventu"
+  },
+  "Excerpt": {
+    "noun": "Estractu"
+  },
+  "Exit": {
+    "verb": "Colar"
+  },
+  "FAQ": {
+    "noun": "FAQ"
+  },
+  "Feature": {
+    "noun": "Carauterística"
+  },
+  "Fee": {
+    "noun": "Tasa"
+  },
+  "Feed": {
+    "noun": "Feed"
+  },
+  "Filter": {
+    "verb": "Peñerar",
+    "noun": "Peñera / Filtru"
+  },
+  "Find": {
+    "verb": "Atopar"
+  },
+  "Footer": {
+    "noun": "Pie de páxina"
+  },
+  "Front page": {
+    "noun": "Páxina d'entamu"
+  },
+  "Gallery": {
+    "noun": "Galería"
+  },
+  "Header": {
+    "noun": "Cabecera"
+  },
+  "Home": {
+    "noun": "Entamu"
+  },
+  "Howdy": {
+    "interjection": "Hola"
+  },
+  "Image": {
+    "noun": "Imaxe"
+  },
+  "Insertar": {
+    "verb": "Inxertar"
+  },
+  "Invalid": {
+    "adjective": "Nun val, Nun ye válidu"
+  },
+  "Issue": {
+    "noun": "Problema"
+  },
+  "Item": {
+    "noun": "Elementu"
+  },
+  "Javascript": {
+    "noun": "Javascript"
+  },
+  "JetPack": {
+    "noun": "JetPack"
+  },
+  "Key": {
+    "noun": "Clave"
+  },
+  "legacy": {
+    "adjective": "Heredáu"
+  },
+  "Library": {
+    "noun": "Llibrería"
+  },
+  "Location": {
+    "noun": "Allugamientu"
+  },
+  "Log in": {
+    "verb": "Aniciar sesión"
+  },
+  "Log out": {
+    "verb": "Colar"
+  },
+  "Logged in": {
+    "verb": "Conectáu"
+  },
+  "Login": {
+    "verb": "Aniciar sesión"
+  },
+  "Loopback": {
+    "noun": "Retornu"
+  },
+  "Manage": {
+    "verb": "Remanar"
+  },
+  "Management": {
+    "noun": "Remanamientu"
+  },
+  "Media": {
+    "noun": "Multimedia"
+  },
+  "Navigate": {
+    "verb": "Navegar"
+  },
+  "Next": {
+    "noun": "Siguiente"
+  },
+  "Nickname": {
+    "noun": "Nomatu"
+  },
+  "Page": {
+    "noun": "Páxina"
+  },
+  "Password": {
+    "noun": "Contraseña"
+  },
+  "Permalink": {
+    "noun": "Enllaz permanente"
+  },
+  "Pingback": {
+    "noun": "Pingback"
+  },
+  "pixel": {
+    "noun": "Píxel"
+  },
+  "pixels": {
+    "noun": "Píxeles"
+  },
+  "plugin": {
+    "noun": "plugin"
+  },
+  "Post": {
+    "noun": "Artículu"
+  },
+  "Post type": {
+    "noun": "Triba d'artículu"
+  },
+  "Post-types": {
+    "noun": "Triba d'artículu"
+  },
+  "Poster": {
+    "noun": "Imaxe de vista previa"
+  },
+  "Posts": {
+    "noun": "Artículos"
+  },
+  "Powered by WordPress": {
+    "expression": "Fechu con WordPress"
+  },
+  "Previous": {
+    "noun": "Anterior"
+  },
+  "Profile": {
+    "noun": "Perfil"
+  },
+  "query": {
+    "noun": "consulta"
+  },
+  "QuickPress": {
+    "noun": "Publicación rápida"
+  },
+  "Release": {
+    "noun": "Llanzamientu"
+  },
+  "Reload": {
+    "verb": "Anovar, Refrescar"
+  },
+  "Remove": {
+    "verb": "Desaniciar"
+  },
+  "Removed": {
+    "verb": "Desaniciáu"
+  },
+  "Request": {
+    "noun": "Solicitú, requirimientu"
+  },
+  "Reserved": {
+    "adjective": "Acutáu"
+  },
+  "responsive": {
+    "noun": "Adautable"
+  },
+  "Restore": {
+    "verb": "Restaurar"
+  },
+  "Retry": {
+    "verb": "Reintentar"
+  },
+  "Role": {
+    "noun": "Xera"
+  },
+  "RSS Feed": {
+    "noun": "RSS Feed"
+  },
+  "Scope": {
+    "noun": "Estensión"
+  },
+  "Screen": {
+    "noun": "Pantalla"
+  },
+  "Section": {
+    "noun": "Estaya"
+  },
+  "Select": {
+    "verb": "Esbillar"
+  },
+  "Send": {
+    "verb": "Unviar"
+  },
+  "Set": {
+    "verb": "Afitar"
+  },
+  "Settings": {
+    "noun": "Axustes"
+  },
+  "shortcode": {
+    "noun": "Shortcode"
+  },
+  "Shortcut": {
+    "noun": "Atayu"
+  },
+  "Sidebar": {
+    "noun": "Barra llateral"
+  },
+  "Site": {
+    "noun": "Sitiu"
+  },
+  "Site Identity": {
+    "noun": "Identidá del sitiu"
+  },
+  "Skip": {
+    "verb": "Saltar"
+  },
+  "slug": {
+    "noun": "slug"
+  },
+  "Sorry": {
+    "noun": "Perdona"
+  },
+  "Sticky": {
+    "adjective": "Fixo"
+  },
+  "Stream": {
+    "noun": "Fluxu"
+  },
+  "String": {
+    "noun": "cadena (de testu)"
+  },
+  "Stylesheet": {
+    "noun": "Fueya d'estilu"
+  },
+  "Template": {
+    "noun": "Plantía"
+  },
+  "Theme": {
+    "noun": "Estilu"
+  },
+  "Thumbnail": {
+    "noun": "Imaxe amenorgada"
+  },
+  "Tools": {
+    "noun": "Ferramientes"
+  },
+  "Trackback": {
+    "noun": "Trackback"
+  },
+  "Unable": {
+    "adjective": "Nun foi posible."
+  },
+  "Update": {
+    "noun": "Anovamientu",
+    "verb": "Anovar"
+  },
+  "Updated": {
+    "adjective": "Anováu"
+  },
+  "Upload": {
+    "noun": "Xuba",
+    "verb": "Xubir"
+  },
+  "Uploaded": {
+    "adjective": "Xubíu"
+  },
+  "Username": {
+    "noun": "Nome d'usuaria/u"
+  },
+  "Walker": {
+    "noun": "Walker"
+  },
+  "Widget": {
+    "noun": "Widget"
+  },
+  "Wrapper": {
+    "noun": "Envoltoriu"
+  },
+  "XML-RPC": {
+    "noun": "XML-RPC"
+  },
+  "You are not allowed": {
+    "expression": "Nun tienes permisu"
+  }
+}

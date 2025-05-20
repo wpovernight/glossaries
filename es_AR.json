@@ -1,0 +1,599 @@
+{
+  "Accent": {
+    "noun": "Acento"
+  },
+  "add": {
+    "verb": "agregar"
+  },
+  "add-on": {
+    "noun": "complemento"
+  },
+  "Add-ons": {
+    "noun": "Complementos"
+  },
+  "Admin": {
+    "noun": "Administrador"
+  },
+  "Ajax": {
+    "noun": "Ajax"
+  },
+  "analytics": {
+    "noun": "estadísticas"
+  },
+  "Array": {
+    "noun": "Array"
+  },
+  "Aspect": {
+    "noun": "proporción/proporciones"
+  },
+  "Aspect ratio": {
+    "noun": "proporción/proporciones"
+  },
+  "attachment": {
+    "noun": "adjunto"
+  },
+  "authentication": {
+    "noun": "autenticación"
+  },
+  "auto-login": {
+    "noun": "inicio de sesión automático"
+  },
+  "backorder": {
+    "noun": "reservas"
+  },
+  "backslash": {
+    "noun": "barra invertida"
+  },
+  "backup": {
+    "noun": "respaldo"
+  },
+  "banned": {
+    "noun": "expulsado"
+  },
+  "batch": {
+    "adjective": "masivo/a"
+  },
+  "brackets": {
+    "noun": "corchetes"
+  },
+  "breadcrumb": {
+    "noun": "ruta de navegación"
+  },
+  "breadcrumbs": {
+    "noun": "ruta de navegación"
+  },
+  "breakpoint": {
+    "noun": "breakpoint"
+  },
+  "breakpoints": {
+    "noun": "breakpoints"
+  },
+  "bug": {
+    "noun": "error"
+  },
+  "Bulk": {
+    "adjective": "Masivo/Masiva"
+  },
+  "capitalized case": {
+    "adjective": "mayúscula inicial por palabra"
+  },
+  "carousel": {
+    "noun": "carrusel"
+  },
+  "Cash on delivery": {
+    "noun": "Contrarreembolso"
+  },
+  "Changeset": {
+    "noun": "Conjunto de cambios"
+  },
+  "checksum": {
+    "noun": "comprobación de integridad"
+  },
+  "click": {
+    "verb": "hacer clic"
+  },
+  "Collapse": {
+    "verb": "Contraer"
+  },
+  "collation": {
+    "noun": "cotejamiento"
+  },
+  "contact with your host": {
+    "expression": "contactar con tu proveedor de alojamiento web (hosting)"
+  },
+  "Content": {
+    "noun": "Contenido"
+  },
+  "cornerstone content": {
+    "noun": "contenido esencial"
+  },
+  "curly brackets": {
+    "noun": "llaves"
+  },
+  "customize": {
+    "verb": "personalizar"
+  },
+  "Customizer": {
+    "noun": "Personalizador"
+  },
+  "Dashboard": {
+    "noun": "Escritorio"
+  },
+  "debug": {
+    "verb": "depurar"
+  },
+  "debugging": {
+    "verb": "depuración"
+  },
+  "Default": {
+    "noun": "Predeterminado"
+  },
+  "Delete": {
+    "noun": "Borrar"
+  },
+  "Deprecated": {
+    "adjective": "Obsoleto / Obsoleta"
+  },
+  "Disable": {
+    "noun": "Deshabilitar"
+  },
+  "double quotes": {
+    "noun": "comillas dobles"
+  },
+  "Drop-in/s": {
+    "noun": "Dependiente/s"
+  },
+  "e-learning": {
+    "noun": "e-learning"
+  },
+  "email": {
+    "noun": "correo electrónico"
+  },
+  "Email": {
+    "noun": "Correo electrónico"
+  },
+  "email address": {
+    "noun": "dirección de correo electrónico"
+  },
+  "Embed": {
+    "verb": "Incrustar"
+  },
+  "embed": {
+    "noun": "incrustar"
+  },
+  "Embeded": {
+    "adjective": "Incrustado"
+  },
+  "Enable": {
+    "verb": "Habilitar"
+  },
+  "endpoint": {
+    "noun": "endpoint"
+  },
+  "Enter": {
+    "verb": "Ingresá"
+  },
+  "excerpt": {
+    "noun": "extracto"
+  },
+  "Excerpt": {
+    "noun": "Extracto"
+  },
+  "Expand": {
+    "verb": "Expandir"
+  },
+  "fallback": {
+    "noun": "respaldo; alternativa"
+  },
+  "feature": {
+    "noun": "función"
+  },
+  "featured": {
+    "adjective": "destacado"
+  },
+  "feedback": {
+    "noun": "feedback"
+  },
+  "File": {
+    "noun": "Archivo"
+  },
+  "fill": {
+    "verb": "completar"
+  },
+  "Fix": {
+    "noun": "Solución"
+  },
+  "focus keyword": {
+    "noun": "palabra clave objetivo"
+  },
+  "Focus keywords": {
+    "noun": "Palabras clave objetivo"
+  },
+  "Footer": {
+    "noun": "Pie de página"
+  },
+  "found": {
+    "noun": "encontró"
+  },
+  "Front page": {
+    "noun": "Página de inicio"
+  },
+  "FSE": {
+    "abbreviation": "Edición completa del sitio"
+  },
+  "GDPR": {
+    "noun": "RGPD"
+  },
+  "grid": {
+    "noun": "cuadrícula"
+  },
+  "header": {
+    "noun": "encabezado"
+  },
+  "Home": {
+    "noun": "Inicio o página de inicio"
+  },
+  "hook": {
+    "noun": "hook"
+  },
+  "hosting": {
+    "noun": "hosting"
+  },
+  "Hostname": {
+    "noun": "Hostname"
+  },
+  "hover": {
+    "noun": "pasar el cursor"
+  },
+  "Howdy": {
+    "noun": "Hola"
+  },
+  "HowTo": {
+    "noun": "Guía práctica"
+  },
+  "human-readable": {
+    "noun": "legible"
+  },
+  "Interface": {
+    "noun": "Interfaz"
+  },
+  "Invalid": {
+    "noun": "No válido"
+  },
+  "issue/s": {
+    "noun": "problema/s conflicto/s"
+  },
+  "Item": {
+    "noun": "Elemento"
+  },
+  "Item /s": {
+    "noun": "Elemento/s"
+  },
+  "Javascript": {
+    "noun": "Javascript"
+  },
+  "just": {
+    "adverb": "solo"
+  },
+  "knowledge": {
+    "noun": "documentación"
+  },
+  "knowledge base": {
+    "noun": "documentación"
+  },
+  "Large": {
+    "noun": "Grande"
+  },
+  "lazy load": {
+    "noun": "carga diferida"
+  },
+  "lazy loading": {
+    "noun": "carga diferida"
+  },
+  "Learn more": {
+    "expression": "Más información"
+  },
+  "Library": {
+    "noun": "Biblioteca"
+  },
+  "lightbox": {
+    "noun": "lightbox"
+  },
+  "Login": {
+    "noun": "Inicio de sesión"
+  },
+  "Manage": {
+    "verb": "Gestionar"
+  },
+  "Management": {
+    "noun": "Gestión"
+  },
+  "mandatory": {
+    "adjective": "imprescindible"
+  },
+  "Marketing": {
+    "noun": "Marketing"
+  },
+  "Masonry Layout": {
+    "noun": "Diseño apilable"
+  },
+  "Media": {
+    "noun": "Multimedia"
+  },
+  "Merchandising": {
+    "noun": "Objetos promocionales"
+  },
+  "mobile": {
+    "noun": "dispositivos móviles"
+  },
+  "mouse": {
+    "noun": "mouse"
+  },
+  "Next": {
+    "noun": "Siguiente"
+  },
+  "Nickname": {
+    "noun": "Alias"
+  },
+  "nonce": {
+    "noun": "nonce"
+  },
+  "ns in new tab": {
+    "expression": "se abre en una nueva pestaña"
+  },
+  "Options": {
+    "noun": "Opciones"
+  },
+  "order": {
+    "noun": "pedido"
+  },
+  "overlay spinner": {
+    "noun": "animación de carga"
+  },
+  "overline": {
+    "noun": "sobrerrayar"
+  },
+  "Page": {
+    "noun": "Página"
+  },
+  "parentheses": {
+    "noun": "paréntesis"
+  },
+  "parser": {
+    "noun": "intérprete"
+  },
+  "Permalink": {
+    "noun": "Enlace permanente"
+  },
+  "Permalinks": {
+    "noun": "Enlaces permanentes"
+  },
+  "Plugin": {
+    "noun": "Plugin"
+  },
+  "portfolio": {
+    "noun": "portfolio"
+  },
+  "post": {
+    "verb": "publicar"
+  },
+  "Post": {
+    "noun": "Entrada"
+  },
+  "Posts": {
+    "noun": "Entradas"
+  },
+  "Preview": {
+    "noun": "Vista previa"
+  },
+  "Previous": {
+    "noun": "Anterior"
+  },
+  "query": {
+    "noun": "consulta"
+  },
+  "QuickPress": {
+    "noun": "Publicación rápida"
+  },
+  "rating": {
+    "noun": "valoración"
+  },
+  "redirect": {
+    "verb": "redirigir"
+  },
+  "redirection": {
+    "noun": "redirección"
+  },
+  "refund": {
+    "noun": "reembolso"
+  },
+  "release": {
+    "noun": "lanzamiento"
+  },
+  "Remove": {
+    "noun": "Eliminar"
+  },
+  "requests": {
+    "noun": "solicitudes"
+  },
+  "Required": {
+    "adjective": "Requerido"
+  },
+  "responsive": {
+    "noun": "adaptable"
+  },
+  "review": {
+    "noun": "reseña"
+  },
+  "role": {
+    "noun": "rol"
+  },
+  "safe": {
+    "adjective": "seguro"
+  },
+  "scope": {
+    "noun": "extensión"
+  },
+  "Screen": {
+    "noun": "Pantalla"
+  },
+  "scroll": {
+    "noun": "desplazamiento"
+  },
+  "secure": {
+    "adjective": "protegido",
+    "verb": "proteger"
+  },
+  "sentence case": {
+    "noun": "mayúscula inicial por oración"
+  },
+  "Set": {
+    "verb": "Establecer"
+  },
+  "Setting": {
+    "noun": "Ajuste"
+  },
+  "Settings": {
+    "noun": "Ajustes"
+  },
+  "shortcode": {
+    "noun": "shortcode"
+  },
+  "shortcut": {
+    "noun": "atajo"
+  },
+  "shortcuts": {
+    "noun": "atajos"
+  },
+  "Sidebar": {
+    "noun": "Barra lateral"
+  },
+  "slash": {
+    "noun": "barra inclinada"
+  },
+  "slide": {
+    "noun": "diapositiva"
+  },
+  "slider": {
+    "noun": "control deslizante / carrusel"
+  },
+  "slug": {
+    "noun": "slug"
+  },
+  "Something went wrong": {
+    "expression": "Algo salió mal"
+  },
+  "Sorry": {
+    "noun": "Lo siento"
+  },
+  "sticky": {
+    "noun": "fija"
+  },
+  "Sticky": {
+    "adjective": "Fija"
+  },
+  "stock": {
+    "noun": "stock"
+  },
+  "stop words": {
+    "noun": "palabras vacías"
+  },
+  "stopwords": {
+    "noun": "palabras vacías"
+  },
+  "stream": {
+    "noun": "stream"
+  },
+  "String": {
+    "noun": "Cadena"
+  },
+  "Stylesheet": {
+    "noun": "Hoja de estilos"
+  },
+  "Support": {
+    "noun": "Soporte"
+  },
+  "Template": {
+    "noun": "Plantilla"
+  },
+  "Text Decoration": {
+    "noun": "Decoración del texto"
+  },
+  "Theme": {
+    "noun": "Tema"
+  },
+  "Thumbnail": {
+    "noun": "miniatura"
+  },
+  "tilde": {
+    "noun": "virgulilla"
+  },
+  "timestamp": {
+    "noun": "marca temporal"
+  },
+  "Timezone": {
+    "noun": "Zona horaria"
+  },
+  "title case": {
+    "noun": "mayúsculas por palabra destacada"
+  },
+  "toggle": {
+    "noun": "alternar"
+  },
+  "Tools": {
+    "noun": "Herramientas"
+  },
+  "topic": {
+    "noun": "tema"
+  },
+  "topics": {
+    "noun": "temas"
+  },
+  "tracking": {
+    "noun": "rastreo"
+  },
+  "Two-factor authentication": {
+    "noun": "Autenticación de dos factores"
+  },
+  "underscore": {
+    "noun": "guión bajo"
+  },
+  "underscores": {
+    "noun": "guiones bajos"
+  },
+  "Update": {
+    "noun": "Actualización",
+    "verb": "Actualizar"
+  },
+  "Updated": {
+    "adjective": "Actualizado"
+  },
+  "Upload": {
+    "noun": "Subida",
+    "verb": "Subir"
+  },
+  "uppercase": {
+    "noun": "solo mayúsculas"
+  },
+  "Username": {
+    "noun": "Nombre de usuario"
+  },
+  "Walker": {
+    "noun": "Walker"
+  },
+  "Widget": {
+    "noun": "Widget"
+  },
+  "you are not allowed": {
+    "noun": "no tenés permisos"
+  },
+  "You are not allowed": {
+    "noun": "No tenés permisos"
+  },
+  "you must": {
+    "verb": "tenés que"
+  },
+  "your": {
+    "adjective": "tu"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "account": {
+    "noun": "帳戶"
+  },
+  "arrow": {
+    "noun": "箭咀"
+  },
+  "Douyin": {
+    "noun": "抖音"
+  },
+  "Read More": {
+    "noun": "閱讀更多"
+  },
+  "release": {
+    "verb": "釋出"
+  },
+  "Reply": {
+    "noun": "回覆"
+  },
+  "restore": {
+    "verb": "還原"
+  },
+  "review": {
+    "noun": "評價"
+  },
+  "Support": {
+    "verb": "支援"
+  },
+  "taxonomy": {
+    "noun": "分類法"
+  },
+  "Tiktok": {
+    "noun": "Tiktok"
+  },
+  "under the hood": {
+    "noun": "知其所欲然"
+  },
+  "upload": {
+    "verb": "上載"
+  },
+  "value-added tax": {
+    "noun": "增值稅"
+  },
+  "VAT": {
+    "noun": "增值稅"
+  },
+  "visit": {
+    "noun": "瀏覽",
+    "verb": "訪問"
+  },
+  "WeChat": {
+    "noun": "WeChat"
+  },
+  "Weibo": {
+    "noun": "微博"
+  },
+  "Weixin": {
+    "noun": "微信"
+  }
+}

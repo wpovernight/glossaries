@@ -1,0 +1,7050 @@
+{
+  "2-step authentication": {
+    "noun": "兩步驟驗證"
+  },
+  "abbreviation": {
+    "noun": "縮寫"
+  },
+  "Abidjan": {
+    "noun": "阿必尚"
+  },
+  "Abkhazian": {
+    "noun": "亞布卡薩文"
+  },
+  "absolute path": {
+    "noun": "絕對路徑"
+  },
+  "accent color": {
+    "noun": "強調色彩"
+  },
+  "accent grave": {
+    "noun": "抑音符號"
+  },
+  "access": {
+    "verb": "存取",
+    "noun": "存取權"
+  },
+  "access control": {
+    "noun": "存取控制"
+  },
+  "accessibility ready": {
+    "noun": "無障礙支援"
+  },
+  "account": {
+    "noun": "帳號"
+  },
+  "Accra": {
+    "noun": "阿克拉"
+  },
+  "acquire": {
+    "verb": "擷取"
+  },
+  "acronym": {
+    "noun": "縮略字"
+  },
+  "ACT": {
+    "noun": "澳大利亞首都特區"
+  },
+  "action": {
+    "noun": "動作",
+    "verb": "操作"
+  },
+  "action hook": {
+    "noun": "動作勾點"
+  },
+  "activate": {
+    "noun": "啟用"
+  },
+  "activation code": {
+    "noun": "啟用代碼"
+  },
+  "active": {
+    "adjective": "使用中"
+  },
+  "Active Directory": {
+    "noun": "Active Directory"
+  },
+  "ad blocker": {
+    "noun": "廣告攔截器"
+  },
+  "ad-blocker": {
+    "noun": "廣告攔截器"
+  },
+  "Adak": {
+    "noun": "埃達克"
+  },
+  "adblocker": {
+    "noun": "廣告攔截器"
+  },
+  "add": {
+    "verb": "新增"
+  },
+  "add translation": {
+    "verb": "新增譯文"
+  },
+  "add-on": {
+    "noun": "附加元件"
+  },
+  "Addis Ababa": {
+    "noun": "阿迪斯阿貝巴"
+  },
+  "addon": {
+    "noun": "附加元件"
+  },
+  "addon domain": {
+    "noun": "附加網域"
+  },
+  "address book": {
+    "noun": "通訊錄"
+  },
+  "Adelaide": {
+    "noun": "阿得雷德"
+  },
+  "Aden": {
+    "noun": "亞頓"
+  },
+  "admin bar": {
+    "noun": "工具列"
+  },
+  "admin panel": {
+    "noun": "管理面板"
+  },
+  "administrator": {
+    "noun": "網站管理員"
+  },
+  "Adobe": {
+    "noun": "Adobe"
+  },
+  "Adobe Fonts": {
+    "noun": "Adobe Fonts 網頁字型"
+  },
+  "advanced settings": {
+    "noun": "進階設定"
+  },
+  "Afar": {
+    "noun": "阿法文"
+  },
+  "Afghan afghani": {
+    "noun": "阿富汗阿富汗尼"
+  },
+  "Afghanistan": {
+    "noun": "阿富汗"
+  },
+  "Afrikaans": {
+    "noun": "南非荷蘭文"
+  },
+  "Akan": {
+    "noun": "阿寒文"
+  },
+  "Albania": {
+    "noun": "阿爾巴尼亞"
+  },
+  "Albanian": {
+    "noun": "阿爾巴尼亞文"
+  },
+  "Albanian lek": {
+    "noun": "阿爾巴尼亞列克"
+  },
+  "Algeria": {
+    "noun": "阿爾及利亞"
+  },
+  "Algerian dinar": {
+    "noun": "阿爾及利亞第納爾"
+  },
+  "Algiers": {
+    "noun": "阿爾及爾"
+  },
+  "algorithm": {
+    "noun": "演算法"
+  },
+  "Almaty": {
+    "noun": "阿馬提"
+  },
+  "alphabet": {
+    "noun": "字母"
+  },
+  "alphanumeric": {
+    "noun": "英數字元"
+  },
+  "alphanumeric character": {
+    "noun": "英數字元"
+  },
+  "alt text": {
+    "noun": "替代文字"
+  },
+  "alternate text": {
+    "noun": "替代文字"
+  },
+  "alternate URL": {
+    "noun": "替代網址"
+  },
+  "America": {
+    "noun": "美洲"
+  },
+  "American Samoa": {
+    "noun": "美屬薩摩亞"
+  },
+  "Amharic": {
+    "noun": "阿姆哈拉文"
+  },
+  "Amman": {
+    "noun": "安曼"
+  },
+  "ampersand": {
+    "noun": "and 符號"
+  },
+  "Amsterdam": {
+    "noun": "阿姆斯特丹"
+  },
+  "Anadyr": {
+    "noun": "阿納底"
+  },
+  "anchor": {
+    "noun": "錨點"
+  },
+  "Anchorage": {
+    "noun": "安克拉治"
+  },
+  "Andorra": {
+    "noun": "安道爾"
+  },
+  "Android": {
+    "noun": "Android"
+  },
+  "Angola": {
+    "noun": "安哥拉"
+  },
+  "Angolan kwanza": {
+    "noun": "安哥拉寬扎"
+  },
+  "Anguilla": {
+    "noun": "安圭拉"
+  },
+  "annotation": {
+    "noun": "註解"
+  },
+  "announcement": {
+    "noun": "公告"
+  },
+  "Antananarivo": {
+    "noun": "安塔那那利佛"
+  },
+  "Antarctica": {
+    "noun": "南極洲"
+  },
+  "Antigua": {
+    "noun": "安地卡"
+  },
+  "Antigua and Barbuda": {
+    "noun": "安地卡及巴布達"
+  },
+  "Apache": {
+    "noun": "Apache"
+  },
+  "Apia": {
+    "noun": "亞庇"
+  },
+  "apostrophe": {
+    "noun": "單引號"
+  },
+  "Apple": {
+    "noun": "Apple"
+  },
+  "Apple Music": {
+    "noun": "Apple Music"
+  },
+  "Application Pool": {
+    "noun": "應用程式集區"
+  },
+  "apply": {
+    "verb": "套用"
+  },
+  "approve": {
+    "verb": "核准"
+  },
+  "Aqtau": {
+    "noun": "阿克陶"
+  },
+  "Aqtobe": {
+    "noun": "阿克托比"
+  },
+  "Arabic": {
+    "noun": "阿拉伯文"
+  },
+  "Aragonese": {
+    "noun": "亞拉岡文"
+  },
+  "Araguaina": {
+    "noun": "阿拉瓜伊納"
+  },
+  "archive": {
+    "noun": "壓縮檔"
+  },
+  "Arctic": {
+    "noun": "北極"
+  },
+  "Are you sure": {
+    "noun": "確定要繼續操作嗎"
+  },
+  "area": {
+    "noun": "區域"
+  },
+  "Argentina": {
+    "noun": "阿根廷"
+  },
+  "Argentine peso": {
+    "noun": "阿根廷披索"
+  },
+  "argument": {
+    "noun": "引數"
+  },
+  "Armenia": {
+    "noun": "亞美尼亞"
+  },
+  "Armenian": {
+    "noun": "亞美尼亞文"
+  },
+  "Armenian dram": {
+    "noun": "亞美尼亞德拉姆"
+  },
+  "array": {
+    "noun": "陣列"
+  },
+  "arrow key": {
+    "noun": "方向鍵"
+  },
+  "Aruba": {
+    "noun": "阿路巴"
+  },
+  "Aruban florin": {
+    "noun": "阿魯巴弗羅林"
+  },
+  "ASC": {
+    "adjective": "遞增"
+  },
+  "ascending": {
+    "adjective": "遞增"
+  },
+  "Ashgabat": {
+    "noun": "阿什哈巴德"
+  },
+  "Ashkhabad": {
+    "noun": "阿什哈巴德"
+  },
+  "Asia": {
+    "noun": "亞洲"
+  },
+  "Aside": {
+    "noun": "記事"
+  },
+  "Asmara": {
+    "noun": "阿斯馬拉"
+  },
+  "Asmera": {
+    "noun": "阿斯馬拉"
+  },
+  "aspect ratio": {
+    "noun": "外觀比例"
+  },
+  "Assamese": {
+    "noun": "阿薩姆文"
+  },
+  "assemble": {
+    "verb": "組譯"
+  },
+  "assertion": {
+    "noun": "判斷提示"
+  },
+  "asset file": {
+    "noun": "資產檔案"
+  },
+  "assign": {
+    "verb": "指派"
+  },
+  "assignment": {
+    "noun": "指派"
+  },
+  "asterisk": {
+    "noun": "星號"
+  },
+  "Astrakhan": {
+    "noun": "阿斯特拉罕"
+  },
+  "Asuncion": {
+    "noun": "亞松森"
+  },
+  "asynchronous": {
+    "adjective": "非同步"
+  },
+  "Athens": {
+    "noun": "雅典"
+  },
+  "Atikokan": {
+    "noun": "阿蒂科肯"
+  },
+  "Atka": {
+    "noun": "阿特卡"
+  },
+  "Atlantic": {
+    "noun": "大西洋"
+  },
+  "attachment": {
+    "noun": "附件"
+  },
+  "attack": {
+    "verb": "攻擊",
+    "noun": "攻擊"
+  },
+  "Atyrau": {
+    "noun": "阿特勞"
+  },
+  "Auckland": {
+    "noun": "奧克蘭"
+  },
+  "audio": {
+    "noun": "音訊"
+  },
+  "Audio": {
+    "noun": "音訊"
+  },
+  "audit": {
+    "verb": "稽核",
+    "noun": "稽核"
+  },
+  "Australia": {
+    "noun": "澳洲"
+  },
+  "Australian dollar": {
+    "noun": "澳元"
+  },
+  "Austria": {
+    "noun": "奧地利"
+  },
+  "authentication": {
+    "noun": "驗證"
+  },
+  "authentication code": {
+    "noun": "驗證碼"
+  },
+  "authenticator": {
+    "noun": "驗證碼產生器"
+  },
+  "authenticator app": {
+    "noun": "驗證碼產生器 App"
+  },
+  "author": {
+    "noun": "作者"
+  },
+  "automatic install": {
+    "verb": "自動安裝"
+  },
+  "automatic installation": {
+    "noun": "自動安裝"
+  },
+  "Automatically Install": {
+    "verb": "自動安裝"
+  },
+  "Automattic": {
+    "noun": "Automattic"
+  },
+  "availability": {
+    "noun": "可用性"
+  },
+  "Avaric": {
+    "noun": "阿瓦爾文"
+  },
+  "avatar": {
+    "verb": "個人頭像"
+  },
+  "Avestan": {
+    "noun": "阿維斯塔文"
+  },
+  "Aymara": {
+    "noun": "艾馬拉文"
+  },
+  "Azerbaijan": {
+    "noun": "亞塞拜然"
+  },
+  "Azerbaijani": {
+    "noun": "亞塞拜然文"
+  },
+  "Azerbaijani manat": {
+    "noun": "亞塞拜然馬納特"
+  },
+  "Azores": {
+    "noun": "亞述群島"
+  },
+  "back-end": {
+    "noun": "後端"
+  },
+  "backend": {
+    "noun": "後端"
+  },
+  "background": {
+    "noun": "背景"
+  },
+  "background color": {
+    "noun": "背景色彩"
+  },
+  "background image": {
+    "noun": "背景圖片"
+  },
+  "background video": {
+    "noun": "背景影片"
+  },
+  "backlink": {
+    "noun": "反向連結"
+  },
+  "backslash": {
+    "noun": "反斜線"
+  },
+  "backtick": {
+    "noun": "抑音符號"
+  },
+  "backup": {
+    "verb": "備份",
+    "noun": "備份"
+  },
+  "badge": {
+    "noun": "識別證"
+  },
+  "Baghdad": {
+    "noun": "巴格達"
+  },
+  "Bahamas": {
+    "noun": "巴哈馬"
+  },
+  "Bahamian dollar": {
+    "noun": "巴哈馬元"
+  },
+  "Bahia": {
+    "noun": "巴伊亞"
+  },
+  "Bahia Banderas": {
+    "noun": "班德拉斯灣"
+  },
+  "Bahrain": {
+    "noun": "巴林"
+  },
+  "Bahraini dinar": {
+    "noun": "巴林戴納"
+  },
+  "Baku": {
+    "noun": "巴庫"
+  },
+  "Bamako": {
+    "noun": "巴馬科"
+  },
+  "Bambara": {
+    "noun": "班巴拉文"
+  },
+  "Bangkok": {
+    "noun": "曼谷"
+  },
+  "Bangladesh": {
+    "noun": "孟加拉"
+  },
+  "Bangladeshi taka": {
+    "noun": "孟加拉塔卡"
+  },
+  "Bangui": {
+    "noun": "班基"
+  },
+  "Banjul": {
+    "noun": "班竹"
+  },
+  "banner": {
+    "noun": "橫幅"
+  },
+  "Barbadian dollar": {
+    "noun": "巴貝多元"
+  },
+  "Barbados": {
+    "noun": "巴貝多"
+  },
+  "bare metal": {
+    "noun": "裸機電腦"
+  },
+  "Barnaul": {
+    "noun": "巴爾瑙爾"
+  },
+  "base": {
+    "noun": "目錄起點"
+  },
+  "Bashkir": {
+    "noun": "巴什喀爾文"
+  },
+  "Basque": {
+    "noun": "巴斯克文"
+  },
+  "bbPress": {
+    "noun": "bbPress"
+  },
+  "bearer": {
+    "noun": "持有人"
+  },
+  "Beirut": {
+    "noun": "貝魯特"
+  },
+  "Belarus": {
+    "noun": "白羅斯"
+  },
+  "Belarusian": {
+    "noun": "白羅斯文"
+  },
+  "Belarusian ruble": {
+    "noun": "白羅斯盧布"
+  },
+  "Belem": {
+    "noun": "貝倫"
+  },
+  "Belfast": {
+    "noun": "貝爾發斯特"
+  },
+  "Belgium": {
+    "noun": "比利時"
+  },
+  "Belgrade": {
+    "noun": "貝爾格勒"
+  },
+  "Belize": {
+    "noun": "貝里斯"
+  },
+  "Belize dollar": {
+    "noun": "貝里斯元"
+  },
+  "benchmark": {
+    "verb": "效能評定",
+    "noun": "效能評定"
+  },
+  "Bengali": {
+    "noun": "孟加拉文"
+  },
+  "Benin": {
+    "noun": "貝南"
+  },
+  "BeReal": {
+    "noun": "BeReal"
+  },
+  "Berlin": {
+    "noun": "柏林"
+  },
+  "Bermuda": {
+    "noun": "百慕達"
+  },
+  "Bermudian dollar": {
+    "noun": "百慕達元"
+  },
+  "best practice": {
+    "noun": "最佳做法"
+  },
+  "Beulah": {
+    "noun": "比尤拉"
+  },
+  "Bhutan": {
+    "noun": "不丹"
+  },
+  "Bhutanese ngultrum": {
+    "noun": "不丹努爾特魯姆"
+  },
+  "Bihari": {
+    "noun": "比哈文"
+  },
+  "billing": {
+    "noun": "帳單"
+  },
+  "billion": {
+    "noun": "十億"
+  },
+  "binary": {
+    "noun": "二進位"
+  },
+  "binary file": {
+    "noun": "二進位檔案"
+  },
+  "bind": {
+    "verb": "繫結"
+  },
+  "binding": {
+    "noun": "繫結"
+  },
+  "Bishkek": {
+    "noun": "比斯凱克"
+  },
+  "Bislama": {
+    "noun": "比斯拉馬文"
+  },
+  "Bissau": {
+    "noun": "比索"
+  },
+  "Bitbucket": {
+    "noun": "Bitbucket"
+  },
+  "Bitcoin": {
+    "noun": "比特幣"
+  },
+  "Black Friday": {
+    "noun": "黑色星期五"
+  },
+  "black list": {
+    "noun": "封鎖清單"
+  },
+  "blacklist": {
+    "noun": "封鎖清單"
+  },
+  "Blanc-Sablon": {
+    "noun": "布郎薩布隆"
+  },
+  "Blantyre": {
+    "noun": "布藍泰爾"
+  },
+  "bloat": {
+    "noun": "浮濫功能"
+  },
+  "bloatware": {
+    "noun": "浮濫軟體"
+  },
+  "block editor": {
+    "noun": "區塊編輯器"
+  },
+  "block hook": {
+    "noun": "關聯式區塊"
+  },
+  "block pattern": {
+    "noun": "區塊版面配置"
+  },
+  "block type": {
+    "noun": "區塊類型"
+  },
+  "blockchain": {
+    "noun": "區塊鏈"
+  },
+  "blockquote": {
+    "noun": "段落引用"
+  },
+  "Blogger": {
+    "noun": "Blogger"
+  },
+  "Boa Vista": {
+    "noun": "博阿維斯塔島"
+  },
+  "Bogota": {
+    "noun": "波哥大"
+  },
+  "Boise": {
+    "noun": "波夕"
+  },
+  "bold": {
+    "noun": "粗體"
+  },
+  "Bolivian boliviano": {
+    "noun": "玻利維亞諾"
+  },
+  "Bonaire": {
+    "noun": "波奈"
+  },
+  "book": {
+    "verb": "預約"
+  },
+  "booking": {
+    "noun": "預約"
+  },
+  "bookmarklet": {
+    "noun": "書籤小工具"
+  },
+  "boolean": {
+    "noun": "布林"
+  },
+  "bootstrap": {
+    "noun": "啟動程序"
+  },
+  "Bootstrap": {
+    "noun": "Bootstrap"
+  },
+  "border": {
+    "noun": "框線"
+  },
+  "Bosnia and Herzegovina": {
+    "noun": "波士尼亞及赫塞哥維納"
+  },
+  "Bosnia and Herzegovina convertible mark": {
+    "noun": "波士尼亞與赫塞哥維納可兌換馬克"
+  },
+  "Bosnian": {
+    "noun": "波士尼亞文"
+  },
+  "Botswana": {
+    "noun": "波札那"
+  },
+  "Botswana pula": {
+    "noun": "波札那普拉"
+  },
+  "Bougainville": {
+    "noun": "布干維爾島"
+  },
+  "Bouvet Island": {
+    "noun": "布威島"
+  },
+  "Bratislava": {
+    "noun": "布拉提斯拉瓦"
+  },
+  "Brazil": {
+    "noun": "巴西"
+  },
+  "Brazilian real": {
+    "noun": "巴西雷亞爾"
+  },
+  "Brazzaville": {
+    "noun": "布拉薩市"
+  },
+  "breadcrumb": {
+    "noun": "導覽標記"
+  },
+  "break point": {
+    "noun": "中斷點"
+  },
+  "breakdown": {
+    "noun": "解析"
+  },
+  "breakpoint": {
+    "noun": "中斷點"
+  },
+  "Breton": {
+    "noun": "布里敦文"
+  },
+  "Brisbane": {
+    "noun": "布里斯本"
+  },
+  "British Indian Ocean Territory": {
+    "noun": "英屬印度洋領土"
+  },
+  "Broken Hill": {
+    "noun": "布羅肯希爾"
+  },
+  "browse": {
+    "verb": "瀏覽"
+  },
+  "browser": {
+    "noun": "瀏覽器"
+  },
+  "Brunei": {
+    "noun": "汶萊"
+  },
+  "Brunei dollar": {
+    "noun": "汶萊元"
+  },
+  "Brussels": {
+    "noun": "布魯塞爾"
+  },
+  "brute force": {
+    "verb": "暴力密碼破解",
+    "noun": "暴力密碼破解"
+  },
+  "Bucharest": {
+    "noun": "布加勒斯特"
+  },
+  "Budapest": {
+    "noun": "布達佩斯"
+  },
+  "BuddyPress": {
+    "noun": "BuddyPress"
+  },
+  "Buenos Aires": {
+    "noun": "布宜諾斯艾利斯"
+  },
+  "buffer": {
+    "noun": "緩衝"
+  },
+  "bug": {
+    "noun": "程式碼錯誤"
+  },
+  "built-in": {
+    "adjective": "內建"
+  },
+  "Bujumbura": {
+    "noun": "布松布拉"
+  },
+  "Bulgaria": {
+    "noun": "保加利亞"
+  },
+  "Bulgarian": {
+    "noun": "保加利亞文"
+  },
+  "Bulgarian lev": {
+    "noun": "保加利亞列弗"
+  },
+  "bulk": {
+    "adjective": "批次"
+  },
+  "bulk action": {
+    "verb": "批次操作"
+  },
+  "bulk actions": {
+    "noun": "批次操作"
+  },
+  "bullet list": {
+    "noun": "項目符號清單"
+  },
+  "bundle": {
+    "noun": "搭售"
+  },
+  "Burkina Faso": {
+    "noun": "布吉納法索"
+  },
+  "Burmese": {
+    "noun": "緬甸文"
+  },
+  "Burmese kyat": {
+    "noun": "緬元"
+  },
+  "Burundi": {
+    "noun": "蒲隆地"
+  },
+  "Burundian franc": {
+    "noun": "蒲隆地法郎"
+  },
+  "Busingen": {
+    "noun": "布辛根"
+  },
+  "button": {
+    "noun": "按鈕"
+  },
+  "BY": {
+    "noun": "姓名標示"
+  },
+  "byte": {
+    "noun": "位元組"
+  },
+  "cache": {
+    "noun": "快取"
+  },
+  "Cairo": {
+    "noun": "開羅"
+  },
+  "Calcutta": {
+    "noun": "加爾各答"
+  },
+  "call": {
+    "verb": "呼叫",
+    "noun": "呼叫"
+  },
+  "call to action": {
+    "noun": "行動號召"
+  },
+  "call-to-action": {
+    "noun": "行動號召"
+  },
+  "callback": {
+    "verb": "回呼",
+    "noun": "回呼"
+  },
+  "caller": {
+    "noun": "呼叫端"
+  },
+  "Cambodia": {
+    "noun": "柬埔寨"
+  },
+  "Cambodian": {
+    "noun": "柬埔寨文"
+  },
+  "Cambodian riel": {
+    "noun": "柬埔寨瑞爾"
+  },
+  "Cambridge Bay": {
+    "noun": "劍橋灣"
+  },
+  "Cameroon": {
+    "noun": "喀麥隆"
+  },
+  "campaign": {
+    "noun": "廣告活動"
+  },
+  "Campo Grande": {
+    "noun": "格蘭德營"
+  },
+  "Canada": {
+    "noun": "加拿大"
+  },
+  "Canadian dollar": {
+    "noun": "加拿大元"
+  },
+  "Canary": {
+    "noun": "加那利群島"
+  },
+  "Canberra": {
+    "noun": "坎培拉"
+  },
+  "Cancun": {
+    "noun": "坎昆"
+  },
+  "canvas": {
+    "noun": "編輯區"
+  },
+  "capability": {
+    "noun": "權限"
+  },
+  "Cape Verde": {
+    "noun": "維德角"
+  },
+  "Cape Verdean escudo": {
+    "noun": "維德角埃斯庫多"
+  },
+  "Caracas": {
+    "noun": "卡拉卡斯"
+  },
+  "caret": {
+    "noun": "插入號"
+  },
+  "carousel": {
+    "noun": "輪轉"
+  },
+  "carousel view": {
+    "noun": "輪轉檢視"
+  },
+  "Cart": {
+    "noun": "購物車"
+  },
+  "Casablanca": {
+    "noun": "卡薩布蘭卡"
+  },
+  "cascading style sheets": {
+    "noun": "階層式樣式表"
+  },
+  "case sensitive": {
+    "noun": "區分大小寫"
+  },
+  "case-sensitive": {
+    "noun": "區分大小寫"
+  },
+  "Casey": {
+    "noun": "開西站"
+  },
+  "Catalan": {
+    "noun": "加泰羅尼亞文"
+  },
+  "Catamarca": {
+    "noun": "卡達馬卡"
+  },
+  "category": {
+    "noun": "分類"
+  },
+  "category base": {
+    "noun": "分類目錄起點"
+  },
+  "caution": {
+    "noun": "警告"
+  },
+  "Cayenne": {
+    "noun": "開雲"
+  },
+  "Cayman": {
+    "noun": "開曼群島"
+  },
+  "Cayman Islands": {
+    "noun": "開曼群島"
+  },
+  "Cayman Islands dollar": {
+    "noun": "開曼群島元"
+  },
+  "ccTLD": {
+    "noun": "國家/地區代碼頂層網域"
+  },
+  "CDN": {
+    "noun": "內容傳遞網路"
+  },
+  "Cebuano": {
+    "noun": "宿霧文"
+  },
+  "cell": {
+    "noun": "儲存格"
+  },
+  "Center": {
+    "noun": "中心市"
+  },
+  "Central African CFA franc": {
+    "noun": "中非法郎"
+  },
+  "Central African Republic": {
+    "noun": "中非共和國"
+  },
+  "Central Kurdish": {
+    "noun": "中部庫德文"
+  },
+  "centralize": {
+    "verb": "集中式"
+  },
+  "centralized": {
+    "adjective": "集中式"
+  },
+  "certificate": {
+    "noun": "憑證"
+  },
+  "Ceuta": {
+    "noun": "修達"
+  },
+  "CFP franc": {
+    "noun": "太平洋法郎"
+  },
+  "Chad": {
+    "noun": "查德"
+  },
+  "Chagos": {
+    "noun": "查哥斯"
+  },
+  "chain": {
+    "noun": "鏈結"
+  },
+  "Chamorro": {
+    "noun": "查莫羅文"
+  },
+  "changelog": {
+    "noun": "變更記錄"
+  },
+  "channel": {
+    "noun": "頻道"
+  },
+  "character": {
+    "noun": "字元"
+  },
+  "character set": {
+    "noun": "字元集"
+  },
+  "chart": {
+    "noun": "圖表"
+  },
+  "Chat": {
+    "noun": "交談記錄"
+  },
+  "Chatham": {
+    "noun": "查塔姆群島"
+  },
+  "cheat sheet": {
+    "noun": "速查表"
+  },
+  "Chechen": {
+    "noun": "車臣文"
+  },
+  "check": {
+    "verb": "檢查"
+  },
+  "checkbox": {
+    "noun": "核取方塊"
+  },
+  "checker": {
+    "noun": "檢查程式"
+  },
+  "checklist": {
+    "noun": "檢查清單"
+  },
+  "checkout": {
+    "noun": "結帳",
+    "verb": "簽出"
+  },
+  "checksum": {
+    "noun": "總和檢查碼"
+  },
+  "Chicago": {
+    "noun": "芝加哥"
+  },
+  "Chichewa": {
+    "noun": "齊切瓦文"
+  },
+  "Chihuahua": {
+    "noun": "赤瓦瓦"
+  },
+  "child theme": {
+    "noun": "子佈景主題"
+  },
+  "Chile": {
+    "noun": "智利"
+  },
+  "Chilean peso": {
+    "noun": "智利披索"
+  },
+  "China": {
+    "noun": "中國"
+  },
+  "Chinese": {
+    "noun": "中文"
+  },
+  "Chinese yuan": {
+    "noun": "中國人民幣"
+  },
+  "Chisinau": {
+    "noun": "奇西瑙"
+  },
+  "Chita": {
+    "noun": "赤塔"
+  },
+  "Choibalsan": {
+    "noun": "喬巴山"
+  },
+  "Chongqing": {
+    "noun": "重慶"
+  },
+  "choose": {
+    "verb": "選取"
+  },
+  "Christmas": {
+    "noun": "聖誕島"
+  },
+  "Chungking": {
+    "noun": "重慶"
+  },
+  "Church Slavic": {
+    "noun": "古教會斯拉夫文"
+  },
+  "Chuuk": {
+    "noun": "楚克島"
+  },
+  "Chuvash": {
+    "noun": "楚瓦什文"
+  },
+  "circle": {
+    "noun": "圓圈"
+  },
+  "citation": {
+    "noun": "引文"
+  },
+  "CJK Decimal": {
+    "noun": "中日韓文小數"
+  },
+  "CJK Ideographic": {
+    "noun": "中日韓表意字元"
+  },
+  "classic": {
+    "adjective": "傳統"
+  },
+  "classic editor": {
+    "noun": "傳統編輯器"
+  },
+  "click": {
+    "verb": "點擊",
+    "noun": "點擊次數"
+  },
+  "clickthrough rate": {
+    "noun": "點閱率"
+  },
+  "client": {
+    "noun": "客戶"
+  },
+  "client-side": {
+    "noun": "用戶端"
+  },
+  "clipboard": {
+    "noun": "剪貼簿"
+  },
+  "CLS": {
+    "noun": "CLS"
+  },
+  "Clubhouse": {
+    "noun": "Clubhouse"
+  },
+  "CMS": {
+    "noun": "CMS"
+  },
+  "Cocos": {
+    "noun": "可可斯群島"
+  },
+  "Code": {
+    "noun": "程式碼"
+  },
+  "code editor": {
+    "noun": "程式碼編輯器"
+  },
+  "code review": {
+    "noun": "程式碼檢閱"
+  },
+  "code snippet": {
+    "noun": "程式碼片段"
+  },
+  "codebase": {
+    "noun": "程式碼基底"
+  },
+  "collaborate": {
+    "verb": "協同合作"
+  },
+  "collaboration": {
+    "noun": "協同合作"
+  },
+  "collapse": {
+    "verb": "收合"
+  },
+  "collation": {
+    "noun": "定序"
+  },
+  "Colombia": {
+    "noun": "哥倫比亞"
+  },
+  "Colombian peso": {
+    "noun": "哥倫比亞披索"
+  },
+  "Colombo": {
+    "noun": "可倫坡"
+  },
+  "colon": {
+    "noun": "冒號"
+  },
+  "color": {
+    "noun": "色彩"
+  },
+  "color scheme": {
+    "noun": "色彩配置"
+  },
+  "column": {
+    "noun": "資料行"
+  },
+  "comfirmation": {
+    "noun": "確認"
+  },
+  "comma": {
+    "noun": "逗號"
+  },
+  "comma separated values": {
+    "noun": "逗點分隔值"
+  },
+  "command": {
+    "noun": "命令"
+  },
+  "command line": {
+    "noun": "命令列"
+  },
+  "command prompt": {
+    "noun": "命令提示字元"
+  },
+  "comment": {
+    "noun": "留言"
+  },
+  "ComodRivadavia": {
+    "noun": "科木多洛"
+  },
+  "Comorian franc": {
+    "noun": "葛摩法郎"
+  },
+  "Comoro": {
+    "noun": "葛摩"
+  },
+  "compatibility": {
+    "noun": "相容性"
+  },
+  "compile": {
+    "verb": "編譯"
+  },
+  "compiler": {
+    "noun": "編譯器"
+  },
+  "compliance": {
+    "noun": "合規性"
+  },
+  "component": {
+    "noun": "元件"
+  },
+  "Conakry": {
+    "noun": "科納克里"
+  },
+  "config file": {
+    "noun": "組態檔案"
+  },
+  "configure": {
+    "verb": "組態"
+  },
+  "confirm": {
+    "verb": "確認"
+  },
+  "Congolese franc": {
+    "noun": "剛果法郎"
+  },
+  "connection type": {
+    "noun": "連線類型"
+  },
+  "constant": {
+    "noun": "常數"
+  },
+  "constructor": {
+    "noun": "建構函式"
+  },
+  "contact form": {
+    "noun": "聯絡表單"
+  },
+  "container": {
+    "noun": "容器"
+  },
+  "content": {
+    "noun": "內容"
+  },
+  "content delivery network": {
+    "noun": "內容傳遞網路"
+  },
+  "Content Management System": {
+    "noun": "內容管理系統"
+  },
+  "context menu": {
+    "noun": "操作功能表"
+  },
+  "contextual menus": {
+    "noun": "操作功能表"
+  },
+  "continue": {
+    "verb": "繼續"
+  },
+  "contributor": {
+    "noun": "參與者"
+  },
+  "Contributor Day": {
+    "noun": "共創日"
+  },
+  "control": {
+    "noun": "控制項",
+    "verb": "控制"
+  },
+  "Cook Islands": {
+    "noun": "柯克群島"
+  },
+  "Cookie": {
+    "noun": "Cookie"
+  },
+  "Cookies": {
+    "noun": "Cookie"
+  },
+  "coordinate": {
+    "noun": "座標"
+  },
+  "Copenhagen": {
+    "noun": "哥本哈根"
+  },
+  "copy": {
+    "verb": "複製",
+    "noun": "複本"
+  },
+  "Coral Harbour": {
+    "noun": "珊瑚港"
+  },
+  "Cordoba": {
+    "noun": "科多瓦"
+  },
+  "Core": {
+    "noun": "核心程式"
+  },
+  "Core Web Vitals": {
+    "noun": "網站使用體驗核心指標"
+  },
+  "Cornish": {
+    "noun": "康沃耳文"
+  },
+  "correlate": {
+    "verb": "相互關聯"
+  },
+  "CORS": {
+    "noun": "CORS"
+  },
+  "Corsican": {
+    "noun": "科西嘉文"
+  },
+  "Costa Rica": {
+    "noun": "哥斯大黎加"
+  },
+  "Costa Rican col&oacute;n": {
+    "noun": "哥斯大黎加科郎"
+  },
+  "counter": {
+    "noun": "計數器"
+  },
+  "Country code top-level-domain": {
+    "noun": "國家/地區代碼頂層網域"
+  },
+  "coupon code": {
+    "noun": "優惠代碼"
+  },
+  "CPT": {
+    "noun": "自訂內容類型"
+  },
+  "crawl": {
+    "noun": "檢索"
+  },
+  "crawler": {
+    "noun": "檢索器"
+  },
+  "create": {
+    "verb": "建立"
+  },
+  "Creative Commons": {
+    "noun": "創用 CC"
+  },
+  "credentials": {
+    "noun": "認證"
+  },
+  "Cree": {
+    "noun": "克里文"
+  },
+  "Creston": {
+    "noun": "克雷斯頓"
+  },
+  "Croatia": {
+    "noun": "克羅埃西亞"
+  },
+  "Croatian": {
+    "noun": "克羅埃西亞文"
+  },
+  "Croatian kuna": {
+    "noun": "克羅埃西亞庫納"
+  },
+  "crop": {
+    "noun": "裁剪"
+  },
+  "cross site": {
+    "noun": "跨網站"
+  },
+  "Cross-origin resource sharing": {
+    "noun": "跨源資源共享"
+  },
+  "cross-sell": {
+    "verb": "交叉銷售"
+  },
+  "cross-selling": {
+    "noun": "交叉銷售"
+  },
+  "cross-site": {
+    "noun": "跨網站"
+  },
+  "CSS": {
+    "noun": "CSS"
+  },
+  "CSV": {
+    "noun": "CSV"
+  },
+  "CTA": {
+    "noun": "行動號召"
+  },
+  "CTR": {
+    "noun": "CTR"
+  },
+  "Cuba": {
+    "noun": "古巴"
+  },
+  "Cuban convertible peso": {
+    "noun": "古巴可兌換披索"
+  },
+  "Cuban peso": {
+    "noun": "古巴披索"
+  },
+  "Cuiaba": {
+    "noun": "古雅巴"
+  },
+  "Cumulative Layout Shift": {
+    "noun": "累計版面配置位移"
+  },
+  "Curacao": {
+    "noun": "古拉果"
+  },
+  "current": {
+    "adjective": "目前"
+  },
+  "Currie": {
+    "noun": "柯里"
+  },
+  "custom": {
+    "adjective": "自訂"
+  },
+  "custom color": {
+    "noun": "自訂色彩"
+  },
+  "custom field": {
+    "noun": "自訂欄位"
+  },
+  "custom post type": {
+    "noun": "自訂內容類型"
+  },
+  "customer": {
+    "noun": "客戶"
+  },
+  "customize": {
+    "verb": "自訂"
+  },
+  "customizer": {
+    "noun": "外觀自訂器"
+  },
+  "CWV": {
+    "noun": "CWV"
+  },
+  "Cyber Monday": {
+    "noun": "網購星期一"
+  },
+  "Cyprus": {
+    "noun": "賽普勒斯"
+  },
+  "Czech": {
+    "noun": "捷克文"
+  },
+  "Czech koruna": {
+    "noun": "捷克克朗"
+  },
+  "Dacca": {
+    "noun": "達卡"
+  },
+  "Dakar": {
+    "noun": "達卡"
+  },
+  "Damascus": {
+    "noun": "大馬士革"
+  },
+  "Danish": {
+    "noun": "丹麥文"
+  },
+  "Danish krone": {
+    "noun": "丹麥克朗"
+  },
+  "Danmarkshavn": {
+    "noun": "格陵蘭"
+  },
+  "Dar es Salaam": {
+    "noun": "達萊撒蘭"
+  },
+  "dark mode": {
+    "noun": "深色模式"
+  },
+  "Darwin": {
+    "noun": "達爾文"
+  },
+  "dash": {
+    "noun": "破折號"
+  },
+  "dashboard": {
+    "noun": "控制台"
+  },
+  "dashboard widget": {
+    "noun": "控制台小工具"
+  },
+  "data": {
+    "noun": "資料"
+  },
+  "data erasure request": {
+    "noun": "個人資料清除要求"
+  },
+  "database": {
+    "noun": "資料庫"
+  },
+  "database collation": {
+    "noun": "資料庫定序"
+  },
+  "database host": {
+    "noun": "資料庫主機位址"
+  },
+  "database name": {
+    "noun": "資料庫名稱"
+  },
+  "date format": {
+    "noun": "日期格式"
+  },
+  "Davis": {
+    "noun": "戴維斯站"
+  },
+  "Dawson": {
+    "noun": "道森市"
+  },
+  "Dawson Creek": {
+    "noun": "道森河市"
+  },
+  "deactivate": {
+    "verb": "停用"
+  },
+  "Debian": {
+    "noun": "Debian"
+  },
+  "debug": {
+    "verb": "偵錯"
+  },
+  "debugger": {
+    "noun": "偵錯工具"
+  },
+  "decentralize": {
+    "verb": "分散式"
+  },
+  "decentralized": {
+    "adjective": "分散式"
+  },
+  "decimal": {
+    "noun": "小數"
+  },
+  "decimal leading zero": {
+    "noun": "以零開頭小數"
+  },
+  "declaration": {
+    "noun": "宣告"
+  },
+  "declare": {
+    "verb": "宣告"
+  },
+  "decode": {
+    "verb": "解碼"
+  },
+  "decoder": {
+    "noun": "解碼器"
+  },
+  "decompile": {
+    "verb": "反向編譯"
+  },
+  "deep": {
+    "noun": "深層複製"
+  },
+  "default": {
+    "adjective": "預設",
+    "noun": "預設值"
+  },
+  "default theme": {
+    "noun": "預設佈景主題"
+  },
+  "defer": {
+    "verb": "順延"
+  },
+  "delete": {
+    "verb": "刪除"
+  },
+  "Denver": {
+    "noun": "丹佛"
+  },
+  "deploy": {
+    "verb": "部署"
+  },
+  "deployment": {
+    "noun": "部署"
+  },
+  "deprecated": {
+    "adjective": "淘汰不用"
+  },
+  "DES": {
+    "adjective": "遞減"
+  },
+  "descending": {
+    "adjective": "降冪"
+  },
+  "detail": {
+    "noun": "詳細資料"
+  },
+  "details": {
+    "noun": "詳細資料"
+  },
+  "Detroit": {
+    "noun": "底特律"
+  },
+  "develop": {
+    "verb": "開發"
+  },
+  "developer": {
+    "noun": "開發者"
+  },
+  "development": {
+    "noun": "開發工作"
+  },
+  "device": {
+    "noun": "裝置"
+  },
+  "Dhaka": {
+    "noun": "達卡"
+  },
+  "Dhivehi": {
+    "noun": "迪培希文"
+  },
+  "dialog": {
+    "noun": "對話方塊"
+  },
+  "dialog box": {
+    "noun": "對話方塊"
+  },
+  "Dili": {
+    "noun": "帝利"
+  },
+  "directive": {
+    "noun": "指示詞"
+  },
+  "directory": {
+    "noun": "目錄"
+  },
+  "disable": {
+    "verb": "停用"
+  },
+  "disassemble": {
+    "verb": "反向組譯"
+  },
+  "disc": {
+    "noun": "圓點"
+  },
+  "discard": {
+    "verb": "捨棄"
+  },
+  "discount": {
+    "noun": "折扣"
+  },
+  "dismount": {
+    "verb": "卸載"
+  },
+  "display": {
+    "verb": "顯示",
+    "noun": "顯示方式"
+  },
+  "Divehi": {
+    "noun": "迪維西文"
+  },
+  "divider": {
+    "noun": "分隔線"
+  },
+  "Djibouti": {
+    "noun": "吉布地"
+  },
+  "Djiboutian franc": {
+    "noun": "吉布地法郎"
+  },
+  "DNS": {
+    "noun": "DNS"
+  },
+  "domain": {
+    "noun": "網域名稱"
+  },
+  "domain forwarding": {
+    "noun": "網域轉址"
+  },
+  "domain name": {
+    "noun": "網域名稱"
+  },
+  "Domain Name System": {
+    "noun": "網域名稱系統"
+  },
+  "Dominica": {
+    "noun": "多明尼加"
+  },
+  "Dominican peso": {
+    "noun": "多明尼加披索"
+  },
+  "Dominican Republic": {
+    "noun": "多明尼加共和國"
+  },
+  "donate": {
+    "verb": "贊助"
+  },
+  "donation": {
+    "noun": "贊助"
+  },
+  "Douala": {
+    "noun": "杜阿拉"
+  },
+  "double click": {
+    "noun": "點擊兩下"
+  },
+  "double-byte": {
+    "noun": "雙位元組"
+  },
+  "double-click": {
+    "noun": "點擊兩下"
+  },
+  "down arrow key": {
+    "noun": "向下鍵"
+  },
+  "download": {
+    "verb": "下載"
+  },
+  "downtime": {
+    "noun": "停機時間"
+  },
+  "draft": {
+    "noun": "草稿"
+  },
+  "drag": {
+    "noun": "拖曳"
+  },
+  "drag and drop": {
+    "noun": "拖放"
+  },
+  "drop-in": {
+    "noun": "強化外掛"
+  },
+  "dropin": {
+    "noun": "強化外掛"
+  },
+  "Dubai": {
+    "noun": "杜拜"
+  },
+  "Dublin": {
+    "noun": "都柏林"
+  },
+  "DumontDUrville": {
+    "noun": "迪蒙·迪維爾站"
+  },
+  "Dushanbe": {
+    "noun": "杜尚貝"
+  },
+  "Dutch": {
+    "noun": "荷蘭文"
+  },
+  "Dzongkha": {
+    "noun": "宗卡文"
+  },
+  "Earthly Branch": {
+    "noun": "地支"
+  },
+  "East Caribbean dollar": {
+    "noun": "東加勒比元"
+  },
+  "Easter": {
+    "noun": "復活節島"
+  },
+  "eBay": {
+    "noun": "eBay"
+  },
+  "eCommerce": {
+    "noun": "電子商務"
+  },
+  "Ecuador": {
+    "noun": "厄瓜多爾"
+  },
+  "edit": {
+    "verb": "編輯"
+  },
+  "editor": {
+    "noun": "編輯器"
+  },
+  "editor style": {
+    "noun": "編輯器樣式"
+  },
+  "Edmonton": {
+    "noun": "艾德蒙頓"
+  },
+  "education": {
+    "noun": "教育"
+  },
+  "Efate": {
+    "noun": "愛發提"
+  },
+  "Egypt": {
+    "noun": "埃及"
+  },
+  "Egyptian pound": {
+    "noun": "埃及鎊"
+  },
+  "Eirunepe": {
+    "noun": "埃魯內佩"
+  },
+  "El Aaiun": {
+    "noun": "阿尤恩"
+  },
+  "El Salvador": {
+    "noun": "薩爾瓦多"
+  },
+  "element": {
+    "noun": "元素"
+  },
+  "em dash": {
+    "noun": "長破折號"
+  },
+  "Emacs": {
+    "noun": "Emacs"
+  },
+  "email": {
+    "noun": "電子郵件"
+  },
+  "email address": {
+    "noun": "電子郵件地址"
+  },
+  "email forwarding": {
+    "noun": "電子郵件轉寄"
+  },
+  "embed block": {
+    "noun": "嵌入內容區塊"
+  },
+  "Emoji": {
+    "noun": "Emoji 表情符號"
+  },
+  "emoticon": {
+    "noun": "表情符號"
+  },
+  "empty string": {
+    "noun": "空白字串"
+  },
+  "empty value": {
+    "noun": "空值"
+  },
+  "en dash": {
+    "noun": "短破折號"
+  },
+  "enable": {
+    "verb": "啟用"
+  },
+  "encode": {
+    "verb": "編碼"
+  },
+  "encoder": {
+    "noun": "編碼器"
+  },
+  "encrypt": {
+    "verb": "加密"
+  },
+  "encryption": {
+    "noun": "加密方式"
+  },
+  "Enderbury": {
+    "noun": "恩德伯里島"
+  },
+  "English": {
+    "noun": "英文"
+  },
+  "enlarge": {
+    "verb": "放大"
+  },
+  "Ensenada": {
+    "noun": "恩瑟納達"
+  },
+  "enter": {
+    "verb": "輸入"
+  },
+  "Enter": {
+    "noun": "Enter 鍵"
+  },
+  "enumerate": {
+    "verb": "列舉"
+  },
+  "enumeration": {
+    "noun": "列舉"
+  },
+  "Equatorial Guinea": {
+    "noun": "赤道幾內亞"
+  },
+  "Eritrea": {
+    "noun": "厄利垂亞"
+  },
+  "Eritrean nakfa": {
+    "noun": "厄利垂亞奈克法"
+  },
+  "error": {
+    "noun": "錯誤"
+  },
+  "error code": {
+    "noun": "錯誤代碼"
+  },
+  "error message": {
+    "noun": "錯誤訊息"
+  },
+  "Esperanto": {
+    "noun": "世界文"
+  },
+  "Estonia": {
+    "noun": "愛沙尼亞"
+  },
+  "Estonian": {
+    "noun": "愛沙尼亞文"
+  },
+  "Eswatini": {
+    "noun": "史瓦帝尼"
+  },
+  "Etc": {
+    "noun": "其他"
+  },
+  "Ethiopia": {
+    "noun": "衣索比亞"
+  },
+  "Ethiopian birr": {
+    "noun": "衣索比亞比爾"
+  },
+  "Ethiopic": {
+    "noun": "衣索比亞文"
+  },
+  "Eucla": {
+    "noun": "尤克拉"
+  },
+  "Euro": {
+    "noun": "歐元"
+  },
+  "Europe": {
+    "noun": "歐洲"
+  },
+  "event": {
+    "noun": "事件"
+  },
+  "Ewe": {
+    "noun": "埃維文"
+  },
+  "excerpt": {
+    "noun": "內容摘要"
+  },
+  "exclamation point": {
+    "noun": "驚嘆號"
+  },
+  "existing": {
+    "adjective": "現有"
+  },
+  "expand": {
+    "verb": "展開"
+  },
+  "export": {
+    "verb": "匯出"
+  },
+  "export as": {
+    "verb": "匯出為"
+  },
+  "expression": {
+    "noun": "運算式"
+  },
+  "extension": {
+    "noun": "副檔名"
+  },
+  "Facebook": {
+    "noun": "Facebook"
+  },
+  "Facebook Messenger": {
+    "noun": "Facebook Messenger"
+  },
+  "Faeroe": {
+    "noun": "法羅群島"
+  },
+  "Fakaofo": {
+    "noun": "法克奧佛"
+  },
+  "Falkland Islands": {
+    "noun": "福克蘭群島"
+  },
+  "Falkland Islands pound": {
+    "noun": "福克蘭群島鎊"
+  },
+  "fallback": {
+    "noun": "後援"
+  },
+  "fallback chain": {
+    "noun": "後援鏈結"
+  },
+  "false positive": {
+    "noun": "誤判"
+  },
+  "Famagusta": {
+    "noun": "法馬古斯塔"
+  },
+  "FAQ": {
+    "noun": "常見問題集"
+  },
+  "Faroe": {
+    "noun": "法羅群島"
+  },
+  "Faroe Islands": {
+    "noun": "法羅群島"
+  },
+  "Faroese": {
+    "noun": "法羅文"
+  },
+  "Farsi": {
+    "noun": "波斯文"
+  },
+  "fatal": {
+    "adjective": "嚴重"
+  },
+  "fatal error": {
+    "noun": "嚴重錯誤"
+  },
+  "favicon": {
+    "noun": "網站圖示"
+  },
+  "favorites": {
+    "noun": "我的最愛"
+  },
+  "FCP": {
+    "noun": "FCP"
+  },
+  "featured": {
+    "adjective": "精選"
+  },
+  "featured image": {
+    "noun": "精選圖片"
+  },
+  "featured post": {
+    "noun": "精選內容"
+  },
+  "feed": {
+    "noun": "資訊提供"
+  },
+  "feedback": {
+    "noun": "意見反應"
+  },
+  "field": {
+    "noun": "欄位"
+  },
+  "field data": {
+    "noun": "欄位資料"
+  },
+  "Fiji": {
+    "noun": "斐濟"
+  },
+  "Fijian": {
+    "noun": "斐濟文"
+  },
+  "Fijian dollar": {
+    "noun": "斐濟元"
+  },
+  "file": {
+    "noun": "檔案"
+  },
+  "File Transfer Protocol": {
+    "noun": "檔案傳輸通訊協定"
+  },
+  "filename": {
+    "noun": "檔案名稱"
+  },
+  "filter": {
+    "noun": "篩選條件",
+    "verb": "篩選"
+  },
+  "filter hook": {
+    "noun": "篩選器勾點"
+  },
+  "fine tune": {
+    "verb": "微調"
+  },
+  "fine-tune": {
+    "verb": "微調"
+  },
+  "Finland": {
+    "noun": "芬蘭"
+  },
+  "Finnish": {
+    "noun": "芬蘭文"
+  },
+  "firewall": {
+    "noun": "防火牆"
+  },
+  "First Contentful Paint": {
+    "noun": "首次顯示內容所需時間"
+  },
+  "flag": {
+    "noun": "旗標",
+    "verb": "標示"
+  },
+  "flat": {
+    "noun": "平面",
+    "adjective": "單層式"
+  },
+  "flip horizontal": {
+    "verb": "水平翻轉"
+  },
+  "flip vertical": {
+    "verb": "垂直翻轉"
+  },
+  "focal point": {
+    "noun": "焦點"
+  },
+  "fold": {
+    "verb": "折疊"
+  },
+  "folder": {
+    "noun": "資料夾"
+  },
+  "font": {
+    "noun": "字型"
+  },
+  "font collection": {
+    "noun": "字型集"
+  },
+  "font face": {
+    "noun": "字型定義"
+  },
+  "font family": {
+    "noun": "字型系列"
+  },
+  "font name": {
+    "noun": "字型名稱"
+  },
+  "font size": {
+    "noun": "字型大小"
+  },
+  "font variant": {
+    "noun": "字型變體"
+  },
+  "font weight": {
+    "noun": "字型粗細"
+  },
+  "footer": {
+    "noun": "頁尾"
+  },
+  "footnote": {
+    "noun": "註腳"
+  },
+  "foreground": {
+    "noun": "前景"
+  },
+  "form": {
+    "noun": "表單"
+  },
+  "Fort Nelson": {
+    "noun": "納爾遜堡"
+  },
+  "Fort Wayne": {
+    "noun": "韋恩堡"
+  },
+  "Fortaleza": {
+    "noun": "福塔力沙"
+  },
+  "forum": {
+    "noun": "論壇"
+  },
+  "forward slash": {
+    "noun": "正斜線 (/)"
+  },
+  "FQDN": {
+    "noun": "FQDN"
+  },
+  "framework": {
+    "noun": "架構"
+  },
+  "France": {
+    "noun": "法國"
+  },
+  "Freetown": {
+    "noun": "自由城"
+  },
+  "French": {
+    "noun": "法文"
+  },
+  "French Guiana": {
+    "noun": "法屬圭亞那"
+  },
+  "French Polynesia": {
+    "noun": "法屬玻里尼西亞"
+  },
+  "French Southern Territories": {
+    "noun": "法屬南半球領土"
+  },
+  "frequently asked questions": {
+    "noun": "常見問題集"
+  },
+  "Frisian": {
+    "noun": "夫里斯蘭文"
+  },
+  "Friulian": {
+    "noun": "佛裡烏裡文"
+  },
+  "front end": {
+    "noun": "前端"
+  },
+  "front-end": {
+    "noun": "前端"
+  },
+  "FTP": {
+    "noun": "FTP"
+  },
+  "Fulah": {
+    "noun": "富拉赫文"
+  },
+  "full site editing": {
+    "noun": "全站編輯"
+  },
+  "Fully Qualified Domain Name": {
+    "noun": "完整網域名稱"
+  },
+  "Funafuti": {
+    "noun": "富納富提"
+  },
+  "function": {
+    "noun": "函式"
+  },
+  "funding": {
+    "noun": "資金"
+  },
+  "funnel": {
+    "noun": "漏斗"
+  },
+  "Gabon": {
+    "noun": "加彭"
+  },
+  "Gaborone": {
+    "noun": "嘉柏隆里"
+  },
+  "Gaelic": {
+    "noun": "蓋爾文"
+  },
+  "Galapagos": {
+    "noun": "加拉巴哥群島"
+  },
+  "Galician": {
+    "noun": "加里西亞文"
+  },
+  "gallery": {
+    "noun": "圖庫"
+  },
+  "Gallery": {
+    "noun": "圖庫"
+  },
+  "Gambia": {
+    "noun": "甘比亞"
+  },
+  "Gambian dalasi": {
+    "noun": "甘比亞達拉西"
+  },
+  "Gambier": {
+    "noun": "甘比爾群島"
+  },
+  "Ganda": {
+    "noun": "干達文"
+  },
+  "gateway": {
+    "noun": "閘道"
+  },
+  "Gaza": {
+    "noun": "加薩"
+  },
+  "GDPR": {
+    "noun": "GDPR"
+  },
+  "General Data Protection Regulation": {
+    "noun": "一般資料保護規定"
+  },
+  "General Public License": {
+    "noun": "通用公眾授權"
+  },
+  "generative": {
+    "adjective": "生成式"
+  },
+  "generative AI": {
+    "noun": "生成式 AI"
+  },
+  "generative pre-trained transformer": {
+    "noun": "生成式預先訓練轉換器"
+  },
+  "generator": {
+    "noun": "產生器"
+  },
+  "Generic top-level domain": {
+    "noun": "通用頂層網域"
+  },
+  "Georgian": {
+    "noun": "喬治亞文"
+  },
+  "Georgian lari": {
+    "noun": "喬治亞拉里"
+  },
+  "German": {
+    "noun": "德文"
+  },
+  "Germany": {
+    "noun": "德國"
+  },
+  "Ghana cedi": {
+    "noun": "迦納塞地"
+  },
+  "Gibraltar": {
+    "noun": "直布羅陀"
+  },
+  "Gibraltar pound": {
+    "noun": "直布羅陀鎊"
+  },
+  "GitHub": {
+    "noun": "GitHub"
+  },
+  "GitLab": {
+    "noun": "GitLab"
+  },
+  "Glace Bay": {
+    "noun": "格萊斯貝"
+  },
+  "GMT": {
+    "noun": "格林威治標準時間 (GMT)"
+  },
+  "GMT+0": {
+    "noun": "GMT+0"
+  },
+  "GMT+1": {
+    "noun": "GMT+1"
+  },
+  "GMT+10": {
+    "noun": "GMT+10"
+  },
+  "GMT+11": {
+    "noun": "GMT+11"
+  },
+  "GMT+12": {
+    "noun": "GMT+12"
+  },
+  "GMT+2": {
+    "noun": "GMT+2"
+  },
+  "GMT+3": {
+    "noun": "GMT+3"
+  },
+  "GMT+4": {
+    "noun": "GMT+4"
+  },
+  "GMT+5": {
+    "noun": "GMT+5"
+  },
+  "GMT+6": {
+    "noun": "GMT+6"
+  },
+  "GMT+7": {
+    "noun": "GMT+7"
+  },
+  "GMT+8": {
+    "noun": "GMT+8"
+  },
+  "GMT+9": {
+    "noun": "GMT+9"
+  },
+  "GMT-0": {
+    "noun": "GMT-0"
+  },
+  "GMT-1": {
+    "noun": "GMT-1"
+  },
+  "GMT-10": {
+    "noun": "GMT-10"
+  },
+  "GMT-11": {
+    "noun": "GMT-11"
+  },
+  "GMT-12": {
+    "noun": "GMT-12"
+  },
+  "GMT-13": {
+    "noun": "GMT-13"
+  },
+  "GMT-14": {
+    "noun": "GMT-14"
+  },
+  "GMT-2": {
+    "noun": "GMT-2"
+  },
+  "GMT-3": {
+    "noun": "GMT-3"
+  },
+  "GMT-4": {
+    "noun": "GMT-4"
+  },
+  "GMT-5": {
+    "noun": "GMT-5"
+  },
+  "GMT-6": {
+    "noun": "GMT-6"
+  },
+  "GMT-7": {
+    "noun": "GMT-7"
+  },
+  "GMT-8": {
+    "noun": "GMT-8"
+  },
+  "GMT-9": {
+    "noun": "GMT-9"
+  },
+  "GMT0": {
+    "noun": "GMT0"
+  },
+  "GNU General Public License": {
+    "noun": "GNU 通用公眾授權"
+  },
+  "go back": {
+    "verb": "返回"
+  },
+  "Godthab": {
+    "noun": "哥特哈布"
+  },
+  "Google": {
+    "noun": "Google"
+  },
+  "Google Analytics": {
+    "noun": "Google 分析"
+  },
+  "Google Docs": {
+    "noun": "Google Docs"
+  },
+  "Google Drive": {
+    "noun": "Google 雲端硬碟"
+  },
+  "Google Fonts": {
+    "noun": "Google Fonts 網頁字型"
+  },
+  "Google Maps": {
+    "noun": "Google 地圖"
+  },
+  "Google My Business": {
+    "noun": "Google 我的商家"
+  },
+  "Google Photos": {
+    "noun": "Google 相簿"
+  },
+  "Google Plus": {
+    "noun": "Google+"
+  },
+  "Google Sheets": {
+    "noun": "Google Sheets"
+  },
+  "Google Slides": {
+    "noun": "Google Slides"
+  },
+  "Goolge Business Profiles": {
+    "noun": "Google 商家檔案"
+  },
+  "Goose Bay": {
+    "noun": "古斯貝"
+  },
+  "GPL": {
+    "noun": "GPL"
+  },
+  "Grand Turk": {
+    "noun": "格蘭土克"
+  },
+  "grant": {
+    "verb": "授予"
+  },
+  "Gravatar": {
+    "noun": "Gravatar"
+  },
+  "grave": {
+    "noun": "抑音符號"
+  },
+  "grave accent": {
+    "noun": "抑音符號"
+  },
+  "Greece": {
+    "noun": "希臘"
+  },
+  "Greek": {
+    "noun": "希臘文"
+  },
+  "Greenland": {
+    "noun": "格陵蘭"
+  },
+  "Greenwich": {
+    "noun": "格林威治"
+  },
+  "Grenada": {
+    "noun": "格瑞那達"
+  },
+  "grid view": {
+    "noun": "格狀檢視"
+  },
+  "group": {
+    "noun": "群組",
+    "verb": "組成群組"
+  },
+  "gTLD": {
+    "noun": "通用頂層網域"
+  },
+  "Guadalcanal": {
+    "noun": "瓜達卡那島"
+  },
+  "Guadeloupe": {
+    "noun": "瓜地洛普"
+  },
+  "Guam": {
+    "noun": "關島"
+  },
+  "Guarani": {
+    "noun": "瓜拉尼文"
+  },
+  "Guatemala": {
+    "noun": "瓜地馬拉"
+  },
+  "Guatemalan quetzal": {
+    "noun": "瓜地馬拉格查爾"
+  },
+  "Guayaquil": {
+    "noun": "圭亞基爾"
+  },
+  "Guernsey": {
+    "noun": "根西島"
+  },
+  "Guernsey pound": {
+    "noun": "根西島鎊"
+  },
+  "guest": {
+    "noun": "訪客"
+  },
+  "Guinea": {
+    "noun": "幾內亞"
+  },
+  "Guinea-Bissau": {
+    "noun": "幾內亞比索"
+  },
+  "Guinean franc": {
+    "noun": "幾內亞法郎"
+  },
+  "Gujarati": {
+    "noun": "古吉拉特文"
+  },
+  "Gurmukhi": {
+    "noun": "果魯穆奇文"
+  },
+  "Gutenberg": {
+    "noun": "Gutenberg"
+  },
+  "Guyana": {
+    "noun": "蓋亞那"
+  },
+  "Guyanese dollar": {
+    "noun": "蓋亞那元"
+  },
+  "Haiti": {
+    "noun": "海地"
+  },
+  "Haitian": {
+    "noun": "海地克裏奧爾文"
+  },
+  "Haitian gourde": {
+    "noun": "海地古德"
+  },
+  "Halifax": {
+    "noun": "哈利法克斯"
+  },
+  "handle": {
+    "noun": "控制代碼"
+  },
+  "handler": {
+    "noun": "處理常式"
+  },
+  "Hangul": {
+    "noun": "韓文"
+  },
+  "Hangul Consonant": {
+    "noun": "韓文 (子音)"
+  },
+  "Harare": {
+    "noun": "哈拉雷"
+  },
+  "Harbin": {
+    "noun": "哈爾濱"
+  },
+  "hard link": {
+    "noun": "直接連結"
+  },
+  "hardware": {
+    "noun": "硬體"
+  },
+  "hash": {
+    "noun": "雜湊值"
+  },
+  "Hash Message Authentication Code": {
+    "noun": "金鑰雜湊訊息驗證碼"
+  },
+  "hash tag": {
+    "noun": "主題標籤"
+  },
+  "hashtag": {
+    "noun": "主題標籤"
+  },
+  "Hausa": {
+    "noun": "豪沙文"
+  },
+  "Havana": {
+    "noun": "哈瓦那"
+  },
+  "Hawaiian": {
+    "noun": "夏威夷文"
+  },
+  "Hazaragi": {
+    "noun": "哈撒拉基文"
+  },
+  "header": {
+    "noun": "頁首"
+  },
+  "heading": {
+    "noun": "標題"
+  },
+  "heading level": {
+    "noun": "標題階層"
+  },
+  "Headless CMS": {
+    "noun": "無周邊內容管理系統"
+  },
+  "Heard Island and McDonald Islands": {
+    "noun": "赫德島及麥當勞群島"
+  },
+  "heartbeat": {
+    "noun": "活動訊號"
+  },
+  "Heavenly Stem": {
+    "noun": "天干"
+  },
+  "Hebrew": {
+    "noun": "希伯來文"
+  },
+  "Hebron": {
+    "noun": "希伯侖"
+  },
+  "height": {
+    "noun": "高度"
+  },
+  "helper": {
+    "noun": "協助程式"
+  },
+  "Helsinki": {
+    "noun": "赫爾辛基"
+  },
+  "Herero": {
+    "noun": "赫雷羅文"
+  },
+  "Hermosillo": {
+    "noun": "埃莫西約"
+  },
+  "hide": {
+    "verb": "隱藏"
+  },
+  "hierarchy": {
+    "noun": "階層架構"
+  },
+  "Hindi": {
+    "noun": "印度文"
+  },
+  "HiNet": {
+    "noun": "HiNet"
+  },
+  "Hiragana": {
+    "noun": "日文平假名"
+  },
+  "Hiragana-Iroha": {
+    "noun": "日文平假名 (伊呂波歌)"
+  },
+  "Hiri Motu": {
+    "noun": "希里莫圖文"
+  },
+  "history": {
+    "noun": "歷程記錄"
+  },
+  "hit rate": {
+    "noun": "命中率"
+  },
+  "hit ratio": {
+    "noun": "命中率"
+  },
+  "HMAC": {
+    "noun": "HMAC"
+  },
+  "Hmong": {
+    "noun": "白苗文"
+  },
+  "Ho Chi Minh": {
+    "noun": "胡志明市"
+  },
+  "Hobart": {
+    "noun": "霍巴特"
+  },
+  "hold": {
+    "verb": "按住"
+  },
+  "Holy See": {
+    "noun": "梵蒂岡"
+  },
+  "Honduran lempira": {
+    "noun": "宏都拉斯倫皮拉"
+  },
+  "Honduras": {
+    "noun": "宏都拉斯"
+  },
+  "Hong Kong": {
+    "noun": "香港"
+  },
+  "Hong Kong dollar": {
+    "noun": "港元"
+  },
+  "Honolulu": {
+    "noun": "檀香山"
+  },
+  "hook": {
+    "noun": "勾點"
+  },
+  "horizontal": {
+    "adjective": "水平"
+  },
+  "hot fix": {
+    "noun": "修正程式"
+  },
+  "hotfix": {
+    "noun": "修正程式"
+  },
+  "Hovd": {
+    "noun": "哈霍德"
+  },
+  "hover": {
+    "verb": "游標暫留"
+  },
+  "HSTS": {
+    "noun": "HSTS"
+  },
+  "HTML entities": {
+    "noun": "HTML 實體"
+  },
+  "HTTP Strict Transport Security": {
+    "noun": "HTTP 嚴格傳輸安全性"
+  },
+  "Hungarian": {
+    "noun": "匈牙利文"
+  },
+  "Hungarian forint": {
+    "noun": "匈牙利福林"
+  },
+  "Hungary": {
+    "noun": "匈牙利"
+  },
+  "hyphen": {
+    "noun": "連字號"
+  },
+  "hyphenate": {
+    "noun": "連字號"
+  },
+  "I18N": {
+    "noun": "國際化"
+  },
+  "Iceland": {
+    "noun": "冰島"
+  },
+  "Icelandic": {
+    "noun": "冰島文"
+  },
+  "Icelandic kr&oacute;na": {
+    "noun": "冰島克朗"
+  },
+  "icon": {
+    "noun": "圖示"
+  },
+  "ICQ": {
+    "noun": "ICQ"
+  },
+  "identifier": {
+    "noun": "識別碼"
+  },
+  "identify": {
+    "verb": "識別"
+  },
+  "Ido": {
+    "noun": "伊多文"
+  },
+  "iFrame": {
+    "noun": "iFrame"
+  },
+  "Igbo": {
+    "noun": "伊布文"
+  },
+  "image": {
+    "noun": "圖片"
+  },
+  "Image": {
+    "noun": "圖片"
+  },
+  "Image Caption": {
+    "noun": "圖片說明文字"
+  },
+  "impersonate": {
+    "verb": "模擬"
+  },
+  "import": {
+    "verb": "匯入"
+  },
+  "impression": {
+    "noun": "曝光次數"
+  },
+  "inactive": {
+    "adjective": "非使用中"
+  },
+  "incident": {
+    "noun": "事件"
+  },
+  "incremental search": {
+    "noun": "累加搜尋"
+  },
+  "indent": {
+    "verb": "縮排"
+  },
+  "index": {
+    "noun": "指數",
+    "verb": "進行索引"
+  },
+  "India": {
+    "noun": "印度"
+  },
+  "Indian": {
+    "noun": "印度"
+  },
+  "Indian rupee": {
+    "noun": "印度盧比"
+  },
+  "Indiana": {
+    "noun": "印第安那州"
+  },
+  "Indianapolis": {
+    "noun": "印第安納波利斯"
+  },
+  "Indonesia": {
+    "noun": "印尼"
+  },
+  "Indonesian": {
+    "noun": "印尼文"
+  },
+  "Indonesian rupiah": {
+    "noun": "印尼盾"
+  },
+  "infinite scroll": {
+    "noun": "無限捲動"
+  },
+  "info": {
+    "noun": "資訊"
+  },
+  "information": {
+    "noun": "資訊"
+  },
+  "infrastructure": {
+    "noun": "基礎結構"
+  },
+  "infringement": {
+    "noun": "侵權"
+  },
+  "inline": {
+    "adjective": "內嵌"
+  },
+  "Inline CSS": {
+    "noun": "內嵌 CSS"
+  },
+  "Inline JavaScript": {
+    "noun": "內嵌 JavaScript"
+  },
+  "Inline Script": {
+    "noun": "內嵌指令碼"
+  },
+  "INP": {
+    "noun": "INP"
+  },
+  "insert": {
+    "verb": "插入"
+  },
+  "insert into": {
+    "verb": "插入至"
+  },
+  "inserter": {
+    "noun": "插入器"
+  },
+  "insight": {
+    "noun": "深入解析"
+  },
+  "Instagram": {
+    "noun": "Instagram"
+  },
+  "installer": {
+    "noun": "安裝程式"
+  },
+  "instance": {
+    "noun": "執行個體"
+  },
+  "instantiate": {
+    "noun": "具現化"
+  },
+  "integrate": {
+    "noun": "整合"
+  },
+  "integration": {
+    "noun": "整合"
+  },
+  "Interaction to Next Paint": {
+    "noun": "與下一個顯示內容的互動時間"
+  },
+  "intercept": {
+    "verb": "攔截"
+  },
+  "interceptor": {
+    "noun": "攔截器"
+  },
+  "interface": {
+    "noun": "介面"
+  },
+  "Interlingue": {
+    "noun": "人工國際文"
+  },
+  "Internationalization": {
+    "noun": "國際化"
+  },
+  "internet": {
+    "noun": "網際網路"
+  },
+  "Inuktitut": {
+    "noun": "依奴提圖特文"
+  },
+  "Inupiaq": {
+    "noun": "伊努特文"
+  },
+  "Inuvik": {
+    "noun": "因紐維克"
+  },
+  "invalid": {
+    "adjective": "無效"
+  },
+  "iOS": {
+    "noun": "iOS"
+  },
+  "IP": {
+    "noun": "IP 位址"
+  },
+  "IP address": {
+    "noun": "IP 位址"
+  },
+  "Iqaluit": {
+    "noun": "伊魁特"
+  },
+  "Iranian rial": {
+    "noun": "伊朗里亞爾"
+  },
+  "Iranian toman": {
+    "noun": "伊朗託曼 (1 託曼 = 10 里亞爾)"
+  },
+  "Iraq": {
+    "noun": "伊拉克"
+  },
+  "Iraqi dinar": {
+    "noun": "伊拉克戴納"
+  },
+  "Ireland": {
+    "noun": "愛爾蘭"
+  },
+  "Irish": {
+    "noun": "愛爾蘭文"
+  },
+  "Irkutsk": {
+    "noun": "伊爾庫次克"
+  },
+  "Isle of Man": {
+    "noun": "曼島"
+  },
+  "Israel": {
+    "noun": "以色列"
+  },
+  "Israeli new shekel": {
+    "noun": "以色列新謝克爾"
+  },
+  "Istanbul": {
+    "noun": "伊斯坦堡"
+  },
+  "Italian": {
+    "noun": "義大利文"
+  },
+  "italic": {
+    "noun": "斜體"
+  },
+  "Italy": {
+    "noun": "義大利"
+  },
+  "item": {
+    "noun": "項目"
+  },
+  "item list": {
+    "noun": "項目清單"
+  },
+  "iteration": {
+    "noun": "疊代"
+  },
+  "Jakarta": {
+    "noun": "雅加達"
+  },
+  "Jamaica": {
+    "noun": "牙買加"
+  },
+  "Jamaican dollar": {
+    "noun": "牙買加元"
+  },
+  "Jan Mayen": {
+    "noun": "央棉群島"
+  },
+  "Japan": {
+    "noun": "日本"
+  },
+  "Japanese": {
+    "noun": "日文"
+  },
+  "Japanese Formal": {
+    "noun": "日文 (正式)"
+  },
+  "Japanese Informal": {
+    "noun": "日文 (口語)"
+  },
+  "Japanese yen": {
+    "noun": "日圓"
+  },
+  "Javanese": {
+    "noun": "爪哇文"
+  },
+  "JavaScript": {
+    "noun": "JavaScript"
+  },
+  "Jayapura": {
+    "noun": "嘉雅浦拉"
+  },
+  "Jersey": {
+    "noun": "澤西島"
+  },
+  "Jersey pound": {
+    "noun": "澤西島鎊"
+  },
+  "Jerusalem": {
+    "noun": "耶路撒冷"
+  },
+  "Johannesburg": {
+    "noun": "約翰尼斯堡"
+  },
+  "Johnston": {
+    "noun": "詹斯頓島"
+  },
+  "Jordan": {
+    "noun": "約旦"
+  },
+  "Jordanian dinar": {
+    "noun": "約旦戴納"
+  },
+  "jQuery": {
+    "noun": "jQuery"
+  },
+  "Juba": {
+    "noun": "朱巴"
+  },
+  "Jujuy": {
+    "noun": "胡胡伊"
+  },
+  "Juneau": {
+    "noun": "朱諾"
+  },
+  "Kabul": {
+    "noun": "喀布爾"
+  },
+  "Kabyle": {
+    "noun": "卡拜爾文"
+  },
+  "KakaoTalk": {
+    "noun": "KakaoTalk"
+  },
+  "Kalaallisut": {
+    "noun": "格陵蘭文"
+  },
+  "Kaliningrad": {
+    "noun": "卡里寧格勒"
+  },
+  "Kamchatka": {
+    "noun": "堪察加"
+  },
+  "Kampala": {
+    "noun": "坎帕拉"
+  },
+  "Kannada": {
+    "noun": "坎那達文"
+  },
+  "Kanton": {
+    "noun": "坎頓"
+  },
+  "Kanuri": {
+    "noun": "卡努里文"
+  },
+  "Karachi": {
+    "noun": "克洛奇"
+  },
+  "Kartuli": {
+    "noun": "喬治亞文"
+  },
+  "Kashgar": {
+    "noun": "喀什市"
+  },
+  "Kashmiri": {
+    "noun": "喀什米爾文"
+  },
+  "Katakana": {
+    "noun": "日文片假名"
+  },
+  "Katakana-Iroha": {
+    "noun": "日文片假名 (伊呂波歌)"
+  },
+  "Kathmandu": {
+    "noun": "加德滿都"
+  },
+  "Katmandu": {
+    "noun": "加德滿都"
+  },
+  "Kazakh": {
+    "noun": "哈薩克文"
+  },
+  "Kazakhstan": {
+    "noun": "哈薩克"
+  },
+  "Kazakhstani tenge": {
+    "noun": "哈薩克斯坦堅戈"
+  },
+  "Kentucky": {
+    "noun": "肯塔基州"
+  },
+  "Kenya": {
+    "noun": "肯亞"
+  },
+  "Kenyan shilling": {
+    "noun": "肯亞先令"
+  },
+  "Kerguelen": {
+    "noun": "凱爾蓋朗群島"
+  },
+  "keyboard": {
+    "noun": "鍵盤"
+  },
+  "keyboard shortcut": {
+    "noun": "鍵盤快速鍵"
+  },
+  "Khandyga": {
+    "noun": "漢德加"
+  },
+  "Khartoum": {
+    "noun": "喀土穆"
+  },
+  "Khmer": {
+    "noun": "高棉文"
+  },
+  "Kiev": {
+    "noun": "基輔"
+  },
+  "Kigali": {
+    "noun": "吉佳利"
+  },
+  "Kikuyu": {
+    "noun": "吉庫尤文"
+  },
+  "Kinshasa": {
+    "noun": "金夏沙"
+  },
+  "Kinyarwanda": {
+    "noun": "金揚萬答文"
+  },
+  "Kirghiz": {
+    "noun": "柯爾克孜文"
+  },
+  "Kiribati": {
+    "noun": "吉里巴斯"
+  },
+  "Kiritimati": {
+    "noun": "刻里提瑪斯"
+  },
+  "Kirov": {
+    "noun": "基洛夫"
+  },
+  "Kirundi": {
+    "noun": "科隆地文"
+  },
+  "kit": {
+    "noun": "套件"
+  },
+  "Knowledge Graph": {
+    "noun": "知識圖譜"
+  },
+  "Knox": {
+    "noun": "諾克斯"
+  },
+  "Knox IN": {
+    "noun": "諾克斯"
+  },
+  "Kolkata": {
+    "noun": "加爾各答"
+  },
+  "Komi": {
+    "noun": "科米文"
+  },
+  "Kongo": {
+    "noun": "剛果文"
+  },
+  "Korean": {
+    "noun": "韓文"
+  },
+  "Korean Hangul Formal": {
+    "noun": "韓國韓文 (正式)"
+  },
+  "Korean Hanja Formal": {
+    "noun": "韓國漢字 (正式)"
+  },
+  "Korean Hanja Informal": {
+    "noun": "韓國漢字 (口語)"
+  },
+  "Kosrae": {
+    "noun": "科瑟爾"
+  },
+  "Kralendijk": {
+    "noun": "克拉倫代克"
+  },
+  "Krasnoyarsk": {
+    "noun": "克拉斯諾亞爾斯克"
+  },
+  "Kuala Lumpur": {
+    "noun": "吉隆坡"
+  },
+  "Kuching": {
+    "noun": "古晉"
+  },
+  "Kurdish": {
+    "noun": "庫德文"
+  },
+  "Kuwait": {
+    "noun": "科威特"
+  },
+  "Kuwaiti dinar": {
+    "noun": "科威特戴納"
+  },
+  "Kwajalein": {
+    "noun": "瓜加林島"
+  },
+  "Kwanyama": {
+    "noun": "克萬亞瑪文"
+  },
+  "Kyiv": {
+    "noun": "基輔"
+  },
+  "Kyrgyz": {
+    "noun": "吉爾吉斯文"
+  },
+  "Kyrgyzstan": {
+    "noun": "吉爾吉斯"
+  },
+  "Kyrgyzstani som": {
+    "noun": "吉爾吉斯斯坦索姆"
+  },
+  "L10N": {
+    "noun": "L10N"
+  },
+  "La Paz": {
+    "noun": "拉帕茲"
+  },
+  "La Rioja": {
+    "noun": "拉里奧哈"
+  },
+  "Lagos": {
+    "noun": "拉哥斯"
+  },
+  "landing page": {
+    "noun": "到達網頁"
+  },
+  "language pack": {
+    "noun": "語言套件"
+  },
+  "Lao": {
+    "noun": "寮文"
+  },
+  "Lao kip": {
+    "noun": "寮國基普"
+  },
+  "Lao People's Democratic Republi": {
+    "noun": "寮國"
+  },
+  "Laos": {
+    "noun": "寮國"
+  },
+  "Laotian": {
+    "noun": "寮文"
+  },
+  "Largest Contentful Paint": {
+    "noun": "最大內容繪製"
+  },
+  "Latin": {
+    "noun": "拉丁文"
+  },
+  "Latvia": {
+    "noun": "拉脫維亞"
+  },
+  "Latvian": {
+    "noun": "拉脫維亞文"
+  },
+  "launch": {
+    "verb": "啟動"
+  },
+  "layout": {
+    "noun": "版面配置"
+  },
+  "lazy load": {
+    "noun": "延遲載入",
+    "verb": "延遲載入"
+  },
+  "LCP": {
+    "noun": "LCP"
+  },
+  "Lebanese pound": {
+    "noun": "黎巴嫩鎊"
+  },
+  "Lebanon": {
+    "noun": "黎巴嫩"
+  },
+  "left arrow key": {
+    "noun": "向左鍵"
+  },
+  "left brace": {
+    "noun": "左大括弧"
+  },
+  "left parenthesis": {
+    "noun": "左括弧"
+  },
+  "Left to Right": {
+    "noun": "從左至右"
+  },
+  "left-click": {
+    "verb": "點擊左鍵"
+  },
+  "legacy": {
+    "adjective": "傳統"
+  },
+  "legend": {
+    "noun": "圖例"
+  },
+  "legitimate": {
+    "adjective": "正當"
+  },
+  "Lesotho": {
+    "noun": "賴索托"
+  },
+  "Lesotho loti": {
+    "noun": "賴索托洛蒂"
+  },
+  "letter": {
+    "noun": "字母"
+  },
+  "LHI": {
+    "noun": "羅豪島"
+  },
+  "Liberia": {
+    "noun": "賴比瑞亞"
+  },
+  "Liberian dollar": {
+    "noun": "賴比瑞亞元"
+  },
+  "Libreville": {
+    "noun": "自由市"
+  },
+  "Libyan dinar": {
+    "noun": "利比亞戴納"
+  },
+  "license": {
+    "noun": "授權方式"
+  },
+  "license key": {
+    "noun": "授權金鑰"
+  },
+  "Liechtenstein": {
+    "noun": "列支敦斯登"
+  },
+  "lifetime license": {
+    "noun": "永久授權"
+  },
+  "lightbox": {
+    "noun": "燈箱"
+  },
+  "lightness": {
+    "noun": "亮度"
+  },
+  "lightweight": {
+    "adjective": "輕量化"
+  },
+  "Lima": {
+    "noun": "利馬"
+  },
+  "Limburgish": {
+    "noun": "林堡文"
+  },
+  "Lindeman": {
+    "noun": "林德曼島"
+  },
+  "LINE": {
+    "noun": "LINE"
+  },
+  "line break": {
+    "noun": "分行符號"
+  },
+  "Lingala": {
+    "noun": "林格拉文"
+  },
+  "link": {
+    "noun": "連結"
+  },
+  "Link": {
+    "noun": "連結"
+  },
+  "LinkedIn": {
+    "noun": "LinkedIn"
+  },
+  "Linux": {
+    "noun": "Linux"
+  },
+  "Lisbon": {
+    "noun": "里斯本"
+  },
+  "list": {
+    "noun": "清單"
+  },
+  "list view": {
+    "noun": "清單檢視"
+  },
+  "Lithuania": {
+    "noun": "立陶宛"
+  },
+  "Lithuanian": {
+    "noun": "立陶宛文"
+  },
+  "Ljubljana": {
+    "noun": "盧布亞納"
+  },
+  "loader": {
+    "noun": "載入程式"
+  },
+  "local": {
+    "noun": "本機"
+  },
+  "local business": {
+    "noun": "本地商家"
+  },
+  "locale": {
+    "noun": "地區語言"
+  },
+  "localization": {
+    "noun": "本地化"
+  },
+  "lock down": {
+    "verb": "鎖定"
+  },
+  "lockdown": {
+    "noun": "鎖定"
+  },
+  "log": {
+    "noun": "記錄",
+    "verb": "記錄"
+  },
+  "log in": {
+    "verb": "登入"
+  },
+  "log out": {
+    "verb": "登出"
+  },
+  "login": {
+    "noun": "登入",
+    "verb": "登入"
+  },
+  "logo": {
+    "noun": "標誌"
+  },
+  "logout": {
+    "verb": "登出",
+    "noun": "登出"
+  },
+  "Lome": {
+    "noun": "洛梅"
+  },
+  "London": {
+    "noun": "倫敦"
+  },
+  "long tail": {
+    "adjective": "長尾"
+  },
+  "long-tail": {
+    "adjective": "長尾"
+  },
+  "Longyearbyen": {
+    "noun": "龍宜爾比恩"
+  },
+  "look up": {
+    "verb": "查詢"
+  },
+  "lookup": {
+    "verb": "查詢"
+  },
+  "loop": {
+    "noun": "迴圈"
+  },
+  "loopback": {
+    "verb": "回送"
+  },
+  "loopback address": {
+    "noun": "迴路位址"
+  },
+  "Lord Howe": {
+    "noun": "羅豪"
+  },
+  "Los Angeles": {
+    "noun": "洛杉磯"
+  },
+  "Louisville": {
+    "noun": "路易維爾"
+  },
+  "Lower Alpha/Latin": {
+    "noun": "小寫拉丁字元"
+  },
+  "Lower Armenian": {
+    "noun": "小寫亞美尼亞文"
+  },
+  "Lower Greek": {
+    "noun": "小寫希臘字母"
+  },
+  "Lower Princes": {
+    "noun": "下太子區"
+  },
+  "Lower Roman": {
+    "noun": "小寫羅馬數字"
+  },
+  "Lower Sorbian": {
+    "noun": "下索布文"
+  },
+  "LTR": {
+    "noun": "從左至右"
+  },
+  "Luanda": {
+    "noun": "盧安達"
+  },
+  "Luba-Katanga": {
+    "noun": "盧巴卡丹加文"
+  },
+  "Lubumbashi": {
+    "noun": "羅彭巴布"
+  },
+  "Lusaka": {
+    "noun": "路沙卡"
+  },
+  "Luxembourg": {
+    "noun": "盧森堡"
+  },
+  "Luxembourgish": {
+    "noun": "盧森堡文"
+  },
+  "Macanese pataca": {
+    "noun": "澳門幣"
+  },
+  "Macao": {
+    "noun": "澳門"
+  },
+  "Macau": {
+    "noun": "澳門"
+  },
+  "Macedonian": {
+    "noun": "馬其頓文"
+  },
+  "Macedonian denar": {
+    "noun": "馬其頓代納爾"
+  },
+  "Maceio": {
+    "noun": "馬瑟歐"
+  },
+  "macOS": {
+    "noun": "macOS"
+  },
+  "Macquarie": {
+    "noun": "麥加利島"
+  },
+  "Madagascar": {
+    "noun": "馬達加斯加"
+  },
+  "Madeira": {
+    "noun": "馬迪拉群島"
+  },
+  "Madrid": {
+    "noun": "馬德里"
+  },
+  "Magadan": {
+    "noun": "馬加丹"
+  },
+  "Mahe": {
+    "noun": "馬赫"
+  },
+  "Mailchimp": {
+    "noun": "Mailchimp"
+  },
+  "mailer": {
+    "noun": "郵件程式"
+  },
+  "maintenance": {
+    "noun": "維護"
+  },
+  "Majuro": {
+    "noun": "麥哲魯"
+  },
+  "Makassar": {
+    "noun": "瑪加沙"
+  },
+  "Malabo": {
+    "noun": "馬拉博"
+  },
+  "Malagasy": {
+    "noun": "馬達加斯加文"
+  },
+  "Malagasy ariary": {
+    "noun": "馬達加斯加阿里亞里"
+  },
+  "Malawi": {
+    "noun": "馬拉威"
+  },
+  "Malawian kwacha": {
+    "noun": "馬拉威克瓦查"
+  },
+  "Malay": {
+    "noun": "馬來文"
+  },
+  "Malayalam": {
+    "noun": "馬來亞拉姆文"
+  },
+  "Malaysia": {
+    "noun": "馬來西亞"
+  },
+  "Malaysian ringgit": {
+    "noun": "馬來西亞令吉"
+  },
+  "Maldives": {
+    "noun": "馬爾地夫"
+  },
+  "Maldivian rufiyaa": {
+    "noun": "馬爾地夫拉菲亞"
+  },
+  "Mali": {
+    "noun": "馬利"
+  },
+  "malicious software": {
+    "noun": "惡意軟體"
+  },
+  "Malta": {
+    "noun": "馬爾他"
+  },
+  "Maltese": {
+    "noun": "馬爾他文"
+  },
+  "Malvinas": {
+    "noun": "馬爾維納斯"
+  },
+  "malware": {
+    "noun": "惡意程式碼"
+  },
+  "manage": {
+    "verb": "管理"
+  },
+  "management": {
+    "noun": "管理工作"
+  },
+  "manager": {
+    "noun": "管理程式"
+  },
+  "Managua": {
+    "noun": "馬納瓜"
+  },
+  "Manaus": {
+    "noun": "瑪瑙斯"
+  },
+  "manifest": {
+    "noun": "資訊清單"
+  },
+  "Manila": {
+    "noun": "馬尼拉"
+  },
+  "manual install": {
+    "verb": "手動安裝"
+  },
+  "manual installation": {
+    "noun": "手動安裝"
+  },
+  "manually install": {
+    "verb": "手動安裝"
+  },
+  "Manx": {
+    "noun": "曼島文"
+  },
+  "Manx pound": {
+    "noun": "曼島鎊"
+  },
+  "Maori": {
+    "noun": "毛利文"
+  },
+  "mapping": {
+    "adjective": "對應"
+  },
+  "Maputo": {
+    "noun": "馬布多"
+  },
+  "Marathi": {
+    "noun": "馬拉提文"
+  },
+  "Marengo": {
+    "noun": "馬倫戈"
+  },
+  "margin": {
+    "noun": "邊界"
+  },
+  "MariaDB": {
+    "noun": "MariaDB"
+  },
+  "Mariehamn": {
+    "noun": "瑪麗港"
+  },
+  "Marigot": {
+    "noun": "馬里戈"
+  },
+  "mark": {
+    "verb": "標示"
+  },
+  "Marquesas": {
+    "noun": "馬克沙斯"
+  },
+  "Marshall Islands": {
+    "noun": "馬紹爾群島"
+  },
+  "Marshallese": {
+    "noun": "馬紹爾文"
+  },
+  "Martinique": {
+    "noun": "馬丁尼克"
+  },
+  "Maseru": {
+    "noun": "馬塞魯"
+  },
+  "Mastodon": {
+    "noun": "Mastodon"
+  },
+  "Matamoros": {
+    "noun": "馬塔莫羅斯"
+  },
+  "Mauritania": {
+    "noun": "茅利塔尼亞"
+  },
+  "Mauritanian ouguiya": {
+    "noun": "茅利塔尼亞烏吉亞"
+  },
+  "Mauritian rupee": {
+    "noun": "模里西斯盧比"
+  },
+  "Mauritius": {
+    "noun": "模里西斯"
+  },
+  "Mawson": {
+    "noun": "茂遜"
+  },
+  "Mayotte": {
+    "noun": "馬約特島"
+  },
+  "Mazatlan": {
+    "noun": "馬札特蘭"
+  },
+  "Mbabane": {
+    "noun": "墨巴本"
+  },
+  "McMurdo": {
+    "noun": "麥克馬多"
+  },
+  "measurement": {
+    "noun": "測量"
+  },
+  "mechanism": {
+    "noun": "機制"
+  },
+  "media": {
+    "noun": "媒體"
+  },
+  "media library": {
+    "noun": "媒體庫"
+  },
+  "media uploader": {
+    "noun": "媒體上傳程式"
+  },
+  "Meetup": {
+    "noun": "Meetup 小聚"
+  },
+  "Melbourne": {
+    "noun": "墨爾本"
+  },
+  "memory": {
+    "noun": "記憶體"
+  },
+  "memory leak": {
+    "noun": "記憶體流失"
+  },
+  "Mendoza": {
+    "noun": "門多薩"
+  },
+  "Menominee": {
+    "noun": "梅諾米尼"
+  },
+  "menu": {
+    "noun": "菜單"
+  },
+  "Merida": {
+    "noun": "梅里達"
+  },
+  "Messenger": {
+    "noun": "Messenger"
+  },
+  "method": {
+    "noun": "方法"
+  },
+  "Metlakatla": {
+    "noun": "梅特拉卡特拉"
+  },
+  "MeWe": {
+    "noun": "MeWe"
+  },
+  "Mexican peso": {
+    "noun": "墨西哥披索"
+  },
+  "Mexico": {
+    "noun": "墨西哥"
+  },
+  "Mexico City": {
+    "noun": "墨西哥城"
+  },
+  "Microsoft": {
+    "noun": "Microsoft"
+  },
+  "Midway": {
+    "noun": "中途島"
+  },
+  "migrate": {
+    "verb": "移轉"
+  },
+  "migration": {
+    "noun": "移轉"
+  },
+  "million": {
+    "noun": "百萬"
+  },
+  "MIME": {
+    "noun": "MIME"
+  },
+  "MIME Type": {
+    "noun": "MIME 類型"
+  },
+  "minimum requirement": {
+    "noun": "最低安裝需求"
+  },
+  "Minsk": {
+    "noun": "明斯克"
+  },
+  "Miquelon": {
+    "noun": "密克隆群島"
+  },
+  "modal": {
+    "noun": "強制回應對話方塊"
+  },
+  "mode": {
+    "noun": "模式"
+  },
+  "model": {
+    "noun": "型號"
+  },
+  "modern": {
+    "adjective": "新式"
+  },
+  "modification": {
+    "noun": "修改"
+  },
+  "modify": {
+    "verb": "修改"
+  },
+  "module": {
+    "noun": "模組"
+  },
+  "Mogadishu": {
+    "noun": "摩加迪休"
+  },
+  "Moldovan leu": {
+    "noun": "摩爾多瓦列伊"
+  },
+  "Monaco": {
+    "noun": "摩納哥"
+  },
+  "Moncton": {
+    "noun": "蒙克頓"
+  },
+  "Mongolia": {
+    "noun": "蒙古"
+  },
+  "Mongolian": {
+    "noun": "蒙古文"
+  },
+  "Mongolian t&ouml;gr&ouml;g": {
+    "noun": "蒙古圖格里克"
+  },
+  "Monrovia": {
+    "noun": "蒙羅維亞"
+  },
+  "Montenegro": {
+    "noun": "蒙特內哥羅"
+  },
+  "Monterrey": {
+    "noun": "蒙特利"
+  },
+  "Montevideo": {
+    "noun": "蒙特維多"
+  },
+  "Monticello": {
+    "noun": "蒙蒂塞洛"
+  },
+  "Montreal": {
+    "noun": "蒙特婁"
+  },
+  "Montserrat": {
+    "noun": "蒙特色拉特島"
+  },
+  "Moroccan Arabic": {
+    "noun": "摩洛哥阿拉伯文"
+  },
+  "Moroccan dirham": {
+    "noun": "摩洛哥迪爾汗"
+  },
+  "Morocco": {
+    "noun": "摩洛哥"
+  },
+  "Moscow": {
+    "noun": "莫斯科"
+  },
+  "mount": {
+    "verb": "掛接"
+  },
+  "mouse": {
+    "noun": "滑鼠"
+  },
+  "mouse shortcut": {
+    "noun": "滑鼠快速鍵"
+  },
+  "mouseover": {
+    "noun": "游標暫留"
+  },
+  "Mozambican metical": {
+    "noun": "莫三比克梅蒂卡爾"
+  },
+  "Mozambique": {
+    "noun": "莫三比克"
+  },
+  "multi-byte": {
+    "noun": "多位元組"
+  },
+  "multi-currency": {
+    "noun": "多重貨幣"
+  },
+  "multi-purpose": {
+    "adjective": "多用途"
+  },
+  "multibyte": {
+    "noun": "多位元組"
+  },
+  "multicurrency": {
+    "noun": "多重貨幣"
+  },
+  "multilevel": {
+    "adjective": "多層"
+  },
+  "multilingual": {
+    "adjective": "多語系"
+  },
+  "multipurpose": {
+    "adjective": "多用途"
+  },
+  "multisite": {
+    "noun": "多站網路"
+  },
+  "Muscat": {
+    "noun": "馬斯喀特"
+  },
+  "must use": {
+    "adjective": "強制使用"
+  },
+  "must-use": {
+    "adjective": "強制使用"
+  },
+  "Myanmar": {
+    "noun": "緬甸"
+  },
+  "MySQL": {
+    "noun": "MySQL"
+  },
+  "Nairobi": {
+    "noun": "奈洛比"
+  },
+  "namespace": {
+    "noun": "命名空間"
+  },
+  "Namibia": {
+    "noun": "納米比亞"
+  },
+  "Namibian dollar": {
+    "noun": "納米比亞元"
+  },
+  "Nassau": {
+    "noun": "拿索"
+  },
+  "Nauru": {
+    "noun": "諾魯文"
+  },
+  "Navajo": {
+    "noun": "納瓦荷文"
+  },
+  "Navigation menu": {
+    "noun": "導覽選單"
+  },
+  "NC": {
+    "noun": "非商業性"
+  },
+  "ND": {
+    "noun": "禁止改作"
+  },
+  "Ndjamena": {
+    "noun": "恩加美納"
+  },
+  "Ndonga": {
+    "noun": "恩東加文"
+  },
+  "Nepal": {
+    "noun": "尼泊爾"
+  },
+  "Nepalese rupee": {
+    "noun": "尼泊爾盧比"
+  },
+  "Nepali": {
+    "noun": "尼泊爾文"
+  },
+  "nested": {
+    "adjective": "巢狀"
+  },
+  "Netherlands": {
+    "noun": "荷蘭"
+  },
+  "Netherlands Antillean guilder": {
+    "noun": "荷屬安的列斯盾"
+  },
+  "Netherlands Antilles": {
+    "noun": "荷屬安地列斯"
+  },
+  "Network": {
+    "noun": "多站網路"
+  },
+  "network": {
+    "noun": "網路"
+  },
+  "new": {
+    "verb": "新增"
+  },
+  "New Caledonia": {
+    "noun": "新喀里多尼亞群島"
+  },
+  "New Salem": {
+    "noun": "新薩勒姆"
+  },
+  "New Taiwan dollar": {
+    "noun": "新台幣"
+  },
+  "New York": {
+    "noun": "紐約"
+  },
+  "New Zealand": {
+    "noun": "紐西蘭"
+  },
+  "New Zealand dollar": {
+    "noun": "紐西蘭元"
+  },
+  "next page": {
+    "noun": "下一頁"
+  },
+  "NGINX": {
+    "noun": "NGINX"
+  },
+  "Niamey": {
+    "noun": "尼阿美"
+  },
+  "Nias": {
+    "noun": "尼亞斯文"
+  },
+  "Nicaragua": {
+    "noun": "尼加拉瓜"
+  },
+  "Nicaraguan c&oacute;rdoba": {
+    "noun": "尼加拉瓜科多巴"
+  },
+  "Nickname": {
+    "noun": "暱稱"
+  },
+  "Nicosia": {
+    "noun": "尼古西亞"
+  },
+  "Niger": {
+    "noun": "尼日"
+  },
+  "Nigeria": {
+    "noun": "奈及利亞"
+  },
+  "Nigerian naira": {
+    "noun": "奈及利亞奈拉"
+  },
+  "Nipigon": {
+    "noun": "尼皮貢"
+  },
+  "Niue": {
+    "noun": "紐威島"
+  },
+  "no title": {
+    "noun": "無標題"
+  },
+  "Nome": {
+    "noun": "諾姆"
+  },
+  "non breaking space": {
+    "noun": "不分行空格"
+  },
+  "non-infringement": {
+    "noun": "未侵權"
+  },
+  "non-whitespace": {
+    "noun": "非空白字元"
+  },
+  "nonbreaking space": {
+    "noun": "不分行空格"
+  },
+  "nonce": {
+    "noun": "單次有效隨機碼"
+  },
+  "noninfringement": {
+    "noun": "未侵權"
+  },
+  "Norfolk": {
+    "noun": "諾福克"
+  },
+  "Norfolk Island": {
+    "noun": "諾福克島"
+  },
+  "Noronha": {
+    "noun": "諾拉哈"
+  },
+  "North": {
+    "noun": "北領地"
+  },
+  "North Dakota": {
+    "noun": "北達科他"
+  },
+  "North Korean": {
+    "noun": "朝鮮"
+  },
+  "North Korean won": {
+    "noun": "朝鮮圓"
+  },
+  "North Ndebele": {
+    "noun": "北恩德比利文"
+  },
+  "Northern Mariana Islands": {
+    "noun": "北馬里安納群島"
+  },
+  "Northern Sami": {
+    "noun": "北沙米文"
+  },
+  "Norway": {
+    "noun": "挪威"
+  },
+  "Norwegian": {
+    "noun": "挪威文"
+  },
+  "Norwegian Bokmal": {
+    "noun": "挪威文 (巴克摩)"
+  },
+  "Norwegian krone": {
+    "noun": "挪威克朗"
+  },
+  "Norwegian Nynorsk": {
+    "noun": "挪威文 (尼洛斯克)"
+  },
+  "notation": {
+    "noun": "標記法"
+  },
+  "notification": {
+    "noun": "通知"
+  },
+  "Nouakchott": {
+    "noun": "諾克少"
+  },
+  "Noumea": {
+    "noun": "諾米亞"
+  },
+  "Novokuznetsk": {
+    "noun": "新庫茲涅茨克"
+  },
+  "Novosibirsk": {
+    "noun": "新西伯利亞"
+  },
+  "NSW": {
+    "noun": "新南威爾斯省"
+  },
+  "numeric": {
+    "noun": "整數"
+  },
+  "Nuuk": {
+    "noun": "努克"
+  },
+  "Nyanja": {
+    "noun": "尼揚賈文"
+  },
+  "object": {
+    "noun": "物件"
+  },
+  "object cache": {
+    "noun": "物件快取"
+  },
+  "Occitan": {
+    "noun": "奧西坦文"
+  },
+  "oEmbed": {
+    "noun": "oEmbed"
+  },
+  "offload": {
+    "verb": "卸載"
+  },
+  "offset": {
+    "noun": "位移"
+  },
+  "Ojibwa": {
+    "noun": "歐及布威文"
+  },
+  "Ojinaga": {
+    "noun": "奧希納加"
+  },
+  "Oman": {
+    "noun": "阿曼"
+  },
+  "Omani rial": {
+    "noun": "阿曼里亞爾"
+  },
+  "Omsk": {
+    "noun": "鄂木斯克"
+  },
+  "one-time": {
+    "adjective": "買斷型"
+  },
+  "one-time password": {
+    "noun": "單次有效密碼"
+  },
+  "one-to-one": {
+    "noun": "一對一"
+  },
+  "oops": {
+    "noun": "很抱歉"
+  },
+  "opacity": {
+    "noun": "不透明度"
+  },
+  "Open Graph": {
+    "noun": "開放社交關係圖"
+  },
+  "open rate": {
+    "noun": "開啟率"
+  },
+  "open source": {
+    "noun": "開放原始碼"
+  },
+  "Openverse": {
+    "noun": "Openverse"
+  },
+  "operating system": {
+    "noun": "作業系統"
+  },
+  "operation system": {
+    "noun": "作業系統"
+  },
+  "operator": {
+    "noun": "運算子"
+  },
+  "optimization": {
+    "noun": "最佳化"
+  },
+  "optimize": {
+    "noun": "最佳化"
+  },
+  "option": {
+    "noun": "選項"
+  },
+  "Oral": {
+    "noun": "烏拉爾"
+  },
+  "Oriya": {
+    "noun": "歐利亞文"
+  },
+  "Oromo": {
+    "noun": "奧羅蒙文"
+  },
+  "OS": {
+    "noun": "作業系統"
+  },
+  "Oslo": {
+    "noun": "奧斯陸"
+  },
+  "Ossetian": {
+    "noun": "奧塞提文"
+  },
+  "Ossetic": {
+    "noun": "奧塞提文"
+  },
+  "OTP": {
+    "noun": "單次有效密碼"
+  },
+  "Ouagadougou": {
+    "noun": "瓦加杜古"
+  },
+  "outage": {
+    "noun": "中斷"
+  },
+  "outdent": {
+    "verb": "凸排"
+  },
+  "outline": {
+    "noun": "外框"
+  },
+  "outline view": {
+    "noun": "大綱檢視"
+  },
+  "overlay": {
+    "verb": "覆疊"
+  },
+  "override": {
+    "verb": "覆寫"
+  },
+  "overview": {
+    "noun": "總覽"
+  },
+  "ownership": {
+    "noun": "擁有權"
+  },
+  "Pacific": {
+    "noun": "太平洋"
+  },
+  "package": {
+    "noun": "封裝",
+    "verb": "封裝"
+  },
+  "packager": {
+    "noun": "封裝工具"
+  },
+  "packet": {
+    "noun": "封包"
+  },
+  "Packet Sniffing": {
+    "noun": "封包偵測"
+  },
+  "padding": {
+    "noun": "邊框間距"
+  },
+  "page": {
+    "noun": "頁面"
+  },
+  "page builder": {
+    "noun": "頁面編輯器"
+  },
+  "Pago Pago": {
+    "noun": "帕哥帕哥"
+  },
+  "Pakistan": {
+    "noun": "巴基斯坦"
+  },
+  "Pakistani rupee": {
+    "noun": "巴基斯坦盧比"
+  },
+  "Palau": {
+    "noun": "帛琉"
+  },
+  "Pali": {
+    "noun": "帕里文"
+  },
+  "Palmer": {
+    "noun": "帕麥"
+  },
+  "Panama": {
+    "noun": "巴拿馬"
+  },
+  "Panamanian balboa": {
+    "noun": "巴拿馬巴波亞"
+  },
+  "pane": {
+    "noun": "窗格"
+  },
+  "panel": {
+    "noun": "面板"
+  },
+  "Pangnirtung": {
+    "noun": "皮納唐"
+  },
+  "Panjabi": {
+    "noun": "旁遮普文"
+  },
+  "Papua New Guinea": {
+    "noun": "巴布亞紐幾內亞"
+  },
+  "Papua New Guinean kina": {
+    "noun": "巴布亞紐幾內亞基那"
+  },
+  "Paraguay": {
+    "noun": "巴拉圭"
+  },
+  "parallax": {
+    "noun": "視差滾動"
+  },
+  "Paramaribo": {
+    "noun": "巴拉馬利波"
+  },
+  "parameter": {
+    "noun": "參數"
+  },
+  "parent": {
+    "adjective": "上層"
+  },
+  "parent theme": {
+    "noun": "上層佈景主題"
+  },
+  "Paris": {
+    "noun": "巴黎"
+  },
+  "parked domain": {
+    "noun": "存放網域"
+  },
+  "parse": {
+    "verb": "剖析"
+  },
+  "parser": {
+    "noun": "剖析器"
+  },
+  "part": {
+    "noun": "組件"
+  },
+  "Pashto": {
+    "noun": "普什圖文"
+  },
+  "passkey": {
+    "noun": "密碼金鑰"
+  },
+  "password protected": {
+    "adjective": "受密碼保護"
+  },
+  "passwordless": {
+    "adjective": "無密碼"
+  },
+  "patch": {
+    "noun": "修補程式"
+  },
+  "Patchstack": {
+    "noun": "Patchstack"
+  },
+  "path": {
+    "noun": "路徑"
+  },
+  "pattern": {
+    "noun": "區塊版面配置"
+  },
+  "payment gateway": {
+    "noun": "付款入口"
+  },
+  "paywall": {
+    "noun": "付費牆",
+    "verb": "需要付費"
+  },
+  "PChome": {
+    "noun": "網路家庭"
+  },
+  "PDF": {
+    "noun": "PDF"
+  },
+  "peak": {
+    "adjective": "尖峰"
+  },
+  "pending": {
+    "adjective": "待審閱"
+  },
+  "percent": {
+    "noun": "百分比符號"
+  },
+  "performance": {
+    "noun": "效能"
+  },
+  "period": {
+    "noun": "期間"
+  },
+  "permalink": {
+    "noun": "永久連結"
+  },
+  "permanent": {
+    "adjective": "永久"
+  },
+  "permanently": {
+    "adverb": "永久"
+  },
+  "permission": {
+    "noun": "權限"
+  },
+  "Persian": {
+    "noun": "波斯文"
+  },
+  "persistent object cache": {
+    "noun": "持續物件快取"
+  },
+  "Perth": {
+    "noun": "伯斯"
+  },
+  "Peru": {
+    "noun": "祕魯"
+  },
+  "Peruvian nuevo sol": {
+    "noun": "秘魯新索爾"
+  },
+  "Petersburg": {
+    "noun": "聖彼得堡"
+  },
+  "Philippine peso": {
+    "noun": "菲律賓披索"
+  },
+  "Philippines": {
+    "noun": "菲律賓"
+  },
+  "phish": {
+    "noun": "網路釣魚"
+  },
+  "phishing": {
+    "noun": "網路釣魚"
+  },
+  "Phnom Penh": {
+    "noun": "金邊"
+  },
+  "Phoenix": {
+    "noun": "鳳凰城"
+  },
+  "photo": {
+    "noun": "照片"
+  },
+  "PHP": {
+    "noun": "PHP"
+  },
+  "PHP extension": {
+    "noun": "PHP 擴充功能"
+  },
+  "physical": {
+    "adjective": "實體"
+  },
+  "picker": {
+    "noun": "選擇器"
+  },
+  "picture": {
+    "noun": "圖片"
+  },
+  "pin": {
+    "verb": "釘選"
+  },
+  "ping": {
+    "verb": "自動通知"
+  },
+  "pingback": {
+    "noun": "自動引用通知"
+  },
+  "Pinterest": {
+    "noun": "Pinterest"
+  },
+  "Pitcairn": {
+    "noun": "皮特康群島"
+  },
+  "Pixnet": {
+    "noun": "Pixnet"
+  },
+  "placeholder": {
+    "noun": "預留位置"
+  },
+  "playlist": {
+    "noun": "播放清單"
+  },
+  "please try again": {
+    "noun": "請再試一次"
+  },
+  "please wait": {
+    "verb": "請稍候"
+  },
+  "plugin": {
+    "noun": "外掛"
+  },
+  "plugin directory": {
+    "noun": "外掛目錄"
+  },
+  "plugin name": {
+    "noun": "外掛名稱"
+  },
+  "podcast": {
+    "noun": "podcast"
+  },
+  "Podgorica": {
+    "noun": "波德戈里察"
+  },
+  "Pohnpei": {
+    "noun": "波納佩島"
+  },
+  "Poland": {
+    "noun": "波蘭"
+  },
+  "policy": {
+    "noun": "政策"
+  },
+  "Polish": {
+    "noun": "波蘭文"
+  },
+  "Polish z&#x142;oty": {
+    "noun": "波蘭茲羅提"
+  },
+  "Ponape": {
+    "noun": "波納佩島"
+  },
+  "Pontianak": {
+    "noun": "坤甸"
+  },
+  "pool": {
+    "noun": "集區"
+  },
+  "popup": {
+    "noun": "彈出式訊息"
+  },
+  "port": {
+    "noun": "通訊埠"
+  },
+  "Port Moresby": {
+    "noun": "莫爾斯貝港"
+  },
+  "Port of Spain": {
+    "noun": "西班牙港"
+  },
+  "Port-au-Prince": {
+    "noun": "太子港"
+  },
+  "Portable Document Format": {
+    "noun": "可攜式文件格式"
+  },
+  "portfolio": {
+    "noun": "作品集"
+  },
+  "Porto Acre": {
+    "noun": "亞克港"
+  },
+  "Porto Velho": {
+    "noun": "韋柳港"
+  },
+  "Porto-Novo": {
+    "noun": "新港"
+  },
+  "Portugal": {
+    "noun": "葡萄牙"
+  },
+  "Portuguese": {
+    "noun": "葡萄牙文"
+  },
+  "position": {
+    "noun": "排名"
+  },
+  "post": {
+    "noun": "文章"
+  },
+  "post editor": {
+    "noun": "內容編輯器"
+  },
+  "post format": {
+    "noun": "文章格式"
+  },
+  "post status": {
+    "noun": "內容發佈狀態"
+  },
+  "post thumbnail": {
+    "noun": "內容縮圖"
+  },
+  "post type": {
+    "noun": "內容類型"
+  },
+  "postfix": {
+    "noun": "後置詞"
+  },
+  "Pound sterling": {
+    "noun": "英鎊"
+  },
+  "Powered by WordPress": {
+    "verb": "本站採用 WordPress 建置"
+  },
+  "Prague": {
+    "noun": "布拉格"
+  },
+  "pre-trained": {
+    "adjective": "預先訓練"
+  },
+  "preference": {
+    "noun": "偏好設定"
+  },
+  "prefetch": {
+    "verb": "預先擷取"
+  },
+  "prefix": {
+    "noun": "前置詞"
+  },
+  "preload list": {
+    "noun": "預載清單"
+  },
+  "preloader": {
+    "noun": "預先載入程式"
+  },
+  "prerender": {
+    "verb": "預先轉譯"
+  },
+  "preserve": {
+    "verb": "保留"
+  },
+  "preset": {
+    "adjective": "預設",
+    "noun": "預設集"
+  },
+  "press": {
+    "verb": "按下"
+  },
+  "previous page": {
+    "noun": "上一頁"
+  },
+  "principle": {
+    "noun": "原則"
+  },
+  "privacy policy": {
+    "noun": "隱私權政策"
+  },
+  "privacy statement": {
+    "noun": "隱私權聲明"
+  },
+  "processor": {
+    "noun": "處理器"
+  },
+  "prod": {
+    "noun": "正式環境"
+  },
+  "production": {
+    "noun": "正式環境"
+  },
+  "profile": {
+    "noun": "個人資料"
+  },
+  "profiler": {
+    "noun": "分析工具"
+  },
+  "profiling": {
+    "noun": "分析"
+  },
+  "programming language": {
+    "noun": "程式設計語言"
+  },
+  "progress bar": {
+    "noun": "進度列"
+  },
+  "promo code": {
+    "noun": "促銷代碼"
+  },
+  "promotion code": {
+    "noun": "促銷代碼"
+  },
+  "property": {
+    "noun": "屬性"
+  },
+  "protect": {
+    "verb": "保護"
+  },
+  "protection": {
+    "noun": "保護"
+  },
+  "protocol": {
+    "noun": "通訊協定"
+  },
+  "publish": {
+    "verb": "發佈"
+  },
+  "Puerto Rico": {
+    "noun": "波多黎各"
+  },
+  "pull request": {
+    "noun": "提取要求"
+  },
+  "Punjabi": {
+    "noun": "旁遮普文"
+  },
+  "Punta Arenas": {
+    "noun": "蓬塔阿雷納斯"
+  },
+  "Pure CSS": {
+    "noun": "Pure CSS"
+  },
+  "purpose": {
+    "noun": "目的"
+  },
+  "Pyongyang": {
+    "noun": "平壤"
+  },
+  "Qatar": {
+    "noun": "卡達"
+  },
+  "Qatari riyal": {
+    "noun": "卡達里亞爾"
+  },
+  "Qostanay": {
+    "noun": "庫斯塔奈"
+  },
+  "QR Code": {
+    "noun": "QR 圖碼"
+  },
+  "Quechua": {
+    "noun": "蓋楚瓦文"
+  },
+  "Queensland": {
+    "noun": "昆士蘭省"
+  },
+  "query": {
+    "noun": "查詢"
+  },
+  "query string": {
+    "noun": "查詢字串"
+  },
+  "quick start": {
+    "noun": "快速入門"
+  },
+  "quota": {
+    "noun": "配額"
+  },
+  "Quote": {
+    "noun": "引文"
+  },
+  "Qyzylorda": {
+    "noun": "克孜勒奧爾達"
+  },
+  "radio button": {
+    "noun": "選項按鈕"
+  },
+  "Raeto-Romance": {
+    "noun": "里托羅曼斯文"
+  },
+  "Rainy River": {
+    "noun": "雷尼河區"
+  },
+  "Rangoon": {
+    "noun": "仰光"
+  },
+  "Rankin Inlet": {
+    "noun": "蘭金音萊特"
+  },
+  "Rarotonga": {
+    "noun": "拉洛東加島"
+  },
+  "RC": {
+    "noun": "RC"
+  },
+  "real-time": {
+    "adjective": "即時"
+  },
+  "receipt": {
+    "noun": "回條"
+  },
+  "Recife": {
+    "noun": "累西腓"
+  },
+  "recompile": {
+    "verb": "重新編譯"
+  },
+  "record": {
+    "noun": "記錄"
+  },
+  "recover": {
+    "verb": "復原"
+  },
+  "recovery": {
+    "noun": "復原"
+  },
+  "recovery code": {
+    "noun": "復原代碼"
+  },
+  "recovery mode": {
+    "noun": "復原模式"
+  },
+  "redirect": {
+    "verb": "重新導向"
+  },
+  "redirection": {
+    "noun": "重新導向"
+  },
+  "redirection code": {
+    "noun": "重新導向代碼"
+  },
+  "redo": {
+    "verb": "取消復原"
+  },
+  "redundant": {
+    "adjective": "冗餘"
+  },
+  "refactor": {
+    "verb": "重構"
+  },
+  "referrer": {
+    "noun": "推薦連結來源網址"
+  },
+  "refresh": {
+    "verb": "重新整理"
+  },
+  "Regina": {
+    "noun": "雷吉納"
+  },
+  "register": {
+    "verb": "註冊"
+  },
+  "registered trademark": {
+    "noun": "註冊商標"
+  },
+  "registration": {
+    "noun": "註冊"
+  },
+  "registry": {
+    "noun": "網域註冊管理機構"
+  },
+  "regular expression": {
+    "noun": "規則運算式"
+  },
+  "regular price": {
+    "noun": "原價"
+  },
+  "relative path": {
+    "noun": "相對路徑"
+  },
+  "release candidate": {
+    "noun": "發行候選版本"
+  },
+  "remove": {
+    "verb": "移除"
+  },
+  "render": {
+    "verb": "轉譯",
+    "noun": "轉譯器"
+  },
+  "rep": {
+    "noun": "代表"
+  },
+  "reply code": {
+    "noun": "回覆代碼"
+  },
+  "repo": {
+    "noun": "存放庫"
+  },
+  "repository": {
+    "noun": "存放庫"
+  },
+  "representative": {
+    "noun": "代表"
+  },
+  "Republic of North Macedonia": {
+    "noun": "北馬其頓共和國"
+  },
+  "request": {
+    "noun": "要求"
+  },
+  "requirement": {
+    "noun": "要求"
+  },
+  "resend": {
+    "verb": "重新傳送"
+  },
+  "reserve": {
+    "verb": "保留"
+  },
+  "reset": {
+    "verb": "重設"
+  },
+  "resize": {
+    "verb": "調整大小"
+  },
+  "Resolute": {
+    "noun": "努納武特"
+  },
+  "resolver": {
+    "noun": "解析程式"
+  },
+  "response code": {
+    "noun": "回應碼"
+  },
+  "responsive": {
+    "noun": "回應式"
+  },
+  "responsive wed design": {
+    "noun": "回應式網頁設計"
+  },
+  "result set": {
+    "noun": "結果集"
+  },
+  "retrieve": {
+    "noun": "擷取"
+  },
+  "Reunion": {
+    "noun": "留尼旺"
+  },
+  "Reusable Block": {
+    "noun": "可重複使用區塊"
+  },
+  "reusable block": {
+    "noun": "可重複使用區塊"
+  },
+  "reverse lookup": {
+    "noun": "反向對應"
+  },
+  "reverse proxy": {
+    "noun": "反向 Proxy"
+  },
+  "revision": {
+    "noun": "內容修訂"
+  },
+  "revoke": {
+    "verb": "撤銷"
+  },
+  "rewrite": {
+    "verb": "重新寫入"
+  },
+  "rewrite rule": {
+    "noun": "重新寫入規則"
+  },
+  "Reykjavik": {
+    "noun": "雷克雅維克"
+  },
+  "rich card": {
+    "noun": "複合式搜尋結果"
+  },
+  "rich result": {
+    "noun": "複合式搜尋結果"
+  },
+  "Rich Results Test": {
+    "noun": "複合式搜尋結果測試"
+  },
+  "rich snippet": {
+    "noun": "複合式搜尋結果"
+  },
+  "Riga": {
+    "noun": "里加"
+  },
+  "right arrow key": {
+    "noun": "向右鍵"
+  },
+  "right brace": {
+    "noun": "右大括弧"
+  },
+  "right parenthesis": {
+    "noun": "右括弧"
+  },
+  "Right to Left": {
+    "noun": "從右至左"
+  },
+  "right-click": {
+    "verb": "點擊右鍵"
+  },
+  "Rio Branco": {
+    "noun": "里約布蘭科"
+  },
+  "Rio Gallegos": {
+    "noun": "里奧加耶戈斯"
+  },
+  "Riyadh": {
+    "noun": "利雅德"
+  },
+  "roadmap": {
+    "noun": "藍圖"
+  },
+  "robot": {
+    "noun": "漫遊器"
+  },
+  "robots.txt": {
+    "noun": "robots.txt"
+  },
+  "Rohingya": {
+    "noun": "羅興亞文"
+  },
+  "rollup": {
+    "noun": "匯總套件"
+  },
+  "Romania": {
+    "noun": "羅馬尼亞"
+  },
+  "Romanian": {
+    "noun": "羅馬尼亞文"
+  },
+  "Romanian leu": {
+    "noun": "羅馬尼亞列伊"
+  },
+  "Rome": {
+    "noun": "羅馬"
+  },
+  "Rosario": {
+    "noun": "羅沙略"
+  },
+  "Rothera": {
+    "noun": "羅瑟拉站"
+  },
+  "routine": {
+    "noun": "常式"
+  },
+  "row": {
+    "noun": "資料列"
+  },
+  "RSS": {
+    "noun": "RSS"
+  },
+  "RTL": {
+    "noun": "從右至左"
+  },
+  "rule set": {
+    "noun": "規則集"
+  },
+  "rule type": {
+    "noun": "規則型別"
+  },
+  "ruleset": {
+    "noun": "規則集"
+  },
+  "runtime": {
+    "noun": "執行階段"
+  },
+  "Russian": {
+    "noun": "俄文"
+  },
+  "Russian ruble": {
+    "noun": "俄羅斯盧布"
+  },
+  "Rwanda": {
+    "noun": "盧安達"
+  },
+  "Rwandan franc": {
+    "noun": "盧安達法郎"
+  },
+  "RWD": {
+    "noun": "RWD"
+  },
+  "S&atilde;o Tom&eacute; and Pr&iacute;ncipe dobra": {
+    "noun": "聖多美和普林西比多布拉"
+  },
+  "SA": {
+    "noun": "相同方式分享"
+  },
+  "Saba": {
+    "noun": "沙巴"
+  },
+  "Saigon": {
+    "noun": "胡志明市"
+  },
+  "Saint Helena": {
+    "noun": "聖赫勒拿島"
+  },
+  "Saint Helena pound": {
+    "noun": "聖赫勒拿島鎊"
+  },
+  "Saint Kitts and Nevis": {
+    "noun": "聖克里斯多福及尼維斯"
+  },
+  "Saint Lucia": {
+    "noun": "聖露西亞"
+  },
+  "Saint Pierre and Miquelon": {
+    "noun": "聖匹島"
+  },
+  "Saint Vincent and the Grenadines": {
+    "noun": "聖文森及格瑞那丁"
+  },
+  "Saipan": {
+    "noun": "塞班島"
+  },
+  "Sakha": {
+    "noun": "薩哈文"
+  },
+  "Sakhalin": {
+    "noun": "庫頁島"
+  },
+  "sale price": {
+    "noun": "特價"
+  },
+  "salt": {
+    "noun": "加密字串"
+  },
+  "Salta": {
+    "noun": "薩爾塔"
+  },
+  "Samara": {
+    "noun": "沙馬拉"
+  },
+  "Samarkand": {
+    "noun": "撒馬爾罕"
+  },
+  "Samoa": {
+    "noun": "薩摩亞"
+  },
+  "Samoan": {
+    "noun": "薩摩亞文"
+  },
+  "San Juan": {
+    "noun": "聖胡安"
+  },
+  "San Luis": {
+    "noun": "聖路易斯"
+  },
+  "San Marino": {
+    "noun": "聖馬利諾"
+  },
+  "sandbox": {
+    "noun": "沙箱"
+  },
+  "Sango": {
+    "noun": "三國文"
+  },
+  "sans serif": {
+    "noun": "無襯線字型"
+  },
+  "Sanskrit": {
+    "noun": "梵文"
+  },
+  "Santa Isabel": {
+    "noun": "聖伊薩貝爾"
+  },
+  "Santarem": {
+    "noun": "聖塔倫"
+  },
+  "Santiago": {
+    "noun": "聖地牙哥"
+  },
+  "Santo Domingo": {
+    "noun": "聖多明哥"
+  },
+  "Sao Paulo": {
+    "noun": "聖保羅"
+  },
+  "Sao Tome": {
+    "noun": "聖多美"
+  },
+  "Saraiki": {
+    "noun": "沙雷基文"
+  },
+  "Sarajevo": {
+    "noun": "塞拉耶佛"
+  },
+  "Saratov": {
+    "noun": "薩拉托夫"
+  },
+  "Sardinian": {
+    "noun": "薩丁尼亞文"
+  },
+  "Saudi Arabia": {
+    "noun": "沙烏地阿拉伯"
+  },
+  "Saudi riyal": {
+    "noun": "沙特里亞爾"
+  },
+  "save": {
+    "verb": "儲存"
+  },
+  "save changes": {
+    "verb": "儲存設定"
+  },
+  "scan": {
+    "noun": "掃描",
+    "verb": "掃描"
+  },
+  "schedule": {
+    "verb": "排程"
+  },
+  "scheduler": {
+    "noun": "排程器"
+  },
+  "schema": {
+    "noun": "結構描述"
+  },
+  "Schema Markup Validator": {
+    "noun": "結構定義標記驗證工具"
+  },
+  "Scoresbysund": {
+    "noun": "斯可比"
+  },
+  "Scottish Gaelic": {
+    "noun": "蘇格蘭蓋爾文"
+  },
+  "screen option": {
+    "noun": "顯示項目設定"
+  },
+  "screen reader": {
+    "noun": "螢幕閱讀器"
+  },
+  "screenshot": {
+    "noun": "螢幕擷圖"
+  },
+  "script": {
+    "noun": "指令碼"
+  },
+  "script tag": {
+    "noun": "指令碼標籤"
+  },
+  "search box": {
+    "noun": "搜尋框"
+  },
+  "search engine": {
+    "noun": "搜尋引擎"
+  },
+  "search engine optimization": {
+    "noun": "搜尋引擎最佳化"
+  },
+  "section": {
+    "noun": "區段"
+  },
+  "Secure Sockets Layer": {
+    "noun": "安全資料傳輸層"
+  },
+  "security": {
+    "noun": "安全性"
+  },
+  "security key": {
+    "noun": "安全金鑰"
+  },
+  "security layer": {
+    "noun": "安全性階層"
+  },
+  "security token": {
+    "noun": "安全性憑證"
+  },
+  "select": {
+    "verb": "選取"
+  },
+  "select all": {
+    "noun": "全部選取"
+  },
+  "selector": {
+    "noun": "選取器"
+  },
+  "self-hosted": {
+    "adjective": "自主代管"
+  },
+  "semicolon": {
+    "noun": "分號"
+  },
+  "Senegal": {
+    "noun": "塞內加爾"
+  },
+  "sensitive": {
+    "adjective": "敏感性"
+  },
+  "sensitive information": {
+    "noun": "敏感性資訊"
+  },
+  "sensor": {
+    "noun": "感應器"
+  },
+  "SEO": {
+    "noun": "SEO"
+  },
+  "Seoul": {
+    "noun": "首爾"
+  },
+  "separator": {
+    "noun": "分隔符號"
+  },
+  "Serbia": {
+    "noun": "塞爾維亞"
+  },
+  "Serbian": {
+    "noun": "塞爾維亞文"
+  },
+  "Serbian dinar": {
+    "noun": "塞爾維亞戴納"
+  },
+  "serialize": {
+    "verb": "序列化"
+  },
+  "serif": {
+    "noun": "有襯線字型"
+  },
+  "server": {
+    "noun": "伺服器"
+  },
+  "server-side": {
+    "noun": "伺服器端"
+  },
+  "service": {
+    "noun": "服務"
+  },
+  "service mark": {
+    "noun": "服務標章"
+  },
+  "session": {
+    "noun": "工作階段"
+  },
+  "setting": {
+    "noun": "設定",
+    "verb": "設定"
+  },
+  "Seychelles": {
+    "noun": "塞席爾"
+  },
+  "Seychellois rupee": {
+    "noun": "塞席爾盧比"
+  },
+  "shallow copy": {
+    "noun": "淺層複製"
+  },
+  "Shanghai": {
+    "noun": "上海"
+  },
+  "share": {
+    "verb": "分享"
+  },
+  "Shared Hosting": {
+    "noun": "共享主機"
+  },
+  "Shift": {
+    "noun": "Shift 鍵"
+  },
+  "shim": {
+    "noun": "填充碼"
+  },
+  "Shiprock": {
+    "noun": "希普羅克峰"
+  },
+  "Shona": {
+    "noun": "紹納文"
+  },
+  "Short URL": {
+    "noun": "短網址"
+  },
+  "shortcode": {
+    "noun": "短代碼"
+  },
+  "shortcut": {
+    "noun": "捷徑"
+  },
+  "Sichuan Yi": {
+    "noun": "四川彝文"
+  },
+  "sidebar": {
+    "noun": "資訊欄"
+  },
+  "Sierra Leone": {
+    "noun": "獅子山"
+  },
+  "Sierra Leonean leone": {
+    "noun": "獅子山利昂"
+  },
+  "Signal": {
+    "noun": "Signal"
+  },
+  "signal": {
+    "noun": "訊號"
+  },
+  "Silesian": {
+    "noun": "西萊亞西文"
+  },
+  "Simferopol": {
+    "noun": "欣佛洛普"
+  },
+  "Simplified Chinese": {
+    "noun": "簡體中文"
+  },
+  "Simplified Chinese Formal": {
+    "noun": "簡體中文 (正式)"
+  },
+  "Simplified Chinese Informal": {
+    "noun": "簡體中文 (口語)"
+  },
+  "Sindhi": {
+    "noun": "信德文"
+  },
+  "Singapore": {
+    "noun": "新加坡"
+  },
+  "Singapore dollar": {
+    "noun": "新加坡元"
+  },
+  "single page": {
+    "noun": "單篇頁面"
+  },
+  "single post": {
+    "noun": "單篇內容"
+  },
+  "Single Sign-On": {
+    "noun": "單一登入"
+  },
+  "single-byte": {
+    "noun": "單位元組"
+  },
+  "Sinhala": {
+    "noun": "僧伽羅文"
+  },
+  "Sint Eustatius": {
+    "noun": "聖佑達修斯"
+  },
+  "site": {
+    "noun": "網站"
+  },
+  "site editor": {
+    "noun": "網站編輯器"
+  },
+  "site language": {
+    "noun": "網站介面語言"
+  },
+  "sitemap": {
+    "noun": "sitemap"
+  },
+  "Sitka": {
+    "noun": "矽地卡"
+  },
+  "Skopje": {
+    "noun": "斯高彼亞"
+  },
+  "SKU": {
+    "noun": "貨號"
+  },
+  "Skype": {
+    "noun": "Skype"
+  },
+  "Slack": {
+    "noun": "Slack"
+  },
+  "Slovak": {
+    "noun": "斯洛伐克文"
+  },
+  "Slovakia": {
+    "noun": "斯洛伐克"
+  },
+  "Slovenia": {
+    "noun": "斯洛維尼亞"
+  },
+  "Slovenian": {
+    "noun": "斯洛維尼亞文"
+  },
+  "slug": {
+    "noun": "代稱"
+  },
+  "smooth": {
+    "adjective": "平滑"
+  },
+  "smooth scroll": {
+    "noun": "平滑捲動"
+  },
+  "Snapchat": {
+    "noun": "Snapchat"
+  },
+  "snapshot": {
+    "noun": "快照"
+  },
+  "snippet": {
+    "noun": "程式碼片段"
+  },
+  "social": {
+    "noun": "社交"
+  },
+  "social engineering": {
+    "noun": "社交工程"
+  },
+  "social icon": {
+    "noun": "社交網路服務圖示"
+  },
+  "social network": {
+    "noun": "社交網路服務"
+  },
+  "social share": {
+    "noun": "社交網路服務分享"
+  },
+  "socket": {
+    "noun": "通訊端"
+  },
+  "Sofia": {
+    "noun": "索菲亞"
+  },
+  "software": {
+    "noun": "軟體"
+  },
+  "Solomon Islands": {
+    "noun": "索羅門群島"
+  },
+  "Solomon Islands dollar": {
+    "noun": "索羅門群島元"
+  },
+  "solution": {
+    "noun": "解決方案"
+  },
+  "Somali": {
+    "noun": "索馬利亞文"
+  },
+  "Somali shilling": {
+    "noun": "索馬利亞先令"
+  },
+  "Somalia": {
+    "noun": "索馬利亞"
+  },
+  "something went wrong": {
+    "verb": "執行時發生錯誤"
+  },
+  "source code": {
+    "noun": "原始程式碼"
+  },
+  "South": {
+    "noun": "南澳省"
+  },
+  "South Africa": {
+    "noun": "南非"
+  },
+  "South African rand": {
+    "noun": "南非蘭特"
+  },
+  "South Azerbaijani": {
+    "noun": "南亞塞拜然文"
+  },
+  "South Georgia": {
+    "noun": "南喬治亞"
+  },
+  "South Georgia and the South Sandwich Islands": {
+    "noun": "南喬治亞及南三明治群島"
+  },
+  "South Korean": {
+    "noun": "韓國"
+  },
+  "South Korean won": {
+    "noun": "韓圓"
+  },
+  "South Ndebele": {
+    "noun": "南恩德比利文"
+  },
+  "South Pole": {
+    "noun": "南極"
+  },
+  "South Sudanese pound": {
+    "noun": "南蘇丹鎊"
+  },
+  "Southern Sotho": {
+    "noun": "南索托文"
+  },
+  "spacer": {
+    "noun": "空白間隔"
+  },
+  "spacing": {
+    "noun": "間距"
+  },
+  "Spain": {
+    "noun": "西班牙"
+  },
+  "spam": {
+    "verb": "標示為垃圾郵件",
+    "noun": "垃圾郵件"
+  },
+  "Spanish": {
+    "noun": "西班牙文"
+  },
+  "Speed Index": {
+    "noun": "速度指標"
+  },
+  "spider": {
+    "noun": "自動尋檢程式"
+  },
+  "Spotify": {
+    "noun": "Spotify"
+  },
+  "square": {
+    "noun": "正方形"
+  },
+  "Srednekolymsk": {
+    "noun": "中科雷姆斯克"
+  },
+  "Sri Lanka": {
+    "noun": "斯里蘭卡"
+  },
+  "Sri Lankan rupee": {
+    "noun": "斯里蘭卡盧比"
+  },
+  "SSL": {
+    "noun": "SSL"
+  },
+  "ssl certificate": {
+    "noun": "SSL 憑證"
+  },
+  "SSO": {
+    "noun": "單一登入"
+  },
+  "St Barthelemy": {
+    "noun": "聖巴泰勒米"
+  },
+  "St Helena": {
+    "noun": "聖赫勒拿島"
+  },
+  "St Johns": {
+    "noun": "聖約翰"
+  },
+  "St Kitts": {
+    "noun": "聖克里斯多福"
+  },
+  "St Lucia": {
+    "noun": "聖露西亞"
+  },
+  "St Thomas": {
+    "noun": "聖湯瑪士"
+  },
+  "St Vincent": {
+    "noun": "聖文森"
+  },
+  "staging": {
+    "noun": "預備環境"
+  },
+  "Standard": {
+    "noun": "標準"
+  },
+  "Stanley": {
+    "noun": "史坦萊"
+  },
+  "starter": {
+    "noun": "起始"
+  },
+  "starter kit": {
+    "noun": "入門套件"
+  },
+  "startup": {
+    "verb": "啟動",
+    "noun": "啟動",
+    "adjective": "起始"
+  },
+  "startup folder": {
+    "noun": "起始資料夾"
+  },
+  "stat": {
+    "noun": "統計資料"
+  },
+  "statement": {
+    "noun": "陳述式"
+  },
+  "statistics": {
+    "noun": "統計資料"
+  },
+  "status": {
+    "noun": "狀態"
+  },
+  "Status": {
+    "noun": "近況簡述"
+  },
+  "status code": {
+    "noun": "狀態代碼"
+  },
+  "step by step": {
+    "noun": "逐步"
+  },
+  "step by step guide": {
+    "noun": "逐步指南"
+  },
+  "step-by-step": {
+    "noun": "逐步"
+  },
+  "step-by-step guide": {
+    "noun": "逐步指南"
+  },
+  "sticky": {
+    "noun": "置頂文章",
+    "verb": "置頂",
+    "adjective": "固定式",
+    "adverb": "固定位置"
+  },
+  "Stock Keeping Unit": {
+    "noun": "庫存單位"
+  },
+  "Stockholm": {
+    "noun": "斯德哥爾摩"
+  },
+  "storage space": {
+    "noun": "儲存空間"
+  },
+  "strong password": {
+    "noun": "強式密碼"
+  },
+  "strong password policy": {
+    "noun": "強式密碼原則"
+  },
+  "structure": {
+    "noun": "結構"
+  },
+  "structure tag": {
+    "noun": "結構標籤"
+  },
+  "structured data": {
+    "noun": "結構化資料"
+  },
+  "StumbleUpon": {
+    "noun": "StumbleUpon"
+  },
+  "style": {
+    "noun": "樣式"
+  },
+  "style sheet": {
+    "noun": "樣式表"
+  },
+  "style variation": {
+    "noun": "樣式變化"
+  },
+  "subdomain": {
+    "noun": "子網域"
+  },
+  "Sublime Text": {
+    "noun": "Sublime Text"
+  },
+  "subscribe": {
+    "verb": "約期授權"
+  },
+  "subscriber": {
+    "noun": "訂閱者"
+  },
+  "subscription": {
+    "noun": "約期授權"
+  },
+  "subtitle": {
+    "noun": "子標題"
+  },
+  "Sudan": {
+    "noun": "蘇丹"
+  },
+  "Sudanese pound": {
+    "noun": "蘇丹鎊"
+  },
+  "summary": {
+    "noun": "摘要"
+  },
+  "Sundanese": {
+    "noun": "巽丹文"
+  },
+  "super admin": {
+    "noun": "多站網路管理員"
+  },
+  "Suriname": {
+    "noun": "蘇利南"
+  },
+  "Surinamese dollar": {
+    "noun": "蘇利南元"
+  },
+  "suspension": {
+    "noun": "暫停"
+  },
+  "Svalbard and Jan Mayen": {
+    "noun": "冷岸及央棉"
+  },
+  "swag": {
+    "noun": "紀念品"
+  },
+  "Swahili": {
+    "noun": "斯瓦希里文"
+  },
+  "Swati": {
+    "noun": "斯瓦帝文"
+  },
+  "Swazi lilangeni": {
+    "noun": "史瓦濟蘭里蘭吉尼"
+  },
+  "Swaziland": {
+    "noun": "史瓦濟蘭"
+  },
+  "Sweden": {
+    "noun": "瑞典"
+  },
+  "Swedish": {
+    "noun": "瑞典文"
+  },
+  "Swedish krona": {
+    "noun": "瑞典克朗"
+  },
+  "Swift Current": {
+    "noun": "斯威夫特卡倫特"
+  },
+  "Swiss franc": {
+    "noun": "瑞士法郎"
+  },
+  "switch": {
+    "noun": "交換器",
+    "verb": "切換"
+  },
+  "switcher": {
+    "noun": "切換器"
+  },
+  "Switzerland": {
+    "noun": "瑞士"
+  },
+  "Sydney": {
+    "noun": "雪梨"
+  },
+  "symbolic link": {
+    "noun": "符號連結"
+  },
+  "symlink": {
+    "noun": "符號連結"
+  },
+  "sync": {
+    "verb": "同步"
+  },
+  "synchronization": {
+    "noun": "同步"
+  },
+  "synchronize": {
+    "verb": "同步"
+  },
+  "Syowa": {
+    "noun": "昭和站"
+  },
+  "Syrian pound": {
+    "noun": "敘利亞鎊"
+  },
+  "system": {
+    "noun": "系統"
+  },
+  "Tab": {
+    "noun": "Tab 定位字元"
+  },
+  "tab": {
+    "noun": "分頁"
+  },
+  "table": {
+    "noun": "表格"
+  },
+  "table of contents": {
+    "noun": "內容目錄"
+  },
+  "tag": {
+    "noun": "標籤",
+    "verb": "標示"
+  },
+  "tag base": {
+    "noun": "標籤目錄起點"
+  },
+  "Tag ID": {
+    "noun": "代碼 ID"
+  },
+  "Tagalog": {
+    "noun": "塔加拉族文"
+  },
+  "tagline": {
+    "noun": "網站說明"
+  },
+  "Tahiti": {
+    "noun": "大溪地"
+  },
+  "Tahitian": {
+    "noun": "大溪地文"
+  },
+  "Taipei": {
+    "noun": "台北"
+  },
+  "Tajik": {
+    "noun": "塔吉克文"
+  },
+  "Tajikistan": {
+    "noun": "塔吉克"
+  },
+  "Tajikistani somoni": {
+    "noun": "塔吉克斯坦索莫尼"
+  },
+  "Tallinn": {
+    "noun": "塔林"
+  },
+  "Tamil": {
+    "noun": "坦米爾文"
+  },
+  "Tanzanian shilling": {
+    "noun": "坦尚尼亞先令"
+  },
+  "Tarawa": {
+    "noun": "塔拉瓦"
+  },
+  "target audience": {
+    "noun": "目標對象"
+  },
+  "Tashkent": {
+    "noun": "塔什干"
+  },
+  "task": {
+    "noun": "工作"
+  },
+  "Tasmania": {
+    "noun": "塔斯馬尼亞"
+  },
+  "Tatar": {
+    "noun": "韃靼文"
+  },
+  "taxonomy": {
+    "noun": "分類法"
+  },
+  "Tbilisi": {
+    "noun": "第比利斯"
+  },
+  "Tegucigalpa": {
+    "noun": "德古西加巴"
+  },
+  "Tehran": {
+    "noun": "德黑蘭"
+  },
+  "Tel Aviv": {
+    "noun": "特拉維夫"
+  },
+  "Telegram": {
+    "noun": "Telegram"
+  },
+  "Tell City": {
+    "noun": "特爾城"
+  },
+  "Telugu": {
+    "noun": "泰盧固文"
+  },
+  "template": {
+    "noun": "範本"
+  },
+  "template part": {
+    "noun": "範本組件"
+  },
+  "temporary directory": {
+    "noun": "暫存目錄"
+  },
+  "temporary file": {
+    "noun": "暫存檔案"
+  },
+  "term": {
+    "noun": "分類法詞彙"
+  },
+  "test": {
+    "verb": "測試",
+    "noun": "測試"
+  },
+  "test unit": {
+    "noun": "測試單元"
+  },
+  "text editor": {
+    "noun": "文字編輯器"
+  },
+  "Thai": {
+    "noun": "泰文"
+  },
+  "Thai baht": {
+    "noun": "泰銖"
+  },
+  "Thailand": {
+    "noun": "泰國"
+  },
+  "theme": {
+    "noun": "佈景主題"
+  },
+  "theme directory": {
+    "noun": "佈景主題目錄"
+  },
+  "theme name": {
+    "noun": "佈景主題名稱"
+  },
+  "theme option": {
+    "noun": "佈景主題選項"
+  },
+  "Thimbu": {
+    "noun": "辛布"
+  },
+  "Thimphu": {
+    "noun": "辛布"
+  },
+  "thousand": {
+    "noun": "千"
+  },
+  "Threads": {
+    "noun": "Threads"
+  },
+  "threshold": {
+    "noun": "閾值"
+  },
+  "Thule": {
+    "noun": "土里島"
+  },
+  "thumb": {
+    "noun": "縮圖"
+  },
+  "thumbnail": {
+    "noun": "縮圖"
+  },
+  "thumbnail size": {
+    "noun": "縮圖尺寸"
+  },
+  "Thunder Bay": {
+    "noun": "桑德灣"
+  },
+  "Tibetan": {
+    "noun": "藏文"
+  },
+  "Tigrinya": {
+    "noun": "提格利尼亞文"
+  },
+  "Tijuana": {
+    "noun": "提華納"
+  },
+  "TikTok": {
+    "noun": "TikTok"
+  },
+  "tilde": {
+    "noun": "波狀符號"
+  },
+  "Timbuktu": {
+    "noun": "廷巴克圖"
+  },
+  "time format": {
+    "noun": "時間格式"
+  },
+  "time stamp": {
+    "noun": "時間戳記"
+  },
+  "Time to First Byte": {
+    "noun": "第一個位元組時間"
+  },
+  "timer": {
+    "noun": "計時器"
+  },
+  "timestamp": {
+    "noun": "時間戳記"
+  },
+  "timezone": {
+    "noun": "時區"
+  },
+  "Timor-Leste": {
+    "noun": "東帝汶"
+  },
+  "TinyMCE": {
+    "noun": "TinyMCE"
+  },
+  "Tirane": {
+    "noun": "地拉那"
+  },
+  "Tiraspol": {
+    "noun": "提拉斯浦"
+  },
+  "title": {
+    "noun": "標題"
+  },
+  "TLD": {
+    "noun": "TLD"
+  },
+  "TLS": {
+    "noun": "TLS"
+  },
+  "TOC": {
+    "noun": "內容目錄"
+  },
+  "Togo": {
+    "noun": "多哥"
+  },
+  "Tokelau": {
+    "noun": "托克勞群島"
+  },
+  "token": {
+    "noun": "權杖"
+  },
+  "Tokyo": {
+    "noun": "東京"
+  },
+  "Tomsk": {
+    "noun": "托木斯克"
+  },
+  "Tonga": {
+    "noun": "東加文"
+  },
+  "Tongan pa&#x2bb;anga": {
+    "noun": "東加潘加"
+  },
+  "Tongatapu": {
+    "noun": "東加塔普"
+  },
+  "tool": {
+    "noun": "工具"
+  },
+  "top level domain": {
+    "noun": "頂層網域"
+  },
+  "top-level domain": {
+    "noun": "頂層網域"
+  },
+  "Toronto": {
+    "noun": "多倫多"
+  },
+  "Tortola": {
+    "noun": "托托拉"
+  },
+  "track": {
+    "verb": "追蹤",
+    "noun": "追蹤"
+  },
+  "trackback": {
+    "noun": "引用通知"
+  },
+  "tracker": {
+    "noun": "追蹤器"
+  },
+  "tracking code": {
+    "noun": "追蹤程式碼"
+  },
+  "trademark": {
+    "noun": "商標"
+  },
+  "Traditional Chinese": {
+    "noun": "繁體中文"
+  },
+  "Traditional Chinese Formal": {
+    "noun": "繁體中文 (正式)"
+  },
+  "Traditional Chinese Informal": {
+    "noun": "繁體中文 (口語)"
+  },
+  "transformer": {
+    "noun": "轉換器"
+  },
+  "translation": {
+    "noun": "本地化"
+  },
+  "Transnistrian ruble": {
+    "noun": "聶斯特河沿岸盧布"
+  },
+  "transparent": {
+    "noun": "透明度"
+  },
+  "transport": {
+    "noun": "傳輸"
+  },
+  "Transport Layer Security": {
+    "noun": "傳輸層安全標準"
+  },
+  "trash": {
+    "noun": "回收桶",
+    "verb": "移至回收桶"
+  },
+  "tree": {
+    "noun": "樹狀結構"
+  },
+  "tree view": {
+    "noun": "樹狀檢視"
+  },
+  "trigger": {
+    "verb": "觸發",
+    "noun": "觸發程序"
+  },
+  "trillion": {
+    "noun": "兆"
+  },
+  "Trinidad and Tobago": {
+    "noun": "千里達及托巴哥"
+  },
+  "Trinidad and Tobago dollar": {
+    "noun": "千里達及托巴哥元"
+  },
+  "Tripoli": {
+    "noun": "的黎波里"
+  },
+  "Troll": {
+    "noun": "特羅爾站"
+  },
+  "Truk": {
+    "noun": "楚克"
+  },
+  "truncate": {
+    "verb": "截斷"
+  },
+  "Truth Social": {
+    "noun": "Truth Social"
+  },
+  "try again": {
+    "verb": "再試一次"
+  },
+  "Tsonga": {
+    "noun": "頌加文"
+  },
+  "Tswana": {
+    "noun": "班圖文"
+  },
+  "TTFB": {
+    "noun": "FTTB"
+  },
+  "Tucuman": {
+    "noun": "圖庫曼"
+  },
+  "Tumblr": {
+    "noun": "Tumblr"
+  },
+  "Tunis": {
+    "noun": "突尼斯"
+  },
+  "Tunisia": {
+    "noun": "突尼西亞"
+  },
+  "Tunisian dinar": {
+    "noun": "突尼西亞戴納"
+  },
+  "tunnel": {
+    "noun": "通道"
+  },
+  "Turkey": {
+    "noun": "土耳其"
+  },
+  "Turkish": {
+    "noun": "土耳其文"
+  },
+  "Turkish lira": {
+    "noun": "土耳其里拉"
+  },
+  "Turkmen": {
+    "noun": "土庫曼文"
+  },
+  "Turkmenistan": {
+    "noun": "土庫曼"
+  },
+  "Turkmenistan manat": {
+    "noun": "土庫曼斯坦馬納特"
+  },
+  "Turks and Caicos Islands": {
+    "noun": "土克斯及開科斯群島"
+  },
+  "tutorial": {
+    "noun": "教學課程"
+  },
+  "Tuvalu": {
+    "noun": "吐瓦魯"
+  },
+  "Twi": {
+    "noun": "帝維文"
+  },
+  "Twitter": {
+    "noun": "Twitter"
+  },
+  "two-factor authentication": {
+    "noun": "兩步驟驗證"
+  },
+  "two-step authentication": {
+    "noun": "兩步驟驗證"
+  },
+  "typo": {
+    "noun": "拼寫錯誤"
+  },
+  "typography": {
+    "noun": "排版樣式"
+  },
+  "Ubuntu": {
+    "noun": "Ubuntu"
+  },
+  "UCT": {
+    "noun": "UCT"
+  },
+  "Uganda": {
+    "noun": "烏干達"
+  },
+  "Ugandan shilling": {
+    "noun": "烏干達先令"
+  },
+  "Uighur": {
+    "noun": "維吾爾文"
+  },
+  "Ujung Pandang": {
+    "noun": "錫江"
+  },
+  "Ukraine": {
+    "noun": "烏克蘭"
+  },
+  "Ukrainian": {
+    "noun": "烏克蘭文"
+  },
+  "Ukrainian hryvnia": {
+    "noun": "烏克蘭格里夫納"
+  },
+  "Ulaanbaatar": {
+    "noun": "烏蘭巴托"
+  },
+  "Ulan Bator": {
+    "noun": "烏蘭巴托"
+  },
+  "Ulyanovsk": {
+    "noun": "烏里揚諾夫斯克"
+  },
+  "unauthorized": {
+    "adjective": "未經授權的"
+  },
+  "uncheck": {
+    "verb": "取消核取"
+  },
+  "underscore": {
+    "noun": "底線"
+  },
+  "undo": {
+    "verb": "復原"
+  },
+  "ungroup": {
+    "verb": "取消群組"
+  },
+  "unique": {
+    "adjective": "唯一"
+  },
+  "unique identifier": {
+    "noun": "唯一識別碼"
+  },
+  "United Arab Emirates": {
+    "noun": "阿拉伯聯合大公國"
+  },
+  "United Arab Emirates dirham": {
+    "noun": "阿拉伯聯合大公國迪拉姆"
+  },
+  "United Kingdom": {
+    "noun": "英國"
+  },
+  "United Kingdom of Great Britain and Northern Ireland": {
+    "noun": "英國"
+  },
+  "United States": {
+    "noun": "美國"
+  },
+  "United States dollar": {
+    "noun": "美元"
+  },
+  "United States of America": {
+    "noun": "美國"
+  },
+  "universal": {
+    "adjective": "通用"
+  },
+  "Universal": {
+    "noun": "國際標準時間"
+  },
+  "unload": {
+    "verb": "卸載"
+  },
+  "unmount": {
+    "verb": "卸載"
+  },
+  "unsaved change": {
+    "noun": "未儲存的變更"
+  },
+  "unschedule": {
+    "verb": "取消排程"
+  },
+  "untitled": {
+    "adjective": "未命名"
+  },
+  "unwanted software": {
+    "noun": "垃圾軟體"
+  },
+  "up arrow key": {
+    "noun": "向上鍵"
+  },
+  "update": {
+    "noun": "更新",
+    "verb": "更新"
+  },
+  "updater": {
+    "noun": "更新程式"
+  },
+  "upgrade": {
+    "verb": "升級"
+  },
+  "upload": {
+    "verb": "上傳"
+  },
+  "uploader": {
+    "noun": "上傳程式"
+  },
+  "Upper Alpha/Latin": {
+    "noun": "大寫拉丁字元"
+  },
+  "Upper Roman": {
+    "noun": "大寫羅馬數字"
+  },
+  "Upper Sorbian": {
+    "noun": "上索布文"
+  },
+  "upsell": {
+    "verb": "追加銷售"
+  },
+  "upselling": {
+    "noun": "追加銷售"
+  },
+  "uptime": {
+    "noun": "運作時間"
+  },
+  "Urdu": {
+    "noun": "烏都文"
+  },
+  "URI": {
+    "noun": "URI"
+  },
+  "URL": {
+    "noun": "網址"
+  },
+  "URL Slug": {
+    "noun": "網址代稱"
+  },
+  "Uruguay": {
+    "noun": "烏拉圭"
+  },
+  "Uruguayan peso": {
+    "noun": "烏拉圭披索"
+  },
+  "Urumqi": {
+    "noun": "烏魯木齊"
+  },
+  "user": {
+    "noun": "使用者"
+  },
+  "user agent": {
+    "noun": "使用者代理程式"
+  },
+  "user interface": {
+    "noun": "使用者介面"
+  },
+  "user role": {
+    "verb": "使用者角色"
+  },
+  "Ushuaia": {
+    "noun": "烏斯懷亞"
+  },
+  "Ust-Nera": {
+    "noun": "烏斯季涅拉"
+  },
+  "UTC": {
+    "noun": "國際標準時間 (UTC)"
+  },
+  "Uyghur": {
+    "noun": "維吾爾文"
+  },
+  "Uzbek": {
+    "noun": "烏茲別克文"
+  },
+  "Uzbekistan": {
+    "noun": "烏茲別克"
+  },
+  "Uzbekistani som": {
+    "noun": "烏茲別克索姆"
+  },
+  "Uzhgorod": {
+    "noun": "烏日霍羅德"
+  },
+  "Vaduz": {
+    "noun": "瓦都茲"
+  },
+  "validate": {
+    "noun": "驗證"
+  },
+  "validation": {
+    "verb": "驗證"
+  },
+  "value-added tax": {
+    "noun": "加值稅"
+  },
+  "Vancouver": {
+    "noun": "溫哥華"
+  },
+  "Vanuatu": {
+    "noun": "萬那杜"
+  },
+  "Vanuatu vatu": {
+    "noun": "萬那杜瓦圖"
+  },
+  "variable font": {
+    "noun": "可變字型"
+  },
+  "variation": {
+    "noun": "樣式變化"
+  },
+  "VAT": {
+    "noun": "加值稅"
+  },
+  "Vatican": {
+    "noun": "梵蒂岡"
+  },
+  "vault": {
+    "noun": "保存庫"
+  },
+  "Venda": {
+    "noun": "文達文"
+  },
+  "vendor": {
+    "noun": "廠商"
+  },
+  "Venezuelan bol&iacute;var": {
+    "noun": "委內瑞拉玻利瓦爾"
+  },
+  "verification": {
+    "noun": "驗證"
+  },
+  "verification code": {
+    "noun": "驗證碼"
+  },
+  "verify": {
+    "verb": "驗證"
+  },
+  "version control": {
+    "noun": "版本控制"
+  },
+  "vertical": {
+    "adjective": "垂直"
+  },
+  "Vevay": {
+    "noun": "韋韋"
+  },
+  "Viber": {
+    "noun": "Viber"
+  },
+  "Victoria": {
+    "noun": "維多利亞省"
+  },
+  "video": {
+    "noun": "視訊"
+  },
+  "Video": {
+    "noun": "視訊"
+  },
+  "Vienna": {
+    "noun": "維也納"
+  },
+  "Vientiane": {
+    "noun": "永珍"
+  },
+  "Vietnamese": {
+    "noun": "越南文"
+  },
+  "Vietnamese &#x111;&#x1ed3;ng": {
+    "noun": "越南盾"
+  },
+  "view all": {
+    "verb": "檢視全部"
+  },
+  "view mode": {
+    "noun": "檢視模式"
+  },
+  "viewer": {
+    "noun": "檢視器"
+  },
+  "viewport": {
+    "noun": "檢視區"
+  },
+  "Vilnius": {
+    "noun": "維爾紐斯"
+  },
+  "Vim": {
+    "noun": "Vim"
+  },
+  "Vimeo": {
+    "noun": "Vimeo"
+  },
+  "Vincennes": {
+    "noun": "湯森斯"
+  },
+  "Virgin": {
+    "noun": "維爾京群島"
+  },
+  "virtual": {
+    "adjective": "虛擬"
+  },
+  "virtual private network": {
+    "noun": "虛擬私人網路"
+  },
+  "virtual private server": {
+    "noun": "虛擬專屬伺服器"
+  },
+  "visual editor": {
+    "noun": "視覺化編輯器"
+  },
+  "VK": {
+    "noun": "VK"
+  },
+  "Vkontakte": {
+    "noun": "Vkontakte"
+  },
+  "Vladivostok": {
+    "noun": "海參崴"
+  },
+  "Volapuk": {
+    "noun": "沃拉普克文"
+  },
+  "Volgograd": {
+    "noun": "伏爾加格勒"
+  },
+  "Vostok": {
+    "noun": "弗斯托克"
+  },
+  "VPN": {
+    "noun": "VPN"
+  },
+  "VPS": {
+    "noun": "VPS"
+  },
+  "Wake": {
+    "noun": "威克島"
+  },
+  "Wallis": {
+    "noun": "瓦利斯"
+  },
+  "Wallis and Futuna": {
+    "noun": "瓦利斯及福杜納"
+  },
+  "Walloon": {
+    "noun": "華隆文"
+  },
+  "Warsaw": {
+    "noun": "華沙"
+  },
+  "watermark": {
+    "noun": "浮水印"
+  },
+  "web font": {
+    "noun": "網頁字型"
+  },
+  "webfont": {
+    "noun": "網頁字型"
+  },
+  "webinar": {
+    "noun": "網路研討會"
+  },
+  "website": {
+    "noun": "網站"
+  },
+  "Welsh": {
+    "noun": "威爾斯文"
+  },
+  "West": {
+    "noun": "西澳省"
+  },
+  "West African CFA franc": {
+    "noun": "西非法郎 (非洲金融共同體法郎)"
+  },
+  "Western Frisian": {
+    "noun": "西弗里西亞文"
+  },
+  "Western Sahara": {
+    "noun": "西撒哈拉"
+  },
+  "what you see is what you get": {
+    "noun": "所見即所得"
+  },
+  "what-you-see-is-what-you-get": {
+    "noun": "所見即所得"
+  },
+  "WhatsApp": {
+    "noun": "WhatsApp"
+  },
+  "white label": {
+    "noun": "自訂品牌"
+  },
+  "white list": {
+    "noun": "允許清單"
+  },
+  "Whitehorse": {
+    "noun": "白馬鎮"
+  },
+  "whitelist": {
+    "noun": "允許清單"
+  },
+  "whitespace": {
+    "noun": "空白字元"
+  },
+  "widget": {
+    "noun": "小工具"
+  },
+  "widget area": {
+    "noun": "小工具區域"
+  },
+  "width": {
+    "noun": "寬度"
+  },
+  "wildcard": {
+    "noun": "萬用字元"
+  },
+  "wildcard certificate": {
+    "noun": "萬用字元憑證"
+  },
+  "Winamac": {
+    "noun": "威納馬克"
+  },
+  "Windhoek": {
+    "noun": "溫吐克"
+  },
+  "window": {
+    "noun": "視窗"
+  },
+  "Windows": {
+    "noun": "Windows"
+  },
+  "Winnipeg": {
+    "noun": "溫尼柏"
+  },
+  "wipe": {
+    "verb": "抹除"
+  },
+  "wishlist": {
+    "noun": "願望清單"
+  },
+  "wizard": {
+    "noun": "精靈"
+  },
+  "Wolof": {
+    "noun": "沃洛夫文"
+  },
+  "WooCommerce": {
+    "noun": "WooCommerce"
+  },
+  "WordCamp": {
+    "noun": "WordCamp 活動"
+  },
+  "WordPress": {
+    "noun": "WordPress"
+  },
+  "WordPress Core": {
+    "noun": "WordPress 核心程式"
+  },
+  "WordPress Multisite": {
+    "noun": "WordPress 多站網路"
+  },
+  "WordPress Network": {
+    "noun": "WordPress 多站網路"
+  },
+  "WordPress.com": {
+    "noun": "WordPress.com"
+  },
+  "workaround": {
+    "noun": "因應措施"
+  },
+  "worker": {
+    "noun": "背景工作"
+  },
+  "WYSIWYG": {
+    "noun": "所見即所得"
+  },
+  "Xhosa": {
+    "noun": "廓薩文"
+  },
+  "XML": {
+    "noun": "XML"
+  },
+  "XML-RPC": {
+    "noun": "XML-RPC"
+  },
+  "Yakutat": {
+    "noun": "亞庫塔特"
+  },
+  "Yakutsk": {
+    "noun": "雅庫茨克"
+  },
+  "Yancowinna": {
+    "noun": "揚科維納"
+  },
+  "Yangon": {
+    "noun": "仰光"
+  },
+  "Yap": {
+    "noun": "雅浦島"
+  },
+  "Yekaterinburg": {
+    "noun": "耶卡特寧伯格"
+  },
+  "Yellowknife": {
+    "noun": "耶洛奈夫"
+  },
+  "Yemen": {
+    "noun": "葉門"
+  },
+  "Yemeni rial": {
+    "noun": "葉門里亞爾"
+  },
+  "Yerevan": {
+    "noun": "葉里溫"
+  },
+  "Yiddish": {
+    "noun": "意第緒文"
+  },
+  "Yoruba": {
+    "noun": "優魯巴文"
+  },
+  "YouTube": {
+    "noun": "YouTube"
+  },
+  "Zagreb": {
+    "noun": "札格雷布"
+  },
+  "Zambia": {
+    "noun": "尚比亞"
+  },
+  "Zaporozhye": {
+    "noun": "札波羅結"
+  },
+  "Zhuang": {
+    "noun": "壯文"
+  },
+  "Zimbabwe": {
+    "noun": "辛巴威"
+  },
+  "Zulu": {
+    "noun": "祖魯"
+  },
+  "Zurich": {
+    "noun": "蘇黎世"
+  }
+}

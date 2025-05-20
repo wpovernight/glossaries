@@ -1,0 +1,858 @@
+{
+  "About": {
+    "adverb": "Acerca de"
+  },
+  "Account": {
+    "noun": "Conta"
+  },
+  "Activate": {
+    "verb": "Activar"
+  },
+  "Activated": {
+    "adjective": "Activado"
+  },
+  "Admin": {
+    "noun": "Administrador"
+  },
+  "admin": {
+    "noun": "administrador"
+  },
+  "After the Deadline": {
+    "noun": "After the Deadline"
+  },
+  "Ajax": {
+    "noun": "Ajax"
+  },
+  "Array": {
+    "noun": "Array"
+  },
+  "Aside": {
+    "noun": "Minientrada"
+  },
+  "aspect ratio": {
+    "expression": "relación de aspecto"
+  },
+  "Attachment": {
+    "noun": "Adxunto"
+  },
+  "Attributes": {
+    "noun": "Atributos"
+  },
+  "Authenticate": {
+    "verb": "Identificar"
+  },
+  "Authentication": {
+    "noun": "Identificación"
+  },
+  "Author": {
+    "noun": "Autor"
+  },
+  "Autosave": {
+    "noun": "Autogardado"
+  },
+  "backend": {
+    "noun": "administración / escritorio"
+  },
+  "backorder": {
+    "noun": "reserva"
+  },
+  "backup": {
+    "noun": "Copia de seguridade"
+  },
+  "badge": {
+    "noun": "acreditación"
+  },
+  "Banner": {
+    "noun": "Banner"
+  },
+  "benefit": {
+    "noun": "vantaxe"
+  },
+  "bill": {
+    "noun": "factura"
+  },
+  "billing": {
+    "noun": "facturación"
+  },
+  "Bitrate": {
+    "noun": "Bitrate"
+  },
+  "Blockquote": {
+    "noun": "Cita"
+  },
+  "Blog": {
+    "noun": "Blog"
+  },
+  "Body": {
+    "noun": "Corpo"
+  },
+  "Bookmarklet": {
+    "noun": "Marcador"
+  },
+  "branch": {
+    "noun": "rama / sucursal"
+  },
+  "breadcrumb": {
+    "noun": "faragullas de pan"
+  },
+  "Browser": {
+    "noun": "Navegador"
+  },
+  "BuddyPress": {
+    "noun": "BuddyPress"
+  },
+  "bug": {
+    "noun": "fallo"
+  },
+  "builder": {
+    "noun": "maquetador"
+  },
+  "Bulk actions": {
+    "noun": "Accións en lote"
+  },
+  "By  clicking": {
+    "expression": "Ao facer clic"
+  },
+  "Capability": {
+    "noun": "Capacidade"
+  },
+  "caption": {
+    "noun": "lenda"
+  },
+  "cart": {
+    "noun": "carriño"
+  },
+  "Category": {
+    "noun": "Categoría"
+  },
+  "changelog": {
+    "noun": "rexistro de cambios"
+  },
+  "Changeset": {
+    "noun": "Grupo de cambios"
+  },
+  "checkbox": {
+    "noun": "caixa de verificación"
+  },
+  "Checkout": {
+    "noun": "finalizar compra / pago"
+  },
+  "Clear": {
+    "verb": "Baleirar"
+  },
+  "Click": {
+    "noun": "Clic",
+    "verb": "Facer  clic"
+  },
+  "COD": {
+    "noun": "contra reembolso"
+  },
+  "Comment": {
+    "noun": "Comentario",
+    "verb": "Comentar"
+  },
+  "Commit": {
+    "noun": "Commit",
+    "verb": "Facer commit"
+  },
+  "contact  with  your  host": {
+    "expression": "contactar co teu provedor de aloxamento web"
+  },
+  "Content": {
+    "noun": "Contido"
+  },
+  "contributor": {
+    "noun": "colaborador"
+  },
+  "Cookie": {
+    "noun": "Cookie"
+  },
+  "core": {
+    "noun": "núcleo"
+  },
+  "Credits": {
+    "noun": "Agradecementos"
+  },
+  "Custom CSS": {
+    "noun": "CSS personalizado"
+  },
+  "Custom Post Type": {
+    "noun": "Tipo de contido personalizado"
+  },
+  "Customize": {
+    "verb": "Personalizar"
+  },
+  "Customizer": {
+    "noun": "Personalizador"
+  },
+  "Daily Arquive": {
+    "noun": "Arquivo diario"
+  },
+  "Dashboard": {
+    "noun": "Escritorio"
+  },
+  "debug": {
+    "noun": "depuración"
+  },
+  "default": {
+    "noun": "por defecto"
+  },
+  "defaults to": {
+    "noun": "por defecto é"
+  },
+  "Deprecated": {
+    "adjective": "Obsoleto / Obsoleta"
+  },
+  "deselect": {
+    "noun": "anular selección"
+  },
+  "disable": {
+    "verb": "desactivar"
+  },
+  "disabled": {
+    "adverb": "desactivado"
+  },
+  "double check": {
+    "expression": "volve comprobar"
+  },
+  "Draft": {
+    "noun": "Borrador"
+  },
+  "drag and drop": {
+    "expression": "arrastrar e soltar"
+  },
+  "drag and drop builder": {
+    "expression": "editor de arrastrar e soltar"
+  },
+  "Drop-in/s": {
+    "noun": "Dependente/s"
+  },
+  "E-mail": {
+    "noun": "Correo electrónico"
+  },
+  "Email": {
+    "noun": "Correo electrónico"
+  },
+  "Embed": {
+    "verb": "Incrustar"
+  },
+  "Embeded": {
+    "adjective": "Incrustado"
+  },
+  "enable": {
+    "verb": "activar"
+  },
+  "enabled": {
+    "adverb": "activado / activo"
+  },
+  "encrypt": {
+    "verb": "cifrar"
+  },
+  "encrypted": {
+    "adjective": "cifrado"
+  },
+  "encryption": {
+    "noun": "cifrado"
+  },
+  "entry": {
+    "noun": "entrada"
+  },
+  "Excerpt": {
+    "noun": "Extracto"
+  },
+  "excluding tax": {
+    "expression": "sen impostos / impostos non incluídos"
+  },
+  "expire": {
+    "expression": "caduca"
+  },
+  "expired": {
+    "noun": "caducou"
+  },
+  "expires": {
+    "noun": "caduca"
+  },
+  "fancy permalink": {
+    "noun": "ligazón permanente amigable"
+  },
+  "FAQ": {
+    "noun": "FAQ"
+  },
+  "feature": {
+    "noun": "característica"
+  },
+  "fee": {
+    "noun": "cota"
+  },
+  "feed": {
+    "noun": "feed"
+  },
+  "feedback": {
+    "noun": "resposta / dar resposta"
+  },
+  "File": {
+    "noun": "Arquivo"
+  },
+  "Firewall": {
+    "noun": "Devasa"
+  },
+  "Footer": {
+    "noun": "Pé de páxina"
+  },
+  "Front page": {
+    "noun": "Páxina de inicio"
+  },
+  "frontend": {
+    "noun": "portada"
+  },
+  "Gallery": {
+    "noun": "Galería"
+  },
+  "gateway": {
+    "noun": "pasarela"
+  },
+  "GDPR": {
+    "abbreviation": "RXPD"
+  },
+  "Get started": {
+    "expression": "Primeiros pasos"
+  },
+  "Grid": {
+    "noun": "Cuadrícula"
+  },
+  "gross": {
+    "noun": "bruto"
+  },
+  "Header": {
+    "noun": "Cabeceira"
+  },
+  "Heading": {
+    "noun": "Título"
+  },
+  "Hide": {
+    "noun": "Oculta/Ocultar"
+  },
+  "holder": {
+    "noun": "titular"
+  },
+  "Home": {
+    "noun": "Inicio ou páxina de inicio"
+  },
+  "Homepage": {
+    "noun": "Páxina de inicio"
+  },
+  "honeypot": {
+    "noun": "reclamo"
+  },
+  "hook": {
+    "noun": "gancho"
+  },
+  "Hosting": {
+    "noun": "Aloxamento"
+  },
+  "hostname": {
+    "noun": "hostname"
+  },
+  "hotkeys": {
+    "noun": "teclas rápidas"
+  },
+  "hover": {
+    "expression": "ao pasar o cursor"
+  },
+  "Howdy": {
+    "noun": "Ola"
+  },
+  "in order to": {
+    "expression": "para"
+  },
+  "inline": {
+    "adjective": "Integrado/a"
+  },
+  "Invalid": {
+    "noun": "Non válido/a"
+  },
+  "is  writable": {
+    "noun": "ten permisos de escritura"
+  },
+  "is not writable": {
+    "expression": "non ten permisos de escritura"
+  },
+  "issue": {
+    "noun": "problema ou conflito"
+  },
+  "Item": {
+    "noun": "Elemento / Artigo"
+  },
+  "Javascript": {
+    "noun": "Javascript"
+  },
+  "JetPack": {
+    "noun": "JetPack"
+  },
+  "Jetpack Stats": {
+    "noun": "Jetpack Stats"
+  },
+  "key": {
+    "noun": "clave"
+  },
+  "Language": {
+    "noun": "Idioma"
+  },
+  "Large": {
+    "noun": "Grande"
+  },
+  "Last Name": {
+    "noun": "Apelidos"
+  },
+  "Layout": {
+    "noun": "Deseño / Modelo / Estrutura / Disposición"
+  },
+  "lazy": {
+    "noun": "diferido"
+  },
+  "legacy": {
+    "adjective": "herdado"
+  },
+  "Library": {
+    "noun": "Biblioteca"
+  },
+  "license": {
+    "noun": "licenza"
+  },
+  "lightbox": {
+    "noun": "caixa de luz"
+  },
+  "Link": {
+    "noun": "Ligazón"
+  },
+  "Log in": {
+    "noun": "Iniciar sesión"
+  },
+  "Log out": {
+    "verb": "Saír"
+  },
+  "Logged in": {
+    "noun": "Conectado"
+  },
+  "Logged out": {
+    "noun": "Desconectado"
+  },
+  "Login": {
+    "verb": "Acceder / Acceso"
+  },
+  "Manage": {
+    "verb": "Xestionar"
+  },
+  "Management": {
+    "noun": "Xestión"
+  },
+  "map": {
+    "verb": "asignar"
+  },
+  "mapping": {
+    "expression": "asignación"
+  },
+  "Masonry": {
+    "adjective": "Muro"
+  },
+  "Media": {
+    "noun": "Medios"
+  },
+  "Metabox": {
+    "noun": "Metabox"
+  },
+  "minification": {
+    "noun": "minimización"
+  },
+  "minify": {
+    "noun": "minimizar"
+  },
+  "Next": {
+    "noun": "A continuación / seguinte"
+  },
+  "Nickname": {
+    "noun": "Alias"
+  },
+  "nonce": {
+    "noun": "nonce"
+  },
+  "notice": {
+    "noun": "aviso"
+  },
+  "notification": {
+    "noun": "aviso"
+  },
+  "Object": {
+    "noun": "Obxecto"
+  },
+  "on hover": {
+    "expression": "ao pasar o  cursor"
+  },
+  "Options": {
+    "noun": "Opcións"
+  },
+  "order": {
+    "noun": "pedido",
+    "verb": "pedir / encargar / realizar pedido"
+  },
+  "page": {
+    "noun": "Páxina"
+  },
+  "path": {
+    "noun": "ruta"
+  },
+  "pattern": {
+    "noun": "padrón"
+  },
+  "payment gateway": {
+    "expression": "pasarela de pago"
+  },
+  "Permalink": {
+    "noun": "Ligazón permanente"
+  },
+  "Permalinks": {
+    "noun": "Ligazóns permanentes"
+  },
+  "Ping": {
+    "noun": "Ping"
+  },
+  "pingback": {
+    "noun": "pingback"
+  },
+  "pixel": {
+    "noun": "píxel"
+  },
+  "pixels": {
+    "noun": "píxeles"
+  },
+  "place order": {
+    "expression": "realizar pedido"
+  },
+  "Placeholder": {
+    "noun": "Marcador de posición"
+  },
+  "plugin": {
+    "noun": "plugin"
+  },
+  "plugins": {
+    "noun": "plugins"
+  },
+  "Portfolio": {
+    "noun": "Carteira"
+  },
+  "POS": {
+    "noun": "TPV"
+  },
+  "Post": {
+    "noun": "Entrada"
+  },
+  "Post type": {
+    "noun": "Tipo de contido"
+  },
+  "Posts": {
+    "noun": "Entradas / Publicacións / Contidos"
+  },
+  "Powered by WordPress": {
+    "expression": "Funciona grazas a  WordPress"
+  },
+  "Preview": {
+    "noun": "Vista previa"
+  },
+  "preview": {
+    "verb": "previsualizar"
+  },
+  "Previous": {
+    "noun": "Anterior"
+  },
+  "Publicize": {
+    "noun": "Divulgar"
+  },
+  "push notifications": {
+    "expression": "avisos instantáneos"
+  },
+  "query": {
+    "noun": "consulta"
+  },
+  "QuickPress": {
+    "noun": "Publicación rápida"
+  },
+  "quiz": {
+    "noun": "cuestionario"
+  },
+  "rate": {
+    "noun": "taxa / tarifa"
+  },
+  "rating": {
+    "noun": "valoración / puntuación"
+  },
+  "receipt": {
+    "noun": "recibo"
+  },
+  "recipient": {
+    "noun": "destinatario"
+  },
+  "refund": {
+    "noun": "reembolso",
+    "verb": "reembolsar"
+  },
+  "Release": {
+    "noun": "Versión"
+  },
+  "report": {
+    "noun": "informe",
+    "verb": "informar"
+  },
+  "reset": {
+    "verb": "restablecer"
+  },
+  "Resource": {
+    "noun": "Recurso"
+  },
+  "responsive": {
+    "noun": "adaptable"
+  },
+  "retrieve": {
+    "verb": "recuperar"
+  },
+  "review": {
+    "noun": "recensión / valoración"
+  },
+  "Role": {
+    "noun": "Perfil"
+  },
+  "roles": {
+    "noun": "perfís"
+  },
+  "RSS Feed": {
+    "noun": "Feed RSS"
+  },
+  "Safe Mode": {
+    "noun": "Modo a proba de fallos"
+  },
+  "Sale": {
+    "noun": "Oferta"
+  },
+  "Save": {
+    "noun": "Gardar"
+  },
+  "scan": {
+    "verb": "explorar",
+    "noun": "exploración"
+  },
+  "scope": {
+    "noun": "extensión"
+  },
+  "Screen": {
+    "noun": "Pantalla"
+  },
+  "Scroll": {
+    "noun": "Scroll"
+  },
+  "Search": {
+    "verb": "Buscar",
+    "noun": "Busca"
+  },
+  "sender": {
+    "noun": "remitente"
+  },
+  "Set": {
+    "verb": "Establecer",
+    "noun": "Conxunto"
+  },
+  "Settings": {
+    "noun": "Axustes"
+  },
+  "ship": {
+    "verb": "enviar"
+  },
+  "shipping": {
+    "noun": "envío"
+  },
+  "shortcode": {
+    "noun": "shortcode"
+  },
+  "Shortcut": {
+    "noun": "Atallo"
+  },
+  "Sidebar": {
+    "noun": "Barra lateral"
+  },
+  "site": {
+    "noun": "sitio"
+  },
+  "Site Identity": {
+    "noun": "Identidade do Sitio"
+  },
+  "Sitemap": {
+    "noun": "Mapa do sitio"
+  },
+  "skipped": {
+    "noun": "omitido,  omitida"
+  },
+  "slide": {
+    "verb": "deslizar",
+    "noun": "diapositiva"
+  },
+  "slider": {
+    "noun": "carrusel / control escorrente"
+  },
+  "slug": {
+    "noun": "slug"
+  },
+  "Sorry": {
+    "noun": "Síntoo"
+  },
+  "Spam": {
+    "noun": "Spam"
+  },
+  "spinner": {
+    "noun": "icona de carga"
+  },
+  "sponsor": {
+    "noun": "patrocinador"
+  },
+  "static front page": {
+    "noun": "páxina de inicio estática"
+  },
+  "Status": {
+    "noun": "Estado"
+  },
+  "Sticky": {
+    "adjective": "Fixa / Fixo"
+  },
+  "stock": {
+    "noun": "inventario"
+  },
+  "String": {
+    "noun": "Cadea"
+  },
+  "Stylesheet": {
+    "noun": "Folla de estilos"
+  },
+  "Subscriber": {
+    "noun": "Subscritor"
+  },
+  "successfully": {
+    "adverb": "correctamente"
+  },
+  "support": {
+    "verb": "é compatible con / dar soporte"
+  },
+  "supported": {
+    "noun": "compatible"
+  },
+  "tab": {
+    "noun": "pestana"
+  },
+  "tag": {
+    "noun": "etiqueta"
+  },
+  "tariff code": {
+    "expression": "código arancelario"
+  },
+  "tax": {
+    "noun": "imposto"
+  },
+  "tax rate": {
+    "noun": "taxa de imposto"
+  },
+  "Taxonomy": {
+    "noun": "Taxonomía"
+  },
+  "Template": {
+    "noun": "Modelo"
+  },
+  "Theme": {
+    "noun": "Tema"
+  },
+  "thumbnail": {
+    "noun": "miniatura"
+  },
+  "token": {
+    "noun": "token"
+  },
+  "Tools": {
+    "noun": "Ferramentas"
+  },
+  "tooltip": {
+    "noun": "información emerxente"
+  },
+  "topic": {
+    "noun": "debate"
+  },
+  "trackback": {
+    "noun": "trackback"
+  },
+  "transient": {
+    "noun": "dato transitorio"
+  },
+  "Trash": {
+    "noun": "Papeleira"
+  },
+  "Unable": {
+    "expression": "Non foi posible"
+  },
+  "Unapproved": {
+    "adjective": "Sen aprobar"
+  },
+  "Update": {
+    "noun": "Actualización",
+    "verb": "Actualizar"
+  },
+  "Updated": {
+    "noun": "Actualizado"
+  },
+  "Upgrade": {
+    "noun": "Actualiza",
+    "verb": "Actualizar"
+  },
+  "Upload": {
+    "noun": "Subida",
+    "verb": "Subir"
+  },
+  "Uploaded": {
+    "adverb": "Subido"
+  },
+  "uptime": {
+    "noun": "tempo de actividade"
+  },
+  "URI": {
+    "noun": "URI"
+  },
+  "URL": {
+    "noun": "URL"
+  },
+  "Username": {
+    "noun": "Nome de usuario"
+  },
+  "variation": {
+    "noun": "variación"
+  },
+  "Walker": {
+    "noun": "Walker"
+  },
+  "Warning": {
+    "noun": "Advertencia"
+  },
+  "website": {
+    "noun": "web"
+  },
+  "Widget": {
+    "noun": "Widget"
+  },
+  "wizard": {
+    "noun": "asistente"
+  },
+  "worth": {
+    "adverb": "valor"
+  },
+  "XML-RPC": {
+    "noun": "XML-RPC"
+  },
+  "Yearly Archive": {
+    "noun": "Arquivo anual"
+  },
+  "You are not allowed": {
+    "noun": "Non tes permisos"
+  }
+}

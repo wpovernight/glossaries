@@ -1,0 +1,82 @@
+{
+  "attribute": {
+    "noun": "atribuut"
+  },
+  "cart": {
+    "noun": "ostukorv"
+  },
+  "checkout": {
+    "noun": "kassa"
+  },
+  "click": {
+    "verb": "klikkima"
+  },
+  "deprecated": {
+    "adjective": "iganenud"
+  },
+  "design": {
+    "noun": "kujundus"
+  },
+  "detail": {
+    "noun": "üksikasi"
+  },
+  "details": {
+    "noun": "üksikasjad"
+  },
+  "display": {
+    "verb": "kuvama"
+  },
+  "feed": {
+    "noun": "voog"
+  },
+  "font": {
+    "noun": "font"
+  },
+  "image": {
+    "noun": "pilt"
+  },
+  "language pack": {
+    "noun": "keelepakett"
+  },
+  "menu item": {
+    "noun": "menüüelement"
+  },
+  "method": {
+    "noun": "viis"
+  },
+  "password": {
+    "noun": "parool"
+  },
+  "pattern": {
+    "noun": "muster"
+  },
+  "reset": {
+    "noun": "lähtestamine",
+    "verb": "lähtestama"
+  },
+  "revision": {
+    "noun": "versioon"
+  },
+  "section": {
+    "noun": "jagu"
+  },
+  "shipping": {
+    "noun": "saatmine"
+  },
+  "site": {
+    "noun": "sait"
+  },
+  "sub item": {
+    "noun": "alamelement"
+  },
+  "template": {
+    "noun": "mall"
+  },
+  "title": {
+    "noun": "pealkiri"
+  },
+  "toggle": {
+    "verb": "ümberlülitama",
+    "noun": "lüliti"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "comment": {
+    "noun": "pangalembānā"
+  },
+  "custom": {
+    "noun": "racikan"
+  },
+  "delete": {
+    "verb": "busak"
+  },
+  "disable": {
+    "noun": "mati"
+  },
+  "enable": {
+    "noun": "urip"
+  },
+  "field": {
+    "noun": "ros"
+  },
+  "header": {
+    "noun": "sesirahan"
+  },
+  "heading": {
+    "noun": "irahan"
+  },
+  "post": {
+    "noun": "pos"
+  },
+  "publish": {
+    "verb": "pacak"
+  },
+  "remove": {
+    "verb": "buwang"
+  },
+  "Shortcut": {
+    "noun": "Trabasan"
+  },
+  "South": {
+    "noun": "Kidul"
+  },
+  "sticky": {
+    "noun": "pucuk"
+  },
+  "tag": {
+    "noun": "tenger"
+  },
+  "tagline": {
+    "noun": "sesanti"
+  },
+  "template": {
+    "noun": "cithakan"
+  },
+  "term": {
+    "noun": "terma"
+  },
+  "top": {
+    "noun": "ndhuwur"
+  }
+}

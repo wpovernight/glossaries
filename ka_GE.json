@@ -1,0 +1,14 @@
+{
+  "Billing": {
+    "noun": "გადახდა"
+  },
+  "Shipping": {
+    "noun": "გადაზიდვა"
+  },
+  "Uncategorized": {
+    "noun": "სხვადასხვა"
+  },
+  "Variation": {
+    "noun": "ნაირსახეობა"
+  }
+}

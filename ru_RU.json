@@ -1,0 +1,176 @@
+{
+  "account": {
+    "noun": "учётная запись"
+  },
+  "aside": {
+    "noun": "заметка"
+  },
+  "attachment": {
+    "noun": "вложение"
+  },
+  "Block editor": {
+    "noun": "редактор блоков"
+  },
+  "Block Patterns": {
+    "noun": "Паттерны блоков"
+  },
+  "breadcrumbs": {
+    "noun": "навигационные цепочки"
+  },
+  "category": {
+    "noun": "рубрика"
+  },
+  "classic editor": {
+    "noun": "классический редактор"
+  },
+  "click": {
+    "verb": "щёлкнуть"
+  },
+  "column": {
+    "noun": "столбец"
+  },
+  "configure": {
+    "verb": "настроить"
+  },
+  "content": {
+    "noun": "содержимое"
+  },
+  "cron": {
+    "noun": "cron"
+  },
+  "custom": {
+    "adjective": "пользовательский"
+  },
+  "dashboard": {
+    "noun": "панель управления"
+  },
+  "directory": {
+    "noun": "директория, каталог"
+  },
+  "discussion": {
+    "noun": "обсуждение"
+  },
+  "domain mapping": {
+    "expression": "привязка домена"
+  },
+  "download": {
+    "verb": "скачать"
+  },
+  "Drop caps": {
+    "noun": "буквица"
+  },
+  "engagement": {
+    "noun": "взаимодействие"
+  },
+  "entry": {
+    "noun": "запись"
+  },
+  "excerpt": {
+    "noun": "отрывок"
+  },
+  "featured image": {
+    "expression": "изображение записи"
+  },
+  "features": {
+    "noun": "возможности"
+  },
+  "Gutenberg": {
+    "noun": "Gutenberg"
+  },
+  "id": {
+    "noun": "id"
+  },
+  "layout": {
+    "noun": "разметка, макет"
+  },
+  "log": {
+    "noun": "журнал"
+  },
+  "odd-even": {
+    "adjective": "чередующийся"
+  },
+  "options": {
+    "noun": "настройки"
+  },
+  "pattern": {
+    "noun": "паттерн"
+  },
+  "permalink": {
+    "noun": "постоянная ссылка"
+  },
+  "personal data": {
+    "noun": "персональные данные"
+  },
+  "ping": {
+    "noun": "отклик"
+  },
+  "pingback": {
+    "noun": "уведомление"
+  },
+  "post": {
+    "noun": "запись"
+  },
+  "product": {
+    "noun": "товар"
+  },
+  "read more": {
+    "expression": "читать далее"
+  },
+  "revision": {
+    "noun": "редакция"
+  },
+  "RSS feed": {
+    "noun": "RSS-лента"
+  },
+  "settings": {
+    "noun": "настройки"
+  },
+  "shortcode": {
+    "noun": "шорткод"
+  },
+  "sidebar": {
+    "noun": "область виджетов"
+  },
+  "SKU": {
+    "noun": "артикул"
+  },
+  "slug": {
+    "noun": "ярлык"
+  },
+  "tag": {
+    "noun": "метка"
+  },
+  "taxonomy": {
+    "noun": "таксономия"
+  },
+  "template": {
+    "noun": "шаблон"
+  },
+  "theme": {
+    "noun": "тема"
+  },
+  "thumbnail": {
+    "noun": "миниатюра"
+  },
+  "trackback": {
+    "noun": "обратная ссылка"
+  },
+  "transient": {
+    "noun": "транзиент"
+  },
+  "transients": {
+    "noun": "транзиенты"
+  },
+  "upload": {
+    "verb": "загрузить"
+  },
+  "uploads": {
+    "noun": "загрузки"
+  },
+  "URI": {
+    "noun": "URI"
+  },
+  "URL": {
+    "noun": "URL"
+  }
+}

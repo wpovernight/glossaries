@@ -1,0 +1,110 @@
+{
+  "Access": {
+    "noun": "Кирүү мүмкүнчүлүгү"
+  },
+  "Badges": {
+    "noun": "Төшбелги"
+  },
+  "Breadcrumb": {
+    "noun": "Нанкүкүмдөрү"
+  },
+  "bundle": {
+    "noun": "топтом"
+  },
+  "collection": {
+    "noun": "жыйнак"
+  },
+  "Comment": {
+    "noun": "Комментарий"
+  },
+  "Compiled": {
+    "noun": "Жыйналган"
+  },
+  "Custom": {
+    "noun": "Ыктыярдуу"
+  },
+  "Debug": {
+    "noun": "Катадан чыгаруу"
+  },
+  "Default": {
+    "noun": "Демейки"
+  },
+  "Draft": {
+    "noun": "Карануска"
+  },
+  "Duotones": {
+    "noun": "Экитүстүү"
+  },
+  "Extracted": {
+    "noun": "Чыгарылган"
+  },
+  "face": {
+    "noun": "чийме"
+  },
+  "Footnotes": {
+    "noun": "Түшүндүрмөлөр"
+  },
+  "Label": {
+    "noun": "Жарлык"
+  },
+  "Location": {
+    "noun": "Жайгашкан жер"
+  },
+  "Member": {
+    "noun": "Катышуучу"
+  },
+  "Navigation": {
+    "noun": "Багыттоо"
+  },
+  "Notification": {
+    "noun": "Эскертүү"
+  },
+  "Options": {
+    "noun": "Тандоолор"
+  },
+  "Overrides": {
+    "noun": "Кайра аныктоо"
+  },
+  "Pagination": {
+    "noun": "Беттерге бөлүү"
+  },
+  "Parent": {
+    "noun": "Энелик"
+  },
+  "Phrase": {
+    "noun": "Сөз айкашы"
+  },
+  "Report": {
+    "noun": "Арыздануу"
+  },
+  "Reset": {
+    "noun": "Ташталды"
+  },
+  "Review": {
+    "noun": "Сын-пикир"
+  },
+  "Shadow": {
+    "noun": "Көлөкө"
+  },
+  "Sidebar": {
+    "noun": "Каптал тилке"
+  },
+  "Signature": {
+    "noun": "Колтамга"
+  },
+  "Slug": {
+    "noun": "Жарлык"
+  },
+  "Sticky": {
+    "noun": "Тиркелген"
+  },
+  "Sync": {
+    "noun": "Синхронизация"
+  },
+  "Templates": {
+    "noun": "Шаблондор"
+  },
+  "Two Factor": {
+    "noun": "Эки баскыч"
+  }
+}

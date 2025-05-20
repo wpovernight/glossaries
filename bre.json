@@ -1,0 +1,56 @@
+{
+  "Activate": {
+    "verb": "Gweredekaat"
+  },
+  "Dashboard": {
+    "noun": "Taolenn-stur"
+  },
+  "Edit": {
+    "verb": "Kemmañ"
+  },
+  "Embed": {
+    "verb": "Enframmañ"
+  },
+  "Excerpt": {
+    "noun": "Arroudenn"
+  },
+  "Icon": {
+    "noun": "Arlun"
+  },
+  "invalid": {
+    "adjective": "diwiriek"
+  },
+  "item": {
+    "noun": "elfenn"
+  },
+  "Link": {
+    "noun": "Ere"
+  },
+  "Menu": {
+    "noun": "Lañser"
+  },
+  "Meta": {
+    "noun": "Meta"
+  },
+  "Reset": {
+    "verb": "Adderaouekaat"
+  },
+  "Run": {
+    "verb": "Loc'hañ"
+  },
+  "Sign up": {
+    "verb": "En em enrollañ"
+  },
+  "Tag": {
+    "noun": "Tikedenn"
+  },
+  "Tan": {
+    "adjective": "Rouz"
+  },
+  "theme": {
+    "noun": "dodenn"
+  },
+  "Widget": {
+    "noun": "Widjed"
+  }
+}

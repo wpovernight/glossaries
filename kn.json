@@ -1,0 +1,158 @@
+{
+  "Accessibility": {
+    "noun": "ಅಕ್ಸೇಸಿಬಿಲಿಟೀ"
+  },
+  "Ancestor": {
+    "noun": "ಪೂರ್ವಜ"
+  },
+  "Archives": {
+    "noun": "ಆರ್ಕೈವ್‌ಗಳು"
+  },
+  "Automattic": {
+    "noun": "ಆಟೋಮ್ಯಾಟಿಕ್"
+  },
+  "autosave": {
+    "verb": "ಆಟೋಸೇವ್"
+  },
+  "Bangalore": {
+    "noun": "ಬೆಂಗಳೂರು"
+  },
+  "Block": {
+    "noun": "ಬ್ಲಾಕ್"
+  },
+  "Blocks": {
+    "noun": "ಬ್ಲಾಕ್‌ಗಳು"
+  },
+  "Blog": {
+    "noun": "ಬ್ಲಾಗ್"
+  },
+  "cache": {
+    "noun": "ಕ್ಯಾಶ್"
+  },
+  "Category": {
+    "noun": "ವರ್ಗ"
+  },
+  "Code is Poetry": {
+    "expression": "ಕೋಡ್ ಎಂಬುದು ಕಾವ್ಯ"
+  },
+  "columns": {
+    "noun": "ಕಾಲಮ್‌ಗಳು"
+  },
+  "comment": {
+    "noun": "ಕಾಮೆಂಟ್"
+  },
+  "comments": {
+    "noun": "ಕಾಮೆಂಟ್‌ಗಳು"
+  },
+  "Customize": {
+    "noun": "ಕಸ್ಟಮೈಸ್"
+  },
+  "Default": {
+    "noun": "ಡೀಫಾಲ್ಟ್"
+  },
+  "Distraction free mode": {
+    "noun": "ಡಿಸ್ಟ್ರಾಕ್ಷನ್ ಫ್ರೀ ಮೋಡ್"
+  },
+  "editor": {
+    "noun": "ಸಂಪಾದಕ or ಎಡಿಟರ್"
+  },
+  "Embeds": {
+    "noun": "ಎಂಬೆಡ್‌ಗಳು"
+  },
+  "Field Guide": {
+    "noun": "ಫೀಲ್ಡ್ ಗೈಡ್"
+  },
+  "fluid": {
+    "noun": "ಫ್ಲೂಯಿಡ್"
+  },
+  "Font": {
+    "noun": "ಫಾಂಟ್"
+  },
+  "font collection": {
+    "noun": "ಫಾಂಟ್ ಸಂಗ್ರಹ"
+  },
+  "Format": {
+    "noun": "ಫಾರ್ಮ್ಯಾಟ್"
+  },
+  "Gutenberg": {
+    "noun": "ಗುಟೆನ್‌ಬರ್ಗ್"
+  },
+  "HTML": {
+    "noun": "HTML"
+  },
+  "Import": {
+    "verb": "ಆಮದು"
+  },
+  "items": {
+    "noun": "ಐಟಂಗಳು"
+  },
+  "Landscape": {
+    "noun": "ಲ್ಯಾಂಡ್‌ಸ್ಕೇಪ್"
+  },
+  "pattern": {
+    "noun": "ಪ್ಯಾಟರ್ನ್"
+  },
+  "Plugin": {
+    "noun": "ಪ್ಲಗಿನ್"
+  },
+  "plugins": {
+    "noun": "ಪ್ಲಗಿನ್‌ಗಳು"
+  },
+  "Post": {
+    "noun": "ಪೋಸ್ಟ್"
+  },
+  "quote": {
+    "noun": "ಉಲ್ಲೇಖ"
+  },
+  "Result": {
+    "noun": "ಫಲಿತಾಂಶ"
+  },
+  "Results": {
+    "noun": "ಫಲಿತಾಂಶಗಳು"
+  },
+  "robots.txt": {
+    "noun": "robots.txt"
+  },
+  "Search": {
+    "verb": "ಹುಡುಕು"
+  },
+  "Settings": {
+    "noun": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+  },
+  "Site": {
+    "noun": "ತಾಣ"
+  },
+  "stack": {
+    "verb": "ಸ್ಟ್ಯಾಕ್"
+  },
+  "state data": {
+    "noun": "ಸ್ಟೇಟ್ ಡೇಟಾ"
+  },
+  "Sticky": {
+    "noun": "ಸ್ಟಿಕಿ"
+  },
+  "taxonomy": {
+    "noun": "ಟ್ಯಾಕ್ಸಾನಮಿ"
+  },
+  "Terms": {
+    "noun": "ಟರ್ಮ್ಗಳು"
+  },
+  "Theme": {
+    "noun": "ಥೀಮ್"
+  },
+  "toolbar": {
+    "noun": "ಟೂಲ್‌ಬಾರ್"
+  },
+  "trash": {
+    "noun": "ತ್ಯಾಜ್ಯ"
+  },
+  "View": {
+    "verb": "ವೀಕ್ಷಿಸಿ"
+  },
+  "Web": {
+    "noun": "ಜಾಲ"
+  },
+  "Zoom": {
+    "noun": "ಜೂಮ್"
+  }
+}

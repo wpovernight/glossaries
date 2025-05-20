@@ -1,0 +1,145 @@
+{
+  "bookmarklet": {
+    "noun": "обележувач"
+  },
+  "bug": {
+    "noun": "грешка"
+  },
+  "category": {
+    "noun": "категорија"
+  },
+  "comment": {
+    "noun": "коментар"
+  },
+  "connection": {
+    "noun": "врска"
+  },
+  "customizer": {
+    "noun": "прилагодувач"
+  },
+  "day": {
+    "noun": "ден"
+  },
+  "e-mail": {
+    "noun": "е-маил"
+  },
+  "embed": {
+    "verb": "вгради"
+  },
+  "form": {
+    "noun": "образец / образци"
+  },
+  "image": {
+    "noun": "слика"
+  },
+  "loading": {
+    "noun": "вчитување"
+  },
+  "Macintosh": {
+    "noun": "Macintosh"
+  },
+  "media": {
+    "noun": "мултимедија"
+  },
+  "Multisite": {
+    "noun": "Повеќекориснички веб-сајт"
+  },
+  "notice": {
+    "noun": "известување"
+  },
+  "option": {
+    "noun": "опција"
+  },
+  "overlay": {
+    "noun": "прекривач"
+  },
+  "page": {
+    "noun": "страница"
+  },
+  "photography": {
+    "noun": "фотографија"
+  },
+  "plugin": {
+    "noun": "додаток"
+  },
+  "post": {
+    "noun": "напис"
+  },
+  "Press This": {
+    "noun": "Објави го ова"
+  },
+  "preview": {
+    "noun": "преглед"
+  },
+  "product": {
+    "noun": "продукт"
+  },
+  "query": {
+    "noun": "прашање, барање",
+    "verb": "прашува, бара"
+  },
+  "quota": {
+    "noun": "квота"
+  },
+  "response": {
+    "noun": "одговор"
+  },
+  "select": {
+    "verb": "означи"
+  },
+  "selected": {
+    "adjective": "означен"
+  },
+  "separator": {
+    "noun": "раздвојувач"
+  },
+  "sidebar": {
+    "noun": "странична лента"
+  },
+  "site health": {
+    "noun": "Состојба на сајтот"
+  },
+  "tag": {
+    "noun": "ознака"
+  },
+  "taxonomy": {
+    "noun": "таксономија"
+  },
+  "term": {
+    "noun": "израз"
+  },
+  "theme": {
+    "noun": "тема"
+  },
+  "trash": {
+    "noun": "отпад",
+    "verb": "премести во отпад"
+  },
+  "untrash": {
+    "verb": "извади од отпад"
+  },
+  "update": {
+    "noun": "надградба"
+  },
+  "upload": {
+    "noun": "прикачи"
+  },
+  "user account": {
+    "noun": "кориснички сметка"
+  },
+  "week": {
+    "noun": "седмица"
+  },
+  "widget": {
+    "noun": "елемент"
+  },
+  "window": {
+    "noun": "прозорец"
+  },
+  "Windows": {
+    "noun": "Windows"
+  },
+  "year": {
+    "noun": "година"
+  }
+}

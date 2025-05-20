@@ -1,0 +1,1015 @@
+{
+  "access": {
+    "noun": "அணுகல்"
+  },
+  "Accessibility": {
+    "noun": "அணுகுதிறன்"
+  },
+  "account": {
+    "noun": "கணக்கு"
+  },
+  "action hook": {
+    "noun": "செயல் கொக்கி"
+  },
+  "activate": {
+    "verb": "இயக்கு/செயல்படுத்து"
+  },
+  "activated": {
+    "adjective": "செயல்படுத்தப்பட்ட"
+  },
+  "active": {
+    "adjective": "செயலிலுள்ள/செயலில் உள்ளது"
+  },
+  "activity": {
+    "noun": "செயல்"
+  },
+  "admin bar": {
+    "noun": "நிர்வாகப் பட்டி"
+  },
+  "admin panel": {
+    "noun": "நிர்வாகப் பட்டை"
+  },
+  "administrator": {
+    "noun": "மேலாளர்/நிர்வாகி"
+  },
+  "album": {
+    "noun": "செருகேடு/திரட்டு/தொகுப்பு"
+  },
+  "anticlockwise": {
+    "noun": "இடஞ்சுழி/இடஞ்சுழியாக"
+  },
+  "app": {
+    "noun": "செயலி"
+  },
+  "Appearance": {
+    "noun": "தோற்றம்"
+  },
+  "application": {
+    "noun": "செயலி"
+  },
+  "application programming interface (API)": {
+    "noun": "செயலி நிரலாக்க இடைமுகம் (செநிஇ)"
+  },
+  "approve": {
+    "verb": "அங்கீகரி"
+  },
+  "archive": {
+    "noun": "காப்பகம்",
+    "verb": "காப்பகப்படுத்து"
+  },
+  "argument": {
+    "noun": "மதிப்புரு/வாதம்"
+  },
+  "array": {
+    "noun": "வரிசை"
+  },
+  "article": {
+    "noun": "கட்டுரை/ஆக்கம்"
+  },
+  "aside": {
+    "noun": "சிறுபதிவு"
+  },
+  "attachment": {
+    "noun": "இணைப்பு"
+  },
+  "attribute": {
+    "noun": "பண்பு"
+  },
+  "audio": {
+    "noun": "ஆடியோ/ ஒலிதம்"
+  },
+  "author": {
+    "noun": "எழுத்தாளர்"
+  },
+  "autosave": {
+    "noun": "தன்னியக்க சேமிப்பு"
+  },
+  "Avatar": {
+    "noun": "புனைப்படம்"
+  },
+  "background": {
+    "noun": "பின்னணி"
+  },
+  "backup": {
+    "noun": "காப்பு"
+  },
+  "banner": {
+    "noun": "பதாகை"
+  },
+  "behaviour": {
+    "noun": "நடத்தை"
+  },
+  "Beta": {
+    "noun": "பீட்டா"
+  },
+  "binary": {
+    "noun": "இருமம்"
+  },
+  "Block": {
+    "noun": "பாளம்"
+  },
+  "blocklist": {
+    "noun": "பாளப்பட்டியல்"
+  },
+  "Blocks": {
+    "noun": "பாளங்கள்"
+  },
+  "blog": {
+    "noun": "வலைப்பதிவு"
+  },
+  "bookmarklet": {
+    "noun": "புக்மார்க்லெட்"
+  },
+  "bot": {
+    "noun": "தானியங்கி"
+  },
+  "browse": {
+    "verb": "உலாவு"
+  },
+  "browser": {
+    "noun": "உலாவி"
+  },
+  "BuddyPress": {
+    "noun": "பட்டிப்ரஸ்"
+  },
+  "bundle": {
+    "noun": "பொட்டலம்"
+  },
+  "button": {
+    "noun": "பொத்தான்"
+  },
+  "canonical": {
+    "adjective": "நியமன"
+  },
+  "cart": {
+    "noun": "கூடை"
+  },
+  "category": {
+    "noun": "பகுப்பு/ வகை"
+  },
+  "cell": {
+    "noun": "கட்டம்"
+  },
+  "changelog": {
+    "noun": "மாற்றுப்பதிகை/மாற்றப்பதிகை"
+  },
+  "character code": {
+    "noun": "எழுத்துக் குறிமுறை"
+  },
+  "character entity reference": {
+    "noun": "எழுத்துக்குறி உட்பொருள் குறிப்பு"
+  },
+  "character set": {
+    "noun": "எழுத்துக்கணம்"
+  },
+  "clear": {
+    "noun": "இரத்துச்செய்"
+  },
+  "click": {
+    "verb": "சொடுக்கு"
+  },
+  "clockwise": {
+    "noun": "வலஞ்சுழி/வலஞ்சுழியாக"
+  },
+  "CMS": {
+    "noun": "CMS"
+  },
+  "color scheme": {
+    "noun": "வண்ண அமைப்பு"
+  },
+  "column": {
+    "noun": "நெடுவரிசை"
+  },
+  "comment": {
+    "verb": "மறுமொழியவும்/கருத்தாடு",
+    "noun": "மறுமொழி/கருத்து"
+  },
+  "compatibility": {
+    "noun": "பொருத்தம்"
+  },
+  "compatible": {
+    "adjective": "இசைவுடைய"
+  },
+  "compressed": {
+    "noun": "நெருக்கப்பட்ட"
+  },
+  "computer": {
+    "noun": "கணினி"
+  },
+  "conditional tag": {
+    "noun": "நிபந்தனை குறிச்சொல்"
+  },
+  "configure": {
+    "verb": "கட்டமை"
+  },
+  "confirm": {
+    "verb": "உறுதி செய்"
+  },
+  "connection": {
+    "noun": "இணைப்பு"
+  },
+  "constant": {
+    "noun": "மாறிலி"
+  },
+  "content": {
+    "noun": "உள்ளடக்கம்"
+  },
+  "Contributor": {
+    "noun": "பங்களிப்பாளர்"
+  },
+  "Cookie": {
+    "noun": "குக்கீ"
+  },
+  "credential": {
+    "noun": "சான்று"
+  },
+  "cron": {
+    "noun": "கிரான்"
+  },
+  "Custom Colors": {
+    "noun": "தனிப்பயன் வண்ணங்கள்"
+  },
+  "Custom CSS": {
+    "noun": "தனிப்பயன் CSS"
+  },
+  "Custom Design": {
+    "noun": "தனிப்பயன் வடிவமைப்பு"
+  },
+  "Custom Fonts": {
+    "noun": "தனிப்பயன் எழுத்துருக்கள்"
+  },
+  "Custom Menu": {
+    "noun": "தனிப்பயன் பட்டி"
+  },
+  "Custom Post Type": {
+    "noun": "தனிப்பயன் போஸ்ட் டைப்"
+  },
+  "customize": {
+    "verb": "தனிப்பயனாக்கு"
+  },
+  "Customizer": {
+    "noun": "தனிப்பயனாக்கி"
+  },
+  "Dashboard": {
+    "noun": "முகப்புப்பெட்டி"
+  },
+  "database": {
+    "noun": "தரவுதளம்"
+  },
+  "day": {
+    "noun": "நாள்"
+  },
+  "days": {
+    "noun": "நாட்கள்"
+  },
+  "deactivate": {
+    "verb": "செயலிழக்கச் செய்"
+  },
+  "default": {
+    "noun": "இயல்புநிலை"
+  },
+  "default theme": {
+    "noun": "இயல்நிலை வார்ப்புரு"
+  },
+  "delete": {
+    "verb": "நீக்கு"
+  },
+  "deletion": {
+    "noun": "நீக்கம்"
+  },
+  "deprecated": {
+    "adjective": "நீக்கப்படவுள்ள"
+  },
+  "destination": {
+    "noun": "இலக்கு"
+  },
+  "detach": {
+    "verb": "கழற்று"
+  },
+  "developer": {
+    "noun": "நிரலாளர்"
+  },
+  "development": {
+    "noun": "நிரலாக்கம்"
+  },
+  "directory": {
+    "noun": "கோப்பகம்"
+  },
+  "disable": {
+    "verb": "முடக்கு"
+  },
+  "display": {
+    "noun": "காட்சி"
+  },
+  "DNS": {
+    "noun": "டிஎன்எஸ்"
+  },
+  "documentation": {
+    "noun": "ஆவணங்கள்/உதவி ஆவணங்கள்"
+  },
+  "domain": {
+    "noun": "களம்"
+  },
+  "download": {
+    "verb": "பதிவிறக்கு",
+    "noun": "பதிவிறக்கம்"
+  },
+  "draft": {
+    "noun": "வரைவு"
+  },
+  "ecommerce": {
+    "noun": "மின் வணிகம்"
+  },
+  "edit": {
+    "verb": "திருத்து",
+    "noun": "திருத்தம்"
+  },
+  "editor": {
+    "noun": "பதிப்பாசிரியர்"
+  },
+  "eg.": {
+    "noun": "எ.கா."
+  },
+  "email": {
+    "noun": "மின்னஞ்சல்"
+  },
+  "email address": {
+    "noun": "மின்னஞ்சல் முகவரி"
+  },
+  "embed": {
+    "verb": "உட்பொதி"
+  },
+  "enable": {
+    "verb": "செயலாக்கு"
+  },
+  "enqueue": {
+    "noun": "வரிசையில் சேர்"
+  },
+  "Environment": {
+    "noun": "சூழல்"
+  },
+  "error": {
+    "noun": "பிழை"
+  },
+  "example": {
+    "noun": "மாதிரி/உதாரணம்"
+  },
+  "excerpt": {
+    "noun": "சுருக்கம்"
+  },
+  "exclude": {
+    "noun": "தவிர்"
+  },
+  "Facebook": {
+    "noun": "பேஸ்புக்"
+  },
+  "FAQ": {
+    "noun": "அகேகே / அடிக்கடி கேட்கப்படும் கேள்விகள்"
+  },
+  "feature": {
+    "noun": "அம்சம்"
+  },
+  "Featured": {
+    "noun": "முன்னிலை"
+  },
+  "featured image": {
+    "noun": "முன்னிலை படம்"
+  },
+  "featured post": {
+    "noun": "முன்னிலை பதிவு"
+  },
+  "feed": {
+    "noun": "செய்தியோடை"
+  },
+  "field": {
+    "noun": "புலன்"
+  },
+  "file": {
+    "noun": "கோப்பு"
+  },
+  "file system": {
+    "noun": "கோப்பு முறைமை"
+  },
+  "filter": {
+    "noun": "வடிகட்டி"
+  },
+  "filter hook": {
+    "noun": "மாற்ற கொக்கி"
+  },
+  "folder": {
+    "noun": "கோப்புறை"
+  },
+  "Follower": {
+    "noun": "பின்தொடர்பவர்"
+  },
+  "format": {
+    "noun": "வடிவமைப்பு/வடிவம்"
+  },
+  "frequency": {
+    "noun": "அலவு எண்"
+  },
+  "front end": {
+    "adjective": "முன் பக்க/ வெளிப்புற",
+    "noun": "முன் பக்கம்/ வெளிப்புறம்"
+  },
+  "function": {
+    "noun": "செயல்பாடு"
+  },
+  "gallery": {
+    "noun": "காட்சிக்கூடம்"
+  },
+  "genre": {
+    "noun": "வகையினம்"
+  },
+  "GMT": {
+    "noun": "சர்வதேச நேரம் (GMT)"
+  },
+  "gradient": {
+    "noun": "நிறச் சாய்வு"
+  },
+  "Header": {
+    "noun": "தலைப்பகுதி"
+  },
+  "Header Image": {
+    "noun": "தலைப்பு படம்"
+  },
+  "Header Text": {
+    "noun": "தலைப்பு உரை"
+  },
+  "Header Text Color": {
+    "noun": "தலைப்பு உரை வண்ணம்"
+  },
+  "hierarchy": {
+    "noun": "படிநிலை"
+  },
+  "home page": {
+    "noun": "முகப்பக்கம்"
+  },
+  "hook": {
+    "noun": "கொக்கி"
+  },
+  "host": {
+    "noun": "ஹோஸ்ட்"
+  },
+  "hosting provider": {
+    "noun": "ஹோஸ்டிங் வழங்குனர்"
+  },
+  "hostname": {
+    "noun": "ஹோஸ்ட் பெயர்"
+  },
+  "hosts": {
+    "noun": "ஹோஸ்ட்கள்"
+  },
+  "HTML": {
+    "noun": "எச்.டி.எம்.எல் (HTML)"
+  },
+  "human readable": {
+    "adjective": "மனிதன் வாசிக்க தகுந்த"
+  },
+  "hyper text markup language": {
+    "noun": "மீஉரைக் குறிமொழி"
+  },
+  "Hypertext Transfer Protocol (HTTP)": {
+    "noun": "மீயுரை பரிமாற்ற நெறிமுறை(மீபநெ)"
+  },
+  "icon": {
+    "noun": "குறி/குறியீடு"
+  },
+  "id": {
+    "noun": "அடையாளம்"
+  },
+  "image": {
+    "noun": "படம்"
+  },
+  "inbox": {
+    "noun": "உள்பெட்டி"
+  },
+  "include": {
+    "verb": "உள்ளடக்கு"
+  },
+  "index": {
+    "noun": "குறியீடு"
+  },
+  "inline": {
+    "noun": "உள்பாங்காக"
+  },
+  "install": {
+    "verb": "நிறுவு"
+  },
+  "install/installation": {
+    "noun": "நிறுவல்"
+  },
+  "internationalization": {
+    "noun": "சர்வதேசமயமாக்கல்"
+  },
+  "invalid": {
+    "adjective": "தவறான/ செல்லாத/ செல்லுபடியாகாத"
+  },
+  "IP address": {
+    "noun": "IP முகவரி"
+  },
+  "IP(Internet Protocol)": {
+    "noun": "இ. நெறி(இணைய நெறிமுறை)"
+  },
+  "Jetpack": {
+    "noun": "ஜெட்பேக்"
+  },
+  "keyboard": {
+    "noun": "விசைப்பலகை"
+  },
+  "keyword": {
+    "noun": "சிறப்பு சொல்"
+  },
+  "label": {
+    "noun": "பெயர்/விளக்கம்"
+  },
+  "latest": {
+    "adjective": "சமீபத்திய"
+  },
+  "legend": {
+    "noun": "குறி விளக்கம்"
+  },
+  "license key": {
+    "noun": "உரிம சாவி"
+  },
+  "Like": {
+    "noun": "விருப்பம்"
+  },
+  "Likes": {
+    "noun": "விருப்பங்கள்"
+  },
+  "link": {
+    "noun": "தொடுப்பு"
+  },
+  "list": {
+    "noun": "பட்டியல்/வரிசை"
+  },
+  "list view": {
+    "noun": "வரிசை காட்சி"
+  },
+  "login": {
+    "noun": "புகுபதிகை",
+    "verb": "உட்புகு"
+  },
+  "logout": {
+    "noun": "விடுபதிகை",
+    "verb": "வெளியேறு"
+  },
+  "macro": {
+    "noun": "குறுநிரல்"
+  },
+  "maintenance": {
+    "noun": "பராமரிப்பு"
+  },
+  "Maintenance mode": {
+    "noun": "பராமரிப்பு நிலை"
+  },
+  "management": {
+    "noun": "மேலாண்மை"
+  },
+  "match": {
+    "noun": "பொருத்தம்",
+    "verb": "பொருத்து"
+  },
+  "matrix": {
+    "noun": "மேட்ரிக்ஸ்"
+  },
+  "maximum": {
+    "noun": "அதிகபட்சம்"
+  },
+  "maximum/max": {
+    "adjective": "அதிகபட்ச"
+  },
+  "media": {
+    "noun": "ஊடகம்"
+  },
+  "menu": {
+    "noun": "பட்டி"
+  },
+  "meta": {
+    "noun": "மேலதிக"
+  },
+  "mismatch": {
+    "noun": "பொருத்தமின்மை/பொருந்தாமை"
+  },
+  "mode": {
+    "noun": "செயல்வகை"
+  },
+  "moderation": {
+    "noun": "நெறியாள்கை"
+  },
+  "month": {
+    "noun": "மாதம்"
+  },
+  "months": {
+    "noun": "மாதங்கள்"
+  },
+  "multi-file uploader": {
+    "noun": "பல்கோப்புப் பதிவேற்றாளி"
+  },
+  "multisite": {
+    "noun": "பல தள வலையமைப்பு"
+  },
+  "navigation": {
+    "noun": "வழிகாட்டி"
+  },
+  "network": {
+    "noun": "வலையமைப்பு"
+  },
+  "nonce": {
+    "adjective": "நோன்ஸ்"
+  },
+  "note": {
+    "noun": "குறிப்பு"
+  },
+  "notice": {
+    "noun": "அறிவிப்பு"
+  },
+  "option": {
+    "noun": "தெரிவு"
+  },
+  "override": {
+    "verb": "மேலெழுது"
+  },
+  "package": {
+    "noun": "தொகுப்பு"
+  },
+  "page": {
+    "noun": "பக்கம்"
+  },
+  "paragraph": {
+    "noun": "பத்தி"
+  },
+  "parameter": {
+    "noun": "அளவுரு"
+  },
+  "parent term": {
+    "noun": "மூல வார்த்தை"
+  },
+  "password": {
+    "noun": "கடவுச்சொல்"
+  },
+  "paste": {
+    "verb": "ஒட்டு"
+  },
+  "pending": {
+    "adjective": "நிலுவையிலுள்ள/நிலுவையில் உள்ளது"
+  },
+  "performance": {
+    "noun": "செயல்திறன்"
+  },
+  "permalink": {
+    "noun": "நிரந்தர தொடுப்பு"
+  },
+  "permission": {
+    "noun": "அனுமதி"
+  },
+  "pingback": {
+    "noun": "பிங்க்பேக்"
+  },
+  "pixel": {
+    "noun": "படவரைபுள்ளி"
+  },
+  "plugin": {
+    "noun": "சொருகி/செருகி/நீட்சி/செருகு"
+  },
+  "post": {
+    "noun": "பதிவு",
+    "verb": "பதியவும்"
+  },
+  "post format": {
+    "noun": "பதிவு வடிவம்"
+  },
+  "post status": {
+    "noun": "பதிவு நிலை"
+  },
+  "post thumbnail": {
+    "noun": "பதிவு சிறுபடம்"
+  },
+  "post type": {
+    "noun": "பதிவு வகை"
+  },
+  "prefix": {
+    "noun": "முன்னொட்டு"
+  },
+  "preview": {
+    "noun": "முன்னோட்டம்"
+  },
+  "previous post": {
+    "noun": "முந்தைய பதிவு"
+  },
+  "privacy": {
+    "noun": "தனியுரிமை"
+  },
+  "Process": {
+    "noun": "செயல்முறை"
+  },
+  "profile": {
+    "noun": "சுயவிவரம்"
+  },
+  "property": {
+    "noun": "தன்மை/பண்பு/குணம்"
+  },
+  "proposed": {
+    "verb": "முன்மொழியப்பட்ட"
+  },
+  "publish": {
+    "verb": "வெளியிடு/பதிப்பி"
+  },
+  "publisher": {
+    "noun": "வெளியீட்டாளர்"
+  },
+  "px": {
+    "noun": "px"
+  },
+  "rating": {
+    "noun": "மதிப்பீடு"
+  },
+  "Reason": {
+    "noun": "காரணம்"
+  },
+  "redirect": {
+    "noun": "திருப்பு"
+  },
+  "register": {
+    "noun": "பதிவு",
+    "verb": "பதிவு செய்"
+  },
+  "reject": {
+    "verb": "நிராகரி"
+  },
+  "release": {
+    "noun": "வெளியீடு"
+  },
+  "removal": {
+    "noun": "நீக்கம்"
+  },
+  "reorder": {
+    "verb": "மாற்றியமை"
+  },
+  "reply": {
+    "noun": "பதில்",
+    "verb": "பதிலளி"
+  },
+  "reset": {
+    "verb": "மீட்டமை"
+  },
+  "resource": {
+    "noun": "வளம்"
+  },
+  "restore": {
+    "verb": "மீள்"
+  },
+  "reusable": {
+    "adjective": "மறுபயன்பாட்டு"
+  },
+  "review": {
+    "noun": "ஆய்வு"
+  },
+  "revision": {
+    "noun": "திருத்தம்/திருத்தப்பதிவு"
+  },
+  "save": {
+    "verb": "சேமி"
+  },
+  "scan": {
+    "verb": "தேர்ந்தாராய்"
+  },
+  "screen": {
+    "noun": "திரை"
+  },
+  "screenshot": {
+    "noun": "திரைப்படிப்பு"
+  },
+  "script": {
+    "noun": "படிவம்"
+  },
+  "search": {
+    "noun": "தேடல்",
+    "verb": "தேடு"
+  },
+  "search engine": {
+    "noun": "தேடுபொறி"
+  },
+  "search results": {
+    "noun": "தேடல் முடிவுகள்"
+  },
+  "security": {
+    "noun": "பாதுகாப்பு"
+  },
+  "select": {
+    "verb": "தேர்ந்தெடு"
+  },
+  "server": {
+    "noun": "சேவையகம்"
+  },
+  "service": {
+    "noun": "சேவை"
+  },
+  "Session": {
+    "noun": "செஷன்"
+  },
+  "session": {
+    "noun": "அமர்வு"
+  },
+  "settings": {
+    "noun": "அமைப்புகள்"
+  },
+  "shortcode": {
+    "noun": "குறுங்குறியீடு"
+  },
+  "shortcut": {
+    "noun": "குறுக்குவழி"
+  },
+  "sidebar": {
+    "noun": "பக்கப்பட்டி/ பக்கப்பட்டை"
+  },
+  "single post": {
+    "noun": "ஒற்றை பதிவு"
+  },
+  "site": {
+    "noun": "தளம்"
+  },
+  "sitemap": {
+    "noun": "தளவரைபடம்"
+  },
+  "slug": {
+    "noun": "கடையுரலி"
+  },
+  "snippet": {
+    "noun": "துணுக்கை"
+  },
+  "spacer": {
+    "noun": "இடைவெளியமைவு"
+  },
+  "spam": {
+    "noun": "ஈசல்"
+  },
+  "status": {
+    "noun": "நிலை"
+  },
+  "stream": {
+    "verb": "ஸ்ட்ரீம்"
+  },
+  "streaming": {
+    "noun": "ஸ்ட்ரீமிங்"
+  },
+  "string": {
+    "noun": "சரம்"
+  },
+  "style": {
+    "noun": "ஸ்டைல்"
+  },
+  "Stylesheet": {
+    "noun": "ஸ்டைல் ஷீட்"
+  },
+  "submit": {
+    "verb": "சமர்ப்பி"
+  },
+  "subscript": {
+    "noun": "கீழ்க்குறி"
+  },
+  "subsection": {
+    "noun": "உட்பிரிவு"
+  },
+  "support forum": {
+    "noun": "உதவி கருத்துக்களம்"
+  },
+  "tab": {
+    "noun": "தாவல்"
+  },
+  "table": {
+    "noun": "அட்டவணை"
+  },
+  "tag": {
+    "noun": "குறிச்சொல்"
+  },
+  "target": {
+    "noun": "இலக்கு"
+  },
+  "taxonomy": {
+    "noun": "வகைப்பாடு"
+  },
+  "template": {
+    "noun": "மாதிரி படிவம்"
+  },
+  "template hierarchy": {
+    "noun": "மாதிரி படிவ வரிசை"
+  },
+  "term": {
+    "noun": "சொற்கூறு / பதம்"
+  },
+  "theme": {
+    "noun": "வார்ப்புரு"
+  },
+  "Theme Installer": {
+    "noun": "வார்ப்புரு நிறுவுவான்"
+  },
+  "thumbnail": {
+    "noun": "சிறுபடம்"
+  },
+  "timezone": {
+    "noun": "நேரமண்டலம்"
+  },
+  "title": {
+    "noun": "தலைப்பு"
+  },
+  "toolbar": {
+    "noun": "கருவிப்பட்டை"
+  },
+  "trackback": {
+    "noun": "டிரக்பேக்"
+  },
+  "translation": {
+    "noun": "மொழிபெயர்ப்பு"
+  },
+  "troubleshooting": {
+    "noun": "பழுதுபார்த்தல்"
+  },
+  "unprotect": {
+    "verb": "காப்பீடகற்று"
+  },
+  "update": {
+    "noun": "மேம்பாடு",
+    "verb": "புதுப்பி"
+  },
+  "updation": {
+    "noun": "புதுப்பித்தல்"
+  },
+  "uploader": {
+    "noun": "பதிவேற்றாளி"
+  },
+  "URL": {
+    "noun": "உரலி"
+  },
+  "user": {
+    "noun": "பயனர்"
+  },
+  "valid": {
+    "adjective": "சரி/செல்லுபடியாகும்"
+  },
+  "variable": {
+    "noun": "மாறி"
+  },
+  "version": {
+    "noun": "பதிப்பு"
+  },
+  "video": {
+    "noun": "வீடியோ/ காணொளி"
+  },
+  "view": {
+    "verb": "பார்க்கவும்/ காணவும்",
+    "noun": "பார்வை/ காட்சி"
+  },
+  "virtual": {
+    "adjective": "மெய்நிகர்"
+  },
+  "warning": {
+    "noun": "எச்சரிக்கை"
+  },
+  "weak": {
+    "adjective": "பலவீனமான"
+  },
+  "web browser": {
+    "noun": "இணைய உலாவி"
+  },
+  "web server": {
+    "noun": "இணைய வழங்கி"
+  },
+  "webmaster": {
+    "noun": "தளமேலாளர்"
+  },
+  "website": {
+    "noun": "இணையதளம்"
+  },
+  "week": {
+    "noun": "வாரம்"
+  },
+  "weeks": {
+    "noun": "வாரங்கள்"
+  },
+  "widget": {
+    "noun": "ஒட்டி"
+  },
+  "width": {
+    "noun": "அகலம்"
+  },
+  "wildcard": {
+    "noun": "வைல்டு கார்டு"
+  },
+  "WordPress": {
+    "noun": "வேர்ட்பிரஸ்"
+  },
+  "WordPress Dashboard": {
+    "noun": "வேர்ட்பிரஸ் முகப்புப்பெட்டி"
+  },
+  "XML-RPC": {
+    "noun": "XML-RPC"
+  },
+  "year": {
+    "noun": "ஆண்டு"
+  },
+  "years": {
+    "noun": "ஆண்டுகள்"
+  }
+}

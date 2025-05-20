@@ -1,0 +1,406 @@
+{
+  "account": {
+    "noun": "conto"
+  },
+  "activate": {
+    "verb": "activar"
+  },
+  "activation": {
+    "noun": "activaziun"
+  },
+  "allow": {
+    "verb": "permetter"
+  },
+  "anchor": {
+    "noun": "ancra"
+  },
+  "arrow keys": {
+    "noun": "tastas da direcziun"
+  },
+  "attachment": {
+    "noun": "agiunta"
+  },
+  "author": {
+    "noun": "autur"
+  },
+  "background": {
+    "noun": "fund (davos)"
+  },
+  "backspace": {
+    "noun": "tasta per stizzar enavos"
+  },
+  "block": {
+    "noun": "bloc"
+  },
+  "block pattern": {
+    "noun": "cumposiziun da bloc"
+  },
+  "blog": {
+    "noun": "blog"
+  },
+  "bottom": {
+    "adverb": "sutvart, giudim"
+  },
+  "BuddyPress": {
+    "noun": "BuddyPress"
+  },
+  "capabilities": {
+    "noun": "abilitad"
+  },
+  "caption": {
+    "noun": "legenda"
+  },
+  "category": {
+    "noun": "categoria"
+  },
+  "change": {
+    "verb": "midar"
+  },
+  "cloud": {
+    "noun": "cloud"
+  },
+  "collapse": {
+    "verb": "cumprimer"
+  },
+  "comment": {
+    "noun": "commentari",
+    "verb": "commentar"
+  },
+  "controls": {
+    "noun": "utensils"
+  },
+  "cookie": {
+    "noun": "cookie"
+  },
+  "couple of days": {
+    "expression": "intgins dis"
+  },
+  "crop": {
+    "verb": "retagliar"
+  },
+  "custom field": {
+    "noun": "champ persunalisà"
+  },
+  "customize": {
+    "verb": "persunalisar"
+  },
+  "customizer": {
+    "noun": "customizer"
+  },
+  "dash": {
+    "noun": "stritg d'uniun"
+  },
+  "dashboard": {
+    "noun": "tavla da survista"
+  },
+  "data base": {
+    "noun": "banca da datas"
+  },
+  "deactivate": {
+    "verb": "deactivar"
+  },
+  "default": {
+    "noun": "standard"
+  },
+  "delete": {
+    "verb": "stizzar"
+  },
+  "deprecated": {
+    "adjective": "antiquà"
+  },
+  "directory": {
+    "noun": "ordinatur"
+  },
+  "discard": {
+    "verb": "annullar"
+  },
+  "display": {
+    "verb": "mussar"
+  },
+  "display name": {
+    "noun": "num visualisà"
+  },
+  "domain": {
+    "noun": "domena"
+  },
+  "download": {
+    "verb": "telechargiar"
+  },
+  "downloading": {
+    "verb": "telechargiar"
+  },
+  "draft": {
+    "noun": "sboz"
+  },
+  "editor": {
+    "noun": "redactur"
+  },
+  "email": {
+    "noun": "e-mail"
+  },
+  "embed": {
+    "verb": "incorporar"
+  },
+  "expand": {
+    "verb": "extender"
+  },
+  "expire": {
+    "verb": "scrudar"
+  },
+  "feature": {
+    "verb": "accentuar"
+  },
+  "following": {
+    "adjective": "suandant"
+  },
+  "fuzzy": {
+    "adjective": "diffus"
+  },
+  "gallery": {
+    "noun": "catalog"
+  },
+  "get": {
+    "verb": "ir per, retschaiver"
+  },
+  "gradient": {
+    "noun": "dissoluziun"
+  },
+  "Gutenberg": {
+    "noun": "Gutenberg"
+  },
+  "header": {
+    "noun": "chau"
+  },
+  "hide": {
+    "verb": "zuppentar"
+  },
+  "homepage": {
+    "noun": "pagina da partenza"
+  },
+  "host": {
+    "noun": "host"
+  },
+  "inbox": {
+    "noun": "posta entrada"
+  },
+  "install": {
+    "verb": "installar"
+  },
+  "interface": {
+    "noun": "interfatscha"
+  },
+  "keyboard shortcuts": {
+    "noun": "scursanidas da tastas"
+  },
+  "label": {
+    "noun": "etichetta"
+  },
+  "last": {
+    "adjective": "ultim"
+  },
+  "level": {
+    "noun": "nivel"
+  },
+  "link": {
+    "noun": "colliaziun"
+  },
+  "location": {
+    "noun": "posiziun"
+  },
+  "login name": {
+    "noun": "num d'annunzia"
+  },
+  "loop": {
+    "noun": "cirquit"
+  },
+  "main menu": {
+    "noun": "menu principal"
+  },
+  "manage": {
+    "verb": "administrar"
+  },
+  "media file": {
+    "noun": "datoteca da medias"
+  },
+  "menu": {
+    "noun": "menu"
+  },
+  "network": {
+    "noun": "rait"
+  },
+  "news": {
+    "noun": "novas"
+  },
+  "nickname": {
+    "noun": "pseudonim"
+  },
+  "notice": {
+    "noun": "communicaziun"
+  },
+  "occur": {
+    "verb": "succeder"
+  },
+  "order": {
+    "verb": "zavrar"
+  },
+  "page": {
+    "noun": "pagina"
+  },
+  "parent": {
+    "adjective": "superiur, surordinà"
+  },
+  "password": {
+    "noun": "pled-clav"
+  },
+  "paste": {
+    "verb": "encollar"
+  },
+  "plain": {
+    "adjective": "brut"
+  },
+  "plugin": {
+    "noun": "plugin"
+  },
+  "post": {
+    "noun": "artitgel",
+    "verb": "trametter"
+  },
+  "post format": {
+    "noun": "format da publicaziun"
+  },
+  "post type": {
+    "noun": "tip dad artitgel"
+  },
+  "preset": {
+    "noun": "predefiniziun"
+  },
+  "Press This": {
+    "noun": "Press This"
+  },
+  "property": {
+    "noun": "caracteristica"
+  },
+  "protect": {
+    "verb": "proteger"
+  },
+  "recover": {
+    "verb": "restaurar"
+  },
+  "remove": {
+    "verb": "allontanar"
+  },
+  "resize": {
+    "verb": "redimensiunar"
+  },
+  "resolve": {
+    "verb": "distatgar"
+  },
+  "review": {
+    "verb": "repassar"
+  },
+  "right there": {
+    "expression": "nà qua"
+  },
+  "role": {
+    "noun": "rolla"
+  },
+  "row": {
+    "noun": "lingia"
+  },
+  "save": {
+    "verb": "memorisar"
+  },
+  "select": {
+    "verb": "tscherner"
+  },
+  "set to": {
+    "verb": "configurar"
+  },
+  "settings": {
+    "noun": "parameters"
+  },
+  "shift": {
+    "noun": "tasta per maiusclas"
+  },
+  "show": {
+    "verb": "mussar"
+  },
+  "sidebar": {
+    "noun": "trav laterala"
+  },
+  "site": {
+    "noun": "website"
+  },
+  "slug": {
+    "noun": "identificatur"
+  },
+  "sticky": {
+    "adverb": "fixà"
+  },
+  "string": {
+    "noun": "string"
+  },
+  "tag": {
+    "noun": "chavazzin"
+  },
+  "take over": {
+    "verb": "surpigliar la controlla"
+  },
+  "taxonomy": {
+    "noun": "taxonomia"
+  },
+  "term": {
+    "noun": "term"
+  },
+  "theme": {
+    "noun": "theme"
+  },
+  "thumbnail": {
+    "noun": "prevista"
+  },
+  "timezone": {
+    "noun": "zona d'urari"
+  },
+  "toggle": {
+    "verb": "alternar, activar/deactivar"
+  },
+  "toolbar": {
+    "noun": "trav d'utensils"
+  },
+  "top": {
+    "adverb": "sisum, survart"
+  },
+  "track": {
+    "noun": "vial"
+  },
+  "trackback": {
+    "noun": "retrocolliaziun"
+  },
+  "trash": {
+    "noun": "chanaster da palpiri"
+  },
+  "underscore": {
+    "noun": "stritg bass"
+  },
+  "update": {
+    "noun": "actualisaziun"
+  },
+  "upload": {
+    "verb": "transferir"
+  },
+  "user": {
+    "noun": "utilisader"
+  },
+  "username": {
+    "noun": "num d'utilisader"
+  },
+  "video track": {
+    "noun": "videoiral"
+  },
+  "warning": {
+    "noun": "attenziun"
+  },
+  "widget": {
+    "noun": "widget"
+  }
+}

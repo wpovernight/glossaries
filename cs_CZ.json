@@ -1,0 +1,233 @@
+{
+  "Add": {
+    "verb": "Vytvořit/Přidat"
+  },
+  "Add-on": {
+    "noun": "rozšíření"
+  },
+  "administrator": {
+    "noun": "administrátor"
+  },
+  "Are you sure": {
+    "expression": "Opravdu?"
+  },
+  "attach": {
+    "verb": "přiřadit"
+  },
+  "audio": {
+    "noun": "zvuk"
+  },
+  "BuddyPress": {
+    "noun": "BuddyPress"
+  },
+  "Bulk Actions": {
+    "noun": "Hromadné akce"
+  },
+  "Button": {
+    "noun": "Tlačítko"
+  },
+  "capability": {
+    "noun": "oprávnění"
+  },
+  "Category": {
+    "noun": "Rubrika"
+  },
+  "changelog": {
+    "noun": "přehled změn"
+  },
+  "Checkbox": {
+    "noun": "Zaškrtávací políčko"
+  },
+  "child theme": {
+    "expression": "odvozená šablona"
+  },
+  "choose": {
+    "verb": "zvolit"
+  },
+  "comment": {
+    "noun": "komentář"
+  },
+  "content": {
+    "noun": "obsah"
+  },
+  "Credits": {
+    "noun": "Autoři"
+  },
+  "custom": {
+    "adjective": "vlastní"
+  },
+  "Custom Fields": {
+    "expression": "Uživatelská pole"
+  },
+  "Dashboard": {
+    "noun": "Nástěnka"
+  },
+  "default": {
+    "adjective": "výchozí"
+  },
+  "delete": {
+    "verb": "smazat"
+  },
+  "Description": {
+    "noun": "Popis"
+  },
+  "details": {
+    "noun": "podrobnosti"
+  },
+  "draft": {
+    "noun": "koncept"
+  },
+  "edit": {
+    "verb": "upravit"
+  },
+  "email": {
+    "noun": "e-mail"
+  },
+  "enter": {
+    "verb": "zadat"
+  },
+  "Extension": {
+    "noun": "Rozšíření"
+  },
+  "FAQ": {
+    "expression": "Nejčastější dotazy"
+  },
+  "featured": {
+    "adjective": "doporučeno"
+  },
+  "folder": {
+    "noun": "složka"
+  },
+  "follower": {
+    "noun": "fanoušek"
+  },
+  "font": {
+    "noun": "písmo"
+  },
+  "Frontpage": {
+    "noun": "Úvodní stránka"
+  },
+  "Id": {
+    "noun": "ID"
+  },
+  "Importer": {
+    "expression": "Import, Importovací nástroj"
+  },
+  "invalid": {
+    "adjective": "neplatný"
+  },
+  "menu": {
+    "noun": "menu"
+  },
+  "multisite": {
+    "noun": "Síť webů"
+  },
+  "network": {
+    "noun": "síť"
+  },
+  "network admin": {
+    "expression": "administrace sítě"
+  },
+  "next": {
+    "adjective": "další"
+  },
+  "Notification Bar": {
+    "noun": "Oznamovací lišta"
+  },
+  "page": {
+    "noun": "stránka"
+  },
+  "page template": {
+    "noun": "šablona stránky"
+  },
+  "pagination": {
+    "noun": "stránkování"
+  },
+  "permalink": {
+    "noun": "trvalý odkaz"
+  },
+  "playlist": {
+    "noun": "seznam"
+  },
+  "plugin": {
+    "noun": "plugin"
+  },
+  "post": {
+    "noun": "příspěvek"
+  },
+  "post type": {
+    "noun": "typ obsahu"
+  },
+  "recovery mode": {
+    "expression": "režim obnovení"
+  },
+  "remove": {
+    "verb": "odstranit"
+  },
+  "role": {
+    "noun": "uživatelská úroveň"
+  },
+  "select": {
+    "verb": "vybrat"
+  },
+  "sidebar": {
+    "noun": "postranní panel"
+  },
+  "site": {
+    "noun": "web"
+  },
+  "slug": {
+    "noun": "název v URL"
+  },
+  "sorry": {
+    "adjective": "Nepřekládáme, většinou ignorujeme"
+  },
+  "Sorry, you are not allowed": {
+    "expression": "Nemáte dostatečné oprávnění"
+  },
+  "spam": {
+    "noun": "spam"
+  },
+  "status": {
+    "noun": "stav"
+  },
+  "Submit": {
+    "noun": "Odeslat"
+  },
+  "Tag": {
+    "noun": "Štítek"
+  },
+  "template": {
+    "noun": "šablona"
+  },
+  "theme": {
+    "noun": "šablona"
+  },
+  "Theme directory": {
+    "noun": "adresář šablon"
+  },
+  "title": {
+    "noun": "název"
+  },
+  "toolbar": {
+    "noun": "panel nástrojů"
+  },
+  "Type": {
+    "noun": "Typ"
+  },
+  "user": {
+    "noun": "uživatel"
+  },
+  "username": {
+    "noun": "uživatelské jméno"
+  },
+  "widget": {
+    "noun": "widget"
+  },
+  "WordPress": {
+    "noun": "WordPress"
+  },
+  "your": {
+    "adjective": "Nepřekládáme, většinou ignorujeme"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "add": {
+    "verb": "បន្ថែម"
+  },
+  "appearance": {
+    "noun": "ទិដ្ឋភាព"
+  },
+  "Attachment": {
+    "noun": "ឯកសារភ្ជាប់"
+  },
+  "Background": {
+    "noun": "ផ្ទៃក្រោយ"
+  },
+  "category": {
+    "noun": "ចំណាត់​ក្រុម"
+  },
+  "Changeset": {
+    "noun": "Changeset"
+  },
+  "Changesets": {
+    "noun": "Changesets"
+  },
+  "Child Theme": {
+    "noun": "កូនរូបរាង"
+  },
+  "copy": {
+    "verb": "ចម្លង"
+  },
+  "Database": {
+    "noun": "ដេតាបេស"
+  },
+  "delete": {
+    "verb": "លុប"
+  },
+  "deprecated": {
+    "adjective": "លែងប្រើ"
+  },
+  "Download": {
+    "noun": "ដោនឡូដ",
+    "verb": "ដោនឡូដ"
+  },
+  "Draft": {
+    "noun": "ប្រកាសព្រាង"
+  },
+  "drag and drop": {
+    "verb": "អូស​និង​ទម្លាក់"
+  },
+  "excerpt": {
+    "noun": "សេចក្ដី​ដកស្រង់"
+  },
+  "Field": {
+    "noun": "ប្រអប់"
+  },
+  "link category": {
+    "noun": "ប្រភេទ​តំណ"
+  },
+  "media": {
+    "noun": "មេឌា"
+  },
+  "Menu": {
+    "noun": "ម៉ឺនុយ"
+  },
+  "Network": {
+    "noun": "ណេតវើក"
+  },
+  "Network Admin": {
+    "noun": "អ្នកគ្រប់គ្រងបណ្ដាញ"
+  },
+  "option": {
+    "noun": "ជម្រើស"
+  },
+  "paste": {
+    "verb": "បិទ​ភ្ជាប់"
+  },
+  "pattern": {
+    "noun": "ផាតថឺន"
+  },
+  "Permalinks": {
+    "noun": "តំណ​ជាក់លាក់"
+  },
+  "plugin": {
+    "noun": "កម្មវិធី​បន្ថែម"
+  },
+  "post": {
+    "noun": "ប្រកាស"
+  },
+  "Post Parent": {
+    "noun": "ប្រភពប្រកាស"
+  },
+  "post type": {
+    "noun": "ប្រភេទ​ប្រកាស"
+  },
+  "Press This": {
+    "noun": "Press This"
+  },
+  "Random": {
+    "noun": "ព្រាវ"
+  },
+  "revision": {
+    "noun": "កំណែ​សម្រួល"
+  },
+  "root directory": {
+    "noun": "ឃ្លាំង​ផ្ទុក​ឫសគល់"
+  },
+  "Server": {
+    "noun": "ម៉ាស៊ីនមេ"
+  },
+  "Site": {
+    "noun": "វេបសាយ"
+  },
+  "Software": {
+    "noun": "សូហ្វវែ"
+  },
+  "sorry": {
+    "interjection": "សូមទោស",
+    "adjective": "គួរឲ្យស្ដាយ"
+  },
+  "Spam": {
+    "noun": "ស្ប៉ាម"
+  },
+  "Sticky": {
+    "adjective": "ស្អិត"
+  },
+  "taxonomy": {
+    "noun": "បំណែង​ប្រភេទ"
+  },
+  "Template": {
+    "noun": "គំរូ"
+  },
+  "term": {
+    "noun": "សព្ទ"
+  },
+  "theme": {
+    "noun": "រូបរាង"
+  },
+  "up to date": {
+    "adjective": "ទាន់សម័យ"
+  },
+  "update": {
+    "verb": "អាប់ដេត",
+    "noun": "ការ​អាប់ដេត"
+  },
+  "view": {
+    "noun": "ទិដ្ឋភាព",
+    "verb": "មើល"
+  },
+  "visual editor": {
+    "noun": "កម្មវិធី​កែសម្រួល​ឃើញ​ផ្ទាល់"
+  },
+  "widget": {
+    "noun": "វិដជិត"
+  }
+}

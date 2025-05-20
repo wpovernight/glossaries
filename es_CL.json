@@ -1,0 +1,166 @@
+{
+  "above the fold": {
+    "expression": "encima del pliegue"
+  },
+  "above-the-fold": {
+    "expression": "encima el pliegue"
+  },
+  "add": {
+    "verb": "agregar / añadir"
+  },
+  "add-on": {
+    "noun": "extensión"
+  },
+  "Antarctica": {
+    "noun": "Antártica"
+  },
+  "apartment": {
+    "noun": "departamento"
+  },
+  "avocado": {
+    "noun": "palta"
+  },
+  "below the fold": {
+    "expression": "debajo del pliegue"
+  },
+  "below-the-fold": {
+    "expression": "debajo del pliegue"
+  },
+  "breadcrumbs": {
+    "noun": "migas de pan"
+  },
+  "character": {
+    "noun": "carácter"
+  },
+  "characters": {
+    "noun": "caracteres"
+  },
+  "checkbox": {
+    "noun": "casilla de verificación"
+  },
+  "checkout": {
+    "noun": "finalizar compra / finalizar pago / página de pago / pago / checkout"
+  },
+  "child": {
+    "noun": "sub / secundario / hijo / hija"
+  },
+  "child theme": {
+    "noun": "subtema"
+  },
+  "computer": {
+    "noun": "computador"
+  },
+  "Congrats": {
+    "noun": "Felicidades / Felicitaciones"
+  },
+  "Congratulations": {
+    "noun": "Felicidades / Felicitaciones"
+  },
+  "default": {
+    "noun": "predeterminado / por defecto"
+  },
+  "E-Mail": {
+    "noun": "correo electrónico / email"
+  },
+  "e.g": {
+    "abbreviation": "p. ej. / por ejemplo"
+  },
+  "email": {
+    "noun": "correo electrónico / email"
+  },
+  "Google Fonts": {
+    "noun": "Google Fonts"
+  },
+  "hover": {
+    "noun": "al pasar el cursor"
+  },
+  "icon": {
+    "noun": "ícono"
+  },
+  "item": {
+    "noun": "elemento / artículo / ítem"
+  },
+  "Jetpack": {
+    "noun": "Jetpack"
+  },
+  "link": {
+    "noun": "enlace, vínculo"
+  },
+  "parent": {
+    "noun": "principal / superior"
+  },
+  "pattern": {
+    "noun": "patrón"
+  },
+  "plugin": {
+    "noun": "plugin"
+  },
+  "portfolio": {
+    "noun": "portafolio"
+  },
+  "REST API": {
+    "noun": "REST API"
+  },
+  "review": {
+    "noun": "reseña / valoración / comentario"
+  },
+  "rollback": {
+    "verb": "revertir / deshacer",
+    "noun": "reversión / rollback"
+  },
+  "RSS": {
+    "noun": "RSS"
+  },
+  "scroll": {
+    "verb": "desplazar / ir",
+    "noun": "desplazamiento"
+  },
+  "settings": {
+    "noun": "opciones, configuración, ajustes"
+  },
+  "shortcode": {
+    "noun": "shortcode"
+  },
+  "Something is wrong": {
+    "expression": "Algo sale mal / Algo está saliendo mal / Hay un problema"
+  },
+  "Something went wrong": {
+    "expression": "Algo salió mal / Hubo un problema"
+  },
+  "storefront": {
+    "noun": "vitrina"
+  },
+  "sunglasses": {
+    "noun": "lentes de sol"
+  },
+  "swag": {
+    "noun": "material promocional / artículo promocional"
+  },
+  "t-shirt": {
+    "noun": "polera"
+  },
+  "toggle": {
+    "verb": "alternar"
+  },
+  "tooltip": {
+    "noun": "tooltip / globo de ayuda / descripción emergente"
+  },
+  "URL": {
+    "noun": "URL"
+  },
+  "VaultPress": {
+    "noun": "VaultPress"
+  },
+  "video": {
+    "noun": "video"
+  },
+  "WooCommerce": {
+    "noun": "WooCommerce"
+  },
+  "WordPress": {
+    "noun": "WordPress"
+  },
+  "XML-RPC": {
+    "noun": "XML-RPC"
+  }
+}

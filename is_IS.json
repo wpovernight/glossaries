@@ -1,0 +1,71 @@
+{
+  "archive": {
+    "noun": "færslusafn"
+  },
+  "archives": {
+    "noun": "færslusöfn"
+  },
+  "calendar": {
+    "noun": "dagatal"
+  },
+  "categories": {
+    "noun": "flokkar"
+  },
+  "category": {
+    "noun": "flokkur"
+  },
+  "draft": {
+    "noun": "drög"
+  },
+  "dropdown": {
+    "noun": "fellivalmynd"
+  },
+  "feed": {
+    "noun": "straumur"
+  },
+  "media item": {
+    "noun": "margmiðlunarefni"
+  },
+  "metadata": {
+    "noun": "lýsigögn"
+  },
+  "page": {
+    "noun": "síða"
+  },
+  "pages": {
+    "noun": "síður"
+  },
+  "paste": {
+    "noun": "líma"
+  },
+  "plugin": {
+    "noun": "viðbót"
+  },
+  "post": {
+    "noun": "færsla"
+  },
+  "posts": {
+    "noun": "færslur"
+  },
+  "sidebar": {
+    "noun": "hliðarslá"
+  },
+  "theme": {
+    "noun": "þema"
+  },
+  "themes": {
+    "noun": "þemu"
+  },
+  "trash": {
+    "noun": "rusl"
+  },
+  "user": {
+    "noun": "notandi"
+  },
+  "widget": {
+    "noun": "síðuhlutur"
+  },
+  "widgets": {
+    "noun": "síðuhlutir"
+  }
+}

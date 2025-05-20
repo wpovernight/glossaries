@@ -1,0 +1,75 @@
+{
+  "archive": {
+    "noun": "tasg-lann"
+  },
+  "blogroll": {
+    "noun": "ceanglaichean"
+  },
+  "browse": {
+    "verb": "rùraich"
+  },
+  "built-in": {
+    "noun": "’na bhroinn/am broinn seo"
+  },
+  "contributor": {
+    "noun": "com-pàirtiche"
+  },
+  "default": {
+    "adjective": "tùsail",
+    "noun": "bun-roghainn"
+  },
+  "directory": {
+    "noun": "pasgan/eòlaire"
+  },
+  "excerpt": {
+    "noun": "às-earrann"
+  },
+  "loopback": {
+    "noun": "lùbadh air ais"
+  },
+  "media library": {
+    "noun": "meadhan-lann"
+  },
+  "multisite": {
+    "noun": "ioma-làrach"
+  },
+  "Network Admin": {
+    "noun": "rianachd an lìonraidh"
+  },
+  "nice name": {
+    "noun": "ainm grinn"
+  },
+  "nicename": {
+    "noun": "ainm grinn"
+  },
+  "pending": {
+    "noun": "ri lèirmheasadh"
+  },
+  "posts": {
+    "noun": "postaichean"
+  },
+  "quote": {
+    "noun": "iomradh"
+  },
+  "revision": {
+    "noun": "tionndadh"
+  },
+  "root": {
+    "noun": "freumh/root"
+  },
+  "shortcode": {
+    "noun": "geàrr-chòd"
+  },
+  "Site Admin": {
+    "noun": "rianachd na làraich"
+  },
+  "super admin": {
+    "noun": "sàr-rianaire"
+  },
+  "tables": {
+    "noun": "clàran"
+  },
+  "tagline": {
+    "noun": "facal-suaicheantais"
+  }
+}

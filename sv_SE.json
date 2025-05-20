@@ -1,0 +1,1736 @@
+{
+  "@": {
+    "noun": "kl."
+  },
+  "a11y": {
+    "noun": "tillgänglighet"
+  },
+  "above": {
+    "preposition": "över"
+  },
+  "accent color": {
+    "noun": "accentfärg"
+  },
+  "accept": {
+    "verb": "acceptera"
+  },
+  "accessibilty": {
+    "noun": "tillgänglighet"
+  },
+  "activate": {
+    "verb": "aktivera"
+  },
+  "activated": {
+    "adjective": "aktiverad"
+  },
+  "activation e-mail": {
+    "noun": "e-postaktivering"
+  },
+  "active": {
+    "adjective": "aktiv"
+  },
+  "add email": {
+    "expression": "lägg till e-post"
+  },
+  "add-on": {
+    "noun": "utökning"
+  },
+  "addon": {
+    "noun": "utökning"
+  },
+  "address": {
+    "verb": "adress"
+  },
+  "admin bar": {
+    "noun": "adminfält"
+  },
+  "admin panel": {
+    "noun": "adminpanel"
+  },
+  "admin toolbar": {
+    "noun": "admin-verktygsfält"
+  },
+  "administrator": {
+    "noun": "administratör"
+  },
+  "Akismet": {
+    "noun": "Akismet"
+  },
+  "allow": {
+    "verb": "tillåt"
+  },
+  "ancestor": {
+    "noun": "överordnat"
+  },
+  "app": {
+    "noun": "app"
+  },
+  "Appearance": {
+    "noun": "Utseende"
+  },
+  "Apply": {
+    "verb": "Verkställ"
+  },
+  "approve": {
+    "verb": "godkänn"
+  },
+  "archive": {
+    "noun": "arkiv",
+    "verb": "arkivera"
+  },
+  "are you sure you want": {
+    "expression": "är du säker på att du vill"
+  },
+  "array": {
+    "noun": "array"
+  },
+  "article": {
+    "noun": "artikel"
+  },
+  "ascending": {
+    "adjective": "stigande"
+  },
+  "aside": {
+    "noun": "notis"
+  },
+  "asset": {
+    "noun": "fil"
+  },
+  "at": {
+    "noun": "kl."
+  },
+  "at the bottom": {
+    "preposition": "längst ner"
+  },
+  "at the top": {
+    "preposition": "högst upp"
+  },
+  "attachment": {
+    "noun": "bilaga"
+  },
+  "attachment page": {
+    "noun": "bilagssidan"
+  },
+  "audio": {
+    "noun": "ljud"
+  },
+  "authenticate": {
+    "verb": "autentisera"
+  },
+  "authentication": {
+    "noun": "autentisering"
+  },
+  "author": {
+    "noun": "författare"
+  },
+  "authorization": {
+    "noun": "auktorisering"
+  },
+  "authorize": {
+    "verb": "auktorisera"
+  },
+  "authorized": {
+    "verb": "behörighet"
+  },
+  "Automattic": {
+    "noun": "Automattic"
+  },
+  "autosave": {
+    "noun": "autospara"
+  },
+  "avatar": {
+    "noun": "profilbild"
+  },
+  "average": {
+    "noun": "genomsnitt"
+  },
+  "back end": {
+    "noun": "back-end"
+  },
+  "back up": {
+    "verb": "säkerhetskopiera"
+  },
+  "backend": {
+    "noun": "back-end"
+  },
+  "background": {
+    "noun": "bakgrund"
+  },
+  "background color": {
+    "noun": "bakgrundsfärg"
+  },
+  "background image": {
+    "noun": "bakgrundsbild"
+  },
+  "background pattern": {
+    "noun": "bakgrundsmönster"
+  },
+  "backup": {
+    "noun": "säkerhetskopia",
+    "verb": "säkerhetskopiera"
+  },
+  "backup code": {
+    "noun": "reservkod"
+  },
+  "badge": {
+    "noun": "märke"
+  },
+  "below": {
+    "preposition": "nedan"
+  },
+  "billing": {
+    "noun": "fakturering"
+  },
+  "binary": {
+    "noun": "binär"
+  },
+  "blog": {
+    "noun": "blogg",
+    "verb": "publicera"
+  },
+  "blog address": {
+    "noun": "bloggadress"
+  },
+  "blog post": {
+    "noun": "blogginlägg"
+  },
+  "bookmarklet": {
+    "noun": "skriptbokmärke"
+  },
+  "breadcrumb": {
+    "noun": "synlig sökväg"
+  },
+  "browser": {
+    "noun": "webbläsare"
+  },
+  "BuddyPress": {
+    "noun": "BuddyPress"
+  },
+  "bulk action": {
+    "noun": "massåtgärd"
+  },
+  "bulk actions": {
+    "noun": "massåtgärder"
+  },
+  "button": {
+    "noun": "knapp"
+  },
+  "call": {
+    "noun": "anrop",
+    "verb": "anropa"
+  },
+  "callback": {
+    "noun": "återanrop"
+  },
+  "cancel": {
+    "verb": "avbryt"
+  },
+  "Cancelled": {
+    "noun": "Avbruten"
+  },
+  "cancelled": {
+    "adjective": "avbruten"
+  },
+  "capability": {
+    "noun": "behörighet"
+  },
+  "capture": {
+    "verb": "genomför"
+  },
+  "cart": {
+    "noun": "varukorg"
+  },
+  "categories": {
+    "noun": "kategorier"
+  },
+  "category": {
+    "noun": "kategori"
+  },
+  "center": {
+    "preposition": "centrerat"
+  },
+  "changeset": {
+    "noun": "anpassningspaket"
+  },
+  "character code": {
+    "noun": "teckenkod"
+  },
+  "character entity reference": {
+    "noun": "teckenenhetsreferens"
+  },
+  "character set": {
+    "noun": "teckenuppsättning"
+  },
+  "check": {
+    "verb": "kolla in"
+  },
+  "checkbox": {
+    "noun": "kryssruta"
+  },
+  "child": {
+    "noun": "barn- / under-"
+  },
+  "child theme": {
+    "noun": "barntema"
+  },
+  "click": {
+    "verb": "klick"
+  },
+  "collapse": {
+    "verb": "minimera"
+  },
+  "color scheme": {
+    "noun": "färgschema"
+  },
+  "column": {
+    "noun": "kolumn (i tabell), spalt (i layout)"
+  },
+  "comment": {
+    "verb": "kommentera",
+    "noun": "kommentar"
+  },
+  "Completed": {
+    "noun": "Färdigbehandlad"
+  },
+  "computer": {
+    "noun": "dator"
+  },
+  "conditional tag": {
+    "noun": "villkorsstyrd tagg"
+  },
+  "configure": {
+    "verb": "konfigurera"
+  },
+  "connect": {
+    "verb": "anslut"
+  },
+  "connected": {
+    "adjective": "ansluten"
+  },
+  "connection": {
+    "noun": "anslutning"
+  },
+  "consent": {
+    "noun": "samtycke"
+  },
+  "constant": {
+    "noun": "konstant"
+  },
+  "contact form": {
+    "noun": "kontaktformulär"
+  },
+  "Content": {
+    "noun": "innehåll"
+  },
+  "Content Area": {
+    "noun": "Innehållsområde"
+  },
+  "contribute": {
+    "verb": "bidra"
+  },
+  "Controller": {
+    "noun": "personuppgiftsansvarig"
+  },
+  "conversion": {
+    "noun": "konvertering"
+  },
+  "convert": {
+    "verb": "konvertera"
+  },
+  "Cookie": {
+    "noun": "Cookie"
+  },
+  "correct": {
+    "adjective": "rätt"
+  },
+  "coupon": {
+    "noun": "rabattkod"
+  },
+  "crop": {
+    "verb": "beskära"
+  },
+  "CSS Editor": {
+    "noun": "CSS-redigeraren"
+  },
+  "custom": {
+    "adjective": "anpassad"
+  },
+  "Custom Header Image": {
+    "noun": "Anpassad sidhuvudsbild"
+  },
+  "Custom Post Type": {
+    "noun": "Anpassad inläggstyp"
+  },
+  "customize": {
+    "verb": "anpassa"
+  },
+  "Customizer": {
+    "noun": "Anpassare"
+  },
+  "Dashboard": {
+    "noun": "Adminpanel"
+  },
+  "Data controller": {
+    "noun": "personuppgiftsansvarig"
+  },
+  "Data Processor": {
+    "noun": "personuppgiftsbiträde"
+  },
+  "Data Protection Officer": {
+    "noun": "Personuppgiftsombud"
+  },
+  "data subject": {
+    "noun": "den registrerade"
+  },
+  "deactivate": {
+    "verb": "inaktivera"
+  },
+  "default": {
+    "noun": "standard"
+  },
+  "default setting": {
+    "noun": "standardinställning"
+  },
+  "default theme": {
+    "noun": "standardtema"
+  },
+  "Delete": {
+    "verb": "Ta bort"
+  },
+  "deleted": {
+    "verb": "borttagen"
+  },
+  "deprecated": {
+    "adjective": "föråldrad"
+  },
+  "descending": {
+    "adjective": "fallande"
+  },
+  "developer": {
+    "noun": "utvecklare"
+  },
+  "directory": {
+    "noun": "katalog"
+  },
+  "disable": {
+    "verb": "inaktivera"
+  },
+  "disabled": {
+    "adjective": "inaktiverad"
+  },
+  "disconnect": {
+    "verb": "koppla från"
+  },
+  "disconnecting": {
+    "verb": "kopplar ifrån"
+  },
+  "discussion": {
+    "noun": "diskussion"
+  },
+  "Dismiss": {
+    "verb": "Avfärda"
+  },
+  "Distraction Free Writing": {
+    "noun": "Fullskärmsläge"
+  },
+  "domain": {
+    "noun": "domän"
+  },
+  "domain name": {
+    "noun": "domännamn"
+  },
+  "donor": {
+    "noun": "givare"
+  },
+  "download": {
+    "noun": "nedladdning",
+    "verb": "ladda ner"
+  },
+  "DPO": {
+    "noun": "Personuppgiftsombud"
+  },
+  "draft": {
+    "noun": "utkast"
+  },
+  "drop down": {
+    "noun": "rullgardinsmeny"
+  },
+  "drop-in": {
+    "noun": "insticksprogram"
+  },
+  "easy-to-use": {
+    "adjective": "användarvänlig"
+  },
+  "edit": {
+    "verb": "ändra"
+  },
+  "editor": {
+    "noun": "redaktör"
+  },
+  "email": {
+    "noun": "e-post"
+  },
+  "email address": {
+    "noun": "e-postadress"
+  },
+  "Embed": {
+    "verb": "Bädda in",
+    "noun": "Inbäddning"
+  },
+  "emoticon": {
+    "noun": "emotikon"
+  },
+  "enable": {
+    "verb": "aktivera"
+  },
+  "enabled": {
+    "adjective": "aktiverat"
+  },
+  "endpoint": {
+    "noun": "ändpunkt"
+  },
+  "enter": {
+    "verb": "ange"
+  },
+  "entry": {
+    "noun": "inlägg"
+  },
+  "entry title": {
+    "noun": "inläggsrubrik"
+  },
+  "error": {
+    "noun": "fel"
+  },
+  "event": {
+    "noun": "fall"
+  },
+  "excerpt": {
+    "noun": "utdrag"
+  },
+  "exist": {
+    "noun": "finns"
+  },
+  "existing": {
+    "adjective": "befintlig"
+  },
+  "expand": {
+    "verb": "maximera"
+  },
+  "expire": {
+    "verb": "löper ut"
+  },
+  "explore": {
+    "verb": "utforska"
+  },
+  "export": {
+    "verb": "exportera",
+    "noun": "export"
+  },
+  "extend": {
+    "verb": "utöka"
+  },
+  "extension": {
+    "noun": "utökning"
+  },
+  "Facebook": {
+    "noun": "Facebook"
+  },
+  "Failed": {
+    "noun": "Misslyckad"
+  },
+  "failed": {
+    "verb": "misslyckades"
+  },
+  "FAQ": {
+    "expression": "Vanliga frågor"
+  },
+  "favicon": {
+    "noun": "favicon"
+  },
+  "feature": {
+    "noun": "funktion"
+  },
+  "featured": {
+    "adjective": "utvalt"
+  },
+  "featured image": {
+    "noun": "utvald bild"
+  },
+  "featured post": {
+    "noun": "utvalt inlägg"
+  },
+  "feed": {
+    "noun": "flöde"
+  },
+  "feedback": {
+    "noun": "återkoppling"
+  },
+  "filter": {
+    "verb": "filtrera",
+    "noun": "filter"
+  },
+  "filter hook": {
+    "noun": "filter-hook"
+  },
+  "find out more": {
+    "expression": "få reda på mer"
+  },
+  "finish": {
+    "verb": "slutför"
+  },
+  "folder": {
+    "noun": "mapp"
+  },
+  "Follow": {
+    "verb": "Följ"
+  },
+  "Follower": {
+    "noun": "Följare"
+  },
+  "Following": {
+    "verb": "Följer"
+  },
+  "font": {
+    "noun": "typsnitt"
+  },
+  "footer": {
+    "noun": "sidfot"
+  },
+  "Forum": {
+    "noun": "Forum"
+  },
+  "forwarding": {
+    "verb": "vidarebefordran"
+  },
+  "free": {
+    "adjective": "gratis"
+  },
+  "front end": {
+    "noun": "front-end"
+  },
+  "front page": {
+    "noun": "startsida"
+  },
+  "frontend": {
+    "noun": "front-end"
+  },
+  "FSE": {
+    "expression": "Redigering av hela webbplatsen"
+  },
+  "Full Site Editing": {
+    "expression": "Redigering av hela webbplatsen"
+  },
+  "gallery": {
+    "noun": "galleri"
+  },
+  "general": {
+    "noun": "allmänt"
+  },
+  "Get Started": {
+    "expression": "Kom igång"
+  },
+  "Gravatar": {
+    "noun": "Gravatar"
+  },
+  "Gravatar Profile": {
+    "noun": "Gravatarprofil"
+  },
+  "grid": {
+    "noun": "rutnät"
+  },
+  "Ham": {
+    "noun": "Ej skräppost"
+  },
+  "header": {
+    "noun": "sidhuvud"
+  },
+  "Headers": {
+    "noun": "Rubriker"
+  },
+  "helpdesk": {
+    "noun": "kundtjänst"
+  },
+  "hidden": {
+    "adjective": "dold"
+  },
+  "hide": {
+    "verb": "dölj"
+  },
+  "home page": {
+    "noun": "startsida"
+  },
+  "homepage": {
+    "noun": "startsida"
+  },
+  "hook": {
+    "noun": "åtgärds-hook"
+  },
+  "host": {
+    "noun": "webbhotell"
+  },
+  "hosting": {
+    "noun": "webbhotell"
+  },
+  "hosting provider": {
+    "noun": "webbhotell"
+  },
+  "hover": {
+    "verb": "föra över"
+  },
+  "hovercard": {
+    "noun": "hovercard"
+  },
+  "howdy": {
+    "expression": "hej"
+  },
+  "identifier": {
+    "noun": "ID-sträng"
+  },
+  "IDs": {
+    "noun": "ID:n"
+  },
+  "import": {
+    "verb": "importera"
+  },
+  "Import": {
+    "noun": "Import"
+  },
+  "in the Dashboard": {
+    "expression": "i adminpanelen"
+  },
+  "inactivate": {
+    "verb": "inaktivera"
+  },
+  "inactive": {
+    "adjective": "inaktiv"
+  },
+  "incorrect": {
+    "adjective": "felaktigt"
+  },
+  "individual": {
+    "adjective": "enskild"
+  },
+  "Inserter": {
+    "noun": "infogaren"
+  },
+  "instant": {
+    "adjective": "omedelbar"
+  },
+  "invalid": {
+    "adjective": "ogiltigt"
+  },
+  "IP address": {
+    "noun": "IP-adress"
+  },
+  "item": {
+    "noun": "objekt"
+  },
+  "Jetpack": {
+    "noun": "Jetpack"
+  },
+  "Keyphrase": {
+    "noun": "nyckelordsfras"
+  },
+  "keyword": {
+    "noun": "nyckelord"
+  },
+  "knowledge base": {
+    "noun": "kunskapsbas"
+  },
+  "layout": {
+    "noun": "layout"
+  },
+  "learn more": {
+    "expression": "lär dig mer"
+  },
+  "lightbox": {
+    "noun": "lightbox"
+  },
+  "like": {
+    "noun": "gillar",
+    "verb": "gilla"
+  },
+  "liked": {
+    "verb": "gillar"
+  },
+  "likes": {
+    "noun": "gillar"
+  },
+  "limit": {
+    "verb": "begränsa"
+  },
+  "line wrap": {
+    "noun": "automatiskt radbyte"
+  },
+  "Link Hover": {
+    "noun": "Länkhovring"
+  },
+  "list item": {
+    "noun": "listobjekt"
+  },
+  "live": {
+    "adverb": "live"
+  },
+  "live chat": {
+    "noun": "chattsupport"
+  },
+  "loading": {
+    "verb": "laddar in"
+  },
+  "locale": {
+    "noun": "språkversion"
+  },
+  "log in": {
+    "verb": "logga in",
+    "noun": "inloggning"
+  },
+  "log out": {
+    "verb": "logga ut",
+    "noun": "utloggning"
+  },
+  "logged in": {
+    "adjective": "inloggad"
+  },
+  "logged out": {
+    "adjective": "utloggad"
+  },
+  "login": {
+    "verb": "logga in"
+  },
+  "logo": {
+    "noun": "logga"
+  },
+  "logout": {
+    "verb": "logga ut"
+  },
+  "M d": {
+    "noun": "datum! se upp för formatering!"
+  },
+  "magazine": {
+    "noun": "magasin"
+  },
+  "manage": {
+    "verb": "hantera"
+  },
+  "management": {
+    "noun": "hantering"
+  },
+  "mandatory": {
+    "adjective": "obligatorisk"
+  },
+  "mapping": {
+    "noun": "ompekning"
+  },
+  "match": {
+    "verb": "matcha"
+  },
+  "matches": {
+    "verb": "matchar"
+  },
+  "media item": {
+    "noun": "mediaobjekt"
+  },
+  "media library": {
+    "noun": "mediabibliotek"
+  },
+  "Media Uploader": {
+    "noun": "mediauppladdaren"
+  },
+  "menu item": {
+    "noun": "menyval"
+  },
+  "meta": {
+    "noun": "meta"
+  },
+  "migrate": {
+    "verb": "flytta"
+  },
+  "minimal": {
+    "noun": "minimalistisk"
+  },
+  "minimalist theme": {
+    "noun": "minimalistiskt tema"
+  },
+  "mobile device": {
+    "noun": "mobilenhet"
+  },
+  "moderate": {
+    "verb": "granska"
+  },
+  "moderation": {
+    "noun": "granskning"
+  },
+  "modern design": {
+    "noun": "modern design"
+  },
+  "modified": {
+    "verb": "redigerades"
+  },
+  "Movable Type": {
+    "noun": "Movable Type"
+  },
+  "multisite": {
+    "noun": "multisite"
+  },
+  "must-use plugin": {
+    "expression": "permanentaktiverat tillägg"
+  },
+  "namespace": {
+    "noun": "namnrymd"
+  },
+  "navigation": {
+    "noun": "navigering"
+  },
+  "newer post": {
+    "noun": "nyare inlägg"
+  },
+  "next post": {
+    "noun": "nästa inlägg"
+  },
+  "nickname": {
+    "noun": "smeknamn"
+  },
+  "No Ads": {
+    "noun": "Inga annonser"
+  },
+  "nonce": {
+    "noun": "engångskod"
+  },
+  "normal visitor": {
+    "noun": "normal besökare"
+  },
+  "not allowed": {
+    "expression": "saknar behörighet"
+  },
+  "not sticky": {
+    "adjective": "ej klistrad"
+  },
+  "note": {
+    "verb": "obs/observera"
+  },
+  "Notifications": {
+    "noun": "aviseringar"
+  },
+  "occurred": {
+    "verb": "uppstod"
+  },
+  "offset": {
+    "noun": "förskjutning"
+  },
+  "oh no": {
+    "interjection": "åh nej"
+  },
+  "older post": {
+    "noun": "äldre inlägg"
+  },
+  "On hold": {
+    "noun": "Pausad"
+  },
+  "on top": {
+    "noun": "högst upp"
+  },
+  "On-hold": {
+    "noun": "Pausad"
+  },
+  "oops": {
+    "interjection": "hoppsan"
+  },
+  "opt-in": {
+    "expression": "tacka ja"
+  },
+  "opt-out": {
+    "expression": "tacka nej"
+  },
+  "option": {
+    "noun": "val"
+  },
+  "optional": {
+    "noun": "valfritt"
+  },
+  "options": {
+    "noun": "alternativ"
+  },
+  "or not": {
+    "expression": "eller ej"
+  },
+  "overlay": {
+    "noun": "överlägg"
+  },
+  "override": {
+    "verb": "åsidosätta"
+  },
+  "padding": {
+    "noun": "padding"
+  },
+  "page": {
+    "noun": "sida"
+  },
+  "Pages": {
+    "noun": "Sidor"
+  },
+  "pagination": {
+    "noun": "paginering"
+  },
+  "parameter": {
+    "noun": "parameter"
+  },
+  "parent": {
+    "adjective": "förälder",
+    "noun": "överordnad"
+  },
+  "parent theme": {
+    "noun": "huvudtema"
+  },
+  "particular": {
+    "adjective": "viss"
+  },
+  "payment gateway": {
+    "noun": "betalningslösning"
+  },
+  "payment method": {
+    "noun": "betalsätt"
+  },
+  "pending": {
+    "adjective": "inväntar granskning"
+  },
+  "pending comment": {
+    "noun": "kommentar inväntar granskning"
+  },
+  "Pending payment": {
+    "noun": "Inväntar betalning"
+  },
+  "performed": {
+    "verb": "utförd"
+  },
+  "permalink": {
+    "noun": "permalänk"
+  },
+  "permission": {
+    "noun": "tillåtelse"
+  },
+  "personal blog": {
+    "noun": "personlig blogg"
+  },
+  "PIN lock": {
+    "noun": "PIN-lås"
+  },
+  "ping": {
+    "noun": "ping",
+    "verb": "pinga"
+  },
+  "pingback": {
+    "noun": "pingback"
+  },
+  "plain text": {
+    "noun": "oformaterad text"
+  },
+  "plan": {
+    "noun": "paket"
+  },
+  "please": {
+    "interjection": "vänligen"
+  },
+  "Please": {
+    "interjection": "Vänligen"
+  },
+  "plugin": {
+    "noun": "tillägg"
+  },
+  "plugins": {
+    "noun": "tillägg"
+  },
+  "poll": {
+    "noun": "omröstning",
+    "verb": "fråga"
+  },
+  "Polldaddy": {
+    "noun": "Polldaddy"
+  },
+  "portfolio": {
+    "noun": "portfölj"
+  },
+  "Portfolio Page": {
+    "noun": "Portföljsida"
+  },
+  "portfolio theme": {
+    "noun": "portföljtema"
+  },
+  "position": {
+    "noun": "position"
+  },
+  "post": {
+    "noun": "inlägg",
+    "verb": "publicera"
+  },
+  "Post Carousel": {
+    "noun": "Inläggskarusell"
+  },
+  "post format": {
+    "adjective": "inläggsformat"
+  },
+  "Post List": {
+    "noun": "Inläggslista"
+  },
+  "Post Meta": {
+    "noun": "Metadata för inlägg"
+  },
+  "post status": {
+    "noun": "inläggsstatus"
+  },
+  "post thumbnail": {
+    "noun": "inläggsminiatyr"
+  },
+  "post type": {
+    "noun": "inläggstyp"
+  },
+  "posted": {
+    "verb": "publicerat"
+  },
+  "poster image": {
+    "noun": "posterbild"
+  },
+  "posting goal": {
+    "noun": "mål för bloggande"
+  },
+  "preferences": {
+    "noun": "alternativ"
+  },
+  "prefilled": {
+    "noun": "förifyllda"
+  },
+  "premium": {
+    "noun": "premium"
+  },
+  "Premium plan": {
+    "noun": "Premiumpaket"
+  },
+  "premium theme": {
+    "noun": "premiumtema"
+  },
+  "premium upgrade": {
+    "noun": "upgpradering till premium"
+  },
+  "Press This": {
+    "noun": "Blogga detta"
+  },
+  "preview": {
+    "verb": "förhandsgranska",
+    "noun": "förhandsgranskning"
+  },
+  "previous post": {
+    "noun": "föregående inlägg"
+  },
+  "privacy": {
+    "noun": "integritet"
+  },
+  "Privacy Policy": {
+    "noun": "Integritetspolicy"
+  },
+  "Privacy Protection": {
+    "noun": "Integritetsskydd"
+  },
+  "Private Whois upgrade": {
+    "noun": "Dold Whois-uppgradering/Integritetsskydd"
+  },
+  "Pro": {
+    "noun": "Pro"
+  },
+  "Processing": {
+    "noun": "Behandlas"
+  },
+  "profile": {
+    "noun": "profil"
+  },
+  "promote": {
+    "verb": "främja"
+  },
+  "public": {
+    "adjective": "Offentlig"
+  },
+  "Publicize": {
+    "noun": "Offentliggör"
+  },
+  "Publicize Jetpack": {
+    "noun": "Offentliggör Jetpack"
+  },
+  "Publish": {
+    "verb": "Publicera"
+  },
+  "publisher blog": {
+    "noun": "utgivarblogg"
+  },
+  "publishing platform": {
+    "noun": "publiceringsplattform"
+  },
+  "query": {
+    "noun": "query"
+  },
+  "queue": {
+    "noun": "invänta [granskning] / kö"
+  },
+  "Quick Post": {
+    "noun": "Quick Post"
+  },
+  "QuickPress": {
+    "noun": "QuickPress"
+  },
+  "Reader": {
+    "noun": "Läsare"
+  },
+  "reader": {
+    "noun": "läsare"
+  },
+  "Reading": {
+    "noun": "Läsa"
+  },
+  "Reblog": {
+    "verb": "Reblogga",
+    "noun": "Rebloggade / Reblogg"
+  },
+  "recent": {
+    "adjective": "senaste"
+  },
+  "recent post": {
+    "noun": "senaste inlägget"
+  },
+  "record": {
+    "noun": "objekt"
+  },
+  "recorded": {
+    "verb": "sparade"
+  },
+  "recover": {
+    "verb": "återskapa"
+  },
+  "recovered": {
+    "verb": "återskapas"
+  },
+  "Redirect": {
+    "noun": "Omdirigering"
+  },
+  "redirect": {
+    "verb": "omdirigera"
+  },
+  "referrer": {
+    "noun": "länkande/hänvisande webbplats"
+  },
+  "refresh": {
+    "verb": "uppdatera"
+  },
+  "Refunded": {
+    "noun": "Återbetald"
+  },
+  "regenerate": {
+    "verb": "återskapa"
+  },
+  "Related Posts": {
+    "noun": "Relaterade inlägg"
+  },
+  "reliable": {
+    "adjective": "tillförlitlig"
+  },
+  "report": {
+    "noun": "rapport"
+  },
+  "required": {
+    "noun": "obligatorisk"
+  },
+  "responsive": {
+    "adjective": "responsiv"
+  },
+  "restore": {
+    "verb": "återställ"
+  },
+  "restriction": {
+    "noun": "begränsning"
+  },
+  "result set": {
+    "noun": "resultatet"
+  },
+  "Resume": {
+    "verb": "återstarta"
+  },
+  "return value": {
+    "noun": "returvärde"
+  },
+  "reusable": {
+    "adjective": "återanvändbart"
+  },
+  "revision": {
+    "noun": "version"
+  },
+  "ribbon": {
+    "noun": "band"
+  },
+  "role": {
+    "noun": "roll"
+  },
+  "RSS": {
+    "noun": "RSS"
+  },
+  "RSS feed": {
+    "noun": "RSS-flöde"
+  },
+  "sanitized": {
+    "adjective": "säkerhetsfiltrerad"
+  },
+  "schedule": {
+    "noun": "schema",
+    "verb": "schemalägg"
+  },
+  "scheduled": {
+    "verb": "schemalagd"
+  },
+  "screen": {
+    "noun": "vy"
+  },
+  "scroll": {
+    "verb": "rulla"
+  },
+  "search engine": {
+    "noun": "sökmotor"
+  },
+  "section": {
+    "noun": "sektion"
+  },
+  "select": {
+    "verb": "välj"
+  },
+  "selected": {
+    "adjective": "valda"
+  },
+  "self-hosted": {
+    "adjective": "...[WordPress] som drivs på en egen server"
+  },
+  "SEO": {
+    "noun": "sökmotorsoptimering"
+  },
+  "separator": {
+    "noun": "avgränsare"
+  },
+  "server": {
+    "noun": "server"
+  },
+  "service": {
+    "noun": "tjänst"
+  },
+  "settings": {
+    "noun": "inställningar"
+  },
+  "setup wizard": {
+    "noun": "installationsguide"
+  },
+  "share": {
+    "noun": "delning",
+    "verb": "dela"
+  },
+  "shares": {
+    "noun": "delningar"
+  },
+  "sharing": {
+    "verb": "dela"
+  },
+  "sharing button": {
+    "noun": "delningsknapp"
+  },
+  "sharing buttons": {
+    "noun": "delningsknappar"
+  },
+  "sharing settings": {
+    "noun": "delningsinställningar"
+  },
+  "shell": {
+    "noun": "skal"
+  },
+  "shipping method": {
+    "noun": "leveranssätt, fraktsätt"
+  },
+  "shortcode": {
+    "noun": "kortkod"
+  },
+  "Showcase": {
+    "noun": "Galleri/Presentation/Showcase"
+  },
+  "sidebar": {
+    "noun": "sidopanel"
+  },
+  "single post": {
+    "noun": "enskilt inlägg"
+  },
+  "Single Sign On": {
+    "noun": "Enkel Inloggning"
+  },
+  "site": {
+    "noun": "webbplats"
+  },
+  "site icon": {
+    "noun": "webbplatsikon"
+  },
+  "Site Redirect": {
+    "noun": "Omdirigera webbplats"
+  },
+  "sitemap": {
+    "noun": "webbplatskarta"
+  },
+  "sites": {
+    "noun": "webbplatser"
+  },
+  "slider": {
+    "noun": "bildspel"
+  },
+  "slideshow": {
+    "noun": "bildspel"
+  },
+  "slug": {
+    "noun": "slug"
+  },
+  "snippet": {
+    "noun": "förhandsvisningstext"
+  },
+  "Social Media": {
+    "noun": "Sociala medier"
+  },
+  "Sorry": {
+    "noun": "Ledsen"
+  },
+  "sort by": {
+    "expression": "sortera efter"
+  },
+  "spam": {
+    "adjective": "skräppost"
+  },
+  "spam queue": {
+    "noun": "skräppost-kö"
+  },
+  "specify": {
+    "verb": "specificera"
+  },
+  "SRV record": {
+    "noun": "SRV-information"
+  },
+  "staff": {
+    "noun": "redaktör"
+  },
+  "stat": {
+    "noun": "statistik"
+  },
+  "status": {
+    "noun": "status"
+  },
+  "Status": {
+    "noun": "Statusuppdatering"
+  },
+  "stick": {
+    "verb": "klistra"
+  },
+  "sticky": {
+    "noun": "klistrat"
+  },
+  "sticky post": {
+    "noun": "(fast)klistrat inlägg"
+  },
+  "store": {
+    "noun": "butik"
+  },
+  "string": {
+    "noun": "sträng"
+  },
+  "Style Book": {
+    "expression": "stilkatalog"
+  },
+  "subpanel": {
+    "noun": "underpanel"
+  },
+  "subscribe": {
+    "verb": "prenumerera"
+  },
+  "subscriber": {
+    "noun": "prenumerant"
+  },
+  "subscription": {
+    "noun": "prenumeration"
+  },
+  "subscription dashboard": {
+    "noun": "prenumerationspanel"
+  },
+  "Subversion": {
+    "noun": "Subversion"
+  },
+  "successfully": {
+    "adverb": "utan problem"
+  },
+  "summary emails": {
+    "noun": "summeringar via e-post"
+  },
+  "supercharge": {
+    "verb": "gör ännu bättre"
+  },
+  "supercharged": {
+    "adjective": "ännu bättre"
+  },
+  "support guide": {
+    "noun": "supportguide"
+  },
+  "support page": {
+    "noun": "supportsida"
+  },
+  "support team": {
+    "noun": "supportteam"
+  },
+  "survey": {
+    "noun": "undersökning"
+  },
+  "tag": {
+    "verb": "märka"
+  },
+  "Tag": {
+    "noun": "Etikett"
+  },
+  "tag cloud": {
+    "noun": "etikettmoln"
+  },
+  "tagged": {
+    "adjective": "märkt"
+  },
+  "tagline": {
+    "noun": "slogan"
+  },
+  "tags": {
+    "noun": "Etiketter"
+  },
+  "tap": {
+    "verb": "tryck"
+  },
+  "taxonomy": {
+    "noun": "taxonomi"
+  },
+  "template": {
+    "noun": "mall"
+  },
+  "template hierarchy": {
+    "noun": "mall-hierarki"
+  },
+  "term": {
+    "noun": "term"
+  },
+  "Terms and conditions": {
+    "noun": "Villkor"
+  },
+  "Terms of Service": {
+    "noun": "Användarvillkor"
+  },
+  "testimonial": {
+    "noun": "omdöme"
+  },
+  "testimonials": {
+    "noun": "rekommendationer"
+  },
+  "text editor": {
+    "noun": "textredigerare"
+  },
+  "text wrap": {
+    "noun": "automatiskt radbyte"
+  },
+  "theme": {
+    "noun": "tema"
+  },
+  "Theme Showcase": {
+    "noun": "Tema-galleriet"
+  },
+  "thumbnail": {
+    "noun": "miniatyr"
+  },
+  "time stamp": {
+    "noun": "tidsstämpel"
+  },
+  "timestamp": {
+    "noun": "tidsstämpel"
+  },
+  "Title": {
+    "noun": "Rubrik"
+  },
+  "toggle": {
+    "verb": "slå på/av"
+  },
+  "Token": {
+    "noun": "token"
+  },
+  "Toolbar": {
+    "noun": "Verktygsfält"
+  },
+  "tooltip": {
+    "noun": "inforuta"
+  },
+  "Top Pages": {
+    "noun": "Populäraste sidorna"
+  },
+  "top posts": {
+    "noun": "populäraste inläggen"
+  },
+  "topic": {
+    "noun": "ämne"
+  },
+  "topics": {
+    "noun": "ämnen"
+  },
+  "trackback": {
+    "noun": "trackback"
+  },
+  "transcript": {
+    "noun": "kopia, utskrift"
+  },
+  "Transfer Code": {
+    "noun": "Överföringskod"
+  },
+  "transform": {
+    "verb": "omvandla"
+  },
+  "trash": {
+    "verb": "lägga i papperskorgen, kasta",
+    "noun": "papperskorg"
+  },
+  "trend": {
+    "noun": "trend"
+  },
+  "trending": {
+    "verb": "trendande"
+  },
+  "trial period": {
+    "noun": "testperiod"
+  },
+  "troubleshooting": {
+    "noun": "felsökning"
+  },
+  "Twitter": {
+    "noun": "Twitter"
+  },
+  "two factor authentication": {
+    "noun": "tvåfaktors-autentisering"
+  },
+  "Two Step Authentication": {
+    "noun": "tvåstegs-autentisering"
+  },
+  "uh oh": {
+    "interjection": "aj då"
+  },
+  "unapprove": {
+    "verb": "godkänn ej"
+  },
+  "uncheck": {
+    "verb": "avmarkera"
+  },
+  "Unfollow": {
+    "verb": "Sluta följ"
+  },
+  "Unlimited Storage": {
+    "noun": "Obegränsat utrymme"
+  },
+  "unsubscribe": {
+    "verb": "avsluta prenumeration"
+  },
+  "upload": {
+    "noun": "uppladdning",
+    "verb": "ladda upp"
+  },
+  "uploader": {
+    "noun": "uppladdare"
+  },
+  "URI": {
+    "noun": "URI"
+  },
+  "URL": {
+    "noun": "URL"
+  },
+  "user": {
+    "noun": "användare"
+  },
+  "username": {
+    "noun": "användarnamn"
+  },
+  "valid": {
+    "adjective": "giltig"
+  },
+  "validate": {
+    "verb": "verifiera"
+  },
+  "VaultPress": {
+    "noun": "VaultPress"
+  },
+  "verification code": {
+    "noun": "verifieringskod"
+  },
+  "verify": {
+    "verb": "kontrollera"
+  },
+  "video": {
+    "noun": "videoklipp"
+  },
+  "VideoPress": {
+    "noun": "VideoPress"
+  },
+  "videos": {
+    "noun": "videoklipp"
+  },
+  "view": {
+    "verb": "visa",
+    "noun": "vy"
+  },
+  "web server": {
+    "noun": "webbserver"
+  },
+  "webhook": {
+    "noun": "webhook"
+  },
+  "webinar": {
+    "noun": "webbseminarium"
+  },
+  "website": {
+    "noun": "webbplats"
+  },
+  "whether": {
+    "conjunction": "om"
+  },
+  "whitelist": {
+    "verb": "vitlista"
+  },
+  "widget": {
+    "noun": "widget"
+  },
+  "widgets": {
+    "noun": "widgetar"
+  },
+  "word wrap": {
+    "noun": "automatiskt radbyte"
+  },
+  "WordCamp": {
+    "noun": "WordCamp"
+  },
+  "WordPress": {
+    "noun": "WordPress"
+  },
+  "wrap": {
+    "verb": "omsluta",
+    "noun": "omslutning"
+  },
+  "XML-RPC": {
+    "noun": "XML-RPC"
+  },
+  "yay": {
+    "interjection": "snyggt"
+  },
+  "you are not allowed": {
+    "expression": "du har inte behörighet"
+  },
+  "your": {
+    "pronoun": "ditt"
+  },
+  "Yummy Pie": {
+    "noun": "Cirkeldiagram"
+  },
+  "ZIP": {
+    "noun": "Postnummer"
+  },
+  "\\a\\t": {
+    "noun": "\\k\\l\\."
+  }
+}

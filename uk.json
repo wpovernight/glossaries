@@ -1,0 +1,616 @@
+{
+  "account": {
+    "noun": "обліковий запис"
+  },
+  "activation": {
+    "noun": "активація"
+  },
+  "active": {
+    "adjective": "діючий"
+  },
+  "activity": {
+    "noun": "діяльність"
+  },
+  "advanced": {
+    "adjective": "передовий"
+  },
+  "alignment": {
+    "noun": "вирівнювання"
+  },
+  "appearance": {
+    "noun": "вигляд"
+  },
+  "approve": {
+    "verb": "схвалити"
+  },
+  "aside": {
+    "noun": "нотатка"
+  },
+  "At a Glance": {
+    "noun": "на виду"
+  },
+  "attach": {
+    "verb": "прикріпити"
+  },
+  "attachment": {
+    "noun": "вкладення"
+  },
+  "back end": {
+    "noun": "внутрішня частина сайту"
+  },
+  "background": {
+    "noun": "фон"
+  },
+  "backup code": {
+    "noun": "резервний код"
+  },
+  "base": {
+    "noun": "основа"
+  },
+  "bbPress": {
+    "noun": "bbPress"
+  },
+  "blockquote": {
+    "noun": "цитата"
+  },
+  "bold": {
+    "adjective": "жирний"
+  },
+  "border": {
+    "noun": "межа"
+  },
+  "breadcrumbs": {
+    "noun": "навігаційна стежка"
+  },
+  "breakpoint": {
+    "noun": "точка переходу"
+  },
+  "browse": {
+    "verb": "оглядати"
+  },
+  "bug": {
+    "noun": "помилка"
+  },
+  "bullet": {
+    "noun": "маркер"
+  },
+  "bulleted": {
+    "adjective": "маркований"
+  },
+  "cancel": {
+    "verb": "скасувати"
+  },
+  "capability": {
+    "noun": "можливість"
+  },
+  "caption": {
+    "noun": "підзаголовок"
+  },
+  "carousel": {
+    "noun": "карусель"
+  },
+  "category": {
+    "noun": "категорія"
+  },
+  "child": {
+    "noun": "нащадок"
+  },
+  "click": {
+    "verb": "натиснути"
+  },
+  "clipboard": {
+    "noun": "буфер обміну"
+  },
+  "column": {
+    "noun": "колонка"
+  },
+  "connection": {
+    "noun": "з’єднання"
+  },
+  "content": {
+    "noun": "вміст"
+  },
+  "contribute": {
+    "verb": "допомагати"
+  },
+  "contributor": {
+    "noun": "помічник"
+  },
+  "converter": {
+    "noun": "перетворювач"
+  },
+  "crop": {
+    "verb": "обрізати"
+  },
+  "custom": {
+    "adjective": "власний"
+  },
+  "Custom HTML": {
+    "noun": "Власний HTML"
+  },
+  "Customizer": {
+    "noun": "Налаштовувач"
+  },
+  "Dashboard": {
+    "noun": "Майстерня"
+  },
+  "deactivate": {
+    "verb": "вимкнути"
+  },
+  "default": {
+    "adjective": "початковий"
+  },
+  "deprecated": {
+    "adjective": "застарілий"
+  },
+  "developer reference": {
+    "noun": "розробницька довідка"
+  },
+  "dialog": {
+    "noun": "вікно"
+  },
+  "directory": {
+    "noun": "директорія"
+  },
+  "discussion": {
+    "noun": "обговорення"
+  },
+  "display": {
+    "noun": "екран",
+    "verb": "відображати"
+  },
+  "distraction-free writing": {
+    "noun": "зосереджене письмо"
+  },
+  "domain": {
+    "noun": "домен"
+  },
+  "draft": {
+    "noun": "чернетка"
+  },
+  "drag and drop": {
+    "noun": "перетягування"
+  },
+  "drop-down": {
+    "adjective": "випадаючий"
+  },
+  "e-mail": {
+    "noun": "e-mail"
+  },
+  "embed": {
+    "noun": "вставка"
+  },
+  "error": {
+    "noun": "помилка"
+  },
+  "event": {
+    "noun": "подія"
+  },
+  "excerpt": {
+    "noun": "уривок"
+  },
+  "extra-bold": {
+    "adjective": "екстражирний"
+  },
+  "extra-light": {
+    "adjective": "екстратонкий"
+  },
+  "feature": {
+    "noun": "функція, особливість"
+  },
+  "featured": {
+    "adjective": "вибраний"
+  },
+  "Featured Image": {
+    "noun": "головне зображення"
+  },
+  "feed": {
+    "noun": "канал"
+  },
+  "feedback": {
+    "noun": "зворотній зв’язок, відгук"
+  },
+  "footer": {
+    "noun": "футер"
+  },
+  "front end": {
+    "noun": "зовнішня частина сайту"
+  },
+  "front page": {
+    "noun": "головна сторінка"
+  },
+  "grid": {
+    "noun": "сітка"
+  },
+  "Gutenberg": {
+    "noun": "Gutenberg"
+  },
+  "handbook": {
+    "noun": "довідник"
+  },
+  "header": {
+    "noun": "хедер"
+  },
+  "heading": {
+    "noun": "заголовок"
+  },
+  "home page": {
+    "noun": "домашня сторінка"
+  },
+  "homepage": {
+    "noun": "домашня сторінка"
+  },
+  "hosting": {
+    "noun": "хостинг"
+  },
+  "hover": {
+    "noun": "наведення"
+  },
+  "human-readable": {
+    "adjective": "придатний для читання людиною"
+  },
+  "icon": {
+    "noun": "іконка"
+  },
+  "ID": {
+    "noun": "ID"
+  },
+  "image": {
+    "noun": "зображення"
+  },
+  "install": {
+    "verb": "встановити"
+  },
+  "invalid": {
+    "adjective": "невірний"
+  },
+  "italic": {
+    "adjective": "курсив"
+  },
+  "item": {
+    "noun": "елемент, пункт (меню)"
+  },
+  "label": {
+    "noun": "мітка"
+  },
+  "layout": {
+    "noun": "компонування, розміщення"
+  },
+  "light": {
+    "adjective": "тонкий"
+  },
+  "like": {
+    "noun": "вподобання",
+    "verb": "подобається"
+  },
+  "list": {
+    "noun": "перелік"
+  },
+  "live preview": {
+    "noun": "попередній перегляд"
+  },
+  "location": {
+    "noun": "розміщення"
+  },
+  "log in": {
+    "verb": "увійти"
+  },
+  "log out": {
+    "verb": "вийти, завершити сесію"
+  },
+  "loop": {
+    "noun": "цикл"
+  },
+  "machine-readable": {
+    "adjective": "придатний для читання комп'ютером"
+  },
+  "manage": {
+    "verb": "керувати"
+  },
+  "map": {
+    "noun": "мапа"
+  },
+  "margin": {
+    "noun": "зовнішній відступ"
+  },
+  "mark": {
+    "verb": "позначити"
+  },
+  "masonry": {
+    "noun": "кладка"
+  },
+  "Media Library": {
+    "noun": "бібліотека медіа"
+  },
+  "Media Uploader": {
+    "noun": "завантажувач медіа"
+  },
+  "member": {
+    "noun": "учасник"
+  },
+  "metadata": {
+    "noun": "метадані"
+  },
+  "mode": {
+    "noun": "режим"
+  },
+  "Network Admin": {
+    "noun": "мережа сайтів"
+  },
+  "news feed": {
+    "noun": "стрічка новин"
+  },
+  "nonce": {
+    "noun": "ідентифікатор"
+  },
+  "note": {
+    "noun": "нотатка"
+  },
+  "notice": {
+    "noun": "сповіщення"
+  },
+  "notification": {
+    "noun": "сповіщення"
+  },
+  "offline": {
+    "adjective": "поза мережею"
+  },
+  "online": {
+    "adjective": "у мережі"
+  },
+  "optional": {
+    "adjective": "необов'язково"
+  },
+  "options": {
+    "noun": "параметри"
+  },
+  "original": {
+    "noun": "першоджерело"
+  },
+  "outline": {
+    "noun": "контур"
+  },
+  "paddind": {
+    "noun": "внутрішній відступ"
+  },
+  "parent": {
+    "noun": "предок",
+    "adjective": "батьківський"
+  },
+  "password": {
+    "noun": "пароль"
+  },
+  "path": {
+    "noun": "шлях"
+  },
+  "pattern": {
+    "noun": "патерн"
+  },
+  "permalink": {
+    "noun": "постійне посилання"
+  },
+  "personal information": {
+    "noun": "особисті відомості"
+  },
+  "photo": {
+    "noun": "фото"
+  },
+  "pingback": {
+    "noun": "сповіщення"
+  },
+  "placeholder": {
+    "noun": "заповнювач"
+  },
+  "playlist": {
+    "noun": "список відтворення"
+  },
+  "plugin": {
+    "noun": "плагін"
+  },
+  "podcast": {
+    "noun": "подкаст"
+  },
+  "poll": {
+    "noun": "опитування"
+  },
+  "popup": {
+    "noun": "виринаюче вікно"
+  },
+  "post": {
+    "verb": "опублікувати",
+    "noun": "запис"
+  },
+  "press this": {
+    "verb": "press this"
+  },
+  "preview": {
+    "noun": "попередній перегляд"
+  },
+  "private": {
+    "adjective": "приватний, особистий"
+  },
+  "profile": {
+    "noun": "обліковий запис"
+  },
+  "query": {
+    "noun": "запит"
+  },
+  "read more": {
+    "expression": "читати далі"
+  },
+  "receipt": {
+    "noun": "квитанція"
+  },
+  "referrer": {
+    "noun": "джерело переходу"
+  },
+  "reset": {
+    "verb": "скидати"
+  },
+  "reusable": {
+    "adjective": "багаторазовий"
+  },
+  "revision": {
+    "noun": "редакція"
+  },
+  "row": {
+    "noun": "рядок"
+  },
+  "schedule": {
+    "verb": "відкласти"
+  },
+  "screen": {
+    "noun": "екран, розділ"
+  },
+  "section": {
+    "noun": "розділ"
+  },
+  "self-hosted": {
+    "adjective": "на власному хостингу"
+  },
+  "settings": {
+    "noun": "налаштування"
+  },
+  "shop": {
+    "noun": "магазин"
+  },
+  "shortcode": {
+    "noun": "короткий код"
+  },
+  "sidebar": {
+    "noun": "бічна колонка"
+  },
+  "single": {
+    "adjective": "окремий"
+  },
+  "slideshow": {
+    "noun": "слайдшоу"
+  },
+  "slug": {
+    "noun": "частина посилання"
+  },
+  "sorry": {
+    "adjective": "на жаль"
+  },
+  "spam": {
+    "noun": "спам"
+  },
+  "specify": {
+    "verb": "вказувати"
+  },
+  "sticky": {
+    "adjective": "прикріплений"
+  },
+  "string": {
+    "noun": "рядок"
+  },
+  "subdomain": {
+    "noun": "піддомен, домен третього рівня"
+  },
+  "submit": {
+    "verb": "відправити"
+  },
+  "subscription": {
+    "noun": "підписка"
+  },
+  "suggest": {
+    "verb": "пропонувати"
+  },
+  "survey": {
+    "noun": "опитування"
+  },
+  "tag": {
+    "noun": "позначка, тег"
+  },
+  "tagline": {
+    "noun": "ключова фраза"
+  },
+  "take over": {
+    "verb": "перехопити"
+  },
+  "taxonomy": {
+    "noun": "таксономія"
+  },
+  "template": {
+    "noun": "шаблон"
+  },
+  "term": {
+    "noun": "група (таксономії)"
+  },
+  "testimonial": {
+    "noun": "відгук"
+  },
+  "text editor": {
+    "noun": "текстовий редактор"
+  },
+  "theme": {
+    "noun": "тема"
+  },
+  "thumbnail": {
+    "noun": "мініатюра"
+  },
+  "timeline": {
+    "noun": "шкала часу"
+  },
+  "token": {
+    "noun": "значок"
+  },
+  "toolbar": {
+    "noun": "панель інструментів"
+  },
+  "topic": {
+    "noun": "тема"
+  },
+  "trackback": {
+    "noun": "зворотнє посилання"
+  },
+  "trash": {
+    "noun": "кошик"
+  },
+  "troubleshooting": {
+    "verb": "усунення неполадок"
+  },
+  "two factor authentication": {
+    "noun": "двокрокова автентифікація"
+  },
+  "Two Step Authentication": {
+    "noun": "двокрокова автентифікація"
+  },
+  "undo": {
+    "verb": "скасувати"
+  },
+  "unsubscribe": {
+    "verb": "скасувати підписку"
+  },
+  "update": {
+    "noun": "оновлення"
+  },
+  "URI": {
+    "noun": "URI"
+  },
+  "URL": {
+    "noun": "URL"
+  },
+  "username": {
+    "noun": "ім’я користувача"
+  },
+  "variation": {
+    "noun": "варіація, різновид"
+  },
+  "view": {
+    "noun": "перегляд",
+    "verb": "переглянути"
+  },
+  "viewport": {
+    "noun": "область перегляду"
+  },
+  "visual editor": {
+    "noun": "візуальний редактор"
+  },
+  "webhook": {
+    "noun": "вебхук"
+  },
+  "widgetized": {
+    "adjective": "віджетизований"
+  }
+}

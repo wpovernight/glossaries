@@ -1,0 +1,465 @@
+{
+  "'Cancel' to stop, 'OK' to": {
+    "expression": "Kliknij „Anuluj”, aby anulować tę operację, lub „OK”, aby ją sfinalizować."
+  },
+  "<a href=\"https://wordpress.org/support/\">": {
+    "expression": "<a href=\"https://pl.forums.wordpress.org/\">"
+  },
+  "activate": {
+    "verb": "włączać"
+  },
+  "activating": {
+    "adverb": "włączanie"
+  },
+  "add a new": {
+    "expression": "utwórz"
+  },
+  "add new": {
+    "expression": "utwórz"
+  },
+  "admin bar": {
+    "noun": "pasek administratora"
+  },
+  "affect": {
+    "verb": "mieć wpływ"
+  },
+  "anchor": {
+    "noun": "kotwica"
+  },
+  "anchors": {
+    "noun": "kotwice"
+  },
+  "asides": {
+    "noun": "notatki na marginesie"
+  },
+  "avatar": {
+    "noun": "awatar"
+  },
+  "await moderation": {
+    "verb": "oczekiwać na moderację"
+  },
+  "billing": {
+    "noun": "rozliczeniowy"
+  },
+  "blog": {
+    "noun": "blog"
+  },
+  "border": {
+    "noun": "obramowanie"
+  },
+  "breadcrumb": {
+    "noun": "okruszki"
+  },
+  "Bulk Actions": {
+    "expression": "działania zbiorcze"
+  },
+  "cache": {
+    "noun": "pamięć podręczna"
+  },
+  "caption": {
+    "noun": "podpis"
+  },
+  "changeset": {
+    "noun": "zestaw zmian"
+  },
+  "child theme": {
+    "noun": "motyw potomny"
+  },
+  "compatible": {
+    "adjective": "zgodny [może być też \"kompatybilny\"]"
+  },
+  "content": {
+    "noun": "treść"
+  },
+  "contributing to WordPress": {
+    "noun": "pomoc w rozwoju WordPressa"
+  },
+  "cookie": {
+    "noun": "plik ciasteczka"
+  },
+  "Core Blocks": {
+    "expression": "bloki bazowe"
+  },
+  "could not": {
+    "verb": "nie można było"
+  },
+  "credits": {
+    "noun": "autorzy"
+  },
+  "current": {
+    "adjective": "obecny, aktualny",
+    "noun": "używany"
+  },
+  "custom": {
+    "noun": "własny"
+  },
+  "customize": {
+    "verb": "dostosuj"
+  },
+  "customizer": {
+    "noun": "konfigurator"
+  },
+  "Dark Mode": {
+    "expression": "tryb ciemny"
+  },
+  "dashboard": {
+    "noun": "kokpit"
+  },
+  "database": {
+    "noun": "baza danych"
+  },
+  "deactivate": {
+    "verb": "wyłącz"
+  },
+  "deactivating": {
+    "adverb": "wyłączanie"
+  },
+  "delete": {
+    "verb": "usuwać"
+  },
+  "deprecated": {
+    "verb": "przestarzały"
+  },
+  "documentation on": {
+    "expression": "dokumentacja:"
+  },
+  "eagerness": {
+    "noun": "potrzeba"
+  },
+  "email": {
+    "noun": "e-mail"
+  },
+  "embed": {
+    "verb": "osadzać"
+  },
+  "enable": {
+    "verb": "włącz"
+  },
+  "enter": {
+    "verb": "wpisz"
+  },
+  "excerpt": {
+    "noun": "zajawka"
+  },
+  "feature": {
+    "noun": "funkcja"
+  },
+  "featured image": {
+    "expression": "obrazek wyróżniający"
+  },
+  "featured media": {
+    "expression": "wyróżniający plik medialny"
+  },
+  "feedback": {
+    "noun": "uwagi"
+  },
+  "folder": {
+    "noun": "katalog"
+  },
+  "font": {
+    "noun": "krój pisma"
+  },
+  "Font Face": {
+    "noun": "odmiana kroju pisma"
+  },
+  "font size": {
+    "expression": "wielkość liter"
+  },
+  "for the resource": {
+    "expression": "dla zasobu"
+  },
+  "front page": {
+    "noun": "strona główna"
+  },
+  "fullscreen": {
+    "noun": "tryb pełnoekranowy"
+  },
+  "header": {
+    "noun": "nagłówek"
+  },
+  "high-res": {
+    "noun": "wysoka"
+  },
+  "icon": {
+    "noun": "ikonka"
+  },
+  "ID": {
+    "noun": "identyfikator"
+  },
+  "image": {
+    "noun": "obrazek"
+  },
+  "importer": {
+    "noun": "importer"
+  },
+  "included content": {
+    "expression": "dołączona treść"
+  },
+  "inserter": {
+    "noun": "wybierak"
+  },
+  "involved": {
+    "verb": "biorący udział"
+  },
+  "layout": {
+    "noun": "układ"
+  },
+  "link": {
+    "noun": "odnośnik"
+  },
+  "load": {
+    "verb": "wczytywać"
+  },
+  "locale": {
+    "noun": "ustawienia regionalne"
+  },
+  "log in": {
+    "verb": "logować się"
+  },
+  "logger": {
+    "noun": "rejestrator"
+  },
+  "maintenance release": {
+    "noun": "wydanie z poprawkami błędów"
+  },
+  "media library": {
+    "noun": "multimedia"
+  },
+  "menu location": {
+    "expression": "położenie menu"
+  },
+  "missing function": {
+    "expression": "brak funkcji"
+  },
+  "Multisite Network": {
+    "expression": "sieć witryn"
+  },
+  "new tab": {
+    "expression": "nowa karta"
+  },
+  "nonce": {
+    "noun": "kod jednorazowy"
+  },
+  "notice": {
+    "noun": "powiadomienie"
+  },
+  "overlay": {
+    "noun": "nakładka"
+  },
+  "padding": {
+    "noun": "dopełnienie"
+  },
+  "page": {
+    "noun": "strona"
+  },
+  "panel": {
+    "noun": "panel"
+  },
+  "parent": {
+    "noun": "nadrzędny"
+  },
+  "parent theme": {
+    "noun": "motyw nadrzędny"
+  },
+  "pass as argument": {
+    "verb": "podawać jako argument (funkcji)"
+  },
+  "pattern": {
+    "noun": "wzorzec"
+  },
+  "permalink": {
+    "noun": "bezpośredni odnośnik"
+  },
+  "persistent cache": {
+    "noun": "trwała pamięć podręczna"
+  },
+  "please try a again": {
+    "noun": "proszę spróbować ponownie"
+  },
+  "plugin": {
+    "noun": "wtyczka"
+  },
+  "POS": {
+    "expression": "punkt kasowy"
+  },
+  "post": {
+    "noun": "wpis"
+  },
+  "post format": {
+    "noun": "format wpisu"
+  },
+  "post type": {
+    "noun": "typ treści"
+  },
+  "posts": {
+    "noun": "wpisy"
+  },
+  "preview": {
+    "noun": "podgląd",
+    "verb": "podejrzyj"
+  },
+  "protected": {
+    "adjective": "zabezpieczony"
+  },
+  "pullquote": {
+    "noun": "wtrącenie"
+  },
+  "Query block": {
+    "expression": "blok zapytania"
+  },
+  "rating": {
+    "noun": "ocena"
+  },
+  "Read more": {
+    "expression": "Dowiedz się więcej"
+  },
+  "reflect": {
+    "verb": "mieć wpływ"
+  },
+  "release": {
+    "noun": "wydanie"
+  },
+  "remove": {
+    "verb": "usuwać"
+  },
+  "reusable block": {
+    "expression": "blok wielokrotnego użycia"
+  },
+  "revision": {
+    "noun": "wersja"
+  },
+  "screen": {
+    "noun": "ekran"
+  },
+  "secret key": {
+    "noun": "klucz prywatny"
+  },
+  "security": {
+    "noun": "zabezpieczenia"
+  },
+  "security release": {
+    "noun": "wydanie z poprawkami błędów w zabezpieczeniach"
+  },
+  "Select bulk action": {
+    "expression": "Wybierz masowe działanie"
+  },
+  "service provider": {
+    "noun": "dostawca usług"
+  },
+  "sidebar": {
+    "noun": "panel boczny"
+  },
+  "site": {
+    "noun": "witryna"
+  },
+  "slider": {
+    "noun": "pokaz slajdów"
+  },
+  "slug": {
+    "noun": "uproszczona nazwa"
+  },
+  "Sorry, you are not allowed to": {
+    "expression": "Brak uprawnienia do"
+  },
+  "speculation rule": {
+    "expression": "reguła przewidywania"
+  },
+  "State of the Word": {
+    "noun": "Stan Słowa"
+  },
+  "static": {
+    "adjective": "statyczny"
+  },
+  "sticky": {
+    "noun": "przypięty"
+  },
+  "Style Book": {
+    "noun": "księga stylów"
+  },
+  "stylesheet": {
+    "noun": "arkusz stylów"
+  },
+  "subclass": {
+    "noun": "podklasa"
+  },
+  "submenu": {
+    "noun": "podmenu"
+  },
+  "support": {
+    "noun": "pomoc techniczna",
+    "verb": "obsługiwać"
+  },
+  "support forum": {
+    "noun": "forum wsparcia"
+  },
+  "tagline": {
+    "noun": "slogan"
+  },
+  "template part": {
+    "noun": "fragment szablonu"
+  },
+  "term": {
+    "noun": "taksonomia"
+  },
+  "testimonial": {
+    "noun": "referencja"
+  },
+  "text direction": {
+    "noun": "kierunek pisania"
+  },
+  "the resource": {
+    "noun": "zasób"
+  },
+  "theme": {
+    "noun": "motyw"
+  },
+  "thumbnail": {
+    "noun": "miniaturka"
+  },
+  "trash": {
+    "noun": "kosz",
+    "verb": "przenosić do kosza"
+  },
+  "tutorial": {
+    "noun": "poradnik"
+  },
+  "Twenty Twenty-Five": {
+    "noun": "Dwadzieścia Dwadzieścia-Pięć"
+  },
+  "type": {
+    "noun": "rodzaj"
+  },
+  "unique": {
+    "noun": "unikatowy"
+  },
+  "URL": {
+    "noun": "adres URL"
+  },
+  "video": {
+    "noun": "film"
+  },
+  "view": {
+    "verb": "zobacz"
+  },
+  "visit": {
+    "verb": "przejdź na"
+  },
+  "vivid": {
+    "adjective": "jaskrawy"
+  },
+  "website": {
+    "noun": "witryna internetowa"
+  },
+  "widget": {
+    "noun": "widżet"
+  },
+  "You are about to": {
+    "expression": "Zamierzasz"
+  },
+  "you do not have permission": {
+    "noun": "brak uprawnień"
+  },
+  "your": {
+    "noun": "twój"
+  }
+}

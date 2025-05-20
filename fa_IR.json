@@ -1,0 +1,3786 @@
+{
+  "a valid url": {
+    "expression": "یک نشانی اینترنتی معتبر، یک آدرس معتبر، یک پیوند معتبر"
+  },
+  "able": {
+    "adjective": "قادر هستید، قادر بودن"
+  },
+  "able to": {
+    "expression": "قادر به"
+  },
+  "about": {
+    "preposition": "درباره",
+    "adverb": "به طور تقریبی، تقریبا"
+  },
+  "above": {
+    "preposition": "بالا، بالای"
+  },
+  "above the": {
+    "expression": "بالای، بالاتر از"
+  },
+  "access": {
+    "noun": "دسترسی"
+  },
+  "account": {
+    "noun": "حساب کاربری"
+  },
+  "accounts": {
+    "noun": "حساب‌های کاربری"
+  },
+  "across": {
+    "preposition": "در میان، بخش"
+  },
+  "action": {
+    "noun": "عمل، اقدام"
+  },
+  "activate": {
+    "verb": "فعال نمایید، فعال کردن"
+  },
+  "activated": {
+    "verb": "فعال شده"
+  },
+  "activation": {
+    "noun": "فعال‌سازی"
+  },
+  "active": {
+    "adjective": "فعال"
+  },
+  "add": {
+    "verb": "اضافه نمایید، افزودن"
+  },
+  "add media": {
+    "expression": "افزودن رسانه"
+  },
+  "add to": {
+    "expression": "افزودن به"
+  },
+  "added": {
+    "verb": "افزوده شد، افزوده شده"
+  },
+  "adding": {
+    "verb": "افزودن"
+  },
+  "additional": {
+    "adjective": "اضافی"
+  },
+  "addon": {
+    "noun": "افزودنی"
+  },
+  "address": {
+    "noun": "نشانی"
+  },
+  "addresses": {
+    "noun": "آدرس"
+  },
+  "admin": {
+    "noun": "مدیر"
+  },
+  "administration": {
+    "noun": "مدیریت"
+  },
+  "administrator": {
+    "noun": "مدیر کل"
+  },
+  "administrators": {
+    "noun": "مدیران"
+  },
+  "admins": {
+    "noun": "مدیرها"
+  },
+  "advance": {
+    "noun": "پیش بردن، پیشرفت"
+  },
+  "advanced": {
+    "adjective": "پیشرفته"
+  },
+  "after": {
+    "adverb": "بعد از"
+  },
+  "again": {
+    "adverb": "دوباره"
+  },
+  "ahead": {
+    "adverb": "پیش‌رو"
+  },
+  "align": {
+    "noun": "چینش"
+  },
+  "alignment": {
+    "noun": "چینش، چیدمان"
+  },
+  "all": {
+    "noun": "همه"
+  },
+  "all items": {
+    "expression": "همهٔ موارد، همهٔ گزینه‌ها"
+  },
+  "allow": {
+    "verb": "اجازه دهید، اجازه دادن"
+  },
+  "allowed": {
+    "adjective": "مجاز"
+  },
+  "allows": {
+    "verb": "اجازه می‌دهد"
+  },
+  "allows you": {
+    "expression": "به شما اجازه می‌دهد"
+  },
+  "allows you to": {
+    "expression": "به شما اجازه می‌دهد تا"
+  },
+  "along": {
+    "adverb": "امتداد"
+  },
+  "alpha": {
+    "noun": "آلفا"
+  },
+  "alphanumeric": {
+    "adjective": "الفبا عددی"
+  },
+  "already": {
+    "adverb": "در حال حاضر، پیش از این"
+  },
+  "already exists": {
+    "expression": "از قبل وجود دارد"
+  },
+  "also": {
+    "adverb": "همچنین"
+  },
+  "alt": {
+    "adjective": "جایگزین"
+  },
+  "alternative": {
+    "adjective": "جایگزین"
+  },
+  "am": {
+    "abbreviation": "قبل از ظهر، صبح"
+  },
+  "an error": {
+    "expression": "خطایی"
+  },
+  "an error occurred": {
+    "expression": "خطایی رخ داد"
+  },
+  "another": {
+    "adjective": "دیگری | دیگر"
+  },
+  "anyway": {
+    "adverb": "به هر حال"
+  },
+  "apache": {
+    "noun": "آپاچی"
+  },
+  "api": {
+    "noun": "api"
+  },
+  "app": {
+    "noun": "نرم‌افزار"
+  },
+  "appear": {
+    "verb": "نمایش داده شدن"
+  },
+  "appearance": {
+    "noun": "ظاهر"
+  },
+  "appears": {
+    "verb": "نمایان می‌شود"
+  },
+  "applied": {
+    "adjective": "بکارگرفته‌شده، کاربردی"
+  },
+  "approval": {
+    "noun": "پذیرفتن"
+  },
+  "approve": {
+    "verb": "تأیید"
+  },
+  "april": {
+    "noun": "آوریل"
+  },
+  "arbitrary": {
+    "adjective": "دلخواه | خودسرانه"
+  },
+  "archive": {
+    "noun": "بایگانی"
+  },
+  "archived": {
+    "verb": "بایگانی شده"
+  },
+  "archives": {
+    "noun": "بایگانی‌ها"
+  },
+  "are you sure": {
+    "expression": "اطمینان دارید که"
+  },
+  "are you sure you want": {
+    "expression": "اطمینان دارید که می‌خواهید"
+  },
+  "are you sure you wish": {
+    "expression": "اطمینان دارید که می‌‌خواهید"
+  },
+  "area": {
+    "noun": "ناحیه"
+  },
+  "areas": {
+    "noun": "ناحیه‌ها"
+  },
+  "argument": {
+    "noun": "آرگومان"
+  },
+  "arguments": {
+    "noun": "آرگومان‌ها"
+  },
+  "array": {
+    "noun": "آرایه"
+  },
+  "arrow": {
+    "noun": "فلش، پیکان"
+  },
+  "arrow keys": {
+    "expression": "کلیدهای جهت"
+  },
+  "articles": {
+    "noun": "مقالات"
+  },
+  "artist": {
+    "noun": "هنرمند"
+  },
+  "as a": {
+    "expression": "به‌عنوان یک"
+  },
+  "ask": {
+    "verb": "بپرسید"
+  },
+  "assign": {
+    "verb": "اختصاص دادن"
+  },
+  "assigned": {
+    "verb": "اختصاص داده شده"
+  },
+  "assigned to": {
+    "expression": "تخصیص داده شده"
+  },
+  "associated": {
+    "adjective": "مرتبط"
+  },
+  "associated with": {
+    "expression": "همراه با، مرتبط با"
+  },
+  "at least": {
+    "expression": "دست‌کم"
+  },
+  "attach": {
+    "verb": "پیوست | پیوست کردن | پیوستن | پیوست کنید"
+  },
+  "attached": {
+    "adjective": "پیوست شده | پیوسته"
+  },
+  "attachment": {
+    "noun": "پیوست"
+  },
+  "attachments": {
+    "noun": "پیوست‌ها"
+  },
+  "attempted": {
+    "verb": "تلاش"
+  },
+  "attempting": {
+    "verb": "در حال تلاش"
+  },
+  "attend": {
+    "verb": "رفتن"
+  },
+  "attribute": {
+    "noun": "ویژگی"
+  },
+  "attributes": {
+    "noun": "ویژگی‌ها"
+  },
+  "audio": {
+    "noun": "صدا، شنیداری"
+  },
+  "audio playlist": {
+    "expression": "لیست پخش صوتی"
+  },
+  "audio source": {
+    "expression": "پرونده صوتی، منبع صوت"
+  },
+  "august": {
+    "noun": "اوت، آگوست"
+  },
+  "authentication": {
+    "noun": "تأیید هویت | شناسایی فرد"
+  },
+  "author": {
+    "noun": "نویسنده"
+  },
+  "authorization": {
+    "noun": "مجوز"
+  },
+  "authors": {
+    "noun": "نویسنده"
+  },
+  "automatic": {
+    "adjective": "خودکار"
+  },
+  "automatically": {
+    "adverb": "خودکار"
+  },
+  "autosave": {
+    "adjective": "ذخیرهٔ خودکار"
+  },
+  "available": {
+    "adjective": "دردسترس"
+  },
+  "avatar": {
+    "noun": "نیم‌رخ"
+  },
+  "awaiting": {
+    "verb": "در انتظار"
+  },
+  "away": {
+    "adjective": "دور"
+  },
+  "away from": {
+    "expression": "دور از"
+  },
+  "back to": {
+    "expression": "بازگشت به"
+  },
+  "background": {
+    "noun": "زمینه"
+  },
+  "backup": {
+    "noun": "پشتیبان | نسخه پشتیبان"
+  },
+  "banned": {
+    "verb": "مسدود شده | ممنوعه | غیر مجاز"
+  },
+  "base": {
+    "noun": "اساس، پایه"
+  },
+  "because": {
+    "conjunction": "چون، زیرا"
+  },
+  "before": {
+    "adverb": "قبل از، پیش از"
+  },
+  "begins": {
+    "verb": "شروع، شروع شدن"
+  },
+  "below": {
+    "adverb": "زیر، در زیر"
+  },
+  "benefit": {
+    "noun": "سود، منفعت"
+  },
+  "benefits": {
+    "noun": "مزایا، فواید"
+  },
+  "best": {
+    "adjective": "بهترین"
+  },
+  "better": {
+    "adjective": "بهتر"
+  },
+  "between": {
+    "preposition": "بین"
+  },
+  "big": {
+    "adjective": "بزرگ، درشت"
+  },
+  "bitrate": {
+    "noun": "نرخ‌بیت، Bitrate"
+  },
+  "block": {
+    "noun": "بلوک، قطعه"
+  },
+  "blocked": {
+    "verb": "مسدود شده"
+  },
+  "blockquote": {
+    "noun": "نقل‌قول"
+  },
+  "blocks": {
+    "noun": "بلوک‌ها"
+  },
+  "blog": {
+    "noun": "بلاگ"
+  },
+  "blogs": {
+    "noun": "بلاگ‌ها، وبلاگ‌ها"
+  },
+  "blue": {
+    "adjective": "آبی"
+  },
+  "body": {
+    "noun": "بدنه"
+  },
+  "bold": {
+    "adjective": "برجسته"
+  },
+  "border": {
+    "noun": "مرز، لبه"
+  },
+  "both": {
+    "adverb": "هر دو"
+  },
+  "bottom": {
+    "noun": "پایین"
+  },
+  "box": {
+    "noun": "جعبه"
+  },
+  "boxes": {
+    "noun": "جعبه‌ها"
+  },
+  "break": {
+    "noun": "جداکننده"
+  },
+  "breaks": {
+    "noun": "خط جداگانه"
+  },
+  "broken": {
+    "adjective": "از کار افتاده"
+  },
+  "browse": {
+    "verb": "مرور، مرور کردن"
+  },
+  "browser": {
+    "noun": "مرورگر"
+  },
+  "browsing": {
+    "verb": "در حال مرور، مرور کردن"
+  },
+  "built": {
+    "adjective": "ساخته، ساخته شده"
+  },
+  "bulk": {
+    "noun": "دسته‌جمعی"
+  },
+  "bulleted": {
+    "adjective": "نقطه‌ای، توپی"
+  },
+  "button": {
+    "noun": "دکمه"
+  },
+  "buttons": {
+    "noun": "دکمه‌ها"
+  },
+  "calculate": {
+    "verb": "محاسبه نمودن، محاسبه"
+  },
+  "calculation": {
+    "noun": "محاسبه"
+  },
+  "calendar": {
+    "noun": "تقویم"
+  },
+  "call": {
+    "verb": "تماس گرفتن"
+  },
+  "callback": {
+    "noun": "برگشتی | فراخوان"
+  },
+  "called": {
+    "verb": "نام‌گذاری شده"
+  },
+  "cancel": {
+    "verb": "انصراف، لغو، لغو نمایید"
+  },
+  "canceled": {
+    "verb": "لغو شد"
+  },
+  "cannot create": {
+    "expression": "نمی‌تواند ایجاد کند"
+  },
+  "capabilities": {
+    "noun": "توانایی، قابلیت‌ها"
+  },
+  "capability": {
+    "noun": "توانایی، قابلیت"
+  },
+  "caption": {
+    "noun": "عنوان"
+  },
+  "captions": {
+    "noun": "زیرنویس‌ها، عنوان‌ها"
+  },
+  "case": {
+    "noun": "مورد، وضعیت | پرونده"
+  },
+  "categories": {
+    "noun": "دسته‌ها"
+  },
+  "category": {
+    "noun": "دسته"
+  },
+  "cause": {
+    "verb": "به خاطر | خواهد شد"
+  },
+  "cell": {
+    "noun": "سلول"
+  },
+  "center": {
+    "noun": "وسط"
+  },
+  "change": {
+    "verb": "تغییر دهید، تغییر"
+  },
+  "changed": {
+    "verb": "تغییر کرده، تغییر کرد"
+  },
+  "changes": {
+    "noun": "تغییرات"
+  },
+  "changeset": {
+    "noun": "تغییرات"
+  },
+  "changesets": {
+    "noun": "تغییرات"
+  },
+  "chapters": {
+    "noun": "فصل‌ها"
+  },
+  "character": {
+    "noun": "کاراکتر، نویسه"
+  },
+  "characters": {
+    "noun": "حرف، حروف",
+    "expression": "نویسه‌ها"
+  },
+  "check": {
+    "verb": "بررسی نمایید"
+  },
+  "check your email": {
+    "expression": "ایمیل‌تان را بررسی نمایید"
+  },
+  "check your inbox": {
+    "expression": "صندوق‌دریافتی خود را بررسی نمایید"
+  },
+  "checking": {
+    "verb": "بررسی کنید | بررسی"
+  },
+  "child": {
+    "noun": "فرزند"
+  },
+  "children": {
+    "noun": "فرزندان"
+  },
+  "chinese": {
+    "noun": "چینی"
+  },
+  "choose": {
+    "verb": "انتخاب نمایید، انتخاب"
+  },
+  "chosen": {
+    "adjective": "انتخاب شده"
+  },
+  "city": {
+    "noun": "شهر"
+  },
+  "class": {
+    "noun": "کلاس"
+  },
+  "clear": {
+    "verb": "شفاف نمایید، واضح کنید"
+  },
+  "click": {
+    "verb": "کلیک نمایید، کلیک"
+  },
+  "clicking": {
+    "verb": "کلیک"
+  },
+  "client": {
+    "noun": "کاربر، مشتری"
+  },
+  "close": {
+    "verb": "بستن، ببندید"
+  },
+  "closed": {
+    "adjective": "بسته شده"
+  },
+  "cloud": {
+    "noun": "ابر"
+  },
+  "code": {
+    "noun": "کد"
+  },
+  "codex": {
+    "noun": "مستندات"
+  },
+  "coding": {
+    "verb": "رمزنگاری، کدنویسی"
+  },
+  "collect": {
+    "verb": "جمع‌آوری"
+  },
+  "collection": {
+    "noun": "مجموعه"
+  },
+  "color": {
+    "noun": "رنگ"
+  },
+  "column": {
+    "noun": "ستون"
+  },
+  "com": {
+    "noun": "com"
+  },
+  "come": {
+    "verb": "آمدن"
+  },
+  "commas": {
+    "noun": "ویرگول لاتین | کاما"
+  },
+  "comment": {
+    "noun": "دیدگاه"
+  },
+  "commenter": {
+    "noun": "نویسنده دیدگاه"
+  },
+  "comments": {
+    "noun": "دیدگاه‌ها"
+  },
+  "compatible": {
+    "adjective": "سازگار"
+  },
+  "complete": {
+    "adjective": "کامل",
+    "verb": "کامل کردن"
+  },
+  "completed": {
+    "adjective": "کامل شده، تکمیل شده"
+  },
+  "compliant": {
+    "adjective": "سازگار"
+  },
+  "config": {
+    "noun": "پیکربندی"
+  },
+  "configuration": {
+    "noun": "پیکربندی"
+  },
+  "confirm": {
+    "verb": "تایید نمودن"
+  },
+  "confirmation": {
+    "noun": "تأییدنامه، تاییدیه"
+  },
+  "conflicts": {
+    "noun": "تداخل، تضاد، ناسازگاری"
+  },
+  "connect": {
+    "verb": "برقراری ارتباط، وصل شدن"
+  },
+  "connection": {
+    "noun": "اتصال"
+  },
+  "constant": {
+    "adjective": "ثابت"
+  },
+  "constructor": {
+    "noun": "سازنده"
+  },
+  "contact": {
+    "noun": "تماس",
+    "verb": "تماس بگیرید، تماس"
+  },
+  "contain": {
+    "verb": "حاوی"
+  },
+  "content": {
+    "noun": "محتوا"
+  },
+  "contents": {
+    "noun": "محتوا"
+  },
+  "contexts": {
+    "noun": "متن | زمینه‌ها"
+  },
+  "continue": {
+    "verb": "ادامه| ادامه دهید | ادامه داشت | ادامه دادن"
+  },
+  "contributor": {
+    "noun": "مشارکت‌کننده، همکار"
+  },
+  "control": {
+    "verb": "کنترل کردن، کنترل"
+  },
+  "controls": {
+    "noun": "کنترل",
+    "verb": "کنترل‌ می‌کند"
+  },
+  "convert": {
+    "verb": "تبدیل"
+  },
+  "converted": {
+    "verb": "تبدیل شده"
+  },
+  "cookies": {
+    "noun": "کوکی‌ها"
+  },
+  "copy": {
+    "verb": "کپی کردن",
+    "noun": "رونوشت، کپی"
+  },
+  "core": {
+    "noun": "هسته"
+  },
+  "correct": {
+    "adjective": "صحیح، درست"
+  },
+  "counts": {
+    "noun": "تعداد"
+  },
+  "couple": {
+    "noun": "چند"
+  },
+  "create": {
+    "verb": "ایجاد نمایید، ایجاد"
+  },
+  "created": {
+    "verb": "ایجاد شد، ایجاد شده"
+  },
+  "created by": {
+    "expression": "ساخته‌شده توسط"
+  },
+  "creating": {
+    "verb": "ساختن"
+  },
+  "creation": {
+    "noun": "ایجاد"
+  },
+  "crop": {
+    "verb": "برش"
+  },
+  "cropping": {
+    "verb": "قاب‌بُری، برش"
+  },
+  "css": {
+    "noun": "css"
+  },
+  "ctrl": {
+    "noun": "کنترل، ctrl"
+  },
+  "current": {
+    "adjective": "فعلی"
+  },
+  "currently": {
+    "adverb": "درحال‌حاضر"
+  },
+  "custom": {
+    "adjective": "سفارشی"
+  },
+  "customization": {
+    "noun": "شخصی‌سازی | تغییرات"
+  },
+  "customizations": {
+    "noun": "سفارشی‌سازی‌ها"
+  },
+  "customize": {
+    "verb": "سفارشی کردن، شخصی‌سازی"
+  },
+  "customizer": {
+    "noun": "سفارشی‌ساز"
+  },
+  "customizing": {
+    "verb": "درحال شخصی‌سازی"
+  },
+  "cut": {
+    "verb": "برش زدن، برش"
+  },
+  "daily": {
+    "adjective": "روزانه"
+  },
+  "dashboard": {
+    "noun": "پیشخوان"
+  },
+  "data": {
+    "noun": "داده"
+  },
+  "database": {
+    "noun": "پایگاه‌داده"
+  },
+  "database server": {
+    "expression": "سرور پایگاه داده"
+  },
+  "date": {
+    "noun": "تاریخ"
+  },
+  "day": {
+    "noun": "روز"
+  },
+  "days": {
+    "noun": "روزها"
+  },
+  "deactivate": {
+    "verb": "غیر فعال"
+  },
+  "december": {
+    "noun": "دسامبر"
+  },
+  "decide": {
+    "verb": "تصمیم گرفتن، تصمیم"
+  },
+  "decrease": {
+    "verb": "کاهش"
+  },
+  "default": {
+    "noun": "پیش‌فرض"
+  },
+  "define": {
+    "verb": "تعریف کردن | تعریف"
+  },
+  "defined": {
+    "adjective": "تعریف شده"
+  },
+  "delete": {
+    "verb": "حذف نمایید، حذف"
+  },
+  "deleted": {
+    "verb": "حذف‌شده"
+  },
+  "deleting": {
+    "verb": "پاک کردن | در حال پاک کردن"
+  },
+  "deletion": {
+    "noun": "حذف"
+  },
+  "deprecated": {
+    "verb": "منسوخ، منسوخ شده"
+  },
+  "describe": {
+    "verb": "شرح دادن"
+  },
+  "description": {
+    "noun": "توضیح"
+  },
+  "design": {
+    "noun": "طراحی",
+    "verb": "طراحی کردن"
+  },
+  "designer": {
+    "noun": "طراح"
+  },
+  "destination": {
+    "noun": "مقصد"
+  },
+  "detached": {
+    "adjective": "جدا شده"
+  },
+  "details": {
+    "noun": "جزئیات"
+  },
+  "detected": {
+    "verb": "شناسایی"
+  },
+  "development": {
+    "noun": "توسعه"
+  },
+  "device": {
+    "noun": "دستگاه"
+  },
+  "dialog": {
+    "noun": "کادر"
+  },
+  "different": {
+    "adjective": "متفاوت"
+  },
+  "dimensions": {
+    "noun": "اندازه"
+  },
+  "direct": {
+    "adjective": "مستقیم"
+  },
+  "direction": {
+    "noun": "جهت"
+  },
+  "directly": {
+    "adverb": "به طور مستقیم"
+  },
+  "directories": {
+    "noun": "پوشه‌ها"
+  },
+  "directory": {
+    "noun": "پوشه"
+  },
+  "disable": {
+    "verb": "غیر فعال"
+  },
+  "disabled": {
+    "verb": "غیرفعال شده"
+  },
+  "disables": {
+    "verb": "غیرفعال | غیرفعال کند"
+  },
+  "dismiss": {
+    "verb": "رد کردن"
+  },
+  "display": {
+    "verb": "نمایش، نمایش دادن"
+  },
+  "displayed": {
+    "verb": "نمایش داده شده"
+  },
+  "displays": {
+    "verb": "نمایش می‌دهد، نشان می‌دهد"
+  },
+  "disposition": {
+    "noun": "حالت | وضع | وضعیت"
+  },
+  "dns": {
+    "noun": "DNS"
+  },
+  "do not want": {
+    "expression": "نمی‌خواهید"
+  },
+  "do you want": {
+    "expression": "آیا می‌خواهید"
+  },
+  "document": {
+    "noun": "سند"
+  },
+  "documentation": {
+    "noun": "مستندات"
+  },
+  "does not exist": {
+    "expression": "وجود ندارد"
+  },
+  "does not support": {
+    "expression": "پشتیبانی نمی‌کند"
+  },
+  "domain": {
+    "noun": "دامنه"
+  },
+  "domains": {
+    "noun": "دامنه‌ها"
+  },
+  "done": {
+    "verb": "انجام شد"
+  },
+  "down": {
+    "adjective": "در دسترس نمی‌باشد"
+  },
+  "download": {
+    "verb": "دریافت"
+  },
+  "downloading": {
+    "verb": "در حال دریافت"
+  },
+  "draft": {
+    "noun": "پیش‌نویس"
+  },
+  "drafts": {
+    "noun": "پیش‌نویس‌ها، پیش‌نویس"
+  },
+  "drag": {
+    "verb": "کشیدن"
+  },
+  "drop": {
+    "verb": "رها کردن"
+  },
+  "dropdown": {
+    "noun": "کشویی"
+  },
+  "due": {
+    "adjective": "به دلیل",
+    "noun": "بدهی"
+  },
+  "due to": {
+    "expression": "به دلیل، به سبب، به واسطه"
+  },
+  "edit": {
+    "verb": "ویرایش"
+  },
+  "edit user": {
+    "expression": "ویرایش کاربر"
+  },
+  "editable": {
+    "adjective": "قابل ویرایش"
+  },
+  "edited": {
+    "verb": "ویرایش شده"
+  },
+  "editing": {
+    "verb": "درحال ویرایش، ویرایش"
+  },
+  "editor": {
+    "noun": "ویرایشگر"
+  },
+  "edits": {
+    "noun": "ویرایش‌ها"
+  },
+  "either": {
+    "conjunction": "یا، هم"
+  },
+  "element": {
+    "noun": "عنصر، المان"
+  },
+  "elements": {
+    "noun": "عناصر"
+  },
+  "email": {
+    "noun": "ایمیل"
+  },
+  "email address": {
+    "expression": "آدرس ایمیل"
+  },
+  "embed": {
+    "verb": "جاسازی کردن، جاسازی"
+  },
+  "emoticons": {
+    "noun": "شکلک‌ها"
+  },
+  "empty": {
+    "adjective": "خالی"
+  },
+  "enable": {
+    "verb": "فعال، فعال نمایید، فعالسازی"
+  },
+  "enabled": {
+    "verb": "فعال شد، فعال بودن"
+  },
+  "enables": {
+    "verb": "قادر ساختن، توانا ساختن"
+  },
+  "enabling": {
+    "verb": "در حال فعال‌سازی"
+  },
+  "end": {
+    "noun": "آخر"
+  },
+  "enhancements": {
+    "noun": "پیشرفت‌ها، بهبودها"
+  },
+  "enjoy": {
+    "verb": "لذت بردن"
+  },
+  "ensure": {
+    "verb": "مطمئن شوید"
+  },
+  "enter": {
+    "verb": "وارد نمایید"
+  },
+  "enter a username": {
+    "expression": "یک نام‌کاربری وارد نمایید"
+  },
+  "enter your password": {
+    "expression": "کلمه‌عبور خود را وارد نمایید"
+  },
+  "entered": {
+    "verb": "وارد شد، وارد شدن"
+  },
+  "entries": {
+    "noun": "ورودی‌ها"
+  },
+  "entry": {
+    "noun": "ورودی | نوشته، مطلب"
+  },
+  "equal": {
+    "adjective": "مساوی، برابر"
+  },
+  "error": {
+    "noun": "خطا"
+  },
+  "errors": {
+    "noun": "خطاها"
+  },
+  "esc": {
+    "noun": "esc"
+  },
+  "escape": {
+    "verb": "فرار کردن"
+  },
+  "even": {
+    "adjective": "زوج"
+  },
+  "event": {
+    "noun": "رویداد"
+  },
+  "events": {
+    "noun": "رویدادها"
+  },
+  "example": {
+    "noun": "نمونه"
+  },
+  "examples": {
+    "noun": "نمونه‌ها"
+  },
+  "exceeded": {
+    "verb": "بیش از حد"
+  },
+  "exceeds": {
+    "verb": "فراتر رفتن"
+  },
+  "except": {
+    "preposition": "به جز"
+  },
+  "excerpt": {
+    "noun": "چکیده"
+  },
+  "excerpts": {
+    "noun": "چکیده‌ها"
+  },
+  "excludes": {
+    "verb": "مستثنی نمودن | درنظر نگرفتن"
+  },
+  "exclusive": {
+    "adjective": "انحصاری | منحصربه‌فرد"
+  },
+  "exist": {
+    "verb": "وجود دارد"
+  },
+  "existent": {
+    "adjective": "وجود دارد، هست"
+  },
+  "existing": {
+    "adjective": "موجود"
+  },
+  "exists": {
+    "verb": "وجود دارد، وجود داشتن"
+  },
+  "expand": {
+    "verb": "توسعه دادن"
+  },
+  "expected": {
+    "verb": "انتظار داشتن"
+  },
+  "expired": {
+    "verb": "منقضی شده"
+  },
+  "export": {
+    "verb": "برون‌بری"
+  },
+  "extension": {
+    "noun": "گسترش"
+  },
+  "extra": {
+    "adjective": "اضافی، زیادی"
+  },
+  "failed": {
+    "verb": "ناموفق شد | ناموفق بود | به مشکل خورد"
+  },
+  "failed image": {
+    "expression": "تصویر خراب"
+  },
+  "failure": {
+    "noun": "شکست، خرابی"
+  },
+  "family": {
+    "noun": "نوع"
+  },
+  "favorites": {
+    "noun": "علاقه‌مندی‌ها"
+  },
+  "feature": {
+    "noun": "ویژگی، قابلیت"
+  },
+  "featured": {
+    "verb": "ویژه"
+  },
+  "featured image": {
+    "expression": "تصویر ویژه"
+  },
+  "features": {
+    "noun": "امکانات"
+  },
+  "february": {
+    "noun": "فوریه"
+  },
+  "feed": {
+    "noun": "خوراک"
+  },
+  "feedback": {
+    "noun": "بازخورد"
+  },
+  "field": {
+    "adjective": "زمینه، ورودی، فیلد"
+  },
+  "fields": {
+    "noun": "زمینه‌ها"
+  },
+  "file": {
+    "noun": "پرونده"
+  },
+  "file size": {
+    "expression": "اندازه پرونده | حجم فایل"
+  },
+  "filename": {
+    "noun": "نام فایل"
+  },
+  "files": {
+    "noun": "پرونده‌ها"
+  },
+  "fill": {
+    "verb": "پر کردن"
+  },
+  "filter": {
+    "noun": "صافی"
+  },
+  "filters": {
+    "noun": "صافی‌ها"
+  },
+  "find": {
+    "verb": "بیابید، یافتن، پیدا نمایید"
+  },
+  "first": {
+    "adjective": "اول"
+  },
+  "fix": {
+    "noun": "ثابت | برطرف کنید"
+  },
+  "fixed": {
+    "adjective": "حل شده"
+  },
+  "flash": {
+    "noun": "فلاش، برق"
+  },
+  "focus": {
+    "noun": "تمرکز"
+  },
+  "folder": {
+    "noun": "پوشه"
+  },
+  "followed": {
+    "verb": "دنبال شده"
+  },
+  "following": {
+    "adjective": "زیر"
+  },
+  "following link": {
+    "expression": "روی پیوند، پیوند زیر"
+  },
+  "font": {
+    "noun": "فونت"
+  },
+  "footer": {
+    "noun": "پابرگ"
+  },
+  "footnote": {
+    "noun": "پانوشت، پاورقی"
+  },
+  "for this site": {
+    "expression": "برای این سایت"
+  },
+  "forbidden": {
+    "adjective": "ممنوع"
+  },
+  "force": {
+    "noun": "نیرو"
+  },
+  "form": {
+    "noun": "فرم"
+  },
+  "format": {
+    "noun": "ساختار"
+  },
+  "formats": {
+    "noun": "ساختارها"
+  },
+  "formatting": {
+    "verb": "ساختار"
+  },
+  "forms": {
+    "noun": "فرم‌ها"
+  },
+  "forums": {
+    "noun": "انجمن"
+  },
+  "forward": {
+    "verb": "انتقال | قابلیت انتقال | بفرستید"
+  },
+  "found": {
+    "verb": "یافته شد، پیدا شد"
+  },
+  "frame": {
+    "noun": "چهارچوب، اسکلت"
+  },
+  "free": {
+    "adjective": "رایگان، آزاد"
+  },
+  "friday": {
+    "noun": "جمعه"
+  },
+  "from": {
+    "preposition": "از"
+  },
+  "front": {
+    "adjective": "نخست"
+  },
+  "front end": {
+    "expression": "سمت کاربر"
+  },
+  "ftp": {
+    "noun": "ftp"
+  },
+  "fullscreen": {
+    "adjective": "تمام‌صفحه"
+  },
+  "fully": {
+    "adverb": "به‌طور کامل، تماما"
+  },
+  "function": {
+    "noun": "تابع"
+  },
+  "functional": {
+    "adjective": "تابعی، عملکردی"
+  },
+  "functionality": {
+    "noun": "عملکرد، قابلیت"
+  },
+  "functions": {
+    "noun": "توابع"
+  },
+  "future": {
+    "adjective": "آینده"
+  },
+  "gallery": {
+    "noun": "گالری"
+  },
+  "general": {
+    "adjective": "سراسری، عمومی"
+  },
+  "give": {
+    "verb": "دادن"
+  },
+  "given": {
+    "adjective": "داده‌شده"
+  },
+  "gives": {
+    "verb": "می‌دهد، می‌بخشد"
+  },
+  "giving": {
+    "verb": "دادن، بخشیدن"
+  },
+  "gmt": {
+    "noun": "منطقه زمانی گرینویچ - gmt"
+  },
+  "go": {
+    "verb": "بریم، برو، رفتن"
+  },
+  "going": {
+    "verb": "رفتن"
+  },
+  "got": {
+    "verb": "بدست آوردن"
+  },
+  "grant": {
+    "verb": "بخشش، اعطا کردن"
+  },
+  "gravatar": {
+    "noun": "گراواتار"
+  },
+  "greater": {
+    "adjective": "بزرگتر"
+  },
+  "greek": {
+    "adjective": "یونانی"
+  },
+  "grid": {
+    "noun": "شبکه‌ای"
+  },
+  "group": {
+    "noun": "گروه"
+  },
+  "guid": {
+    "noun": "guid"
+  },
+  "gutenberg": {
+    "noun": "گوتنبرگ"
+  },
+  "hand": {
+    "noun": "دست"
+  },
+  "handle": {
+    "noun": "دسته",
+    "verb": "رسیدگی"
+  },
+  "hang": {
+    "verb": "آویزان شدن"
+  },
+  "having": {
+    "verb": "داشتن"
+  },
+  "header": {
+    "noun": "سربرگ"
+  },
+  "header image": {
+    "expression": "تصویر سربرگ"
+  },
+  "headers": {
+    "noun": "سربرگ‌ها"
+  },
+  "heading": {
+    "noun": "تیتر، سرفصل، سرمتن"
+  },
+  "headings": {
+    "noun": "تیترها، سرفصل‌ها، سرمتن‌ها"
+  },
+  "height": {
+    "noun": "ارتفاع"
+  },
+  "help": {
+    "noun": "راهنما، راهنمایی، کمک"
+  },
+  "here": {
+    "adverb": "اینجا"
+  },
+  "hi": {
+    "noun": "درود، سلام"
+  },
+  "hide": {
+    "noun": "مخفی"
+  },
+  "hierarchical": {
+    "adjective": "سلسله مراتبی"
+  },
+  "hierarchy": {
+    "noun": "سلسله مراتب"
+  },
+  "highlighting": {
+    "verb": "برجسته سازی"
+  },
+  "hit": {
+    "verb": "فشردن، فشار دهید، ضربه زدن | کلیک کردن"
+  },
+  "home": {
+    "noun": "خانه"
+  },
+  "homepage": {
+    "noun": "صفحه اصلی"
+  },
+  "hook": {
+    "noun": "قلاب، هوک، hook"
+  },
+  "horizontal": {
+    "adjective": "افقی"
+  },
+  "host": {
+    "noun": "میزبان"
+  },
+  "hour": {
+    "noun": "ساعت"
+  },
+  "hours": {
+    "noun": "ساعات، ساعت‌ها"
+  },
+  "hover": {
+    "noun": "حالت قرارگیری ماوس، هاور"
+  },
+  "how": {
+    "adverb": "چطور، چگونه"
+  },
+  "howdy": {
+    "expression": "چطوری"
+  },
+  "htaccess": {
+    "noun": "htaccess"
+  },
+  "html": {
+    "noun": "html"
+  },
+  "http": {
+    "noun": "http"
+  },
+  "https": {
+    "noun": "https"
+  },
+  "human": {
+    "noun": "انسان"
+  },
+  "human readable": {
+    "expression": "قابل خواندن توسط انسان"
+  },
+  "icon": {
+    "noun": "آیکون"
+  },
+  "icons": {
+    "noun": "آیکون‌ها"
+  },
+  "id": {
+    "noun": "شناسه"
+  },
+  "identifier": {
+    "noun": "مشخص‌کننده"
+  },
+  "ids": {
+    "noun": "شناسه‌ها"
+  },
+  "if": {
+    "conjunction": "چنانچه، اگر"
+  },
+  "if you want": {
+    "expression": "اگر می‌خواهید، در صورتی که می‌خواهید"
+  },
+  "ignore": {
+    "verb": "نادیده گرفتن"
+  },
+  "image": {
+    "noun": "تصویر"
+  },
+  "images": {
+    "noun": "تصاویر"
+  },
+  "immediately": {
+    "adverb": "فوری، به‌سرعت"
+  },
+  "import": {
+    "verb": "درون‌ریزی"
+  },
+  "importer": {
+    "noun": "درون‌ریز"
+  },
+  "improved": {
+    "verb": "بهبود یافته"
+  },
+  "improvements": {
+    "noun": "پیشرفت‌ها، بهبودها"
+  },
+  "in order": {
+    "expression": "به‌ترتیب"
+  },
+  "inactive": {
+    "adjective": "غیرفعال"
+  },
+  "inbox": {
+    "noun": "صندوق ایمیل"
+  },
+  "include": {
+    "verb": "مشمول، شامل"
+  },
+  "included": {
+    "adjective": "شامل شده، مشمول شده"
+  },
+  "includes": {
+    "verb": "شامل"
+  },
+  "including": {
+    "verb": "شامل، مسمول، محتوی"
+  },
+  "inclusion": {
+    "noun": "گنجاندن"
+  },
+  "inclusive": {
+    "adjective": "شامل"
+  },
+  "incorrect": {
+    "adjective": "نادرست، اشتباه، غلط"
+  },
+  "increase": {
+    "noun": "افزایش، افزایش دادن"
+  },
+  "indent": {
+    "noun": "تو رفتگی"
+  },
+  "individual": {
+    "adjective": "فردی، شخصی"
+  },
+  "individually": {
+    "adverb": "به طور جداگانه، انحصاری"
+  },
+  "info": {
+    "noun": "اطلاعات"
+  },
+  "information": {
+    "noun": "اطلاعات"
+  },
+  "inline": {
+    "adjective": "توکار"
+  },
+  "insert": {
+    "verb": "درج نمایید، درج"
+  },
+  "inserted": {
+    "verb": "وارده"
+  },
+  "install": {
+    "verb": "نصب نمایید، نصب"
+  },
+  "installation": {
+    "noun": "نصب"
+  },
+  "installations": {
+    "noun": "نصب‌ها"
+  },
+  "installed": {
+    "verb": "نصب شد، نصب شده است"
+  },
+  "installing": {
+    "verb": "در حال نصب"
+  },
+  "instead": {
+    "adverb": "بجای"
+  },
+  "instead the": {
+    "expression": "به‌جای"
+  },
+  "integrating": {
+    "verb": "یکپارچه‌سازی کردن، ادغام کردن"
+  },
+  "integration": {
+    "noun": "یکپارچه‌سازی، ادغام"
+  },
+  "into": {
+    "preposition": "داخل | در"
+  },
+  "introduce": {
+    "verb": "معرفی کردن"
+  },
+  "invalid": {
+    "adjective": "نامعتبر"
+  },
+  "invalid value": {
+    "expression": "مقدار نامعتبر"
+  },
+  "ip": {
+    "noun": "آی پی، ip"
+  },
+  "ip address": {
+    "expression": "نشانی ip"
+  },
+  "is already": {
+    "expression": "در حال حاضر"
+  },
+  "is deprecated": {
+    "expression": "منسوخ شده است"
+  },
+  "is disabled": {
+    "expression": "غیرفعال است"
+  },
+  "is empty": {
+    "expression": "خالی است"
+  },
+  "is missing": {
+    "expression": "گمشده است"
+  },
+  "is required": {
+    "expression": "مورد نیاز است"
+  },
+  "italic": {
+    "adjective": "کج"
+  },
+  "item": {
+    "noun": "مورد | گزینه"
+  },
+  "items": {
+    "noun": "موارد، آیتم‌ها"
+  },
+  "items list": {
+    "expression": "لیست موارد"
+  },
+  "itself": {
+    "pronoun": "خودش"
+  },
+  "january": {
+    "noun": "ژانویه"
+  },
+  "javascript": {
+    "noun": "جاوا اسکریپت"
+  },
+  "js": {
+    "noun": "js"
+  },
+  "jsonp": {
+    "noun": "jsonp"
+  },
+  "july": {
+    "noun": "جولای"
+  },
+  "jump": {
+    "noun": "پرش، پریدن"
+  },
+  "june": {
+    "noun": "ژوئن"
+  },
+  "just": {
+    "adverb": "فقط"
+  },
+  "kb": {
+    "noun": "کیلوبایت، kb"
+  },
+  "keep": {
+    "verb": "نگه‌داری"
+  },
+  "key": {
+    "noun": "کلید"
+  },
+  "keyboard": {
+    "noun": "صفحه کلید"
+  },
+  "keys": {
+    "noun": "کلیدها"
+  },
+  "know": {
+    "verb": "شناخته شده"
+  },
+  "label": {
+    "noun": "برچسب"
+  },
+  "labels": {
+    "noun": "برچسب‌ها"
+  },
+  "language": {
+    "noun": "زبان"
+  },
+  "large": {
+    "adjective": "بزرگ"
+  },
+  "larger": {
+    "adjective": "بزرگتر"
+  },
+  "last": {
+    "adjective": "آخر، آخرین"
+  },
+  "last updated": {
+    "expression": "آخرین به‌روزرسانی"
+  },
+  "later": {
+    "adverb": "بعد"
+  },
+  "latest": {
+    "adjective": "آخرین، تازه‌ترین"
+  },
+  "layout": {
+    "noun": "طرح، چیدمان"
+  },
+  "lead": {
+    "noun": "هدایت | رهبری"
+  },
+  "learn": {
+    "verb": "یادگیری | آموختن"
+  },
+  "learn more": {
+    "expression": "بیشتر بدانید"
+  },
+  "least": {
+    "adjective": "کمترین، دست کم"
+  },
+  "leave": {
+    "verb": "گذاشتن"
+  },
+  "left": {
+    "adjective": "چپ",
+    "verb": "ترک کنید"
+  },
+  "length": {
+    "noun": "طول"
+  },
+  "less": {
+    "adjective": "کمتر"
+  },
+  "letter": {
+    "noun": "نامه"
+  },
+  "letters": {
+    "noun": "حروف"
+  },
+  "level": {
+    "noun": "سطح"
+  },
+  "library": {
+    "noun": "کتابخانه"
+  },
+  "light": {
+    "adjective": "روشن | نور | سبک"
+  },
+  "like": {
+    "adjective": "شبیه، مانند",
+    "verb": "دوست دارید | مایل هستید"
+  },
+  "like to": {
+    "expression": "شبیه به"
+  },
+  "limit": {
+    "noun": "حدود، حد",
+    "verb": "محدود نمایید"
+  },
+  "line": {
+    "noun": "خط"
+  },
+  "lines": {
+    "noun": "خطوط، خط‌ها"
+  },
+  "link": {
+    "noun": "پیوند"
+  },
+  "link to": {
+    "expression": "پیوند به"
+  },
+  "links": {
+    "noun": "پیوندها"
+  },
+  "list": {
+    "noun": "فهرست"
+  },
+  "listing": {
+    "verb": "فهرست | لیست کردن"
+  },
+  "live": {
+    "adjective": "زنده"
+  },
+  "live preview": {
+    "expression": "پیش‌نمایش زنده"
+  },
+  "load": {
+    "noun": "بارگذاری"
+  },
+  "locale": {
+    "noun": "محلی | زبان محلی"
+  },
+  "location": {
+    "noun": "مکان"
+  },
+  "locations": {
+    "noun": "جایگاه"
+  },
+  "locking": {
+    "verb": "قفل نمودن"
+  },
+  "log in": {
+    "expression": "ورود"
+  },
+  "log in to": {
+    "expression": "ورود به"
+  },
+  "log out": {
+    "expression": "بیرون رفتن"
+  },
+  "logged": {
+    "verb": "وارد شده"
+  },
+  "logged in": {
+    "expression": "واردشده"
+  },
+  "logging": {
+    "verb": "ورود به سیستم | ثبت گزارش"
+  },
+  "login": {
+    "noun": "ورود"
+  },
+  "loginlink": {
+    "expression": "پیوند ورود"
+  },
+  "logo": {
+    "noun": "آرم"
+  },
+  "long": {
+    "adjective": "طولانی"
+  },
+  "longer": {
+    "adjective": "دیگر"
+  },
+  "look": {
+    "verb": "نما | مشاهده"
+  },
+  "looking": {
+    "verb": "جستجو"
+  },
+  "looks": {
+    "verb": "به نظر رسیدن"
+  },
+  "loop": {
+    "noun": "چرخه"
+  },
+  "lost": {
+    "verb": "از دست دادن"
+  },
+  "lower": {
+    "adjective": "کوچک"
+  },
+  "lowercase": {
+    "noun": "حروف کوچک"
+  },
+  "made": {
+    "verb": "ساختن"
+  },
+  "main": {
+    "adjective": "اصلی"
+  },
+  "main site": {
+    "expression": "سایت اصلی"
+  },
+  "maintenance": {
+    "noun": "در دست تعمیر"
+  },
+  "making": {
+    "verb": "ساختن"
+  },
+  "manage": {
+    "verb": "مدیریت نمایید، مدیریت"
+  },
+  "management": {
+    "noun": "مدیریت"
+  },
+  "manager": {
+    "noun": "مدیر"
+  },
+  "managing": {
+    "verb": "مدیریت"
+  },
+  "manual": {
+    "adjective": "دستی",
+    "noun": "راهنما"
+  },
+  "manually": {
+    "adverb": "دستی"
+  },
+  "march": {
+    "noun": "مارس"
+  },
+  "mark": {
+    "verb": "نشان‌دار نمودن"
+  },
+  "marked": {
+    "adjective": "نشان‌دار شده"
+  },
+  "marked as spam": {
+    "expression": "علامت خورده به عنوان هرزنامه/جفنگ"
+  },
+  "match": {
+    "noun": "هم‌‌خوانی"
+  },
+  "matching": {
+    "adjective": "سازگار"
+  },
+  "mature": {
+    "adjective": "بالغ"
+  },
+  "maximum": {
+    "adjective": "بیشترین"
+  },
+  "maybe": {
+    "adverb": "شاید"
+  },
+  "me": {
+    "pronoun": "من"
+  },
+  "means": {
+    "verb": "به این معنی‌ست"
+  },
+  "media": {
+    "noun": "رسانه"
+  },
+  "media file": {
+    "expression": "پرونده رسانه"
+  },
+  "media items": {
+    "expression": "موارد رسانه‌ای"
+  },
+  "mediaelement": {
+    "expression": "عنصر رسانه"
+  },
+  "medium": {
+    "adjective": "متوسط، میانه"
+  },
+  "member": {
+    "noun": "عضو"
+  },
+  "menu": {
+    "noun": "فهرست"
+  },
+  "menu item": {
+    "expression": "گزینه‌ی فهرست"
+  },
+  "menu items": {
+    "expression": "موارد فهرست | آیتم‌های فهرست"
+  },
+  "menus": {
+    "noun": "فهرست‌ها"
+  },
+  "message": {
+    "noun": "پیام، پیغام"
+  },
+  "meta": {
+    "noun": "متا"
+  },
+  "metadata": {
+    "noun": "فراداده | داده‌های جانبی"
+  },
+  "method": {
+    "noun": "روش"
+  },
+  "might": {
+    "noun": "ممکن است"
+  },
+  "mime": {
+    "noun": "mime"
+  },
+  "minimize": {
+    "verb": "کمترین"
+  },
+  "minute": {
+    "noun": "دقیقه"
+  },
+  "missing": {
+    "adjective": "فاقد، کم دارد"
+  },
+  "mission": {
+    "noun": "ماموریت، تکلیف"
+  },
+  "mistake": {
+    "noun": "اشتباه"
+  },
+  "mobile": {
+    "noun": "موبایل"
+  },
+  "mode": {
+    "noun": "حالت"
+  },
+  "moderate": {
+    "verb": "نظارت کردن | متوسط، میانه رو"
+  },
+  "moderation": {
+    "verb": "مدیریت کردن"
+  },
+  "modified": {
+    "verb": "ویرایش شده"
+  },
+  "modify": {
+    "verb": "تغییر دادن"
+  },
+  "module": {
+    "noun": "ماژول | سنجه"
+  },
+  "month": {
+    "noun": "ماه"
+  },
+  "more": {
+    "adverb": "بیشتر"
+  },
+  "most": {
+    "adverb": "بیشتر، ترین"
+  },
+  "move": {
+    "verb": "انتقال دهید، انتقال"
+  },
+  "moved": {
+    "verb": "منتقل شد"
+  },
+  "multiple": {
+    "adjective": "چندگانه"
+  },
+  "multisite": {
+    "expression": "چند سایته"
+  },
+  "must": {
+    "verb": "باید"
+  },
+  "mute": {
+    "adjective": "ساکت، بی‌صدا"
+  },
+  "mysql": {
+    "noun": "mysql"
+  },
+  "name": {
+    "noun": "نام"
+  },
+  "named": {
+    "adjective": "نام‌گذاری شدن"
+  },
+  "names": {
+    "noun": "نام‌ها"
+  },
+  "navigate": {
+    "verb": "راهبری کردن، راهبری"
+  },
+  "navigation": {
+    "noun": "راهبری"
+  },
+  "near": {
+    "adjective": "نزدیک"
+  },
+  "need": {
+    "verb": "نیاز دارید"
+  },
+  "need to": {
+    "expression": "نیاز دارید"
+  },
+  "needs": {
+    "adverb": "نیازدارد، لزوما"
+  },
+  "nested": {
+    "adjective": "تو در تو، تودرتو"
+  },
+  "network": {
+    "noun": "شبکه"
+  },
+  "network admin": {
+    "expression": "مدیر شبکه"
+  },
+  "networks": {
+    "noun": "شبکه"
+  },
+  "never": {
+    "adverb": "هرگز، هیچوقت"
+  },
+  "new": {
+    "adjective": "جدید | تازه"
+  },
+  "new user registration": {
+    "expression": "ثبت نام کاربر جدید"
+  },
+  "new users": {
+    "expression": "کاربران جدید"
+  },
+  "new version": {
+    "expression": "نسخه جدید"
+  },
+  "newer": {
+    "adjective": "تازه‌تر"
+  },
+  "news": {
+    "noun": "اخبار"
+  },
+  "next": {
+    "adjective": "بعدی"
+  },
+  "non": {
+    "adverb": "غیر، بدون"
+  },
+  "nonce": {
+    "noun": "کلید سری"
+  },
+  "none": {
+    "adverb": "هیچ‌یک، هیچ‌کدام"
+  },
+  "note": {
+    "noun": "توجه | یادداشت"
+  },
+  "nothing": {
+    "adverb": "هیچ چیز"
+  },
+  "notice": {
+    "noun": "توجه | اطلاع | اخطار"
+  },
+  "notification": {
+    "noun": "آگاه‌سازی"
+  },
+  "notifications": {
+    "noun": "آگاه‌سازی‌ها"
+  },
+  "notify": {
+    "verb": "آگاه‌ساختن،اطلاع‌رسانی"
+  },
+  "november": {
+    "noun": "نوامبر"
+  },
+  "now": {
+    "adverb": "هم‌اکنون، اکنون"
+  },
+  "NSFW": {
+    "expression": "برای کار امن نیست، برای محیط کار مناسب نیست"
+  },
+  "number": {
+    "noun": "تعداد | شماره"
+  },
+  "number of": {
+    "expression": "تعداد"
+  },
+  "numbered": {
+    "verb": "شماره گذاری شده"
+  },
+  "numbers": {
+    "noun": "اعداد"
+  },
+  "object": {
+    "noun": "object | شیء"
+  },
+  "occurred": {
+    "verb": "رخ داده"
+  },
+  "october": {
+    "noun": "اکتبر"
+  },
+  "oEmbed": {
+    "noun": "oEmbed"
+  },
+  "off": {
+    "adjective": "خاموش | از روی"
+  },
+  "official": {
+    "adjective": "رسمی"
+  },
+  "offset": {
+    "noun": "آفست، انحراف"
+  },
+  "ok": {
+    "adjective": "باشه"
+  },
+  "old": {
+    "adjective": "قدیمی"
+  },
+  "older": {
+    "adjective": "کهنه‌تر"
+  },
+  "on your site": {
+    "expression": "در سایت شما"
+  },
+  "once": {
+    "adverb": "یک بار",
+    "conjunction": "هنگامی که"
+  },
+  "one of": {
+    "expression": "یکی از"
+  },
+  "only": {
+    "adverb": "فقط",
+    "adjective": "تنها"
+  },
+  "oops": {
+    "expression": "اوپس، اوه، ببخشید"
+  },
+  "open": {
+    "adjective": "باز کردن، باز"
+  },
+  "opens": {
+    "verb": "باز می‌شود"
+  },
+  "operational": {
+    "adjective": "عملیاتی"
+  },
+  "option": {
+    "noun": "گزینه"
+  },
+  "optional": {
+    "adjective": "اختیاری"
+  },
+  "options": {
+    "noun": "گزینه‌ها"
+  },
+  "order": {
+    "noun": "سفارش",
+    "verb": "سفارش دادن"
+  },
+  "original": {
+    "adjective": "اصلی"
+  },
+  "others": {
+    "adjective": "دیگران"
+  },
+  "our": {
+    "pronoun": "ما"
+  },
+  "outside": {
+    "adjective": "خارج"
+  },
+  "over": {
+    "preposition": "روی | بالای"
+  },
+  "overridden": {
+    "verb": "باطل شدن، لغو شدن | بازنویسی"
+  },
+  "owner": {
+    "noun": "صاحب، مالک"
+  },
+  "page": {
+    "noun": "برگه‌"
+  },
+  "pages": {
+    "noun": "برگه‌ها"
+  },
+  "panel": {
+    "noun": "پنل"
+  },
+  "paragraph": {
+    "noun": "پاراگراف، بند"
+  },
+  "parameter": {
+    "noun": "پارامتر"
+  },
+  "parent": {
+    "noun": "مادر، سرآغاز"
+  },
+  "parent theme": {
+    "expression": "پوسته والد، پوسته‌ی مادر"
+  },
+  "partial": {
+    "adjective": "جزئی، بخشی"
+  },
+  "particular": {
+    "adjective": "خاص"
+  },
+  "particularly": {
+    "adverb": "به ویژه، به خصوص"
+  },
+  "pass": {
+    "noun": "عبور"
+  },
+  "passed": {
+    "verb": "گذشته"
+  },
+  "password": {
+    "noun": "گذرواژه، رمز عبور"
+  },
+  "password protected": {
+    "expression": "محافظت‌شده توسط کلمه عبور"
+  },
+  "password reset": {
+    "expression": "تنظیم دوباره کلمه عبور"
+  },
+  "passwords": {
+    "noun": "گذرواژه‌ها، رمزها"
+  },
+  "paste": {
+    "verb": "بچسبانید، چسباندن"
+  },
+  "pasted": {
+    "adjective": "چسبانده شده"
+  },
+  "path": {
+    "noun": "مسیر"
+  },
+  "pattern": {
+    "noun": "الگو"
+  },
+  "pending": {
+    "preposition": "در انتظار"
+  },
+  "people": {
+    "noun": "دیگران | افراد"
+  },
+  "per": {
+    "preposition": "در هر، توسط"
+  },
+  "perform": {
+    "verb": "انجام دادن"
+  },
+  "permalink": {
+    "noun": "پیوند یکتا"
+  },
+  "permalinks": {
+    "noun": "پیوندهای یکتا"
+  },
+  "permanently": {
+    "adverb": "همیشگی"
+  },
+  "permanently delete": {
+    "expression": "برای همیشه پاک کردن"
+  },
+  "permitted": {
+    "verb": "مجاز"
+  },
+  "php": {
+    "noun": "php"
+  },
+  "picture": {
+    "noun": "عکس، تصویر"
+  },
+  "pin": {
+    "noun": "سنجاق",
+    "verb": "سنجاق‌کردن"
+  },
+  "pingback": {
+    "noun": "برگشت پینگ"
+  },
+  "pingbacks": {
+    "noun": "بازتاب (Pingback)"
+  },
+  "pinned": {
+    "verb": "سنجاق‌شده"
+  },
+  "pixels": {
+    "noun": "پیکسل"
+  },
+  "placeholder": {
+    "noun": "نگهدارنده مکان"
+  },
+  "placeholders": {
+    "noun": "نگهدارنده‌های مکان"
+  },
+  "plain": {
+    "adjective": "ساده"
+  },
+  "plain text": {
+    "expression": "متن ساده، متن خام"
+  },
+  "planet": {
+    "noun": "سیاره"
+  },
+  "player": {
+    "noun": "پخش‌کننده"
+  },
+  "playlist": {
+    "noun": "فهرست پخش"
+  },
+  "please": {
+    "adverb": "لطفاً"
+  },
+  "please try again": {
+    "expression": "لطفا دوباره سعی نمایید"
+  },
+  "please try again later": {
+    "expression": "لطفا بعدا دوباره سعی نمایید"
+  },
+  "please wait": {
+    "expression": "لطفاً منتظر بمانید/باشید، لطفا صبر کنید"
+  },
+  "plugin": {
+    "noun": "افزونه"
+  },
+  "plugins": {
+    "noun": "افزونه‌ها"
+  },
+  "pm": {
+    "noun": "عصر، بعدازظهر"
+  },
+  "politely": {
+    "adjective": "مودبانه"
+  },
+  "popular": {
+    "adjective": "پرطرفدار"
+  },
+  "position": {
+    "noun": "موقعیت"
+  },
+  "possible": {
+    "adjective": "امکان‌پذیر"
+  },
+  "post": {
+    "noun": "نوشته"
+  },
+  "post format": {
+    "expression": "ساختار نوشته"
+  },
+  "post type": {
+    "expression": "نوع نوشته"
+  },
+  "posted": {
+    "verb": "فرستاده شده"
+  },
+  "poster": {
+    "noun": "پوستر"
+  },
+  "posts": {
+    "noun": "نوشته‌ها"
+  },
+  "posts list": {
+    "expression": "فهرست نوشته‌ها"
+  },
+  "posts on this site": {
+    "expression": "نوشته‌ها در این سایت"
+  },
+  "potentially": {
+    "adjective": "بالقوه"
+  },
+  "powered": {
+    "verb": "با نیروی | نیرو گرفته"
+  },
+  "prefix": {
+    "noun": "پیشوند"
+  },
+  "press": {
+    "verb": "فشار دهید"
+  },
+  "press this": {
+    "expression": "این‌را فشار دهید"
+  },
+  "prev": {
+    "adjective": "قبلی، پیش از"
+  },
+  "preview": {
+    "noun": "پیش‌نمایش"
+  },
+  "preview mode": {
+    "expression": "حالت پیش‌نمایش"
+  },
+  "previewable": {
+    "adjective": "قابل پیش‌نمایش، قابل پیش‌نمایش کردن"
+  },
+  "previewing": {
+    "verb": "پیش‌نمایش"
+  },
+  "previous": {
+    "adjective": "قبلی"
+  },
+  "primary": {
+    "adjective": "اصلی، اولیه"
+  },
+  "privacy": {
+    "noun": "حریم خصوصی، محرمانگی"
+  },
+  "private": {
+    "adjective": "خصوصی"
+  },
+  "problem": {
+    "noun": "مشکل"
+  },
+  "problems": {
+    "noun": "مشکلی"
+  },
+  "process": {
+    "noun": "فرآیند"
+  },
+  "profile": {
+    "noun": "شناسنامه"
+  },
+  "progress": {
+    "noun": "یشرفت، پیشرفتن"
+  },
+  "project": {
+    "noun": "پروژه"
+  },
+  "properly": {
+    "adverb": "به درستی"
+  },
+  "properties": {
+    "noun": "خصوصیات"
+  },
+  "property": {
+    "noun": "ویژگی"
+  },
+  "protect": {
+    "verb": "حفاظت شده"
+  },
+  "protected": {
+    "verb": "محافظت شده"
+  },
+  "provided": {
+    "conjunction": "ارائه‌شده"
+  },
+  "provider": {
+    "noun": "ارائه‌دهنده"
+  },
+  "public": {
+    "adjective": "عمومی"
+  },
+  "publish": {
+    "verb": "انتشار، منتشر نمایید"
+  },
+  "published": {
+    "verb": "منتشرشده، منتشرشد"
+  },
+  "publishing": {
+    "noun": "انتشار"
+  },
+  "query": {
+    "noun": "کوئری | پرس‌وجو، درخواست"
+  },
+  "quick": {
+    "adjective": "سریع، تند"
+  },
+  "random": {
+    "adjective": "تصادفی"
+  },
+  "randomize": {
+    "verb": "به‌طور تصادفی"
+  },
+  "randomizing": {
+    "verb": "تصادفی نمودن"
+  },
+  "rating": {
+    "noun": "امتیاز"
+  },
+  "ratio": {
+    "noun": "نسبت، ضریب"
+  },
+  "read": {
+    "verb": "خواندن"
+  },
+  "readable": {
+    "adjective": "قابل خواندن، خوانا"
+  },
+  "reader": {
+    "noun": "خواننده"
+  },
+  "reading": {
+    "verb": "خواندن، در حال خواندن"
+  },
+  "really": {
+    "adverb": "واقعاً"
+  },
+  "reason": {
+    "noun": "دلیل"
+  },
+  "receive": {
+    "verb": "دریافت، دریافت کردن"
+  },
+  "recent": {
+    "adjective": "تازه، اخیر"
+  },
+  "recently": {
+    "adverb": "به‌تازگی، اخیراً"
+  },
+  "recommend": {
+    "verb": "پیشنهاد نمودن"
+  },
+  "recommends": {
+    "verb": "ییشنهاد می‌دهد"
+  },
+  "record": {
+    "noun": "رکورد، ثبت، ضبط"
+  },
+  "redo": {
+    "verb": "انجام دوباره"
+  },
+  "regards": {
+    "noun": "با احترام، احترام"
+  },
+  "register": {
+    "verb": "نام‌نویسی، نام‌نویسی نمایید"
+  },
+  "registered": {
+    "adjective": "نام‌نویسی کرده، ثبت‌شده"
+  },
+  "registration": {
+    "noun": "نام‌نویسی"
+  },
+  "registrations": {
+    "noun": "نام‌نویسی‌ها | ثبت نام‌ها"
+  },
+  "relationship": {
+    "noun": "ارتباط"
+  },
+  "release": {
+    "verb": "منتشر نمودن"
+  },
+  "releases": {
+    "noun": "منتشر شده"
+  },
+  "reliable": {
+    "adjective": "اتکا نمودن، اتکا نمود"
+  },
+  "reload": {
+    "verb": "نوسازی"
+  },
+  "remote": {
+    "adjective": "دور دست (remote)"
+  },
+  "remote ip": {
+    "expression": "remote ip"
+  },
+  "remove": {
+    "verb": "پاک کردن"
+  },
+  "removed": {
+    "verb": "پاک شد"
+  },
+  "removing": {
+    "verb": "پاک نمودن، حذف نمودن"
+  },
+  "reorder": {
+    "verb": "مرتب‌سازی دوباره"
+  },
+  "repair": {
+    "noun": "تعمیر"
+  },
+  "repeat": {
+    "noun": "تکرار"
+  },
+  "replace": {
+    "verb": "جایگزین نمایید، جایگزینی"
+  },
+  "replacing": {
+    "verb": "جایگزین نمودن"
+  },
+  "reply": {
+    "noun": "پاسخ",
+    "verb": "پاسخ دادن"
+  },
+  "request": {
+    "noun": "درخواست",
+    "verb": "درخواست دادن"
+  },
+  "requested": {
+    "verb": "درخواست‌کرد، درخواست‌شده"
+  },
+  "requests": {
+    "noun": "درخواست"
+  },
+  "require": {
+    "verb": "لازم، ضروری"
+  },
+  "required": {
+    "adjective": "ضروری، لازم"
+  },
+  "requires": {
+    "verb": "نیازمند، لازم"
+  },
+  "reserved": {
+    "adjective": "ذخیره شده"
+  },
+  "reset": {
+    "verb": "بازنشانی، تنظیم مجدد"
+  },
+  "resource": {
+    "noun": "سرچشمه، منبع"
+  },
+  "response": {
+    "noun": "پاسخ"
+  },
+  "responses": {
+    "noun": "پاسخ، پاسخ‌ها"
+  },
+  "rest": {
+    "noun": "بقیه"
+  },
+  "restore": {
+    "verb": "بازسازی، بازیافت"
+  },
+  "restored": {
+    "verb": "بازیابی شده"
+  },
+  "result": {
+    "noun": "نتیجه"
+  },
+  "results": {
+    "noun": "نتایج"
+  },
+  "return": {
+    "noun": "بازگشت"
+  },
+  "review": {
+    "noun": "نقد، بررسی"
+  },
+  "reviews": {
+    "noun": "نقدها، بررسی‌ها، نقد و بررسی‌ها"
+  },
+  "revision": {
+    "noun": "رونوشت"
+  },
+  "revisions": {
+    "noun": "رونوشت‌ها"
+  },
+  "rich": {
+    "adjective": "غنی"
+  },
+  "right": {
+    "adjective": "راست"
+  },
+  "role": {
+    "noun": "نقش"
+  },
+  "roles": {
+    "noun": "نقش‌ها | سطح دسترسی"
+  },
+  "roman": {
+    "adjective": "لاتین، roman"
+  },
+  "route": {
+    "noun": "مسیر"
+  },
+  "row": {
+    "noun": "ردیف"
+  },
+  "rpc": {
+    "noun": "rpc"
+  },
+  "rss": {
+    "noun": "rss"
+  },
+  "rules": {
+    "noun": "قوانین"
+  },
+  "run": {
+    "verb": "اجرا"
+  },
+  "running": {
+    "verb": "در حال اجرا"
+  },
+  "safely": {
+    "adjective": "بدون خطر"
+  },
+  "same": {
+    "adjective": "همان، یکسان"
+  },
+  "sanitized": {
+    "verb": "بررسی شده | تصفیه شده"
+  },
+  "saturday": {
+    "noun": "شنبه"
+  },
+  "save": {
+    "verb": "ذخیره"
+  },
+  "saved": {
+    "verb": "ذخیره‌شد، ذخیره‌شده"
+  },
+  "saving": {
+    "verb": "درحال ذخیره‌سازی"
+  },
+  "say": {
+    "verb": "گفتن"
+  },
+  "scale": {
+    "noun": "مقیاس"
+  },
+  "schedule": {
+    "noun": "زمان‌بندی"
+  },
+  "scheduled": {
+    "adjective": "برنامه‌ریزی شده"
+  },
+  "scope": {
+    "noun": "محدوده، حوزه"
+  },
+  "screen": {
+    "noun": "صفحه، صفحه نمایش"
+  },
+  "screens": {
+    "noun": "صفحه نمایش"
+  },
+  "script": {
+    "noun": "اسکریپت"
+  },
+  "scroll": {
+    "noun": "پیمایش"
+  },
+  "search": {
+    "noun": "جستجو",
+    "verb": "جستجو نمایید"
+  },
+  "search for": {
+    "expression": "جستجو برای"
+  },
+  "search results": {
+    "expression": "نتایج جستجو"
+  },
+  "searched": {
+    "verb": "جستجو شده"
+  },
+  "searching": {
+    "verb": "در حال جستجو، جستجو | پوییدن"
+  },
+  "second": {
+    "noun": "دوم"
+  },
+  "secondary": {
+    "adjective": "دوم، فرعی"
+  },
+  "seconds": {
+    "noun": "ثانیه‌ها"
+  },
+  "section": {
+    "noun": "بخش"
+  },
+  "sections": {
+    "noun": "بخش‌ها"
+  },
+  "secure": {
+    "adjective": "امن، ایمن"
+  },
+  "security": {
+    "noun": "امنیت"
+  },
+  "see": {
+    "verb": "مشاهده نمایید، مشاهده، دیدن"
+  },
+  "seems": {
+    "verb": "بنظر می‌رسد"
+  },
+  "select": {
+    "verb": "انتخاب نمایید، انتخاب"
+  },
+  "selected": {
+    "adjective": "انتخاب‌شده"
+  },
+  "selection": {
+    "noun": "انتخاب | انتخابی | گزینش"
+  },
+  "send": {
+    "noun": "ارسال",
+    "verb": "ارسال کردن"
+  },
+  "sent": {
+    "verb": "ارسال شد، ارسال شده"
+  },
+  "sent to": {
+    "expression": "ارسال‌شده به"
+  },
+  "separate": {
+    "adjective": "جدا"
+  },
+  "separated": {
+    "adjective": "جدا شده"
+  },
+  "september": {
+    "noun": "سپتامبر"
+  },
+  "server": {
+    "noun": "سرور"
+  },
+  "services": {
+    "noun": "سرویس‌ها | خدمات"
+  },
+  "session": {
+    "noun": "نشست"
+  },
+  "set": {
+    "verb": "تنظیم نمایید",
+    "noun": "مجموعه"
+  },
+  "setting": {
+    "noun": "تنظیم"
+  },
+  "settings": {
+    "noun": "تنظیمات"
+  },
+  "setup": {
+    "noun": "نصب، برپایی، راه اندازی"
+  },
+  "share": {
+    "verb": "اشتراک‌گذاری"
+  },
+  "shared": {
+    "verb": "اشتراک"
+  },
+  "sharing": {
+    "verb": "به اشتراک گذاری"
+  },
+  "shift": {
+    "noun": "شیفت | Shift | نوبت"
+  },
+  "short": {
+    "adjective": "کوتاه"
+  },
+  "shortcode": {
+    "noun": "کدکوتاه"
+  },
+  "shortcuts": {
+    "noun": "میان‌برها"
+  },
+  "should": {
+    "verb": "باید"
+  },
+  "show": {
+    "verb": "نمایش، نمایش دادن، نشان دادن"
+  },
+  "showing": {
+    "verb": "نمایش | نشان دادن"
+  },
+  "shown": {
+    "verb": "نمایش داده شده"
+  },
+  "shows": {
+    "verb": "نمایش می‌دهد"
+  },
+  "sidebar": {
+    "noun": "نوار کناری"
+  },
+  "sign": {
+    "verb": "امضا نمودن"
+  },
+  "sign up": {
+    "expression": "نام‌نویسی"
+  },
+  "signup": {
+    "verb": "نام‌نویسی"
+  },
+  "similar": {
+    "adjective": "شبیه، شباهت"
+  },
+  "since": {
+    "adverb": "از آنجا، از، از زمان"
+  },
+  "single": {
+    "adjective": "تنها، تک، تکی"
+  },
+  "site": {
+    "noun": "سایت"
+  },
+  "site name": {
+    "expression": "نام سایت"
+  },
+  "site title": {
+    "expression": "عنوان سایت"
+  },
+  "sites": {
+    "noun": "سایت‌ها"
+  },
+  "size": {
+    "noun": "اندازه"
+  },
+  "skip": {
+    "noun": "پرش",
+    "verb": "پرش کردن"
+  },
+  "slider": {
+    "noun": "لغزنده | اسلایدر"
+  },
+  "slow": {
+    "adjective": "آهسته، آرام"
+  },
+  "slug": {
+    "noun": "نامک | نامک (نام لاتین) | نامک (Slug)"
+  },
+  "slugs": {
+    "noun": "نامک"
+  },
+  "software": {
+    "noun": "نرم افزار"
+  },
+  "someone": {
+    "pronoun": "کسی"
+  },
+  "something": {
+    "pronoun": "چیزی"
+  },
+  "sometimes": {
+    "adverb": "گاهی، گاهی اوقات"
+  },
+  "sorry": {
+    "adjective": "با عرض پوزش"
+  },
+  "sort": {
+    "verb": "مرتب‌سازی"
+  },
+  "source": {
+    "noun": "منبع"
+  },
+  "sources": {
+    "noun": "منابع | سورس‌ها"
+  },
+  "space": {
+    "noun": "فضا، مکان"
+  },
+  "spaces": {
+    "noun": "فاصله"
+  },
+  "spam": {
+    "noun": "جفنگ"
+  },
+  "specific": {
+    "adjective": "ویژه، خاص"
+  },
+  "specified": {
+    "verb": "تعیین‌شده | مشخص‌شده"
+  },
+  "split": {
+    "verb": "جدا نمودن"
+  },
+  "square": {
+    "adjective": "مربع"
+  },
+  "standard": {
+    "adjective": "استاندارد"
+  },
+  "start": {
+    "noun": "شروع"
+  },
+  "started": {
+    "verb": "آغاز | شروع"
+  },
+  "starting": {
+    "verb": "شروع | راه افتادن"
+  },
+  "state": {
+    "adjective": "حالت"
+  },
+  "static": {
+    "adjective": "ثابت"
+  },
+  "status": {
+    "noun": "وضعیت"
+  },
+  "statuses": {
+    "noun": "وضعیت‌ها"
+  },
+  "step": {
+    "noun": "قدم، مرحله"
+  },
+  "steps": {
+    "noun": "قدم‌ها، مرحله‌ها"
+  },
+  "sticky": {
+    "adjective": "چسبیده"
+  },
+  "still": {
+    "adjective": "هنوز"
+  },
+  "stop": {
+    "verb": "متوقف نمودن"
+  },
+  "stored": {
+    "verb": "ذخیره شده"
+  },
+  "strength": {
+    "noun": "قدرت"
+  },
+  "strikethrough": {
+    "adjective": "خط خورده"
+  },
+  "string": {
+    "noun": "عبارت"
+  },
+  "strings": {
+    "noun": "رشته‌ها"
+  },
+  "structure": {
+    "noun": "ساختار"
+  },
+  "stylesheet": {
+    "noun": "شیوه‌نامه"
+  },
+  "sub": {
+    "noun": "زیر"
+  },
+  "sub directories": {
+    "expression": "زیرپوشه‌ها"
+  },
+  "sub domains": {
+    "expression": "زیردامنه‌ها"
+  },
+  "subdirectories": {
+    "noun": "زیر پوشه‌ها"
+  },
+  "subdirectory": {
+    "noun": "زیر پوشه"
+  },
+  "subdomain": {
+    "noun": "زیردامنه | ساب‌دامین"
+  },
+  "subdomains": {
+    "noun": "زیردامنه"
+  },
+  "subscribe": {
+    "verb": "مشترک‌شدن | مشترک‌شوید"
+  },
+  "subscribed": {
+    "verb": "مشترک‌شده، مشترک‌شدید"
+  },
+  "subscriber": {
+    "noun": "مشترک‌"
+  },
+  "subscription": {
+    "noun": "اشتراک، عضویت"
+  },
+  "subtitles": {
+    "noun": "زیرنویس‌ها | عنوان‌های فرعی"
+  },
+  "successfully": {
+    "adjective": "با موفقیت"
+  },
+  "successfully updated": {
+    "expression": "موفقیت بروزرسانی شد"
+  },
+  "such": {
+    "adverb": "چنین"
+  },
+  "such as": {
+    "expression": "مانند"
+  },
+  "suggested": {
+    "verb": "پیشنهاد شده"
+  },
+  "sunday": {
+    "noun": "یک‌شنبه"
+  },
+  "super admin": {
+    "expression": "مدیر کل"
+  },
+  "super admins": {
+    "expression": "مدیرکل‌ها"
+  },
+  "supplied": {
+    "verb": "ارائه‌ شده | ارائه می‌شوند"
+  },
+  "support": {
+    "verb": "پشتیبانی | پشتیبانی نمایید"
+  },
+  "supported": {
+    "verb": "پشتیبانی شده"
+  },
+  "sure": {
+    "adjective": "اطمینان دارید"
+  },
+  "switch": {
+    "noun": "عوض نمودن"
+  },
+  "switching": {
+    "verb": "راه‌گزینی"
+  },
+  "syntax": {
+    "noun": "دستور، نحو"
+  },
+  "systems": {
+    "noun": "سامانه‌ها"
+  },
+  "tab": {
+    "noun": "زبانه"
+  },
+  "table": {
+    "noun": "جدول"
+  },
+  "tables": {
+    "noun": "جداول"
+  },
+  "tag": {
+    "noun": "برچسب"
+  },
+  "tagline": {
+    "noun": "شعار | معرفی | معرفی کوتاه"
+  },
+  "tags": {
+    "noun": "برچسب‌ها"
+  },
+  "take": {
+    "verb": "گرفتن | بردن"
+  },
+  "taken": {
+    "verb": "گرفته شدن"
+  },
+  "target": {
+    "noun": "هدف"
+  },
+  "taxonomies": {
+    "noun": "طبقه‌بندی‌ها"
+  },
+  "taxonomy": {
+    "noun": "طبقه‌بندی، رده"
+  },
+  "team": {
+    "noun": "تیم"
+  },
+  "template": {
+    "noun": "قالب"
+  },
+  "templates": {
+    "noun": "قالب‌ها"
+  },
+  "term": {
+    "noun": "مدت"
+  },
+  "terms": {
+    "noun": "موارد | گزاره‌ها"
+  },
+  "text": {
+    "noun": "متن"
+  },
+  "than": {
+    "preposition": "از"
+  },
+  "thanks": {
+    "noun": "سپاس، با سپاس | تشکر، با تشکر"
+  },
+  "the first": {
+    "expression": "اولین"
+  },
+  "the following": {
+    "expression": "زیر، پایین"
+  },
+  "the given": {
+    "expression": "داده شده"
+  },
+  "theme": {
+    "noun": "پوسته"
+  },
+  "they": {
+    "pronoun": "آن‌ها"
+  },
+  "this file": {
+    "expression": "این پرونده"
+  },
+  "those": {
+    "pronoun": "آن‌ها"
+  },
+  "though": {
+    "conjunction": "اگرچه، هر چند، گر چه"
+  },
+  "through": {
+    "preposition": "از طریق | به کمک"
+  },
+  "thumbnail": {
+    "noun": "بندانگشتی"
+  },
+  "time": {
+    "noun": "زمان"
+  },
+  "timezone": {
+    "noun": "منطقه‌ی زمانی"
+  },
+  "title": {
+    "noun": "عنوان"
+  },
+  "to activate": {
+    "expression": "برای فعال‌سازی"
+  },
+  "to add": {
+    "expression": "جهت افزودن"
+  },
+  "to assign": {
+    "expression": "اختصاص دادن"
+  },
+  "to change": {
+    "expression": "جهت تغییر"
+  },
+  "to check": {
+    "expression": "برای بررسی"
+  },
+  "to create": {
+    "expression": "جهت ایجاد"
+  },
+  "to display": {
+    "expression": "برای نمایش"
+  },
+  "to enable": {
+    "expression": "برای فعال‌سازی"
+  },
+  "to install": {
+    "expression": "برای نصب"
+  },
+  "to remove": {
+    "expression": "برای حذف"
+  },
+  "to show": {
+    "expression": "برای نمایش | نمایش داده می‌شود"
+  },
+  "to upload": {
+    "expression": "برای ارسال، جهت ارسال، جهت ارسال فایل"
+  },
+  "to view": {
+    "expression": "جهت مشاهده"
+  },
+  "toggle": {
+    "verb": "تغییر، تغییر وضعیت"
+  },
+  "too long": {
+    "expression": "بسیار طولانی"
+  },
+  "toolbar": {
+    "noun": "نوار ابزار"
+  },
+  "top": {
+    "adjective": "بالا، برتر"
+  },
+  "topic": {
+    "noun": "سرفصل"
+  },
+  "trackback": {
+    "noun": "بازتاب"
+  },
+  "trackbacks": {
+    "noun": "بازتاب"
+  },
+  "tracklist": {
+    "expression": "فهرست قطعه‌ها"
+  },
+  "tracks": {
+    "noun": "قطعه‌ها"
+  },
+  "transformed": {
+    "verb": "تبدیل شده"
+  },
+  "translation": {
+    "noun": "ترجمه"
+  },
+  "trash": {
+    "noun": "زباله‌دان"
+  },
+  "trashed": {
+    "verb": "زباله شده"
+  },
+  "trashing": {
+    "verb": "حذف کردن، در حال حذف"
+  },
+  "try": {
+    "verb": "سعی نمایید، تلاش نمایید"
+  },
+  "try again": {
+    "expression": "دوباره تلاش نمایید"
+  },
+  "turn": {
+    "noun": "چرخش | روشن"
+  },
+  "twice": {
+    "adverb": "دوبار"
+  },
+  "two": {
+    "noun": "دو"
+  },
+  "type": {
+    "noun": "نوع"
+  },
+  "types": {
+    "noun": "انواع، نوع"
+  },
+  "unable": {
+    "adjective": "قادر نبودن، ناتوان"
+  },
+  "unable to": {
+    "expression": "قادر نیستیم تا"
+  },
+  "unarchive": {
+    "verb": "بازگردانی از آرشیو"
+  },
+  "unauthorized": {
+    "adjective": "غیرمجاز"
+  },
+  "unavailable": {
+    "adjective": "در دسترس نیست"
+  },
+  "under": {
+    "preposition": "زیر"
+  },
+  "underscores": {
+    "noun": "زیرخط‌ها"
+  },
+  "undo": {
+    "verb": "بازگردانی"
+  },
+  "undone": {
+    "adjective": "انجام نشده"
+  },
+  "unexpected": {
+    "adjective": "غیر منتظره"
+  },
+  "unique": {
+    "adjective": "یکتا"
+  },
+  "unknown": {
+    "adjective": "ناشناس"
+  },
+  "unpublished": {
+    "adjective": "منتشر نشده"
+  },
+  "unrecognized": {
+    "adjective": "ناشناخته است"
+  },
+  "unregistering": {
+    "verb": "لغو ثبت"
+  },
+  "until": {
+    "preposition": "تا | تا هنگامی که | تا زمانی که | تا وقتی که"
+  },
+  "untitled": {
+    "adjective": "بدون عنوان"
+  },
+  "untrash": {
+    "verb": "خارج کردن از زباله‌دان"
+  },
+  "up": {
+    "adverb": "بالا"
+  },
+  "upcoming": {
+    "adjective": "پیش‌رو"
+  },
+  "update": {
+    "noun": "به‌روزرسانی",
+    "verb": "به‌روزرسانی نمایید"
+  },
+  "update now": {
+    "expression": "اکنون بروزرسانی نمایید"
+  },
+  "updated": {
+    "verb": "به‌روزرسانی شد"
+  },
+  "updates": {
+    "noun": "به‌روزرسانی‌ها"
+  },
+  "updating": {
+    "verb": "به‌روزرسانی"
+  },
+  "upgrade": {
+    "verb": "ارتقا دهید"
+  },
+  "upgraded": {
+    "verb": "به‌روزرسانی شد"
+  },
+  "upload": {
+    "verb": "ارسال کردن، ارسال کردن فایل",
+    "noun": "ارسال، ارسال فایل"
+  },
+  "uploaded": {
+    "verb": "ارسال شد، ارسال شده"
+  },
+  "uploaded to": {
+    "expression": "ارسال‌شده در"
+  },
+  "uploader": {
+    "noun": "ارسال‌کننده، ارسال‌کننده فایل"
+  },
+  "uploading": {
+    "verb": "در حال بارگذاری"
+  },
+  "upper": {
+    "adjective": "بالا"
+  },
+  "url": {
+    "noun": "پیوند، نشانی اینترنتی، url"
+  },
+  "urls": {
+    "noun": "پیوندها، نشانی‌های اینترنتی، آدرس‌ها | urls"
+  },
+  "us": {
+    "pronoun": "ما"
+  },
+  "use": {
+    "verb": "استفاده نمایید"
+  },
+  "used": {
+    "verb": "استفاده‌شده"
+  },
+  "used as": {
+    "expression": "استفاده شده به‌عنوان"
+  },
+  "used for": {
+    "expression": "استفاده می‌شود"
+  },
+  "used in": {
+    "expression": "استفاده شده در"
+  },
+  "used to": {
+    "expression": "استفاده شدن"
+  },
+  "useful": {
+    "adjective": "کارآمد"
+  },
+  "user": {
+    "noun": "کاربر"
+  },
+  "user registration": {
+    "expression": "نام‌نویسی کاربر"
+  },
+  "username": {
+    "noun": "نام کاربری"
+  },
+  "usernames": {
+    "noun": "نام‌های کاربری"
+  },
+  "users": {
+    "noun": "کاربران"
+  },
+  "uses": {
+    "verb": "استفاده می‎‌کند"
+  },
+  "using": {
+    "verb": "با استفاده، درحال استفاده"
+  },
+  "utc": {
+    "noun": "مبدا زمانی UTC"
+  },
+  "uuid": {
+    "noun": "uuid"
+  },
+  "valid": {
+    "adjective": "معتبر"
+  },
+  "valid email": {
+    "expression": "ایمیل معتبر"
+  },
+  "valid email address": {
+    "expression": "آدرس ایمیل معتبر"
+  },
+  "valid url": {
+    "expression": "پیوند معتبر، URL معتبر، نشانی معتبر"
+  },
+  "value": {
+    "noun": "مقدار"
+  },
+  "values": {
+    "noun": "مقادیر"
+  },
+  "various": {
+    "adjective": "مختلف"
+  },
+  "verified": {
+    "verb": "تأیید شده"
+  },
+  "version": {
+    "noun": "نگارش"
+  },
+  "very": {
+    "adverb": "بسیار"
+  },
+  "via": {
+    "preposition": "با، به وسیله"
+  },
+  "video": {
+    "noun": "فیلم، ویدئو"
+  },
+  "video playlist": {
+    "expression": "فهرست پخش ویدیویی"
+  },
+  "video source": {
+    "expression": "پرونده‌ی ویدیویی، منبع ویدیو"
+  },
+  "videos": {
+    "noun": "فیلم‌ها، ویدئوها"
+  },
+  "view": {
+    "verb": "مشاهده، مشاهده نمایید | نمایش"
+  },
+  "views": {
+    "noun": "مشاهده | نماها"
+  },
+  "visibility": {
+    "noun": "قابل مشاهده"
+  },
+  "visit": {
+    "verb": "بازدید نمایید، بازدید"
+  },
+  "visit the": {
+    "expression": "دیدن | مراجعه کردن"
+  },
+  "visitors": {
+    "noun": "بازدیدکنندگان"
+  },
+  "visual": {
+    "adjective": "دیداری"
+  },
+  "volume": {
+    "noun": "گنجایش"
+  },
+  "wait": {
+    "noun": "صبر، صبر نمودن"
+  },
+  "waiting": {
+    "noun": "منتظر"
+  },
+  "want": {
+    "verb": "می‌خواهید"
+  },
+  "want to": {
+    "expression": "می‌خواهید"
+  },
+  "warning": {
+    "noun": "هشدار"
+  },
+  "way": {
+    "noun": "روش، راه"
+  },
+  "we recommend": {
+    "expression": "پیشنهاد می‌کنیم"
+  },
+  "weak": {
+    "adjective": "سست"
+  },
+  "web": {
+    "noun": "وب"
+  },
+  "website": {
+    "noun": "وب‌سایت"
+  },
+  "week": {
+    "noun": "هفته"
+  },
+  "welcome": {
+    "noun": "خوش آمدید"
+  },
+  "were": {
+    "verb": "بود، بودند"
+  },
+  "what": {
+    "adverb": "چه | کدام | چقدر"
+  },
+  "whether": {
+    "conjunction": "آیا"
+  },
+  "while": {
+    "conjunction": "هنگام | در طول"
+  },
+  "white": {
+    "adjective": "سفید"
+  },
+  "who": {
+    "pronoun": "که"
+  },
+  "whole": {
+    "adjective": "تمام، کل"
+  },
+  "widget": {
+    "noun": "ابزارک"
+  },
+  "widget area": {
+    "expression": "ناحیه ابزارک"
+  },
+  "widgets": {
+    "noun": "ابزارک‌ها"
+  },
+  "width": {
+    "noun": "عرض"
+  },
+  "wildcard": {
+    "noun": "نمادگر گسترده (Wildcard)"
+  },
+  "window": {
+    "noun": "پنجره"
+  },
+  "wish": {
+    "noun": "بخواهید | خواستن"
+  },
+  "within": {
+    "adverb": "در داخل"
+  },
+  "without": {
+    "preposition": "بدون"
+  },
+  "wordpress": {
+    "noun": "وردپرس"
+  },
+  "words": {
+    "noun": "واژه‌ها"
+  },
+  "work": {
+    "verb": "کار"
+  },
+  "workflow": {
+    "noun": "گردش کار"
+  },
+  "wp": {
+    "noun": "wp | وردپرس"
+  },
+  "writable": {
+    "adjective": "قابل نوشتن"
+  },
+  "write": {
+    "verb": "نوشتن"
+  },
+  "wrong": {
+    "adjective": "اشتباه"
+  },
+  "xml": {
+    "noun": "xml"
+  },
+  "year": {
+    "noun": "سال"
+  },
+  "yes": {
+    "noun": "بله"
+  },
+  "yet": {
+    "adverb": "هنوز"
+  },
+  "you are about": {
+    "expression": "شما در حال"
+  },
+  "you are about to": {
+    "expression": "شما در حال"
+  },
+  "you are currently": {
+    "expression": "شما در حال حاضر"
+  },
+  "you are not allowed to": {
+    "expression": "شما مجاز نیستید تا"
+  },
+  "you can": {
+    "expression": "می‌توانید"
+  },
+  "you can see": {
+    "expression": "شما می‌توانید مشاهده نمایید"
+  },
+  "you cannot": {
+    "expression": "شما نمی‌توانید"
+  },
+  "you entered": {
+    "expression": "شما وارد کردید"
+  },
+  "you must": {
+    "expression": "شما باید"
+  },
+  "you want to": {
+    "expression": "می‌خواهید"
+  },
+  "your email": {
+    "expression": "ایمیل شما"
+  },
+  "your email address": {
+    "expression": "آدرس ایمیل شما"
+  },
+  "yourself": {
+    "pronoun": "خودتان"
+  },
+  "youtube": {
+    "noun": "یوتیوب"
+  }
+}

@@ -1,0 +1,1910 @@
+{
+  "3D": {
+    "noun": "3 rehendî"
+  },
+  "About": {
+    "noun": "Derbar"
+  },
+  "Accent Color": {
+    "noun": "Rengê Kirpandinê"
+  },
+  "Access": {
+    "verb": "Gihîştin, Gihîn"
+  },
+  "access point": {
+    "noun": "nuqteya gihînê"
+  },
+  "Accessibility": {
+    "noun": "gihînbarî"
+  },
+  "Accessible": {
+    "adjective": "Gihînbar"
+  },
+  "Account": {
+    "noun": "Ajimêr"
+  },
+  "Account Recovery": {
+    "noun": "Filitandina Ajimêrê"
+  },
+  "Action": {
+    "noun": "Çalakî"
+  },
+  "Action Hook": {
+    "noun": "Çengela Çalakiyê"
+  },
+  "Activate": {
+    "verb": "Biçalakîne, çalak bike"
+  },
+  "Activated": {
+    "adjective": "Çalak"
+  },
+  "activation": {
+    "noun": "çalakkirin"
+  },
+  "activation e-mail": {
+    "noun": "epeyama çalakkirinê"
+  },
+  "ad policy": {
+    "noun": "rêbaza reklaman"
+  },
+  "adapter": {
+    "noun": "guncîner"
+  },
+  "Add": {
+    "verb": "Tevlîkirin"
+  },
+  "add email": {
+    "verb": "epeyamê tevlî bike"
+  },
+  "add-on": {
+    "noun": "pêvek"
+  },
+  "Additional": {
+    "noun": "Zêdek"
+  },
+  "address": {
+    "noun": "navnîşan"
+  },
+  "Admin": {
+    "noun": "Revebir"
+  },
+  "admin bar": {
+    "noun": "benda rêveberiyê"
+  },
+  "admin panel": {
+    "noun": "paca rêveberiyê"
+  },
+  "administrator": {
+    "noun": "rêveber"
+  },
+  "advanced": {
+    "noun": "pêşketî"
+  },
+  "advanced settings": {
+    "noun": "sazkariyên pêşketî"
+  },
+  "advertisement": {
+    "noun": "reklam"
+  },
+  "adware": {
+    "noun": "nivîsbariya reklamê"
+  },
+  "Align": {
+    "noun": "Paldayîn, Beralîkirin"
+  },
+  "alignment": {
+    "noun": "Beralîkirin"
+  },
+  "Allow": {
+    "noun": "Destur"
+  },
+  "alphanumeric": {
+    "noun": "alfahejmarî"
+  },
+  "Already": {
+    "noun": "Jixwe"
+  },
+  "antivirus": {
+    "noun": "vîruskuj"
+  },
+  "App": {
+    "noun": "sepan"
+  },
+  "Appearance": {
+    "noun": "xuyang"
+  },
+  "applicable law": {
+    "noun": "rêzika guncav, rêzika karbar"
+  },
+  "Application": {
+    "noun": "sepan"
+  },
+  "apply": {
+    "noun": "sepandin, bisepîne"
+  },
+  "approve": {
+    "verb": "pejirandin, bipejirîne"
+  },
+  "arbitral decision": {
+    "noun": "biryara dadwerî"
+  },
+  "archive": {
+    "noun": "arşîv"
+  },
+  "are you sure you want": {
+    "noun": "bi rastî jî tu dixwazî?"
+  },
+  "area": {
+    "noun": "qad"
+  },
+  "argument": {
+    "noun": "guhêrbar"
+  },
+  "array": {
+    "noun": "rêze"
+  },
+  "article": {
+    "noun": "gotar"
+  },
+  "artificial intelligence": {
+    "noun": "zîrekiya çêkirî"
+  },
+  "artificial neural network": {
+    "noun": "tora demarî ya çêkirî"
+  },
+  "aside": {
+    "noun": "qirax"
+  },
+  "Aspect ratio": {
+    "noun": "rêjeya xuyangê"
+  },
+  "associate": {
+    "noun": "hevkarî"
+  },
+  "at the bottom": {
+    "noun": "li binî"
+  },
+  "attachment": {
+    "noun": "servehî"
+  },
+  "attribute": {
+    "noun": "taybetmendî"
+  },
+  "audio": {
+    "noun": "deng"
+  },
+  "audit": {
+    "noun": "venerîn"
+  },
+  "augmented reality": {
+    "noun": "rasteqîna berfirehkirî"
+  },
+  "authentication": {
+    "noun": "rastandin"
+  },
+  "Authenticator": {
+    "noun": "Rastkar"
+  },
+  "Authenticator app": {
+    "noun": "sepana rastandinê"
+  },
+  "author": {
+    "noun": "nivîskar"
+  },
+  "auto": {
+    "noun": "Otomatîk, Jixweber"
+  },
+  "auto renew": {
+    "noun": "nûkirina otomatîk"
+  },
+  "avatar": {
+    "noun": "avatar, Keswêne"
+  },
+  "background": {
+    "noun": "paşrû"
+  },
+  "background color": {
+    "noun": "rengê paşrûyê"
+  },
+  "background image": {
+    "noun": "wêneyê paşrûyê"
+  },
+  "background pattern": {
+    "noun": "nexşeya paşrûyê"
+  },
+  "backup": {
+    "noun": "paşkeft"
+  },
+  "Bar": {
+    "noun": "Bend"
+  },
+  "base": {
+    "noun": "binyad"
+  },
+  "Basic": {
+    "noun": "binyad"
+  },
+  "Battery": {
+    "noun": "batarya"
+  },
+  "behavior": {
+    "noun": "tevger"
+  },
+  "billing history": {
+    "noun": "raboriya peredanê"
+  },
+  "binary": {
+    "noun": "dujimarî"
+  },
+  "blacklist": {
+    "noun": "lîsteya reş"
+  },
+  "block": {
+    "noun": "astengkirin, Blok, Kom"
+  },
+  "blog": {
+    "noun": "blog"
+  },
+  "blog post": {
+    "noun": "şandiya blogê"
+  },
+  "blogger": {
+    "noun": "blognûs"
+  },
+  "board": {
+    "noun": "texte, pano"
+  },
+  "Bookmark": {
+    "noun": "cihnîşan"
+  },
+  "bookmarklet": {
+    "noun": "cihnîşan"
+  },
+  "box": {
+    "noun": "kodik"
+  },
+  "breadcrumb": {
+    "noun": "nexşeya menuyan"
+  },
+  "browser": {
+    "noun": "gerok"
+  },
+  "Bug": {
+    "noun": "Şaşî, Çewtî"
+  },
+  "built-in": {
+    "noun": "cihgirtî"
+  },
+  "bundle": {
+    "noun": "deste/gurz"
+  },
+  "Button": {
+    "noun": "bişkok"
+  },
+  "calculator": {
+    "noun": "pêjimêrk"
+  },
+  "call": {
+    "noun": "telefonkirin"
+  },
+  "Cancel": {
+    "noun": "Betal"
+  },
+  "capabilities": {
+    "noun": "pêkarî"
+  },
+  "card": {
+    "noun": "Kart"
+  },
+  "cart": {
+    "noun": "tûr, tûrik"
+  },
+  "Category": {
+    "noun": "Beş"
+  },
+  "cell": {
+    "noun": "şane"
+  },
+  "cellular": {
+    "noun": "şaneyî"
+  },
+  "Center": {
+    "noun": "Navend"
+  },
+  "character code": {
+    "noun": "koda tîpan/karekteran"
+  },
+  "character set": {
+    "noun": "koma tîpan / karakteran"
+  },
+  "chat": {
+    "noun": "Gotûbêj"
+  },
+  "checklist": {
+    "noun": "rêzekontrol"
+  },
+  "Choose": {
+    "verb": "Bijartin"
+  },
+  "click": {
+    "noun": "bitikîne"
+  },
+  "client": {
+    "noun": "rajegir"
+  },
+  "Clipboard": {
+    "noun": "rûnûsgeh"
+  },
+  "cloud": {
+    "noun": "ewr"
+  },
+  "Code": {
+    "noun": "Kod"
+  },
+  "coding": {
+    "noun": "kodnûsî"
+  },
+  "color": {
+    "noun": "Reng"
+  },
+  "column": {
+    "noun": "sitûn"
+  },
+  "comment": {
+    "noun": "Şîrove"
+  },
+  "compress": {
+    "noun": "dewisandin, şidandin"
+  },
+  "Computer": {
+    "noun": "Kombers"
+  },
+  "configuration": {
+    "noun": "pevsazî"
+  },
+  "configure": {
+    "noun": "pevsazandin"
+  },
+  "confirm": {
+    "verb": "pejirandin"
+  },
+  "connect": {
+    "noun": "girêdan"
+  },
+  "contact": {
+    "noun": "kes/berdeng"
+  },
+  "contacts": {
+    "noun": "navnivîsk"
+  },
+  "Container": {
+    "noun": "tevgir"
+  },
+  "Content": {
+    "noun": "naverok"
+  },
+  "Continue": {
+    "noun": "domandin,bidomîne"
+  },
+  "contributor": {
+    "noun": "hevkar,beşdar,kedkar"
+  },
+  "conversation": {
+    "noun": "axaftin"
+  },
+  "converter": {
+    "noun": "guhêrker"
+  },
+  "Cookie": {
+    "noun": "xurek"
+  },
+  "copy": {
+    "noun": "ji ber girtin, Kopî, Wênegirtin"
+  },
+  "Crash": {
+    "noun": "şkandin"
+  },
+  "create": {
+    "noun": "afirandin"
+  },
+  "crop": {
+    "noun": "qusandin, qirpandin"
+  },
+  "Current": {
+    "noun": "Derbasdar"
+  },
+  "Custom": {
+    "noun": "Taybet"
+  },
+  "customize": {
+    "noun": "kesanekirin, taybetkirin"
+  },
+  "Customizer": {
+    "noun": "kesanekar, Taybetkar"
+  },
+  "cut": {
+    "verb": "jê kirin, jê bike"
+  },
+  "dark mode": {
+    "noun": "moda tarî"
+  },
+  "Dashboard": {
+    "noun": "destgeh"
+  },
+  "data saving": {
+    "noun": "parastina daneyan"
+  },
+  "Data Usage": {
+    "noun": "bikaranîna daneyan"
+  },
+  "database": {
+    "noun": "danegeh"
+  },
+  "Date": {
+    "noun": "Dîrok"
+  },
+  "Day": {
+    "noun": "Roj"
+  },
+  "day mode": {
+    "noun": "moda ronî"
+  },
+  "deactivate": {
+    "noun": "neçalak bike"
+  },
+  "decode": {
+    "noun": "vekodandin"
+  },
+  "default": {
+    "noun": "jixweber"
+  },
+  "default theme": {
+    "noun": "rûkara jixweber"
+  },
+  "defragment": {
+    "noun": "pevxistin"
+  },
+  "delete": {
+    "noun": "jêbirin, jê bibe"
+  },
+  "Delete": {
+    "verb": "Jêbirin"
+  },
+  "deprecated": {
+    "noun": "rakirî"
+  },
+  "design": {
+    "noun": "sewir",
+    "verb": "sewirandin"
+  },
+  "desktop": {
+    "noun": "sermase"
+  },
+  "Detail": {
+    "noun": "Hûrgilî"
+  },
+  "Detect": {
+    "noun": "pêhesîn, vehesîn"
+  },
+  "develop": {
+    "noun": "pêşdebirin, peresîn"
+  },
+  "developer": {
+    "noun": "pêşdebir, peresîner"
+  },
+  "device": {
+    "noun": "amûr"
+  },
+  "digital": {
+    "noun": "jimarkî, dîjîtal, Hejmarî"
+  },
+  "direction": {
+    "noun": "beralî, beralîkirin"
+  },
+  "directory": {
+    "noun": "pelrêç"
+  },
+  "disable": {
+    "noun": "Neçalak"
+  },
+  "Disc": {
+    "noun": "Sêl, Sêlik"
+  },
+  "discussion": {
+    "noun": "gotûbêj"
+  },
+  "dock": {
+    "noun": "bênder"
+  },
+  "Documentation": {
+    "noun": "Pelgename"
+  },
+  "domain": {
+    "noun": "navper"
+  },
+  "Download": {
+    "verb": "Daxistin"
+  },
+  "draft": {
+    "noun": "reşnivîs"
+  },
+  "driver": {
+    "noun": "ajokar"
+  },
+  "dropdown": {
+    "noun": "jêveker, daketok"
+  },
+  "eBook": {
+    "noun": "ePirtûk"
+  },
+  "Edit": {
+    "verb": "Serrast bike"
+  },
+  "editor": {
+    "noun": "Serrastgeh, Serrastker"
+  },
+  "effect": {
+    "noun": "bandor, efekt"
+  },
+  "effective": {
+    "noun": "Bibandor"
+  },
+  "Email": {
+    "noun": "epeyam"
+  },
+  "email address": {
+    "noun": "navnîşana epeyamê"
+  },
+  "embed": {
+    "verb": "bihedimîne, hedimandî"
+  },
+  "emoji": {
+    "noun": "hestok"
+  },
+  "emoticon": {
+    "noun": "hestnîşan"
+  },
+  "enable": {
+    "noun": "çalakkirin"
+  },
+  "encode": {
+    "noun": "kodandin, kirinkod, kodkirin"
+  },
+  "encryption": {
+    "noun": "şîfrekirin"
+  },
+  "end to end": {
+    "noun": "ser bi ser"
+  },
+  "engine": {
+    "noun": "Motor"
+  },
+  "Entry": {
+    "verb": "Têketin",
+    "noun": "Têketan"
+  },
+  "Entry title": {
+    "noun": "sernava/serika têketanê"
+  },
+  "error": {
+    "noun": "çewtî, şaşî"
+  },
+  "excerpt": {
+    "noun": "jêgir, kurte"
+  },
+  "Explorer": {
+    "noun": "Gervan, Gerok"
+  },
+  "export": {
+    "noun": "derxistin"
+  },
+  "expression": {
+    "noun": "îfade, ragihandin"
+  },
+  "extention": {
+    "noun": "pêvek"
+  },
+  "Extra": {
+    "noun": "Zêdek"
+  },
+  "Failed": {
+    "noun": "serneket"
+  },
+  "fan": {
+    "noun": "alîgir"
+  },
+  "FAQ": {
+    "noun": "Pirsên Pir Tên Pirsîn"
+  },
+  "fav": {
+    "noun": "bijartin"
+  },
+  "favorite": {
+    "noun": "bijarde"
+  },
+  "feature": {
+    "noun": "taybetmendî"
+  },
+  "feed": {
+    "noun": "Şanderêz"
+  },
+  "feedback": {
+    "noun": "paşragihandin"
+  },
+  "feeder": {
+    "noun": "şanderêzkar"
+  },
+  "field": {
+    "noun": "qad"
+  },
+  "file": {
+    "noun": "pelge"
+  },
+  "filter": {
+    "noun": "parzûn",
+    "verb": "parzûnandin"
+  },
+  "filter hook": {
+    "noun": "çengela parzûnê"
+  },
+  "Fingerprint": {
+    "noun": "Şoptilî"
+  },
+  "firewall": {
+    "noun": "agirdîwar"
+  },
+  "fix": {
+    "noun": "serrastkirin"
+  },
+  "flexibility": {
+    "noun": "çemînîtî"
+  },
+  "focus": {
+    "noun": "balkişandin"
+  },
+  "folder": {
+    "noun": "peldank"
+  },
+  "Follow": {
+    "verb": "bişopîne"
+  },
+  "Follower": {
+    "noun": "şopîner"
+  },
+  "Following": {
+    "adjective": "dişopînî"
+  },
+  "footer": {
+    "noun": "binmalper"
+  },
+  "Format": {
+    "noun": "dirûv, format"
+  },
+  "Free": {
+    "noun": "belaş, bêpere"
+  },
+  "free trial": {
+    "noun": "nimûneya belaş"
+  },
+  "frequntly asked questions": {
+    "noun": "Pirsên Pirrtir Tên Pirsîn"
+  },
+  "front end": {
+    "noun": "pêşçav"
+  },
+  "frozen": {
+    "noun": "qerisî"
+  },
+  "full screen": {
+    "noun": "ekrana tije"
+  },
+  "gallery": {
+    "noun": "pêşangeh"
+  },
+  "guarantee": {
+    "noun": "misogerî"
+  },
+  "Guided Transfer": {
+    "noun": "Veguheztina rêberî"
+  },
+  "guideline": {
+    "noun": "rêbername"
+  },
+  "Ham": {
+    "noun": "bêziyan. Xam"
+  },
+  "Hammiest": {
+    "noun": "bêziyantirîn,xamtirîn"
+  },
+  "hardware": {
+    "noun": "reqalav"
+  },
+  "Header": {
+    "noun": "Sermalper"
+  },
+  "Headers": {
+    "noun": "sermalper"
+  },
+  "Heading": {
+    "noun": "Sernav"
+  },
+  "help": {
+    "noun": "alîkarî"
+  },
+  "Help Center": {
+    "noun": "navenda Alîkariyê"
+  },
+  "hierarchy": {
+    "noun": "serhevrehî"
+  },
+  "high-quality": {
+    "noun": "Kalîteya bilind"
+  },
+  "History": {
+    "noun": "dîrok,raborî"
+  },
+  "Home": {
+    "noun": "destpêk"
+  },
+  "home button": {
+    "noun": "bişkoka destpêkê"
+  },
+  "home page": {
+    "noun": "serrûpel"
+  },
+  "horizontal": {
+    "noun": "asoyî"
+  },
+  "Host": {
+    "noun": "Berpêş, Hewanger"
+  },
+  "host": {
+    "verb": "hewandin"
+  },
+  "hosting": {
+    "noun": "hewangeh"
+  },
+  "hosting provider": {
+    "noun": "peydakara hewangehê"
+  },
+  "hotspot": {
+    "noun": "xala çalak"
+  },
+  "hour": {
+    "noun": "demjimêr"
+  },
+  "icon": {
+    "noun": "nîşanek"
+  },
+  "ID": {
+    "noun": "Nasnav"
+  },
+  "image": {
+    "noun": "wêne"
+  },
+  "import": {
+    "noun": "têxistin"
+  },
+  "improve": {
+    "noun": "pêş bixe"
+  },
+  "improved": {
+    "noun": "pêşxistî"
+  },
+  "in-app": {
+    "noun": "nav-sepanî"
+  },
+  "inbox": {
+    "noun": "hatdank"
+  },
+  "index": {
+    "noun": "navnîş, têdahî, Naverok"
+  },
+  "info": {
+    "noun": "agahî"
+  },
+  "information": {
+    "noun": "Agahî"
+  },
+  "Inline": {
+    "noun": "Navrêz"
+  },
+  "input": {
+    "noun": "ketan"
+  },
+  "Insights": {
+    "noun": "Kûrbînî"
+  },
+  "Install": {
+    "verb": "Sazkirin"
+  },
+  "instruction": {
+    "noun": "rêwerz"
+  },
+  "integration": {
+    "noun": "hevyekkirin"
+  },
+  "interface": {
+    "noun": "navrû"
+  },
+  "internet": {
+    "noun": "înternet"
+  },
+  "Invalid": {
+    "noun": "Nederbasdar"
+  },
+  "invest": {
+    "noun": "veberanîn"
+  },
+  "IP address": {
+    "noun": "Navnîşana IPê"
+  },
+  "issue": {
+    "noun": "kêşe"
+  },
+  "IT": {
+    "noun": "teknolojiya zanyarî"
+  },
+  "item": {
+    "noun": "hêman"
+  },
+  "Jetpack Monitor": {
+    "noun": "Ekrana Jetpackê"
+  },
+  "joystick": {
+    "noun": "darlîstik"
+  },
+  "kernel": {
+    "noun": "dendik"
+  },
+  "Keyboard": {
+    "noun": "textenivîs"
+  },
+  "keypad": {
+    "noun": "kilîldan"
+  },
+  "keyword": {
+    "noun": "peyvkilîd"
+  },
+  "laptop": {
+    "noun": "serçok"
+  },
+  "last seen": {
+    "noun": "dîtina dawîn.."
+  },
+  "Launch": {
+    "noun": "hilpêkanîn"
+  },
+  "layout": {
+    "noun": "rêkxistin, pergal, plan,"
+  },
+  "Level": {
+    "noun": "Ast, pile"
+  },
+  "light mode": {
+    "noun": "moda ronî"
+  },
+  "Like": {
+    "noun": "ecibandin, biecibîne"
+  },
+  "Link": {
+    "noun": "Girêdan"
+  },
+  "List": {
+    "noun": "Rêz"
+  },
+  "load": {
+    "noun": "kirin,  bike"
+  },
+  "local": {
+    "noun": "cîgehî,herêmî"
+  },
+  "localization": {
+    "noun": "cîgehîkirin"
+  },
+  "location": {
+    "noun": "cîgeh, cih,şûn"
+  },
+  "lock screen": {
+    "noun": "ekrana quflê"
+  },
+  "log": {
+    "noun": "tomar"
+  },
+  "log in": {
+    "noun": "têkevê"
+  },
+  "log off": {
+    "noun": "derketin"
+  },
+  "log on": {
+    "noun": "têketin, têkevê"
+  },
+  "log out": {
+    "noun": "derkeve"
+  },
+  "logged in": {
+    "noun": "têketî"
+  },
+  "logged out": {
+    "noun": "derketî"
+  },
+  "logic": {
+    "noun": "mantiq"
+  },
+  "login": {
+    "noun": "têketin"
+  },
+  "logout": {
+    "noun": "derketin"
+  },
+  "loop": {
+    "noun": "zîvir"
+  },
+  "machine learning": {
+    "noun": "hînbûna makîneyî"
+  },
+  "maintenance": {
+    "noun": "çavdêrî"
+  },
+  "malware": {
+    "noun": "nivîsiya ziyandar"
+  },
+  "Manage apps": {
+    "noun": "Sepanan bi rê ve bibe"
+  },
+  "mapped domain": {
+    "noun": "navpera beralîkirî"
+  },
+  "Market": {
+    "noun": "bazar, firoşgeh"
+  },
+  "Media": {
+    "noun": "medya"
+  },
+  "media file": {
+    "noun": "pelgeya medyayê"
+  },
+  "media item": {
+    "noun": "hêmana medyayê"
+  },
+  "Media Uploader": {
+    "noun": "hilxistera medyayê"
+  },
+  "member": {
+    "noun": "endam"
+  },
+  "memory": {
+    "noun": "bîrgeh,bîrbar"
+  },
+  "memory card": {
+    "noun": "karta bîrgehê/bîrbarê"
+  },
+  "menu": {
+    "noun": "menu"
+  },
+  "menu item": {
+    "noun": "hêmana medyayê"
+  },
+  "menu location": {
+    "noun": "cîgeha medyayê"
+  },
+  "meta": {
+    "noun": "diyarker"
+  },
+  "microphone": {
+    "noun": "mîkrofon"
+  },
+  "minimalist theme": {
+    "noun": "rûkara hûrtişt"
+  },
+  "minute": {
+    "noun": "xulek"
+  },
+  "mobile device": {
+    "noun": "amûra mobîl"
+  },
+  "mode": {
+    "noun": "mod"
+  },
+  "modern design": {
+    "noun": "sêwira nûjen"
+  },
+  "monitor": {
+    "noun": "monîtor, çavdêr(nêrîna tiştekî)"
+  },
+  "Month": {
+    "noun": "Meh"
+  },
+  "motherboard": {
+    "noun": "makekart"
+  },
+  "mouse": {
+    "noun": "mişk"
+  },
+  "mouse-pointer": {
+    "noun": "nîşandera mişkê"
+  },
+  "Move": {
+    "noun": "Barkirin"
+  },
+  "multimedia": {
+    "noun": "multîmedya, cûrnaving"
+  },
+  "multisite": {
+    "noun": "pirmalper"
+  },
+  "music player": {
+    "noun": "muzîklêder"
+  },
+  "name": {
+    "noun": "nav"
+  },
+  "navdêr": {
+    "noun": "rûkara blogê"
+  },
+  "navigation": {
+    "noun": "têgerîn, rêdîtin, Rêgerîn"
+  },
+  "Network": {
+    "noun": "Tor"
+  },
+  "next": {
+    "noun": "pêşve"
+  },
+  "next post": {
+    "noun": "şandiya pêştir"
+  },
+  "Nickname": {
+    "noun": "bernav"
+  },
+  "night mode": {
+    "noun": "moda şevê"
+  },
+  "node": {
+    "noun": "girêk"
+  },
+  "nonce": {
+    "noun": "demkî"
+  },
+  "none": {
+    "noun": "hîç"
+  },
+  "normal": {
+    "noun": "asayî"
+  },
+  "not sticky": {
+    "noun": "nezeliqandî"
+  },
+  "notification": {
+    "noun": "danezan"
+  },
+  "offline": {
+    "noun": "derhêl"
+  },
+  "ok": {
+    "noun": "baş e"
+  },
+  "older post": {
+    "noun": "şandiya kevntirîn"
+  },
+  "online": {
+    "noun": "serhêl"
+  },
+  "opacity": {
+    "noun": "nexuyahî"
+  },
+  "open source": {
+    "noun": "çavkanî-vekirî"
+  },
+  "Operational": {
+    "noun": "sepandin"
+  },
+  "option": {
+    "noun": "vebijêrk"
+  },
+  "optional": {
+    "noun": "xwestinî"
+  },
+  "OS": {
+    "noun": "Pergala Xebatê"
+  },
+  "outbox": {
+    "noun": "çûdank"
+  },
+  "output": {
+    "noun": "deran"
+  },
+  "override": {
+    "verb": "li ser nivîsîn"
+  },
+  "overview": {
+    "noun": "gişdîtin, gişnêrîn, raserdîtin"
+  },
+  "pack": {
+    "noun": "deste"
+  },
+  "packet": {
+    "noun": "pakêt"
+  },
+  "Page": {
+    "noun": "Pel"
+  },
+  "pagination": {
+    "noun": "Rûpeljimar"
+  },
+  "Panel": {
+    "noun": "Pace"
+  },
+  "parallel": {
+    "noun": "hevber"
+  },
+  "parameter": {
+    "noun": "pîvan"
+  },
+  "passcode": {
+    "noun": "peyvkod"
+  },
+  "password": {
+    "noun": "pêborîn"
+  },
+  "paste": {
+    "noun": "zeliqandin"
+  },
+  "pending": {
+    "noun": "hilawestî"
+  },
+  "permission": {
+    "noun": "destûr"
+  },
+  "personal blog": {
+    "noun": "bloga kesane"
+  },
+  "personal blogger": {
+    "noun": "Blogvanê kesane"
+  },
+  "photoblogger": {
+    "noun": "blogvanê wêneyî"
+  },
+  "picker": {
+    "noun": "bijêr"
+  },
+  "ping": {
+    "noun": "pîng"
+  },
+  "plug-in": {
+    "noun": "pêvek"
+  },
+  "plugin": {
+    "noun": "Pêvek"
+  },
+  "poll": {
+    "noun": "rapirsî"
+  },
+  "pop up": {
+    "noun": "hilpekok"
+  },
+  "port": {
+    "noun": "port"
+  },
+  "portable": {
+    "noun": "hilgir"
+  },
+  "portal": {
+    "noun": "portal"
+  },
+  "portfolio": {
+    "noun": "pelgir"
+  },
+  "Portfolio Page": {
+    "noun": "rûpela pelgirê"
+  },
+  "portfolio theme": {
+    "noun": "rûkara pelgirê"
+  },
+  "post": {
+    "verb": "Şandin",
+    "noun": "Şandî"
+  },
+  "Post Carousel": {
+    "noun": "çerxa şandiyan"
+  },
+  "post format": {
+    "noun": "dirûva şandiyê"
+  },
+  "Post List": {
+    "noun": "lîsteya şandiyê"
+  },
+  "post status": {
+    "noun": "rewşa şandiyê"
+  },
+  "post thumbnail": {
+    "noun": "wênoka şandiyê"
+  },
+  "post type": {
+    "noun": "cureya şandiyê"
+  },
+  "posting goal": {
+    "noun": "armanca şandiyê"
+  },
+  "preference": {
+    "noun": "hevyaz"
+  },
+  "premium theme": {
+    "noun": "rûkara premiûm"
+  },
+  "premium upgrade": {
+    "noun": "bilindkirina premiûmê"
+  },
+  "preset": {
+    "noun": "Pêşsazkirî, Pêşeyarkirî"
+  },
+  "Press": {
+    "noun": "Çap",
+    "verb": "Çap Bike"
+  },
+  "Press This": {
+    "noun": "Vê çap bike"
+  },
+  "preview": {
+    "noun": "Pêşdîdar, pêşdîtin, pêş bibîne"
+  },
+  "previous": {
+    "noun": "paşve"
+  },
+  "previous post": {
+    "noun": "şandiya paştir"
+  },
+  "primary": {
+    "noun": "sereke"
+  },
+  "primary domain": {
+    "noun": "navpera sereke"
+  },
+  "printer": {
+    "noun": "çaper"
+  },
+  "Privacy": {
+    "noun": "Nihênî, Veşarî"
+  },
+  "problem": {
+    "noun": "pirsgirêk"
+  },
+  "processing": {
+    "noun": "pêvajotin"
+  },
+  "processor": {
+    "noun": "kirar"
+  },
+  "Product key": {
+    "noun": "kilîda berhemê"
+  },
+  "profile": {
+    "noun": "profîl"
+  },
+  "program": {
+    "noun": "bername"
+  },
+  "progress": {
+    "noun": "pêvajo, Demajo"
+  },
+  "promote": {
+    "noun": "pêşandin, derxistin pêş"
+  },
+  "properti": {
+    "noun": "Taybetmendî"
+  },
+  "Publicize": {
+    "noun": "belavok"
+  },
+  "publish": {
+    "verb": "biweşîne"
+  },
+  "publishing platform": {
+    "noun": "platforma weşandinê"
+  },
+  "query": {
+    "noun": "pirs"
+  },
+  "Quick": {
+    "noun": "Bilez"
+  },
+  "Quick Post": {
+    "noun": "şandiya bilez"
+  },
+  "rating": {
+    "noun": "nirxandin, pile"
+  },
+  "raw": {
+    "noun": "rêz"
+  },
+  "read-only": {
+    "noun": "Tenê xwendin"
+  },
+  "reader": {
+    "noun": "xwîner"
+  },
+  "realtime": {
+    "noun": "hevdem"
+  },
+  "Reblog": {
+    "noun": "dîsblog",
+    "verb": "dîsblog bike"
+  },
+  "receiver": {
+    "noun": "wergir"
+  },
+  "Recort": {
+    "noun": "Tomar"
+  },
+  "recover": {
+    "noun": "filitandin"
+  },
+  "recycle bin": {
+    "noun": "kodika vegerandinê"
+  },
+  "Redirect": {
+    "noun": "beralîkirin"
+  },
+  "referrer": {
+    "noun": "şander"
+  },
+  "refine": {
+    "noun": "teng bike"
+  },
+  "refund policy": {
+    "noun": "rêbaza vegerandinê"
+  },
+  "registrar": {
+    "noun": "tomarkar"
+  },
+  "registry": {
+    "noun": "tomar"
+  },
+  "relate": {
+    "noun": "Têkîldar"
+  },
+  "Release": {
+    "noun": "Belavok"
+  },
+  "Reload": {
+    "noun": "Disbar"
+  },
+  "Remove": {
+    "noun": "rakirin"
+  },
+  "Renew": {
+    "noun": "Nûkirin, Venû"
+  },
+  "Replace": {
+    "noun": "Vecihkirin"
+  },
+  "reply": {
+    "noun": "bersiv",
+    "verb": "bibersivîne"
+  },
+  "required": {
+    "noun": "pêwist"
+  },
+  "reset": {
+    "noun": "nûsaz, Vesaz, Dîssaz",
+    "verb": "nûsazkirin, Vesazkirin, Dîssazkirin"
+  },
+  "Reusable": {
+    "noun": "Dîsbikarhatî"
+  },
+  "root": {
+    "noun": "reh"
+  },
+  "rotate": {
+    "noun": "zîvirandin"
+  },
+  "router": {
+    "noun": "berhêlker"
+  },
+  "runtime": {
+    "noun": "demxebat"
+  },
+  "safe mod": {
+    "noun": "moda ewlehiyê"
+  },
+  "Scale": {
+    "noun": "Pîvek"
+  },
+  "scan": {
+    "noun": "venerîn"
+  },
+  "scanner": {
+    "noun": "venerkar"
+  },
+  "schedule": {
+    "noun": "demsazkirin, nexşekirin, plankirin, bernamekirin"
+  },
+  "scheme": {
+    "noun": "şema"
+  },
+  "screen": {
+    "noun": "ekran, dîmendêr"
+  },
+  "screenshot": {
+    "noun": "wêneyê ekranê"
+  },
+  "script": {
+    "noun": "nivîstek"
+  },
+  "scroll": {
+    "noun": "şiqitandin"
+  },
+  "Search": {
+    "noun": "Lêgerîn"
+  },
+  "search engine": {
+    "noun": "motora lêgerînê"
+  },
+  "second": {
+    "noun": "çirke"
+  },
+  "Security": {
+    "noun": "ewlehî"
+  },
+  "Select": {
+    "verb": "Hilbijartin"
+  },
+  "self-hosted": {
+    "noun": "xwe-hewan"
+  },
+  "sensitivity": {
+    "noun": "hestyarî"
+  },
+  "September": {
+    "noun": "Îlon"
+  },
+  "Serial key": {
+    "noun": "kilîda zincîrî"
+  },
+  "server": {
+    "noun": "pêşkeşker, rajekar"
+  },
+  "service pack": {
+    "noun": "desteya xizmetê"
+  },
+  "session": {
+    "noun": "danişîn"
+  },
+  "set": {
+    "noun": "sazandin"
+  },
+  "setting": {
+    "noun": "sazkarî"
+  },
+  "Setup": {
+    "noun": "dasazkirin"
+  },
+  "share": {
+    "noun": "parvek",
+    "verb": "parvekirin"
+  },
+  "sharing button": {
+    "noun": "bişkoka parvekirinê"
+  },
+  "shortcode": {
+    "noun": "kurtekod"
+  },
+  "shortcuts": {
+    "noun": "kurterê"
+  },
+  "Showcase": {
+    "noun": "camekan"
+  },
+  "Sidebar": {
+    "noun": "Kêlekbend"
+  },
+  "sign in": {
+    "noun": "têketin"
+  },
+  "sign up": {
+    "noun": "tomarbûn, endam bûn"
+  },
+  "sign-in": {
+    "noun": "têkevê"
+  },
+  "Singular": {
+    "noun": "Yekanî"
+  },
+  "Site": {
+    "noun": "Malper"
+  },
+  "size": {
+    "noun": "mezinahî"
+  },
+  "slide": {
+    "noun": "pêşek"
+  },
+  "Slider": {
+    "noun": "pêşeker"
+  },
+  "slug": {
+    "noun": "kurtenav"
+  },
+  "Social Media": {
+    "noun": "Tora civakî"
+  },
+  "software": {
+    "noun": "nermalav"
+  },
+  "Sort by": {
+    "noun": "rêz bike, birêzîne"
+  },
+  "source code": {
+    "noun": "koda çavkanî"
+  },
+  "Space Upgrade": {
+    "noun": "bilindkirina qadê"
+  },
+  "Spacing": {
+    "noun": "Valahî"
+  },
+  "spam": {
+    "noun": "Nexwestî, Bêkêr"
+  },
+  "Spammiest": {
+    "noun": "nexwestirîn"
+  },
+  "Speed": {
+    "noun": "Lez"
+  },
+  "spikers": {
+    "noun": "Dengdêr, hoparlor"
+  },
+  "spyware": {
+    "noun": "nivîsbariya sîxurî"
+  },
+  "stable": {
+    "noun": "stabîl, xweragir, neliv"
+  },
+  "staging site": {
+    "noun": "malpera rahênanê"
+  },
+  "start": {
+    "noun": "destpêk"
+  },
+  "statistics": {
+    "noun": "rêjejimar"
+  },
+  "status": {
+    "noun": "rewş"
+  },
+  "stick": {
+    "noun": "bizeliqîne"
+  },
+  "sticky": {
+    "noun": "zeliqok"
+  },
+  "Sticky Post": {
+    "noun": "şandiya zeliqandî"
+  },
+  "storage": {
+    "noun": "bîrbar, bîrgeh"
+  },
+  "store": {
+    "noun": "firoşgeh"
+  },
+  "story": {
+    "noun": "serpêhatî,çîrok"
+  },
+  "string": {
+    "noun": "rêzik"
+  },
+  "style": {
+    "noun": "şêwaz"
+  },
+  "sub-directory": {
+    "noun": "pelrêça binî"
+  },
+  "subdomain": {
+    "noun": "binnavper"
+  },
+  "Submit": {
+    "verb": "Şandin"
+  },
+  "subpanel": {
+    "noun": "binpace"
+  },
+  "Summary": {
+    "noun": "kurte"
+  },
+  "summary emails": {
+    "noun": "kurtasiya epeyaman"
+  },
+  "Support": {
+    "noun": "Alîkarî"
+  },
+  "support guide": {
+    "noun": "rêberê piştgiriyê"
+  },
+  "support team": {
+    "noun": "koma piştgiriyê"
+  },
+  "survey": {
+    "noun": "vekolîn"
+  },
+  "swipe": {
+    "noun": "kişandin"
+  },
+  "synchronization": {
+    "noun": "hevdemî"
+  },
+  "system": {
+    "noun": "pergal"
+  },
+  "tab": {
+    "noun": "hilpekîn, hilpek"
+  },
+  "table": {
+    "noun": "Tablo"
+  },
+  "tablet": {
+    "noun": "tablet"
+  },
+  "tag": {
+    "noun": "etîket"
+  },
+  "tap": {
+    "noun": "tepandin"
+  },
+  "taxonomy": {
+    "noun": "polandin"
+  },
+  "template": {
+    "noun": "kiras"
+  },
+  "term": {
+    "noun": "têgeh"
+  },
+  "terms and conditions": {
+    "noun": "merc û rêbaz"
+  },
+  "terms of service": {
+    "noun": "merc û xizmet"
+  },
+  "terms of services": {
+    "noun": "peymana xizmetan"
+  },
+  "tether": {
+    "noun": "girêdan"
+  },
+  "text editor": {
+    "noun": "serrastgeha nivîsê"
+  },
+  "theme": {
+    "noun": "rûkar"
+  },
+  "Theme Showcase": {
+    "noun": "camekana rûkarê"
+  },
+  "thread": {
+    "noun": "mijar"
+  },
+  "thumbnail": {
+    "noun": "wênok"
+  },
+  "Time": {
+    "noun": "Dem"
+  },
+  "time stamp": {
+    "noun": "mohra demê"
+  },
+  "Timeline": {
+    "noun": "Demname"
+  },
+  "timezone": {
+    "noun": "navçedem"
+  },
+  "Title": {
+    "noun": "Serik,Sernav"
+  },
+  "token": {
+    "noun": "biyang"
+  },
+  "tool": {
+    "noun": "alav"
+  },
+  "Topic": {
+    "noun": "Mijar"
+  },
+  "Total": {
+    "noun": "Tevahî"
+  },
+  "touch screen": {
+    "noun": "destdanok"
+  },
+  "touchpad": {
+    "noun": "tepdan"
+  },
+  "trackback": {
+    "noun": "veşopandin, paşşopandin"
+  },
+  "Trade": {
+    "noun": "bazirganî"
+  },
+  "Transfer Code": {
+    "noun": "koda veguheztinê"
+  },
+  "Transient": {
+    "noun": "demkî"
+  },
+  "translate": {
+    "noun": "wergerandin"
+  },
+  "translation": {
+    "noun": "werger"
+  },
+  "Trash": {
+    "noun": "Jêbirdank"
+  },
+  "trophy": {
+    "noun": "xelat"
+  },
+  "troubleshooting": {
+    "noun": "çareserkirina pirsgirêkan"
+  },
+  "two factor authentication": {
+    "noun": "rastandina du-gavî"
+  },
+  "unapprove": {
+    "noun": "nepejirîne"
+  },
+  "Unapproved": {
+    "noun": "Nepejirandî"
+  },
+  "undo": {
+    "noun": "vegerîne"
+  },
+  "Unfollow": {
+    "noun": "neşopîne"
+  },
+  "Uninstall": {
+    "noun": "jê rakirin, jê rake"
+  },
+  "unit": {
+    "noun": "yeke"
+  },
+  "unit time": {
+    "noun": "yekedem"
+  },
+  "Unknown": {
+    "noun": "nenas"
+  },
+  "Unlimited Storage": {
+    "noun": "bîrgeha bêdawî"
+  },
+  "Unlock": {
+    "noun": "kilîdê veke"
+  },
+  "unmute": {
+    "noun": "bêdeng bike"
+  },
+  "unstar": {
+    "noun": "stêrkê rake"
+  },
+  "unstick": {
+    "noun": "nezeliqîne"
+  },
+  "Update": {
+    "verb": "Hildemandin",
+    "noun": "Hildem"
+  },
+  "upgrade": {
+    "noun": "bilind bike"
+  },
+  "Upload": {
+    "verb": "Hilxistin",
+    "noun": "Hilxistin"
+  },
+  "Uploader": {
+    "noun": "Hilxister"
+  },
+  "user": {
+    "noun": "bikarhêner"
+  },
+  "user account": {
+    "noun": "ajimêra bikarhêneriyê"
+  },
+  "user friedly": {
+    "noun": "dostmirov"
+  },
+  "username": {
+    "noun": "navê bikarhêner"
+  },
+  "Valid": {
+    "noun": "Derbasdar"
+  },
+  "various": {
+    "noun": "cuda"
+  },
+  "verify": {
+    "verb": "piştrastkirin"
+  },
+  "Version": {
+    "noun": "Guherto"
+  },
+  "vertical": {
+    "noun": "stûnî"
+  },
+  "video": {
+    "noun": "vîdyo"
+  },
+  "View": {
+    "noun": "dîtin",
+    "verb": "bibîne"
+  },
+  "virtual": {
+    "noun": "aşopî"
+  },
+  "virtual realty": {
+    "noun": "rasteqîna aşopî"
+  },
+  "virus": {
+    "noun": "vîrus"
+  },
+  "visibility": {
+    "noun": "xuyatî"
+  },
+  "visible": {
+    "noun": "xuya"
+  },
+  "Visit": {
+    "noun": "Serdan"
+  },
+  "visitor": {
+    "noun": "serdêr"
+  },
+  "Visual Editor": {
+    "noun": "Serrastkera dîtbarî"
+  },
+  "Voice Search": {
+    "noun": "lêgerîna bideng"
+  },
+  "wallpaper": {
+    "noun": "wêneyê dîwar"
+  },
+  "web server": {
+    "noun": "rajekara webê"
+  },
+  "website": {
+    "noun": "malper"
+  },
+  "Weekly": {
+    "noun": "Heftane"
+  },
+  "wheel": {
+    "noun": "çerx, teker"
+  },
+  "whitelist": {
+    "noun": "lîsteya spî"
+  },
+  "Widget": {
+    "noun": "Alavok"
+  },
+  "window": {
+    "noun": "pace"
+  },
+  "Wireless": {
+    "noun": "Bêtêl"
+  },
+  "Withdraw": {
+    "noun": "kişîn"
+  },
+  "wizard": {
+    "noun": "efsûnbaz"
+  },
+  "WordPress Dashboard": {
+    "noun": "Destgeha Wordpressê"
+  },
+  "worm": {
+    "noun": "zîro"
+  },
+  "Yummy Pie": {
+    "noun": "grafika grover"
+  }
+}

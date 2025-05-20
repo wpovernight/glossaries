@@ -1,0 +1,716 @@
+{
+  "analyze": {
+    "verb": "analyse"
+  },
+  "analyzed": {
+    "verb": "analysed"
+  },
+  "analyzes": {
+    "verb": "analyses"
+  },
+  "analyzing": {
+    "verb": "analysing"
+  },
+  "anonymize": {
+    "verb": "anonymise"
+  },
+  "anonymized": {
+    "verb": "anonymised"
+  },
+  "anymore": {
+    "adverb": "any more"
+  },
+  "apologize": {
+    "verb": "apologise"
+  },
+  "authorization": {
+    "verb": "authorisation",
+    "noun": "authorisation"
+  },
+  "authorize": {
+    "verb": "authorise"
+  },
+  "authorized": {
+    "verb": "authorised"
+  },
+  "backend": {
+    "noun": "back end"
+  },
+  "behavior": {
+    "noun": "behaviour"
+  },
+  "call-back": {
+    "verb": "callback"
+  },
+  "canceled": {
+    "verb": "cancelled"
+  },
+  "canceling": {
+    "verb": "cancelling"
+  },
+  "capitalize": {
+    "verb": "capitalise"
+  },
+  "capitalized": {
+    "verb": "capitalised"
+  },
+  "capitalizes": {
+    "verb": "capitalises"
+  },
+  "catalog": {
+    "verb": "catalogue"
+  },
+  "categorization": {
+    "verb": "categorisation"
+  },
+  "categorize": {
+    "verb": "categorise"
+  },
+  "categorized": {
+    "verb": "categorised"
+  },
+  "center": {
+    "noun": "centre",
+    "verb": "centre"
+  },
+  "centered": {
+    "verb": "centred"
+  },
+  "centering": {
+    "verb": "centring"
+  },
+  "centimeter": {
+    "noun": "centimetre"
+  },
+  "centimeters": {
+    "noun": "centimetres"
+  },
+  "centralize": {
+    "verb": "centralise"
+  },
+  "centralized": {
+    "verb": "centralised"
+  },
+  "Cheatin&#8217; uh?": {
+    "expression": "Cheating, are we?"
+  },
+  "check": {
+    "verb": "check",
+    "noun": "cheque"
+  },
+  "color": {
+    "noun": "colour",
+    "verb": "colour"
+  },
+  "colorful": {
+    "adjective": "colourful"
+  },
+  "colorize": {
+    "verb": "colourise"
+  },
+  "colors": {
+    "noun": "colours",
+    "verb": "colours"
+  },
+  "customizable": {
+    "verb": "customisable"
+  },
+  "customization": {
+    "verb": "customisation"
+  },
+  "customizations": {
+    "verb": "customisations"
+  },
+  "customize": {
+    "verb": "customise"
+  },
+  "customized": {
+    "verb": "customised"
+  },
+  "customizer": {
+    "verb": "customiser"
+  },
+  "customizing": {
+    "verb": "customising"
+  },
+  "datacenter": {
+    "noun": "datacentre"
+  },
+  "defense": {
+    "noun": "defence"
+  },
+  "democratize": {
+    "verb": "democratise"
+  },
+  "democratizing": {
+    "verb": "democratising"
+  },
+  "dialog": {
+    "verb": "dialogue"
+  },
+  "dialogs": {
+    "noun": "dialogues"
+  },
+  "digitize": {
+    "verb": "digitise"
+  },
+  "digitized": {
+    "verb": "digitised"
+  },
+  "disorganize": {
+    "verb": "disorganise"
+  },
+  "disorganized": {
+    "verb": "disorganised"
+  },
+  "e-commerce": {
+    "noun": "eCommerce"
+  },
+  "e-mail": {
+    "noun": "email",
+    "verb": "email"
+  },
+  "eco-system": {
+    "noun": "ecosystem"
+  },
+  "endeavor": {
+    "verb": "endeavour"
+  },
+  "enroll": {
+    "verb": "enrol"
+  },
+  "enrollment": {
+    "verb": "enrolment"
+  },
+  "equalize": {
+    "verb": "equalise"
+  },
+  "equalized": {
+    "verb": "equalised"
+  },
+  "extendability": {
+    "adjective": "extensibility"
+  },
+  "extendable": {
+    "adjective": "extensible"
+  },
+  "fall-back": {
+    "verb": "fallback"
+  },
+  "faucet": {
+    "noun": "tap"
+  },
+  "favor": {
+    "noun": "favour",
+    "verb": "favour"
+  },
+  "favorite": {
+    "verb": "favourite"
+  },
+  "favorited": {
+    "verb": "favourited"
+  },
+  "favorites": {
+    "verb": "favourites"
+  },
+  "finalize": {
+    "verb": "finalise"
+  },
+  "finalized": {
+    "verb": "finalised"
+  },
+  "finalizing": {
+    "verb": "finalising"
+  },
+  "front-end": {
+    "noun": "front end"
+  },
+  "frontend": {
+    "noun": "front end"
+  },
+  "frontpage": {
+    "noun": "front page"
+  },
+  "fulfill": {
+    "verb": "fulfil"
+  },
+  "fulfillment": {
+    "noun": "fulfilment"
+  },
+  "gray": {
+    "adjective": "grey"
+  },
+  "Hi": {
+    "noun": "Kia ora"
+  },
+  "homepage": {
+    "noun": "home page"
+  },
+  "honor": {
+    "verb": "honour"
+  },
+  "honored": {
+    "verb": "honoured"
+  },
+  "hood": {
+    "noun": "bonnet"
+  },
+  "Howdy": {
+    "noun": "Kia ora"
+  },
+  "humanize": {
+    "verb": "humanise"
+  },
+  "initialization": {
+    "verb": "initialisation"
+  },
+  "initialize": {
+    "verb": "initialise"
+  },
+  "initialized": {
+    "verb": "initialised"
+  },
+  "initializing": {
+    "verb": "initialising"
+  },
+  "installment": {
+    "noun": "instalment"
+  },
+  "internationalization": {
+    "verb": "internationalisation"
+  },
+  "internationalize": {
+    "verb": "internationalise"
+  },
+  "internationalized": {
+    "verb": "internationalised"
+  },
+  "itemize": {
+    "verb": "itemise"
+  },
+  "itemized": {
+    "verb": "itemised"
+  },
+  "jewelry": {
+    "noun": "jewellery"
+  },
+  "knowledgebase": {
+    "noun": "knowledge base"
+  },
+  "labeled": {
+    "verb": "labelled"
+  },
+  "labeling": {
+    "verb": "labelling"
+  },
+  "labor": {
+    "verb": "labour"
+  },
+  "labors": {
+    "verb": "labours"
+  },
+  "license": {
+    "verb": "license",
+    "noun": "licence"
+  },
+  "licenses": {
+    "noun": "licences"
+  },
+  "localization": {
+    "verb": "localisation"
+  },
+  "localize": {
+    "verb": "localise"
+  },
+  "localized": {
+    "verb": "localised"
+  },
+  "login": {
+    "adjective": "login",
+    "verb": "log in"
+  },
+  "MailChimp": {
+    "noun": "Mailchimp"
+  },
+  "maximize": {
+    "verb": "maximise"
+  },
+  "maximized": {
+    "verb": "maximised"
+  },
+  "meter": {
+    "noun": "metre"
+  },
+  "meters": {
+    "noun": "metres"
+  },
+  "millimeter": {
+    "noun": "millimetre"
+  },
+  "millimeters": {
+    "noun": "millimetres"
+  },
+  "minimize": {
+    "verb": "minimise"
+  },
+  "minimized": {
+    "verb": "minimised"
+  },
+  "modernize": {
+    "verb": "modernise"
+  },
+  "modernized": {
+    "verb": "modernised"
+  },
+  "monetization": {
+    "noun": "monetisation"
+  },
+  "monetize": {
+    "verb": "monetise"
+  },
+  "monetizing": {
+    "verb": "monetising"
+  },
+  "neighbor": {
+    "verb": "neighbour"
+  },
+  "normalize": {
+    "verb": "normalise"
+  },
+  "normalized": {
+    "verb": "normalised"
+  },
+  "occured": {
+    "verb": "occurred"
+  },
+  "offense": {
+    "noun": "offence"
+  },
+  "optimization": {
+    "verb": "optimisation"
+  },
+  "optimize": {
+    "verb": "optimise"
+  },
+  "optimized": {
+    "verb": "optimised"
+  },
+  "optimizer": {
+    "noun": "optimiser"
+  },
+  "optimizing": {
+    "verb": "optimising"
+  },
+  "organization": {
+    "verb": "organisation"
+  },
+  "organizations": {
+    "noun": "organisations"
+  },
+  "organize": {
+    "verb": "organise"
+  },
+  "organized": {
+    "verb": "organised"
+  },
+  "organizer": {
+    "verb": "organiser"
+  },
+  "organizers": {
+    "verb": "organisers"
+  },
+  "organizing": {
+    "verb": "organising"
+  },
+  "personalization": {
+    "noun": "personalisation"
+  },
+  "personalize": {
+    "verb": "personalise"
+  },
+  "personalized": {
+    "verb": "personalised"
+  },
+  "pre-configured": {
+    "verb": "preconfigured"
+  },
+  "pre-defined": {
+    "verb": "predefined"
+  },
+  "pre-existing": {
+    "adjective": "preexisting"
+  },
+  "pre-packaged": {
+    "verb": "prepackaged"
+  },
+  "prioritization": {
+    "verb": "prioritisation"
+  },
+  "prioritize": {
+    "verb": "prioritise"
+  },
+  "prioritized": {
+    "verb": "prioritised"
+  },
+  "prioritizes": {
+    "verb": "prioritises"
+  },
+  "prioritizing": {
+    "verb": "prioritising"
+  },
+  "publicize": {
+    "verb": "publicise"
+  },
+  "publicized": {
+    "verb": "publicised"
+  },
+  "publicizing": {
+    "verb": "publicising"
+  },
+  "randomize": {
+    "verb": "randomise"
+  },
+  "randomized": {
+    "verb": "randomised"
+  },
+  "randomizing": {
+    "verb": "randomising"
+  },
+  "re-activate": {
+    "verb": "reactivate"
+  },
+  "re-authorise": {
+    "verb": "reauthorise"
+  },
+  "re-authorize": {
+    "verb": "reauthorise"
+  },
+  "re-calculate": {
+    "verb": "recalculate"
+  },
+  "re-check": {
+    "verb": "recheck"
+  },
+  "re-configure": {
+    "verb": "reconfigure"
+  },
+  "re-schedule": {
+    "verb": "reschedule"
+  },
+  "re-scheduled": {
+    "verb": "rescheduled"
+  },
+  "re-worked": {
+    "verb": "reworked"
+  },
+  "realize": {
+    "verb": "realise"
+  },
+  "realized": {
+    "verb": "realised"
+  },
+  "reauthorize": {
+    "verb": "reauthorise"
+  },
+  "recognize": {
+    "verb": "recognise"
+  },
+  "recognized": {
+    "verb": "recognised"
+  },
+  "recognizing": {
+    "verb": "recognising"
+  },
+  "reorganize": {
+    "verb": "reorganise"
+  },
+  "reorganized": {
+    "verb": "reorganised"
+  },
+  "reorganizing": {
+    "verb": "reorganising"
+  },
+  "roll-back": {
+    "verb": "rollback"
+  },
+  "roll-out": {
+    "verb": "rollout"
+  },
+  "sanitization": {
+    "verb": "sanitisation"
+  },
+  "sanitize": {
+    "verb": "sanitise"
+  },
+  "sanitized": {
+    "verb": "sanitised"
+  },
+  "sanitizing": {
+    "verb": "sanitising"
+  },
+  "savior": {
+    "noun": "saviour"
+  },
+  "serialize": {
+    "verb": "serialise"
+  },
+  "serialized": {
+    "verb": "serialised"
+  },
+  "specialize": {
+    "verb": "specialise"
+  },
+  "specialized": {
+    "verb": "specialised"
+  },
+  "specializes": {
+    "verb": "specialises"
+  },
+  "specializing": {
+    "verb": "specialising"
+  },
+  "standardize": {
+    "verb": "standardise"
+  },
+  "standardized": {
+    "noun": "standardised"
+  },
+  "stylesheet": {
+    "noun": "style sheet"
+  },
+  "stylize": {
+    "verb": "stylise"
+  },
+  "stylized": {
+    "verb": "stylised"
+  },
+  "symbolize": {
+    "verb": "symbolise"
+  },
+  "symbolized": {
+    "verb": "symbolised"
+  },
+  "symbolizes": {
+    "verb": "symbolises"
+  },
+  "synchronization": {
+    "verb": "synchronisation"
+  },
+  "synchronize": {
+    "verb": "synchronise"
+  },
+  "synchronized": {
+    "verb": "synchronised"
+  },
+  "synchronizing": {
+    "verb": "synchronising"
+  },
+  "tool bar": {
+    "noun": "toolbar"
+  },
+  "tool-bar": {
+    "noun": "toolbar"
+  },
+  "totaling": {
+    "verb": "totalling"
+  },
+  "traveling": {
+    "verb": "travelling"
+  },
+  "unauthorized": {
+    "verb": "unauthorised"
+  },
+  "uncategorized": {
+    "verb": "uncategorised"
+  },
+  "uninitialization": {
+    "verb": "uninitialisation"
+  },
+  "uninitialize": {
+    "verb": "uninitialise"
+  },
+  "uninitialized": {
+    "verb": "uninitialised"
+  },
+  "uninitializing": {
+    "verb": "uninitialising"
+  },
+  "unorganized": {
+    "verb": "disorganised"
+  },
+  "unrecognizable": {
+    "adjective": "unrecognisable"
+  },
+  "unrecognized": {
+    "adjective": "unrecognised"
+  },
+  "unsavory": {
+    "adjective": "unsavoury"
+  },
+  "url": {
+    "noun": "URL"
+  },
+  "URL's": {
+    "noun": "URLs"
+  },
+  "useable": {
+    "adjective": "usable"
+  },
+  "utilize": {
+    "verb": "utilise"
+  },
+  "utilized": {
+    "verb": "utilised"
+  },
+  "utilizes": {
+    "verb": "utilises"
+  },
+  "utilizing": {
+    "verb": "utilising"
+  },
+  "vectorize": {
+    "verb": "vectorise"
+  },
+  "virtualization": {
+    "noun": "virtualisation"
+  },
+  "virtualize": {
+    "verb": "virtualise"
+  },
+  "virtualized": {
+    "verb": "virtualised"
+  },
+  "virtualizes": {
+    "verb": "virtualises"
+  },
+  "virtualizing": {
+    "verb": "virtualising"
+  },
+  "visualization": {
+    "noun": "visualisation"
+  },
+  "visualize": {
+    "verb": "visualise"
+  },
+  "visualized": {
+    "verb": "visualised"
+  },
+  "visualizes": {
+    "verb": "visualises"
+  },
+  "visualizing": {
+    "verb": "visualising"
+  },
+  "widgetized": {
+    "verb": "widgetised"
+  },
+  "WooCommerce": {
+    "noun": "WooCommerce"
+  },
+  "Wordpress": {
+    "noun": "WordPress"
+  },
+  "writeable": {
+    "adjective": "writable"
+  }
+}

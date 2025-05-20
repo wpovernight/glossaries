@@ -1,0 +1,1781 @@
+{
+  "front-end": {
+    "noun": "obličje"
+  },
+  "ability": {
+    "noun": "zmožnost"
+  },
+  "access": {
+    "noun": "dostop"
+  },
+  "accessibility": {
+    "noun": "dostopnost"
+  },
+  "accessible": {
+    "adjective": "dostopno"
+  },
+  "account": {
+    "noun": "račun"
+  },
+  "action": {
+    "noun": "dejanje"
+  },
+  "Action Scheduler": {
+    "expression": "narčrtovalnik dejanj"
+  },
+  "activate": {
+    "verb": "aktivirati"
+  },
+  "activation": {
+    "noun": "aktivacija"
+  },
+  "activation hook": {
+    "expression": "ročica za aktivacijo"
+  },
+  "activation key": {
+    "noun": "aktivacijski ključ"
+  },
+  "add": {
+    "verb": "dodati"
+  },
+  "additional": {
+    "adjective": "dodatni"
+  },
+  "address": {
+    "noun": "naslov"
+  },
+  "admin": {
+    "noun": "skrbnik"
+  },
+  "admin bar": {
+    "noun": "skrbniška vrstica"
+  },
+  "administration": {
+    "noun": "skrbništvo"
+  },
+  "administrator": {
+    "noun": "skrbnik"
+  },
+  "advanced": {
+    "adjective": "napredni"
+  },
+  "align": {
+    "verb": "poravnati"
+  },
+  "allowed": {
+    "adjective": "dovoljeno"
+  },
+  "alt text": {
+    "noun": "nadomestno besedilo"
+  },
+  "alternative": {
+    "adjective": "nadomestni"
+  },
+  "anonymous": {
+    "adjective": "anonimni"
+  },
+  "appearance": {
+    "noun": "videz"
+  },
+  "application": {
+    "noun": "aplikacija / uveljavitev"
+  },
+  "application password": {
+    "expression": "geslo aplikacije"
+  },
+  "apply": {
+    "verb": "uveljaviti"
+  },
+  "approve": {
+    "verb": "odobriti"
+  },
+  "approved": {
+    "adjective": "odobren"
+  },
+  "archive": {
+    "noun": "arhiv",
+    "verb": "arhivirati"
+  },
+  "area": {
+    "noun": "območje"
+  },
+  "argument": {
+    "noun": "argument"
+  },
+  "arrange": {
+    "verb": "razporediti"
+  },
+  "array": {
+    "noun": "polje"
+  },
+  "arrow": {
+    "noun": "puščica"
+  },
+  "article": {
+    "noun": "članek"
+  },
+  "aside": {
+    "noun": "odloži na stran"
+  },
+  "aspect": {
+    "noun": "pogled"
+  },
+  "aspect ratio": {
+    "expression": "razmerje"
+  },
+  "assign": {
+    "verb": "dodeliti"
+  },
+  "associate": {
+    "verb": "povezati"
+  },
+  "attach": {
+    "verb": "pripeti"
+  },
+  "attachment": {
+    "noun": "priponka"
+  },
+  "attribute": {
+    "noun": "atribut"
+  },
+  "audio": {
+    "noun": "zvok"
+  },
+  "authentication": {
+    "noun": "overjanje"
+  },
+  "author": {
+    "noun": "avtor"
+  },
+  "authorization": {
+    "noun": "pooblastitev"
+  },
+  "automatic": {
+    "adjective": "samodejni"
+  },
+  "autosave": {
+    "noun": "samodejno shranjevanje"
+  },
+  "available actions": {
+    "expression": "razpoložljiva dejanja"
+  },
+  "avatar": {
+    "expression": "prikazna slika"
+  },
+  "avoid": {
+    "verb": "izogibati se"
+  },
+  "backdate": {
+    "noun": "označi s preteklim datumom"
+  },
+  "backend": {
+    "noun": "zaledje"
+  },
+  "backgound": {
+    "noun": "ozadje"
+  },
+  "backup": {
+    "noun": "varnostna kopija"
+  },
+  "band": {
+    "noun": "pas"
+  },
+  "banner": {
+    "noun": "pasica"
+  },
+  "bar": {
+    "noun": "vrstica"
+  },
+  "base": {
+    "noun": "osnova"
+  },
+  "binary": {
+    "adjective": "binaren"
+  },
+  "biographical info": {
+    "expression": "biografski podatki"
+  },
+  "blank": {
+    "adjective": "prazen"
+  },
+  "block theme": {
+    "noun": "tema z bloki"
+  },
+  "blocked": {
+    "adjective": "blokiran"
+  },
+  "blockquote": {
+    "noun": "daljši navedek"
+  },
+  "blog": {
+    "noun": "blog"
+  },
+  "blog post": {
+    "noun": "prispevek"
+  },
+  "blogging": {
+    "noun": "bloganje"
+  },
+  "blogroll": {
+    "noun": "povezave na druge bloge"
+  },
+  "body": {
+    "noun": "telo"
+  },
+  "bold": {
+    "adjective": "krepko"
+  },
+  "bookmark": {
+    "noun": "zaznamek"
+  },
+  "bookmarklet": {
+    "noun": "zaznamček"
+  },
+  "box": {
+    "noun": "okvir"
+  },
+  "break": {
+    "noun": "prelom"
+  },
+  "browse": {
+    "verb": "brskati"
+  },
+  "browser": {
+    "noun": "brskalnik"
+  },
+  "bubble": {
+    "noun": "oblaček"
+  },
+  "bug": {
+    "noun": "hrošč"
+  },
+  "built-in": {
+    "adjective": "vgrajen"
+  },
+  "bulk": {
+    "adjective": "množičen"
+  },
+  "bulk actions": {
+    "expression": "množična dejanja"
+  },
+  "bulk edit": {
+    "expression": "množično urejanje"
+  },
+  "button": {
+    "noun": "gumb"
+  },
+  "cache": {
+    "noun": "predpomnjenje"
+  },
+  "callback": {
+    "noun": "povratni klic"
+  },
+  "cancel": {
+    "verb": "prekliči"
+  },
+  "capabilities": {
+    "noun": "zmožnosti"
+  },
+  "caption": {
+    "noun": "napis"
+  },
+  "cart": {
+    "noun": "košarica"
+  },
+  "category": {
+    "noun": "kategorija"
+  },
+  "caution": {
+    "noun": "pozor"
+  },
+  "certificate": {
+    "noun": "potrdilo"
+  },
+  "changeset": {
+    "expression": "množica sprememb"
+  },
+  "character": {
+    "noun": "znak"
+  },
+  "checkbox": {
+    "noun": "označno polje"
+  },
+  "child theme": {
+    "expression": "podrejena tema"
+  },
+  "chit-chat": {
+    "noun": "klepet"
+  },
+  "chronological": {
+    "adjective": "kronološki"
+  },
+  "class": {
+    "noun": "razred"
+  },
+  "client": {
+    "noun": "odjemalec"
+  },
+  "code": {
+    "noun": "koda"
+  },
+  "collapse": {
+    "verb": "skrči"
+  },
+  "color picker": {
+    "expression": "izbirnik barve"
+  },
+  "color scheme": {
+    "expression": "barvna shema"
+  },
+  "column": {
+    "noun": "stolpec"
+  },
+  "command": {
+    "noun": "ukaz"
+  },
+  "comment": {
+    "verb": "komentirati",
+    "noun": "komentar"
+  },
+  "comment moderation": {
+    "expression": "moderiranje kometarjev"
+  },
+  "comments feed": {
+    "expression": "vir komentarjev"
+  },
+  "common": {
+    "adjective": "splošni"
+  },
+  "community": {
+    "noun": "skupnost"
+  },
+  "company": {
+    "noun": "družba"
+  },
+  "compatibility": {
+    "noun": "združljivost"
+  },
+  "compatible": {
+    "noun": "združljiv"
+  },
+  "configuration": {
+    "noun": "nastavitev"
+  },
+  "configuration error": {
+    "expression": "napaka v nastavitvi"
+  },
+  "configuration file": {
+    "expression": "nastavitvena datoteka"
+  },
+  "configure": {
+    "verb": "nastaviti"
+  },
+  "confirm": {
+    "verb": "potrdi"
+  },
+  "confirmation": {
+    "noun": "potrditev"
+  },
+  "confirmation link": {
+    "noun": "potrditvena povezava"
+  },
+  "conflict": {
+    "noun": "spor"
+  },
+  "connect to the database": {
+    "expression": "vzpostaviti povezavo s podatkovno zbirko"
+  },
+  "connection": {
+    "noun": "povezava"
+  },
+  "contact": {
+    "noun": "kontakt"
+  },
+  "contact info": {
+    "expression": "kontaktni podatki"
+  },
+  "content": {
+    "noun": "vsebina"
+  },
+  "continue": {
+    "noun": "naprej"
+  },
+  "continue reading": {
+    "expression": "preberi več"
+  },
+  "contributing developers": {
+    "expression": "sodelujoči razvijalci"
+  },
+  "contributor": {
+    "noun": "sodelavec"
+  },
+  "conversion": {
+    "noun": "pretvorba"
+  },
+  "convert": {
+    "verb": "pretvoriti"
+  },
+  "converter": {
+    "noun": "pretvornik"
+  },
+  "cookie": {
+    "noun": "piškotek"
+  },
+  "creator": {
+    "noun": "ustvarjalec"
+  },
+  "credits": {
+    "noun": "zahvale"
+  },
+  "criteria": {
+    "noun": "merila"
+  },
+  "crop": {
+    "verb": "obrezati"
+  },
+  "current": {
+    "adjective": "trenutni"
+  },
+  "custom": {
+    "adjective": "po meri"
+  },
+  "customization": {
+    "noun": "prilagoditev"
+  },
+  "customize": {
+    "verb": "prilagoditi"
+  },
+  "customizer": {
+    "noun": "prilagojevalnik"
+  },
+  "cut": {
+    "verb": "izrezati"
+  },
+  "Dashboard": {
+    "noun": "Nadzorna plošča"
+  },
+  "data": {
+    "noun": "podatki"
+  },
+  "database": {
+    "noun": "podatkovna zbirka"
+  },
+  "datastore": {
+    "noun": "podatkovna shramba"
+  },
+  "deactivate": {
+    "verb": "onemogočiti"
+  },
+  "default": {
+    "noun": "privzeto"
+  },
+  "define": {
+    "verb": "določiti"
+  },
+  "delay": {
+    "noun": "zakasnitev"
+  },
+  "delete permanently": {
+    "expression": "nepreklicno izbriši"
+  },
+  "deprecate": {
+    "verb": "zastarati"
+  },
+  "deprecated": {
+    "adjective": "zastarelo"
+  },
+  "description": {
+    "noun": "opis"
+  },
+  "deselect": {
+    "verb": "odstrani izbiro"
+  },
+  "determine": {
+    "verb": "določiti"
+  },
+  "developer": {
+    "noun": "razvijalec"
+  },
+  "device": {
+    "noun": "naprava"
+  },
+  "dialog": {
+    "noun": "okno"
+  },
+  "directory": {
+    "noun": "mapa (datotečni sistem) ali imenik (spletna zbirka predmetov)"
+  },
+  "disable": {
+    "verb": "onemogočiti"
+  },
+  "discussion": {
+    "noun": "razprava"
+  },
+  "discussion settings": {
+    "expression": "nastavitve razprave"
+  },
+  "dismiss": {
+    "verb": "opustiti"
+  },
+  "display name": {
+    "expression": "ime za prikaz"
+  },
+  "distraction": {
+    "noun": "motnja"
+  },
+  "distraction-free": {
+    "adjective": "brez motenj"
+  },
+  "documentation": {
+    "noun": "dokumentacija"
+  },
+  "domain": {
+    "noun": "domena"
+  },
+  "download": {
+    "verb": "prenesti"
+  },
+  "draft": {
+    "noun": "osnutek"
+  },
+  "drag and drop": {
+    "expression": "povleci in spusti"
+  },
+  "dropdown": {
+    "noun": "spustni (meni)"
+  },
+  "duplicate": {
+    "verb": "podvojiti"
+  },
+  "e-mail": {
+    "noun": "e-pošta"
+  },
+  "e-mail address": {
+    "expression": "e-poštni naslov"
+  },
+  "easter egg": {
+    "noun": "sladkorček"
+  },
+  "editor": {
+    "noun": "Urednik"
+  },
+  "element": {
+    "noun": "predmet"
+  },
+  "email": {
+    "noun": "e-pošta"
+  },
+  "embed": {
+    "verb": "vdelati",
+    "noun": "vdelava"
+  },
+  "emoticon": {
+    "noun": "smeško"
+  },
+  "empty spam": {
+    "expression": "izbriši neželeno vsebino"
+  },
+  "enable": {
+    "verb": "omogočiti"
+  },
+  "enabled": {
+    "adjective": "omogočen"
+  },
+  "engine": {
+    "noun": "pogon"
+  },
+  "enter": {
+    "verb": "vnesti"
+  },
+  "entry": {
+    "noun": "vnos"
+  },
+  "error": {
+    "noun": "napaka"
+  },
+  "error code": {
+    "expression": "koda napake"
+  },
+  "error message": {
+    "expression": "sporočilo o napaki"
+  },
+  "excerpt": {
+    "noun": "izvleček"
+  },
+  "exit": {
+    "noun": "izhod"
+  },
+  "exit fullscreen": {
+    "expression": "izhod iz celozaslonskega načina"
+  },
+  "expand": {
+    "verb": "razširiti"
+  },
+  "export": {
+    "verb": "izvoziti"
+  },
+  "extend": {
+    "verb": "razširiti"
+  },
+  "extension": {
+    "noun": "razširitev"
+  },
+  "external": {
+    "adjective": "zunanji"
+  },
+  "failed": {
+    "noun": "ni uspelo"
+  },
+  "fatal error": {
+    "expression": "usodna napaka"
+  },
+  "favorite": {
+    "adjective": "priljubljen"
+  },
+  "feature": {
+    "noun": "zmožnost"
+  },
+  "featured": {
+    "adjective": "predstavljen"
+  },
+  "featured image": {
+    "expression": "prikazna slika"
+  },
+  "feed": {
+    "noun": "vir"
+  },
+  "field": {
+    "noun": "polje"
+  },
+  "file": {
+    "noun": "datoteka"
+  },
+  "filter": {
+    "noun": "filter"
+  },
+  "fixed": {
+    "adjective": "nespremenljivo"
+  },
+  "folder": {
+    "noun": "mapa"
+  },
+  "follow-up": {
+    "verb": "spremljati"
+  },
+  "font": {
+    "noun": "pisava"
+  },
+  "footer": {
+    "noun": "noga"
+  },
+  "format": {
+    "noun": "oblika"
+  },
+  "formatting": {
+    "noun": "oblikovanje"
+  },
+  "forum": {
+    "noun": "forum"
+  },
+  "frame": {
+    "noun": "okvir"
+  },
+  "from %s": {
+    "expression": "z dne %s"
+  },
+  "front end": {
+    "expression": "obličje"
+  },
+  "front page": {
+    "expression": "naslovna stran"
+  },
+  "frontend": {
+    "noun": "obličje"
+  },
+  "full size": {
+    "expression": "polna velikost"
+  },
+  "fullscreen": {
+    "noun": "celozaslonski (način)"
+  },
+  "function": {
+    "noun": "funkcija"
+  },
+  "gallery": {
+    "noun": "galerija"
+  },
+  "general settings": {
+    "expression": "splošne nastavitve"
+  },
+  "guest": {
+    "noun": "gost"
+  },
+  "guidelines": {
+    "noun": "smernice"
+  },
+  "handle": {
+    "verb": "obravnavati"
+  },
+  "handler": {
+    "noun": "ročnik"
+  },
+  "header": {
+    "noun": "glava"
+  },
+  "header Image": {
+    "expression": "slika glave"
+  },
+  "header Text": {
+    "expression": "besedilo glave"
+  },
+  "help tab": {
+    "expression": "zavihek za pomoč"
+  },
+  "hex value": {
+    "expression": "šestnajstiška vrednost"
+  },
+  "hidden": {
+    "adjective": "skrito"
+  },
+  "hierarchy": {
+    "noun": "hierarhija"
+  },
+  "history": {
+    "noun": "zgodovina"
+  },
+  "home": {
+    "noun": "domov"
+  },
+  "homepage": {
+    "noun": "domača stran"
+  },
+  "hook": {
+    "noun": "ročica"
+  },
+  "host": {
+    "noun": "gostitelj"
+  },
+  "hostname": {
+    "noun": "ime gostitelja"
+  },
+  "hot key": {
+    "expression": "bližnjica"
+  },
+  "hover": {
+    "verb": "lebdeti"
+  },
+  "howdy": {
+    "expression": "pozdravljeni"
+  },
+  "icon": {
+    "noun": "ikona"
+  },
+  "identifier": {
+    "noun": "določilnik"
+  },
+  "image crop": {
+    "expression": "obrezati sliko"
+  },
+  "image header": {
+    "expression": "slikovna glava"
+  },
+  "image sizes": {
+    "expression": "velikosti slik"
+  },
+  "import": {
+    "verb": "uvoziti"
+  },
+  "importer": {
+    "noun": "orodje za uvoz"
+  },
+  "inactive": {
+    "adjective": "nedejavno"
+  },
+  "inbox": {
+    "noun": "nabiralnik"
+  },
+  "inclusion": {
+    "noun": "vključitev"
+  },
+  "incoming": {
+    "adjective": "dohodni"
+  },
+  "inconsistent": {
+    "adjective": "nedosleden"
+  },
+  "index": {
+    "noun": "kazalo"
+  },
+  "info": {
+    "noun": "podrobnosti"
+  },
+  "inline": {
+    "adjective": "medvrstično"
+  },
+  "insert": {
+    "verb": "vstaviti"
+  },
+  "install": {
+    "verb": "namestiti"
+  },
+  "installation": {
+    "noun": "namestitev"
+  },
+  "installer": {
+    "noun": "namestitveni program"
+  },
+  "Installing": {
+    "verb": "nameščanje"
+  },
+  "instance": {
+    "noun": "primerek"
+  },
+  "invalid": {
+    "adjective": "neveljavno"
+  },
+  "item": {
+    "noun": "predmet"
+  },
+  "junk": {
+    "noun": "neželena vsebina"
+  },
+  "key": {
+    "noun": "tipka"
+  },
+  "keyboard shortcut": {
+    "expression": "bližnjica na tipkovnici"
+  },
+  "keyword": {
+    "noun": "ključna beseda"
+  },
+  "layout": {
+    "noun": "postavitev"
+  },
+  "lead developer": {
+    "noun": "glavni razvijalec"
+  },
+  "legacy": {
+    "adjective": "zastarelo"
+  },
+  "level": {
+    "noun": "raven"
+  },
+  "library": {
+    "noun": "knjižnica"
+  },
+  "license": {
+    "noun": "licenca"
+  },
+  "link": {
+    "noun": "povezava"
+  },
+  "list": {
+    "noun": "seznam"
+  },
+  "live": {
+    "adjective": "v živo"
+  },
+  "load": {
+    "verb": "naložiti"
+  },
+  "log": {
+    "noun": "dnevnik"
+  },
+  "log in": {
+    "noun": "prijava"
+  },
+  "log out": {
+    "noun": "odjava"
+  },
+  "login name": {
+    "expression": "prijavno ime"
+  },
+  "loop": {
+    "noun": "zanka"
+  },
+  "loopback": {
+    "noun": "povratna zanka"
+  },
+  "lost password": {
+    "expression": "pozabljeno geslo"
+  },
+  "maintenance": {
+    "noun": "vzdrževanje"
+  },
+  "manage": {
+    "verb": "upravljati"
+  },
+  "mark": {
+    "verb": "označiti"
+  },
+  "mark as spam": {
+    "expression": "označi kot neželeno"
+  },
+  "match": {
+    "verb": "ujemati"
+  },
+  "media": {
+    "noun": "predstavnostna datoteka"
+  },
+  "media attachment": {
+    "expression": "predstavnostna priponka"
+  },
+  "media file": {
+    "expression": "predstavnostna datoteka"
+  },
+  "media library": {
+    "expression": "predstavnostna knjižnica"
+  },
+  "media player": {
+    "expression": "predstavnostni predvajalnik"
+  },
+  "menu": {
+    "noun": "meni"
+  },
+  "menu item": {
+    "expression": "predmet menija"
+  },
+  "merge": {
+    "verb": "združiti"
+  },
+  "meta": {
+    "noun": "meta"
+  },
+  "metadata": {
+    "noun": "metapodatki"
+  },
+  "mismatch": {
+    "noun": "neujemanje"
+  },
+  "moderate": {
+    "verb": "moderirati"
+  },
+  "modify": {
+    "verb": "spremeniti"
+  },
+  "most recent": {
+    "adjective": "najnovejši"
+  },
+  "multisite": {
+    "noun": "omrežje spletišč"
+  },
+  "mute": {
+    "noun": "tih način"
+  },
+  "namespace": {
+    "noun": "imenski prostor"
+  },
+  "navigation": {
+    "noun": "navigacija"
+  },
+  "navigation menu": {
+    "expression": "navigacijski meni"
+  },
+  "nest": {
+    "verb": "ugnezditi"
+  },
+  "network": {
+    "noun": "omrežje"
+  },
+  "network admin": {
+    "expression": "skrbnik omrežja"
+  },
+  "network setup": {
+    "expression": "namestitev omrežja"
+  },
+  "news": {
+    "noun": "novice"
+  },
+  "nickname": {
+    "noun": "vzdevek"
+  },
+  "no comment": {
+    "expression": "brez komentarja"
+  },
+  "nonce": {
+    "noun": "žeton"
+  },
+  "normal": {
+    "adjective": "običajno"
+  },
+  "note": {
+    "noun": "opomba"
+  },
+  "notice": {
+    "verb": "obvestiti"
+  },
+  "notification": {
+    "noun": "obvestilo"
+  },
+  "notify": {
+    "verb": "opozoriti"
+  },
+  "object": {
+    "noun": "predmet"
+  },
+  "oh brother": {
+    "expression": "ti šment"
+  },
+  "omit": {
+    "verb": "izpusti"
+  },
+  "oops": {
+    "expression": "ups"
+  },
+  "option": {
+    "noun": "možnost"
+  },
+  "optional": {
+    "adjective": "izbirno"
+  },
+  "original": {
+    "adjective": "izvirni"
+  },
+  "override": {
+    "noun": "prepis"
+  },
+  "overview": {
+    "noun": "pregled"
+  },
+  "package": {
+    "noun": "paket"
+  },
+  "page": {
+    "noun": "stran"
+  },
+  "pagination": {
+    "noun": "številčenje strani"
+  },
+  "pane": {
+    "noun": "podokno"
+  },
+  "panel": {
+    "noun": "plošča"
+  },
+  "paragraph": {
+    "noun": "odstavek"
+  },
+  "password protected": {
+    "expression": "zaščiteno z geslom"
+  },
+  "path": {
+    "noun": "pot"
+  },
+  "pattern": {
+    "noun": "vzorec"
+  },
+  "pause": {
+    "noun": "premor"
+  },
+  "pending": {
+    "adjective": "v obdelavi / čakajoč"
+  },
+  "permalink": {
+    "noun": "trajna povezava"
+  },
+  "permission": {
+    "noun": "dovoljenje"
+  },
+  "picker": {
+    "noun": "izbirnik"
+  },
+  "ping services": {
+    "expression": "storitve ping"
+  },
+  "pingback": {
+    "noun": "pingback"
+  },
+  "pixels": {
+    "noun": "slikovne točke"
+  },
+  "placeholder": {
+    "noun": "vsebnik"
+  },
+  "platform": {
+    "noun": "platforma"
+  },
+  "play": {
+    "verb": "predvajati"
+  },
+  "player": {
+    "noun": "predvajalnik"
+  },
+  "plugin": {
+    "noun": "vtičnik"
+  },
+  "popular": {
+    "adjective": "priljubljeni"
+  },
+  "popup": {
+    "noun": "pojavni"
+  },
+  "port": {
+    "noun": "vrata"
+  },
+  "position": {
+    "noun": "položaj"
+  },
+  "post": {
+    "noun": "prispevek",
+    "verb": "objaviti"
+  },
+  "post format": {
+    "expression": "oblika prispevka"
+  },
+  "post thumbnail": {
+    "expression": "predogledna sličica prispevka"
+  },
+  "post type": {
+    "expression": "vrsta prispevka"
+  },
+  "prefix": {
+    "noun": "predpona"
+  },
+  "preset": {
+    "noun": "predloga nastavitev"
+  },
+  "preview": {
+    "noun": "predogled"
+  },
+  "previous": {
+    "adjective": "prejšnji"
+  },
+  "previous page": {
+    "expression": "prejšnja stran"
+  },
+  "primary site": {
+    "expression": "primarno spletišče"
+  },
+  "privacy": {
+    "noun": "zasebnost"
+  },
+  "privacy policy": {
+    "expression": "pravilnik o zasebnosti"
+  },
+  "private": {
+    "adjective": "zasebno"
+  },
+  "privilege": {
+    "noun": "pravica"
+  },
+  "profile": {
+    "noun": "profil"
+  },
+  "progress": {
+    "noun": "napredek",
+    "verb": "biti v teku"
+  },
+  "project leader": {
+    "noun": "vodja projekta"
+  },
+  "public": {
+    "noun": "javno"
+  },
+  "publication": {
+    "noun": "objava"
+  },
+  "publish": {
+    "verb": "objaviti"
+  },
+  "purge": {
+    "verb": "počistiti"
+  },
+  "query": {
+    "noun": "poizvedba"
+  },
+  "queue": {
+    "noun": "vrsta"
+  },
+  "quick edit": {
+    "expression": "hitro urejanje"
+  },
+  "quote": {
+    "noun": "navedek"
+  },
+  "random": {
+    "noun": "naključno"
+  },
+  "rating": {
+    "noun": "ocena"
+  },
+  "reading settings": {
+    "expression": "nastavitve branja"
+  },
+  "recent": {
+    "adjective": "nedaven"
+  },
+  "recommend": {
+    "verb": "priporočiti"
+  },
+  "redo": {
+    "verb": "obnoviti"
+  },
+  "refine": {
+    "verb": "natančneje določi"
+  },
+  "refresh": {
+    "verb": "osvežiti"
+  },
+  "register": {
+    "noun": "registracija"
+  },
+  "registration": {
+    "noun": "registracija"
+  },
+  "relationship": {
+    "noun": "odnos"
+  },
+  "release": {
+    "noun": "izdaja"
+  },
+  "remove": {
+    "verb": "odstraniti"
+  },
+  "rename": {
+    "verb": "preimenovati"
+  },
+  "render": {
+    "noun": "izris"
+  },
+  "reorder": {
+    "verb": "razporediti"
+  },
+  "repair": {
+    "verb": "popraviti"
+  },
+  "repeat": {
+    "verb": "ponoviti"
+  },
+  "reply": {
+    "verb": "odgovoriti"
+  },
+  "required": {
+    "adjective": "zahtevan"
+  },
+  "requirement": {
+    "noun": "zahteva"
+  },
+  "reset": {
+    "verb": "ponastaviti"
+  },
+  "response time": {
+    "noun": "odzivni čas"
+  },
+  "responsive": {
+    "adjective": "odziven"
+  },
+  "restore": {
+    "verb": "obnoviti"
+  },
+  "reusable": {
+    "noun": "večkratno uporaben"
+  },
+  "revert": {
+    "verb": "povrni"
+  },
+  "review": {
+    "noun": "mnenje"
+  },
+  "revision": {
+    "noun": "revizija"
+  },
+  "revoke": {
+    "verb": "prekliči"
+  },
+  "rich editor": {
+    "expression": "obogateni urejevalnik"
+  },
+  "rich text": {
+    "expression": "obogateno besedilo"
+  },
+  "robot": {
+    "noun": "robot"
+  },
+  "role": {
+    "noun": "vloga"
+  },
+  "roles and capabilities": {
+    "expression": "vloge in zmožnosti"
+  },
+  "rollback": {
+    "noun": "povrnitev posodobitve"
+  },
+  "root": {
+    "noun": "koren"
+  },
+  "root directory": {
+    "expression": "korenska mapa"
+  },
+  "route": {
+    "noun": "pot"
+  },
+  "row": {
+    "noun": "vrstica"
+  },
+  "RSS": {
+    "noun": "RSS"
+  },
+  "RTL": {
+    "noun": "RTL"
+  },
+  "sample": {
+    "noun": "vzorec"
+  },
+  "scale": {
+    "verb": "prilagodi velikost"
+  },
+  "scan": {
+    "verb": "skenirati"
+  },
+  "schedule": {
+    "verb": "načrtovati"
+  },
+  "scheme": {
+    "noun": "shema"
+  },
+  "screen": {
+    "noun": "zaslon"
+  },
+  "screen content": {
+    "expression": "vsebina zaslona"
+  },
+  "screen options": {
+    "expression": "možnosti zaslona"
+  },
+  "script": {
+    "noun": "skripta"
+  },
+  "scroll": {
+    "verb": "drseti"
+  },
+  "search engine": {
+    "noun": "iskalnik"
+  },
+  "search engine discouraged": {
+    "expression": "odvračanje iskalnikov"
+  },
+  "search form": {
+    "expression": "obrazec za iskanje"
+  },
+  "search results": {
+    "expression": "rezultati iskanja"
+  },
+  "section": {
+    "noun": "odsek"
+  },
+  "security": {
+    "noun": "varnost"
+  },
+  "select": {
+    "verb": "izbrati"
+  },
+  "server": {
+    "noun": "strežnik"
+  },
+  "server administrator": {
+    "expression": "skrbnik strežnika"
+  },
+  "session": {
+    "noun": "seja"
+  },
+  "session expired": {
+    "expression": "seja je potekla"
+  },
+  "set": {
+    "noun": "nabor"
+  },
+  "setting": {
+    "noun": "nastavitev"
+  },
+  "setup": {
+    "noun": "nastavitev"
+  },
+  "share": {
+    "verb": "deliti"
+  },
+  "shortcode": {
+    "noun": "kratka koda"
+  },
+  "shortcut": {
+    "noun": "bližnjica"
+  },
+  "shortlink": {
+    "noun": "kratka povezava"
+  },
+  "sidebar": {
+    "noun": "stranska vrstica"
+  },
+  "sign up": {
+    "expression": "prijavi se"
+  },
+  "site": {
+    "noun": "spletišče"
+  },
+  "site editor": {
+    "noun": "urejevalnik spletišča"
+  },
+  "skip": {
+    "verb": "preskočiti"
+  },
+  "slug": {
+    "noun": "ključ"
+  },
+  "smiley": {
+    "noun": "smeško"
+  },
+  "software": {
+    "noun": "programska oprema"
+  },
+  "Sorry,": {
+    "noun": "Oprostite,"
+  },
+  "source": {
+    "noun": "vir"
+  },
+  "spacing": {
+    "noun": "razmik"
+  },
+  "spam": {
+    "noun": "neželena vsebina"
+  },
+  "spam comment": {
+    "expression": "neželeni komentar"
+  },
+  "spider": {
+    "noun": "pajek"
+  },
+  "split": {
+    "verb": "razdeliti"
+  },
+  "standalone": {
+    "adjective": "samostojne"
+  },
+  "standard": {
+    "adjective": "privzeto"
+  },
+  "start": {
+    "verb": "začeti"
+  },
+  "static": {
+    "adjective": "statični"
+  },
+  "static front page": {
+    "expression": "statična naslovna stran"
+  },
+  "status": {
+    "noun": "stanje"
+  },
+  "stick": {
+    "verb": "zasidrati"
+  },
+  "sticky": {
+    "adjective": "zasidrano"
+  },
+  "stop": {
+    "verb": "ustaviti"
+  },
+  "stream": {
+    "noun": "tok",
+    "verb": "predvajati"
+  },
+  "strikethrough": {
+    "adjective": "prečrtano"
+  },
+  "string": {
+    "noun": "niz"
+  },
+  "style": {
+    "noun": "slog"
+  },
+  "stylesheet": {
+    "noun": "slogovna datoteka"
+  },
+  "sub item": {
+    "noun": "podpredmet"
+  },
+  "subdirectory": {
+    "noun": "podmapa"
+  },
+  "subdomain": {
+    "noun": "poddomena"
+  },
+  "subject": {
+    "noun": "zadeva"
+  },
+  "submenu": {
+    "noun": "podmeni"
+  },
+  "submission": {
+    "noun": "oddaja"
+  },
+  "submit": {
+    "verb": "pošlji"
+  },
+  "submitted": {
+    "adjective": "oddano"
+  },
+  "subscribe": {
+    "verb": "naročiti se"
+  },
+  "subscriber": {
+    "noun": "naročnik"
+  },
+  "subscription": {
+    "noun": "naročnina"
+  },
+  "summary": {
+    "noun": "povzetek"
+  },
+  "super admin": {
+    "expression": "super skrbnik"
+  },
+  "support": {
+    "noun": "podpora"
+  },
+  "support forum": {
+    "expression": "forumi za podporo"
+  },
+  "symbol": {
+    "noun": "simbol"
+  },
+  "sync": {
+    "noun": "uskladitev"
+  },
+  "tab": {
+    "noun": "zavihek"
+  },
+  "table": {
+    "noun": "tabela"
+  },
+  "table prefix": {
+    "expression": "predpona tabele"
+  },
+  "tag": {
+    "noun": "oznaka"
+  },
+  "tag cloud": {
+    "expression": "oblak oznak"
+  },
+  "tagline": {
+    "noun": "slogan"
+  },
+  "tags converter": {
+    "expression": "pretvornik oznak"
+  },
+  "target": {
+    "adjective": "ciljni"
+  },
+  "task": {
+    "noun": "naloga"
+  },
+  "taxonomy": {
+    "noun": "taksonomija"
+  },
+  "team": {
+    "noun": "ekipa"
+  },
+  "template": {
+    "noun": "predloga"
+  },
+  "temporary": {
+    "adjective": "začasni"
+  },
+  "temporary file": {
+    "expression": "začasna datoteka"
+  },
+  "term": {
+    "noun": "izraz"
+  },
+  "terms of service": {
+    "expression": "pogoji storitve"
+  },
+  "testimonial": {
+    "noun": "pričevanje"
+  },
+  "text": {
+    "noun": "besedilo"
+  },
+  "text editor": {
+    "expression": "urejevalnik besedila"
+  },
+  "theme": {
+    "noun": "tema"
+  },
+  "theme directory": {
+    "expression": "imenik tem (oddaljeno) / mapa tem (krajevno)"
+  },
+  "theme options": {
+    "expression": "možnosti teme"
+  },
+  "thumbnail": {
+    "noun": "predogledna sličica"
+  },
+  "tile": {
+    "verb": "tlakovati"
+  },
+  "time slider": {
+    "noun": "časovni drsnik"
+  },
+  "timezone": {
+    "noun": "časovni pas"
+  },
+  "title": {
+    "noun": "naslov"
+  },
+  "toggle": {
+    "verb": "preklopiti"
+  },
+  "token": {
+    "noun": "žeton"
+  },
+  "tool": {
+    "noun": "orodje"
+  },
+  "toolbar": {
+    "noun": "orodna vrstica"
+  },
+  "topic": {
+    "noun": "tema"
+  },
+  "trackback": {
+    "noun": "povratna sled"
+  },
+  "trash": {
+    "noun": "smeti"
+  },
+  "troubleshooting": {
+    "noun": "odpravljanje napak"
+  },
+  "two factor authentication": {
+    "noun": "dvostopenjska overitev"
+  },
+  "typography": {
+    "noun": "tipografija"
+  },
+  "unapprove": {
+    "verb": "zavrniti"
+  },
+  "unapproved": {
+    "adjective": "neodobren"
+  },
+  "uncategorized": {
+    "adjective": "nekategorizirano"
+  },
+  "uncheck": {
+    "verb": "počistite"
+  },
+  "undo": {
+    "verb": "razveljaviti"
+  },
+  "uninstall hook": {
+    "expression": "ročica za odstranitev"
+  },
+  "unspam": {
+    "verb": "odznači kot neželeno"
+  },
+  "unstick": {
+    "verb": "odpeti"
+  },
+  "unsubscribe": {
+    "verb": "prekliči naročnino"
+  },
+  "untrash": {
+    "verb": "prestavi iz koša"
+  },
+  "update": {
+    "verb": "posodobiti"
+  },
+  "upgrade": {
+    "verb": "nadgraditi"
+  },
+  "upload": {
+    "verb": "naložiti"
+  },
+  "uploader": {
+    "noun": "nalagalnik"
+  },
+  "URL path": {
+    "noun": "pot URL"
+  },
+  "usage": {
+    "noun": "uporaba"
+  },
+  "user": {
+    "noun": "uporabnik"
+  },
+  "user role": {
+    "expression": "uporabniška vloga"
+  },
+  "username": {
+    "noun": "uporabniško ime"
+  },
+  "valid": {
+    "adjective": "veljavno"
+  },
+  "value": {
+    "noun": "vrednost"
+  },
+  "verify": {
+    "verb": "preveriti"
+  },
+  "version": {
+    "noun": "različica"
+  },
+  "video": {
+    "noun": "video"
+  },
+  "view": {
+    "noun": "pogled"
+  },
+  "visible": {
+    "adjective": "vidno"
+  },
+  "visit": {
+    "verb": "obišči"
+  },
+  "visitor": {
+    "noun": "obiskovalec"
+  },
+  "visual": {
+    "adjective": "grafični (prikaz)"
+  },
+  "visual editor": {
+    "expression": "grafični urejevalnik"
+  },
+  "visual mode": {
+    "expression": "grafični način"
+  },
+  "warning": {
+    "noun": "opozorilo"
+  },
+  "web": {
+    "noun": "splet"
+  },
+  "web address": {
+    "expression": "spletni naslov"
+  },
+  "web page": {
+    "noun": "spletna stran"
+  },
+  "web server": {
+    "expression": "spletni strežnik"
+  },
+  "webmaster": {
+    "noun": "skrbnik spletišča"
+  },
+  "website": {
+    "noun": "spletišče"
+  },
+  "widget": {
+    "noun": "gradnik"
+  },
+  "wildcard": {
+    "noun": "nadomestni znak"
+  },
+  "workflow": {
+    "noun": "potek dela"
+  },
+  "writable": {
+    "adjective": "zapisljiv"
+  }
+}

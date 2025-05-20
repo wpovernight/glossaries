@@ -1,0 +1,101 @@
+{
+  "Alt": {
+    "noun": "Балама"
+  },
+  "Anchor": {
+    "noun": "Зәкір"
+  },
+  "Avatar": {
+    "noun": "Келбет"
+  },
+  "Block": {
+    "noun": "Бөлік"
+  },
+  "Browser": {
+    "noun": "Шолғыш"
+  },
+  "Cache": {
+    "noun": "Қойма"
+  },
+  "Class": {
+    "noun": "Жиынтық"
+  },
+  "Clipboard": {
+    "noun": "Қию тақтасы"
+  },
+  "Cookie": {
+    "noun": "Ескертпе"
+  },
+  "CSS": {
+    "abbreviation": "ТМТ"
+  },
+  "Download": {
+    "verb": "Жүктеп алу"
+  },
+  "Entry": {
+    "noun": "Жарияланым"
+  },
+  "Font": {
+    "noun": "Қаріп"
+  },
+  "Format": {
+    "noun": "Түр"
+  },
+  "Hash": {
+    "noun": "Быламық"
+  },
+  "Heading": {
+    "noun": "Атау"
+  },
+  "HTML": {
+    "abbreviation": "ЕБТ"
+  },
+  "iFrame": {
+    "noun": "Енгізілген кадр"
+  },
+  "Input": {
+    "noun": "Енгізу"
+  },
+  "JSON": {
+    "abbreviation": "ЯСНБ"
+  },
+  "Layout": {
+    "noun": "Жоспарлау"
+  },
+  "Markup": {
+    "noun": "Таңбалау"
+  },
+  "Output": {
+    "noun": "Өнім"
+  },
+  "Paragraph": {
+    "noun": "Азат жол"
+  },
+  "Pattern": {
+    "noun": "Жоба"
+  },
+  "PDF": {
+    "abbreviation": "ТҚҮ"
+  },
+  "Plugin": {
+    "noun": "Қондырма"
+  },
+  "Size": {
+    "noun": "Өлшем"
+  },
+  "Style": {
+    "noun": "Мәнер"
+  },
+  "Tablet": {
+    "noun": "Тақташа"
+  },
+  "Upload": {
+    "verb": "Жүктеп салу"
+  },
+  "URL": {
+    "abbreviation": "РБА"
+  },
+  "Widget": {
+    "noun": "Жабдық"
+  }
+}

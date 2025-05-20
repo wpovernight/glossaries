@@ -1,0 +1,182 @@
+{
+  "API": {
+    "noun": "API"
+  },
+  "Archive": {
+    "noun": "സംഭരണി"
+  },
+  "Attributes": {
+    "noun": "വിശേഷണങ്ങള്‍"
+  },
+  "Block": {
+    "noun": "ബ്ലോക്ക്"
+  },
+  "blog": {
+    "noun": "ബ്ലോഗ്"
+  },
+  "breadcrumbs": {
+    "noun": "പരസ്പരബന്ധമുള്ള വിവരങ്ങളുടെ ശൃംഖല"
+  },
+  "Button": {
+    "noun": "ബട്ടൺ"
+  },
+  "categories": {
+    "noun": "വിഭാഗങ്ങള്‍"
+  },
+  "category": {
+    "noun": "വിഭാഗം"
+  },
+  "Chevron": {
+    "noun": "ഷെവ്റോൺ"
+  },
+  "CSS": {
+    "noun": "CSS"
+  },
+  "custom field": {
+    "noun": "കസ്റ്റം ഫീൽഡ്"
+  },
+  "Dashboard": {
+    "noun": "ഡാഷ്ബോര്‍ഡ്"
+  },
+  "database": {
+    "noun": "ഡാറ്റാബേസ്"
+  },
+  "Description": {
+    "noun": "വിവരണം"
+  },
+  "disable": {
+    "noun": "അസാധുവാക്കുക"
+  },
+  "Edit": {
+    "noun": "തിരുത്തുക"
+  },
+  "email": {
+    "noun": "ഇമെയില്‍"
+  },
+  "Flex": {
+    "noun": "ഫ്ലെക്സ്"
+  },
+  "folder": {
+    "noun": "ഫോള്‍ഡര്‍"
+  },
+  "Footnote": {
+    "noun": "അടിക്കുറിപ്പ്"
+  },
+  "HTML": {
+    "noun": "HTML"
+  },
+  "JavaScript": {
+    "noun": "ജാവാസ്ക്രിപ്റ്റ്"
+  },
+  "junk": {
+    "noun": "ജങ്ക്"
+  },
+  "library": {
+    "noun": "ലൈബ്രറി"
+  },
+  "Login": {
+    "verb": "പ്രവേശിക്കുക"
+  },
+  "Logo": {
+    "noun": "ലോഗോ"
+  },
+  "Logout": {
+    "noun": "പുറത്തുകടക്കുക"
+  },
+  "menu": {
+    "noun": "മെനു"
+  },
+  "Object": {
+    "noun": "ഒബ്ജക്റ്റ്"
+  },
+  "Options": {
+    "noun": "തിരഞ്ഞെടുക്കല്‍"
+  },
+  "Overlay": {
+    "noun": "ഓവർലേ"
+  },
+  "Page": {
+    "noun": "പേജ്"
+  },
+  "palette": {
+    "noun": "പാലറ്റ്"
+  },
+  "Password": {
+    "noun": "രഹസ്യവാക്ക്"
+  },
+  "pattern": {
+    "noun": "പാറ്റേൺ"
+  },
+  "PHP": {
+    "noun": "PHP"
+  },
+  "post": {
+    "noun": "പോസ്റ്റ്"
+  },
+  "Query": {
+    "noun": "ക്വറി"
+  },
+  "registration": {
+    "noun": "രജിസ്ട്രേഷന്‍"
+  },
+  "REST": {
+    "noun": "REST"
+  },
+  "RSS": {
+    "noun": "RSS"
+  },
+  "Site": {
+    "noun": "സൈറ്റ്"
+  },
+  "Slug": {
+    "noun": "സ്ലഗ്"
+  },
+  "Sorry": {
+    "noun": "ക്ഷമിക്കുക"
+  },
+  "spam": {
+    "noun": "സ്പാം"
+  },
+  "tags": {
+    "noun": "ടാഗുകള്‍"
+  },
+  "Taxonomies": {
+    "noun": "ടാക്സോണമികൾ"
+  },
+  "taxonomy": {
+    "noun": "ടാക്സോണമി"
+  },
+  "template": {
+    "noun": "ടെമ്പ്ലേറ്റ്"
+  },
+  "theme": {
+    "noun": "തീം"
+  },
+  "toolbar": {
+    "noun": "ടൂൾബാർ"
+  },
+  "Update": {
+    "noun": "പുതുക്കുക"
+  },
+  "Upload": {
+    "noun": "അപ്‌ലോഡ്‌"
+  },
+  "User": {
+    "noun": "ഉപയോക്താവ്"
+  },
+  "User Name": {
+    "noun": "ഉപയോക്തൃനാമം"
+  },
+  "Widget": {
+    "noun": "വിഡ്ജറ്റ്"
+  },
+  "WordPress": {
+    "noun": "വേഡ്പ്രസ്സ്"
+  },
+  "You": {
+    "noun": "താങ്കള്‍"
+  },
+  "your": {
+    "noun": "താങ്കളുടെ"
+  }
+}

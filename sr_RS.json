@@ -1,0 +1,771 @@
+{
+  "account": {
+    "noun": "налог"
+  },
+  "action": {
+    "noun": "радња, поступак, акција"
+  },
+  "activate": {
+    "verb": "укључити"
+  },
+  "active": {
+    "adjective": "укључен/укључена/укључено"
+  },
+  "admin bar": {
+    "noun": "управљачка трака"
+  },
+  "AI": {
+    "noun": "вештачка интелигенција"
+  },
+  "Appearance": {
+    "noun": "Изглед"
+  },
+  "apply": {
+    "verb": "применити"
+  },
+  "area": {
+    "noun": "простор"
+  },
+  "array": {
+    "noun": "низ"
+  },
+  "assign": {
+    "verb": "доделити"
+  },
+  "attach": {
+    "verb": "придружити"
+  },
+  "attachment": {
+    "noun": "прилог"
+  },
+  "audio": {
+    "noun": "звучни запис"
+  },
+  "background": {
+    "noun": "позадина"
+  },
+  "Block": {
+    "noun": "Блок"
+  },
+  "block widget": {
+    "noun": "виџет блок"
+  },
+  "breadcrumbs": {
+    "noun": "мрвице"
+  },
+  "browser": {
+    "noun": "прегледач"
+  },
+  "bug": {
+    "noun": "грешка"
+  },
+  "builder": {
+    "noun": "градитељ"
+  },
+  "bulk actions": {
+    "noun": "масовне радње"
+  },
+  "button": {
+    "noun": "дугме"
+  },
+  "callout": {
+    "noun": "истакнути садржај"
+  },
+  "carousel": {
+    "noun": "вртешка"
+  },
+  "cart": {
+    "noun": "корпа"
+  },
+  "changelog": {
+    "noun": "Белешка о изменама"
+  },
+  "checkout": {
+    "noun": "потврда куповине, потврда наплатe"
+  },
+  "checkout page": {
+    "noun": "страница за наплату"
+  },
+  "child category": {
+    "noun": "подређена категорија"
+  },
+  "child page": {
+    "noun": "подстраница"
+  },
+  "child theme": {
+    "noun": "изведена тема"
+  },
+  "Children": {
+    "noun": "Потомци"
+  },
+  "clean": {
+    "noun": "прегледан"
+  },
+  "clear": {
+    "verb": "поништи"
+  },
+  "collapse": {
+    "verb": "скупи"
+  },
+  "collapsed": {
+    "verb": "скупљено"
+  },
+  "column": {
+    "noun": "колона"
+  },
+  "Command Palette": {
+    "noun": "Командна палета"
+  },
+  "compatible": {
+    "adjective": "усклађен/усклађена/усклађено"
+  },
+  "convert": {
+    "verb": "претворити"
+  },
+  "cookie": {
+    "noun": "колачић"
+  },
+  "crawl": {
+    "verb": "пописати"
+  },
+  "create": {
+    "verb": "направити"
+  },
+  "crop": {
+    "noun": "рез",
+    "verb": "опсеци"
+  },
+  "CSS": {
+    "noun": "CSS"
+  },
+  "custom": {
+    "adjective": "прилагођен/прилагођена/прилагођено"
+  },
+  "custom post type": {
+    "noun": "прилагођена врста чланка"
+  },
+  "customize": {
+    "verb": "прилагодити"
+  },
+  "customizer": {
+    "noun": "прилагођавач"
+  },
+  "dashboard": {
+    "noun": "контролна табла"
+  },
+  "database": {
+    "noun": "база података"
+  },
+  "deactivate": {
+    "verb": "искључити"
+  },
+  "debug": {
+    "noun": "отклањање грешке"
+  },
+  "default": {
+    "adjective": "подразумевано, уобичајено"
+  },
+  "define": {
+    "verb": "одредити"
+  },
+  "delete": {
+    "verb": "избрисати"
+  },
+  "description": {
+    "noun": "опис"
+  },
+  "Detach": {
+    "verb": "Откачити"
+  },
+  "develop": {
+    "verb": "изградити"
+  },
+  "developer": {
+    "noun": "градитељ"
+  },
+  "display": {
+    "noun": "приказ",
+    "verb": "приказати"
+  },
+  "distraction free writing": {
+    "expression": "писање без ометања"
+  },
+  "download": {
+    "verb": "преузети"
+  },
+  "draft": {
+    "noun": "нацрт"
+  },
+  "drag and drop": {
+    "expression": "повуци и пусти"
+  },
+  "edit": {
+    "verb": "уредити"
+  },
+  "editor": {
+    "noun": "уређивач"
+  },
+  "email": {
+    "noun": "е-пошта"
+  },
+  "embed": {
+    "verb": "угнездити"
+  },
+  "error": {
+    "noun": "грешка"
+  },
+  "event listener": {
+    "noun": "детектор догађаја"
+  },
+  "excerpt": {
+    "noun": "одломак"
+  },
+  "Expiry period": {
+    "noun": "Период истека"
+  },
+  "export": {
+    "verb": "извести"
+  },
+  "extension": {
+    "noun": "прикључак"
+  },
+  "extensions": {
+    "noun": "прикључци"
+  },
+  "feature": {
+    "noun": "особина, карактеристика, функционалност"
+  },
+  "featured": {
+    "adjective": "издвојен/издвојена/издвојено"
+  },
+  "fee": {
+    "noun": "накнада, провизија"
+  },
+  "feed": {
+    "noun": "довод"
+  },
+  "feedback": {
+    "noun": "повратна информација, утисак"
+  },
+  "field": {
+    "noun": "поље"
+  },
+  "file": {
+    "noun": "датотека"
+  },
+  "flat rate": {
+    "expression": "фиксна цена"
+  },
+  "flexible": {
+    "noun": "променљиве величине"
+  },
+  "folder": {
+    "noun": "фасцикла"
+  },
+  "footer": {
+    "noun": "подножје"
+  },
+  "footnote": {
+    "noun": "фуснота"
+  },
+  "form": {
+    "noun": "образац"
+  },
+  "format": {
+    "noun": "облик"
+  },
+  "free": {
+    "noun": "бесплатно"
+  },
+  "gateway": {
+    "noun": "посредник"
+  },
+  "gist": {
+    "noun": "суштина"
+  },
+  "grid": {
+    "noun": "мрежа"
+  },
+  "guide": {
+    "noun": "упутство"
+  },
+  "header": {
+    "noun": "заглавље"
+  },
+  "heading": {
+    "noun": "заглавље"
+  },
+  "hero": {
+    "adjective": "истакнут"
+  },
+  "hint": {
+    "noun": "савет"
+  },
+  "hook": {
+    "noun": "копча"
+  },
+  "Icon": {
+    "noun": "Иконица"
+  },
+  "import": {
+    "verb": "увести"
+  },
+  "inbox": {
+    "noun": "пријемно сандуче"
+  },
+  "insert": {
+    "verb": "уметнути"
+  },
+  "install": {
+    "verb": "поставити"
+  },
+  "invalid": {
+    "adjective": "неисправан"
+  },
+  "inventory": {
+    "noun": "инвентар"
+  },
+  "item": {
+    "noun": "ставка"
+  },
+  "JavaScript": {
+    "noun": "JavaScript"
+  },
+  "label": {
+    "noun": "етикета"
+  },
+  "layout": {
+    "noun": "распоред"
+  },
+  "Lazy loading": {
+    "noun": "Условно учитавање"
+  },
+  "Library": {
+    "noun": "Библиотека"
+  },
+  "link": {
+    "noun": "веза"
+  },
+  "List price": {
+    "noun": "Каталошка цена"
+  },
+  "Local Pickup": {
+    "noun": "Лично преузимање"
+  },
+  "locale": {
+    "noun": "локализација"
+  },
+  "log": {
+    "noun": "дневник"
+  },
+  "log file": {
+    "noun": "дневничка датотека"
+  },
+  "maintain": {
+    "verb": "одржавати"
+  },
+  "maintenance": {
+    "noun": "одржавање"
+  },
+  "manage": {
+    "verb": "управљати"
+  },
+  "manually": {
+    "adjective": "ручно/ручна/ручно"
+  },
+  "maximum": {
+    "adjective": "највећи/највећа/највеће"
+  },
+  "media": {
+    "noun": "садржај"
+  },
+  "member": {
+    "noun": "члан"
+  },
+  "menu": {
+    "noun": "изборник"
+  },
+  "message": {
+    "noun": "порука"
+  },
+  "meta box": {
+    "noun": "кутијица"
+  },
+  "minimize": {
+    "verb": "умањити"
+  },
+  "minimum": {
+    "adjective": "најмањи/најмања/најмање"
+  },
+  "mode": {
+    "noun": "режим"
+  },
+  "multisite": {
+    "noun": "мрежа сајтова"
+  },
+  "newsletter": {
+    "noun": "билтен"
+  },
+  "nonce": {
+    "noun": "једнократни узорак"
+  },
+  "notice": {
+    "noun": "објава / напомена (зависно од контекста)"
+  },
+  "notification": {
+    "noun": "обавештење"
+  },
+  "option": {
+    "noun": "могућност, опција, избор"
+  },
+  "order": {
+    "noun": "наруџбина",
+    "verb": "поређати"
+  },
+  "orphaned": {
+    "adjective": "напуштен"
+  },
+  "overlay": {
+    "noun": "преклапање"
+  },
+  "padding": {
+    "noun": "одстојање"
+  },
+  "page": {
+    "noun": "страница"
+  },
+  "paralax": {
+    "noun": "паралакс"
+  },
+  "parent category": {
+    "noun": "надређена категорија"
+  },
+  "parent theme": {
+    "noun": "матична тема"
+  },
+  "password": {
+    "noun": "лозинка"
+  },
+  "paste": {
+    "verb": "налепи"
+  },
+  "path": {
+    "noun": "путања"
+  },
+  "pattern": {
+    "noun": "мустра"
+  },
+  "payment": {
+    "noun": "плаћање"
+  },
+  "permalink": {
+    "noun": "стална веза"
+  },
+  "permission": {
+    "noun": "дозвола"
+  },
+  "pingback": {
+    "noun": "повратна веза"
+  },
+  "Placeholder image": {
+    "noun": "Заменска слика"
+  },
+  "plugin": {
+    "noun": "додатак"
+  },
+  "plugin directory": {
+    "noun": "складиште додатака"
+  },
+  "post": {
+    "noun": "чланак"
+  },
+  "post type": {
+    "noun": "врста чланка"
+  },
+  "postage": {
+    "noun": "поштарина"
+  },
+  "preload": {
+    "noun": "учитај унапред"
+  },
+  "Presets": {
+    "noun": "Предефинисана подешавања"
+  },
+  "pricing": {
+    "noun": "ценовник"
+  },
+  "pricing table": {
+    "noun": "табела са ценама"
+  },
+  "product": {
+    "noun": "производ"
+  },
+  "publish": {
+    "verb": "објавити"
+  },
+  "query": {
+    "noun": "упит"
+  },
+  "Query block": {
+    "noun": "Блок упита"
+  },
+  "rating": {
+    "noun": "оцена"
+  },
+  "React": {
+    "noun": "React"
+  },
+  "redirect": {
+    "verb": "преусмерити"
+  },
+  "refund": {
+    "noun": "повраћај"
+  },
+  "release": {
+    "noun": "објава / издање"
+  },
+  "relevance": {
+    "noun": "релевантност"
+  },
+  "Remove": {
+    "verb": "Уклони"
+  },
+  "request": {
+    "noun": "захтев"
+  },
+  "reset": {
+    "verb": "поновно постављање, ресетовање"
+  },
+  "response": {
+    "noun": "одговор"
+  },
+  "responsive": {
+    "adjective": "одговарајући/одговарајућа/одговарајуће"
+  },
+  "REST API": {
+    "noun": "REST API"
+  },
+  "retrieving": {
+    "noun": "дохватити, приступити, повратити"
+  },
+  "Reusable": {
+    "noun": "Поново користиви"
+  },
+  "revamped": {
+    "adjective": "прерађено"
+  },
+  "review": {
+    "noun": "рецензија"
+  },
+  "revisions": {
+    "noun": "ревизије"
+  },
+  "ribbon": {
+    "noun": "етикета"
+  },
+  "role": {
+    "noun": "улога"
+  },
+  "sale": {
+    "noun": "распродаја"
+  },
+  "save": {
+    "verb": "сачувати"
+  },
+  "screen": {
+    "noun": "екран"
+  },
+  "search": {
+    "verb": "претражити",
+    "noun": "претрага"
+  },
+  "section": {
+    "noun": "одељак"
+  },
+  "security": {
+    "noun": "сигурност, безбедност"
+  },
+  "select": {
+    "verb": "означити/одабрати"
+  },
+  "SEO ranking": {
+    "verb": "SEO рангирање"
+  },
+  "session": {
+    "noun": "сеанса"
+  },
+  "setting": {
+    "noun": "подешавање"
+  },
+  "share": {
+    "verb": "поделити"
+  },
+  "shipping": {
+    "noun": "достава"
+  },
+  "Shortcode": {
+    "noun": "Кратки кôд"
+  },
+  "show": {
+    "verb": "прикажи"
+  },
+  "sidebar": {
+    "noun": "бочна трака"
+  },
+  "single": {
+    "noun": "појединачни"
+  },
+  "SKU": {
+    "noun": "шифрa производа"
+  },
+  "slider": {
+    "noun": "клизач"
+  },
+  "slug": {
+    "noun": "подложак"
+  },
+  "social": {
+    "noun": "друштвено, друштвене"
+  },
+  "Something went wrong": {
+    "noun": "Нешто је пошло по злу"
+  },
+  "Sorry, you are not allowed to": {
+    "expression": "Жао нам је, није вам дозвољено да"
+  },
+  "spam": {
+    "noun": "непожељно"
+  },
+  "spotlight": {
+    "noun": "рефлектор"
+  },
+  "status": {
+    "noun": "стање"
+  },
+  "sticky": {
+    "adjective": "лепљив/лепљива/лепљиво"
+  },
+  "stock": {
+    "noun": "залиха"
+  },
+  "store": {
+    "noun": "продавница"
+  },
+  "submenu": {
+    "noun": "подизборник"
+  },
+  "submit": {
+    "verb": "предати"
+  },
+  "subscriber": {
+    "noun": "претплатник"
+  },
+  "suggestion": {
+    "noun": "предлог"
+  },
+  "tag": {
+    "noun": "ознака"
+  },
+  "tagline": {
+    "noun": "поднаслов"
+  },
+  "tax": {
+    "noun": "порез"
+  },
+  "Tax Rate": {
+    "noun": "Пореска стопа"
+  },
+  "tax rates": {
+    "noun": "пореске стопе"
+  },
+  "taxonomy": {
+    "noun": "таксономија"
+  },
+  "template": {
+    "noun": "шаблон"
+  },
+  "term": {
+    "noun": "члан, израз"
+  },
+  "theme": {
+    "noun": "тема"
+  },
+  "theme directory": {
+    "noun": "складиште тема"
+  },
+  "title": {
+    "noun": "наслов"
+  },
+  "toggle": {
+    "verb": "пребаци"
+  },
+  "tool": {
+    "noun": "алат, алатка"
+  },
+  "toolbar": {
+    "noun": "трака са алаткама"
+  },
+  "trackback": {
+    "noun": "праћење"
+  },
+  "transients": {
+    "noun": "прелази"
+  },
+  "trash": {
+    "noun": "отпад"
+  },
+  "update": {
+    "noun": "ажурирање"
+  },
+  "upload": {
+    "verb": "отпремити"
+  },
+  "uploader": {
+    "noun": "отпремач"
+  },
+  "user": {
+    "noun": "корисник"
+  },
+  "username": {
+    "noun": "корисничко име"
+  },
+  "valid": {
+    "adjective": "исправан, потврђен"
+  },
+  "validating": {
+    "verb": "потврдити, нострификовати, оверити"
+  },
+  "variation": {
+    "noun": "варијација"
+  },
+  "verified": {
+    "noun": "верификовано, потврђено"
+  },
+  "version": {
+    "noun": "издање"
+  },
+  "video": {
+    "noun": "видео запис"
+  },
+  "view": {
+    "noun": "погледати/прегледати"
+  },
+  "webhook": {
+    "noun": "веб копча"
+  },
+  "website": {
+    "noun": "веб место"
+  },
+  "White label": {
+    "noun": "Брендирај ме"
+  },
+  "widget": {
+    "noun": "виџет"
+  },
+  "WooCommerce": {
+    "noun": "WooCommerce"
+  },
+  "WordPress": {
+    "noun": "Вордпрес"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "Bindings": {
+    "noun": "Uniones"
+  },
+  "Breadcrumb": {
+    "noun": "Migajas"
+  },
+  "Click": {
+    "noun": "Clic",
+    "verb": "Hacer clic"
+  },
+  "Dashboard": {
+    "noun": "Escritorio"
+  },
+  "Embed": {
+    "verb": "Insertar"
+  },
+  "Expire": {
+    "verb": "Caducar"
+  },
+  "Featured": {
+    "adjective": "Destacado"
+  },
+  "Featured image": {
+    "noun": "Imagen destacada"
+  },
+  "Library": {
+    "noun": "Biblioteca"
+  },
+  "Log in": {
+    "verb": "Iniciar sesión"
+  },
+  "Login": {
+    "noun": "Inicio de sesión"
+  },
+  "Media": {
+    "noun": "Medios"
+  },
+  "Next": {
+    "adverb": "Siguiente"
+  },
+  "Parent": {
+    "noun": "Superior"
+  },
+  "Password": {
+    "noun": "Contraseña"
+  },
+  "Pattern": {
+    "noun": "Patrón"
+  },
+  "Post": {
+    "noun": "Entrada",
+    "verb": "Publicar"
+  },
+  "Post Type": {
+    "noun": "Tipo de contenido"
+  },
+  "Previous": {
+    "adverb": "Anterior"
+  },
+  "Queue": {
+    "noun": "Fila"
+  },
+  "Review": {
+    "noun": "Reseña",
+    "verb": "Valorar/calificar"
+  },
+  "Select": {
+    "verb": "Seleccionar/Escoger"
+  },
+  "Slug": {
+    "noun": "Slug"
+  },
+  "Spam": {
+    "noun": "Spam"
+  },
+  "Sticky": {
+    "adjective": "Fijo(a)"
+  },
+  "Terms and Conditions": {
+    "expression": "Términos y condiciones"
+  },
+  "Theme": {
+    "noun": "Tema"
+  },
+  "Thumbnail": {
+    "noun": "Miniatura"
+  }
+}

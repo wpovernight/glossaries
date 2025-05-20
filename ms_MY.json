@@ -1,0 +1,1745 @@
+{
+  "(text)-friendly": {
+    "noun": "mesra (teks)"
+  },
+  "ability": {
+    "verb": "keupayaan"
+  },
+  "Accelerated Mobile Pages": {
+    "noun": "Halaman Mudahalih Terpecut"
+  },
+  "accent color": {
+    "noun": "warna menonjol"
+  },
+  "access": {
+    "verb": "capai"
+  },
+  "accessibility": {
+    "noun": "kebolehcapaian"
+  },
+  "action": {
+    "verb": "aksi / tindakan"
+  },
+  "activate": {
+    "verb": "aktifkan"
+  },
+  "Activation": {
+    "adverb": "Pengaktifan"
+  },
+  "ad hoc": {
+    "noun": "ad hoc"
+  },
+  "add-on": {
+    "adverb": "tambahan"
+  },
+  "address": {
+    "verb": "tumpu / tangani"
+  },
+  "Administrator": {
+    "noun": "Pentadbir"
+  },
+  "advanced": {
+    "noun": "lanjutan"
+  },
+  "after party": {
+    "noun": "pesta selepas acara"
+  },
+  "align": {
+    "verb": "jajar"
+  },
+  "allocate": {
+    "verb": "peruntuk"
+  },
+  "alphanumeric": {
+    "noun": "abjad angka"
+  },
+  "alternative": {
+    "verb": "alternatif"
+  },
+  "analytics": {
+    "noun": "analitik"
+  },
+  "analyze": {
+    "verb": "analisis"
+  },
+  "anchor": {
+    "noun": "labuh",
+    "verb": "labuh"
+  },
+  "anonymous": {
+    "noun": "tanpa nama / awanama"
+  },
+  "App": {
+    "noun": "Aplikasi"
+  },
+  "appear": {
+    "verb": "muncul / terdapat"
+  },
+  "appearance": {
+    "pronoun": "penampilan"
+  },
+  "apply": {
+    "verb": "kenakan"
+  },
+  "appropriate": {
+    "adjective": "sesuai"
+  },
+  "approval": {
+    "pronoun": "kelulusan / kebenaran"
+  },
+  "arbitrary": {
+    "noun": "sembarangan"
+  },
+  "area": {
+    "noun": "ruang / kawasan"
+  },
+  "arguments": {
+    "noun": "argumen"
+  },
+  "array": {
+    "noun": "tatasusunan"
+  },
+  "Article": {
+    "noun": "Artikel"
+  },
+  "artwork": {
+    "noun": "karya seni"
+  },
+  "Aside": {
+    "noun": "Sisipan"
+  },
+  "aspect ratio": {
+    "noun": "nisbah bidang"
+  },
+  "assign": {
+    "verb": "tugaskan"
+  },
+  "assignee": {
+    "noun": "pemegang serah hak"
+  },
+  "At A Glance": {
+    "noun": "Imbasan"
+  },
+  "attachment": {
+    "noun": "lampiran"
+  },
+  "attribute": {
+    "noun": "sifat / atribut"
+  },
+  "attribution": {
+    "noun": "pembahagian hak"
+  },
+  "audio": {
+    "noun": "audio"
+  },
+  "authentication": {
+    "noun": "pengesahan"
+  },
+  "Author": {
+    "noun": "Pengarang"
+  },
+  "authorization": {
+    "noun": "kebenaran"
+  },
+  "authorship": {
+    "noun": "penulisan"
+  },
+  "autoplay": {
+    "noun": "automain"
+  },
+  "autosave": {
+    "verb": "simpanan automatik"
+  },
+  "available": {
+    "noun": "tersedia / sedia ada"
+  },
+  "aware": {
+    "verb": "peka"
+  },
+  "back and forth": {
+    "verb": "ulang-alik"
+  },
+  "base": {
+    "noun": "dasar"
+  },
+  "blockquote": {
+    "noun": "petikan blok"
+  },
+  "blurb": {
+    "noun": "keterangan ringkas"
+  },
+  "boilerplate": {
+    "noun": "plat dandang"
+  },
+  "Bookmarklet": {
+    "noun": "Aplet Penanda Buku"
+  },
+  "border": {
+    "noun": "sempadan / batas"
+  },
+  "brackets": {
+    "noun": "kurungan sudut"
+  },
+  "broadcast": {
+    "verb": "siaran"
+  },
+  "broken": {
+    "verb": "rosak"
+  },
+  "browse": {
+    "verb": "semak imbas / layar"
+  },
+  "bubble": {
+    "noun": "gelembung"
+  },
+  "bug": {
+    "noun": "pepijat"
+  },
+  "built in": {
+    "verb": "dibina dalam"
+  },
+  "built-in": {
+    "noun": "terbina dalam"
+  },
+  "bulk": {
+    "adjective": "pukal"
+  },
+  "bundle": {
+    "verb": "gabung"
+  },
+  "cache": {
+    "noun": "cache"
+  },
+  "Callback": {
+    "noun": "Panggil Balik"
+  },
+  "cancel": {
+    "verb": "batal"
+  },
+  "capability": {
+    "noun": "kemampuan"
+  },
+  "capable": {
+    "adverb": "mampu"
+  },
+  "Caption": {
+    "noun": "Sari Kata"
+  },
+  "caution": {
+    "noun": "awas"
+  },
+  "changelog": {
+    "noun": "log penukaran"
+  },
+  "changeset": {
+    "noun": "set penukaran"
+  },
+  "character": {
+    "noun": "aksara"
+  },
+  "characters": {
+    "noun": "aksara"
+  },
+  "chat": {
+    "verb": "bual"
+  },
+  "Chat": {
+    "noun": "Perbualan"
+  },
+  "checkbox": {
+    "noun": "kotak pilihan"
+  },
+  "checksum": {
+    "noun": "hasil tambah semak"
+  },
+  "child": {
+    "noun": "turunan"
+  },
+  "child block": {
+    "noun": "blok turunan"
+  },
+  "child theme": {
+    "noun": "tema turunan"
+  },
+  "children": {
+    "noun": "turunan"
+  },
+  "chunks": {
+    "noun": "ketulan"
+  },
+  "clean": {
+    "adjective": "bersih"
+  },
+  "clear": {
+    "verb": "kosong"
+  },
+  "clipboard": {
+    "noun": "papan keratan"
+  },
+  "clone": {
+    "verb": "klon"
+  },
+  "codec": {
+    "noun": "codec"
+  },
+  "collapse": {
+    "verb": "runtuh"
+  },
+  "column": {
+    "noun": "lajur"
+  },
+  "Comment": {
+    "noun": "Ulasan / Komen"
+  },
+  "committer": {
+    "noun": "penyanggup"
+  },
+  "common": {
+    "noun": "sepunya"
+  },
+  "compatible": {
+    "adverb": "serasi"
+  },
+  "compile": {
+    "verb": "kompil"
+  },
+  "complete": {
+    "verb": "lengkap / selesai"
+  },
+  "compliant": {
+    "noun": "patuh"
+  },
+  "compress": {
+    "verb": "mampat"
+  },
+  "compression": {
+    "noun": "pemampatan"
+  },
+  "configuration": {
+    "noun": "konfigurasi"
+  },
+  "configure": {
+    "verb": "konfigur"
+  },
+  "configured": {
+    "verb": "dikonfigurasikan"
+  },
+  "confirm": {
+    "adverb": "mengesahkan"
+  },
+  "conflict": {
+    "verb": "bercanggah"
+  },
+  "Connection": {
+    "noun": "Sambungan"
+  },
+  "consistent": {
+    "verb": "tekal"
+  },
+  "constant": {
+    "noun": "pemalar"
+  },
+  "Constructor": {
+    "noun": "Pembina"
+  },
+  "contact": {
+    "verb": "hubung"
+  },
+  "container": {
+    "noun": "bekas"
+  },
+  "Content": {
+    "noun": "Kandungan"
+  },
+  "contextual": {
+    "verb": "mengikut konteks"
+  },
+  "continue": {
+    "verb": "sambung / teruskan"
+  },
+  "continuity": {
+    "noun": "kesinambungan"
+  },
+  "Contributor": {
+    "noun": "Penyumbang"
+  },
+  "control": {
+    "verb": "kawal"
+  },
+  "Control": {
+    "noun": "Kawalan"
+  },
+  "conversion": {
+    "noun": "penukaran"
+  },
+  "convert": {
+    "verb": "tukar"
+  },
+  "cookie": {
+    "noun": "kuki"
+  },
+  "copy and paste": {
+    "verb": "salin dan tampal"
+  },
+  "core": {
+    "noun": "teras"
+  },
+  "counter": {
+    "noun": "pembilang"
+  },
+  "crash": {
+    "verb": "ranap"
+  },
+  "crawl": {
+    "verb": "rangkak"
+  },
+  "create": {
+    "verb": "cipta / wujudkan"
+  },
+  "credit": {
+    "adverb": "penghargaan"
+  },
+  "crop": {
+    "verb": "pangkas"
+  },
+  "cropped": {
+    "verb": "dipangkas"
+  },
+  "curly brackets": {
+    "noun": "kurungan ikal"
+  },
+  "current": {
+    "verb": "kini / semasa"
+  },
+  "Custom": {
+    "noun": "Tersuai / Suai Langgan"
+  },
+  "customize": {
+    "verb": "suai langgan"
+  },
+  "Customizer": {
+    "noun": "Penyesuai"
+  },
+  "Customizing": {
+    "noun": "Penyesuaian"
+  },
+  "cut and paste": {
+    "verb": "potong dan tampal"
+  },
+  "cyan": {
+    "noun": "sian"
+  },
+  "Dashboard": {
+    "noun": "Papan pemuka"
+  },
+  "Database": {
+    "noun": "Pangkalan Data"
+  },
+  "deactivate": {
+    "verb": "nyahaktif"
+  },
+  "debug": {
+    "noun": "nyahpijat"
+  },
+  "debugging": {
+    "verb": "penyahpepijatan"
+  },
+  "default": {
+    "noun": "lalai"
+  },
+  "defined": {
+    "adverb": "ditentukan"
+  },
+  "delete": {
+    "verb": "hapus"
+  },
+  "deny": {
+    "verb": "nafi"
+  },
+  "dependency": {
+    "noun": "kebergantungan"
+  },
+  "deprecated": {
+    "verb": "tidak digalakkan / digugurkan"
+  },
+  "description": {
+    "noun": "huraian / deskripsi / keterangan"
+  },
+  "design": {
+    "adjective": "reka bentuk"
+  },
+  "detach": {
+    "verb": "pisah"
+  },
+  "details": {
+    "noun": "perincian"
+  },
+  "device": {
+    "noun": "peranti"
+  },
+  "directory": {
+    "noun": "direktori"
+  },
+  "disable": {
+    "verb": "nyahboleh / lumpuh"
+  },
+  "discard": {
+    "verb": "buang"
+  },
+  "disconnect": {
+    "verb": "putus"
+  },
+  "disconnected": {
+    "verb": "terputus"
+  },
+  "discuss": {
+    "verb": "bincang"
+  },
+  "dismiss": {
+    "verb": "singkir"
+  },
+  "Display": {
+    "noun": "Paparan"
+  },
+  "display": {
+    "verb": "papar"
+  },
+  "distraction": {
+    "verb": "gangguan"
+  },
+  "distribute": {
+    "verb": "edar"
+  },
+  "documentation": {
+    "verb": "pendokumenan",
+    "noun": "dokumenan"
+  },
+  "domain": {
+    "noun": "domain"
+  },
+  "done": {
+    "verb": "selesai"
+  },
+  "double quotes": {
+    "noun": "tanda petikan tindan"
+  },
+  "down time": {
+    "noun": "masa mati"
+  },
+  "draft": {
+    "noun": "draf"
+  },
+  "drag and drop": {
+    "verb": "tarik dan lepas"
+  },
+  "drop down": {
+    "verb": "jatuh bawah"
+  },
+  "drop-in": {
+    "noun": "lepas-masuk"
+  },
+  "dropdown": {
+    "noun": "juntai bawah"
+  },
+  "Duplicate": {
+    "noun": "Pendua"
+  },
+  "duplicate": {
+    "verb": "duplikasi"
+  },
+  "e-commerce": {
+    "noun": "e-dagang"
+  },
+  "echo": {
+    "verb": "gema"
+  },
+  "edit": {
+    "verb": "sunting"
+  },
+  "Editor": {
+    "noun": "Penyunting"
+  },
+  "Element": {
+    "noun": "Elemen"
+  },
+  "email": {
+    "noun": "emel"
+  },
+  "embed": {
+    "verb": "benam"
+  },
+  "enabled": {
+    "adverb": "dibolehkan"
+  },
+  "endpoint": {
+    "noun": "titik hujung"
+  },
+  "engagement": {
+    "noun": "keterlibatan"
+  },
+  "enjoy": {
+    "verb": "nikmati"
+  },
+  "entry": {
+    "verb": "pemasukan"
+  },
+  "environment": {
+    "noun": "sekitaran"
+  },
+  "error": {
+    "noun": "ralat"
+  },
+  "Escape": {
+    "noun": "Lepas"
+  },
+  "Escaping": {
+    "noun": "Pelepasan"
+  },
+  "excerpt": {
+    "noun": "petikan"
+  },
+  "expand": {
+    "verb": "kembangkan"
+  },
+  "expire": {
+    "verb": "luput"
+  },
+  "expired": {
+    "verb": "tamat tempoh"
+  },
+  "explore": {
+    "verb": "jelajah"
+  },
+  "extend": {
+    "verb": "meluaskan"
+  },
+  "extension": {
+    "noun": "sambungan"
+  },
+  "extensive": {
+    "verb": "meluas"
+  },
+  "external": {
+    "noun": "luaran"
+  },
+  "fallback": {
+    "noun": "sandaran",
+    "verb": "undur"
+  },
+  "FAQ": {
+    "noun": "Soalan Lazim"
+  },
+  "favorite": {
+    "adjective": "kegemaran",
+    "noun": "kegemaran"
+  },
+  "favorited": {
+    "verb": "digemar"
+  },
+  "favourite": {
+    "noun": "kegemaran"
+  },
+  "feature": {
+    "noun": "rencana"
+  },
+  "Featured": {
+    "adjective": "Terencana"
+  },
+  "features": {
+    "noun": "ciri-ciri"
+  },
+  "feed": {
+    "noun": "suapan"
+  },
+  "fetch": {
+    "verb": "ambil"
+  },
+  "field": {
+    "noun": "medan"
+  },
+  "filter": {
+    "verb": "tapis"
+  },
+  "flag": {
+    "noun": "bendera"
+  },
+  "flagged": {
+    "verb": "dibenderakan"
+  },
+  "flagging": {
+    "verb": "membenderakan"
+  },
+  "flexible": {
+    "noun": "fleksibel"
+  },
+  "flip": {
+    "verb": "selak"
+  },
+  "fluid": {
+    "noun": "bendalir"
+  },
+  "flushing": {
+    "verb": "pengosongan"
+  },
+  "folder": {
+    "noun": "folder"
+  },
+  "font": {
+    "noun": "fon"
+  },
+  "footer": {
+    "noun": "pengaki"
+  },
+  "forbidden": {
+    "adjective": "dilarang"
+  },
+  "found": {
+    "verb": "jumpa"
+  },
+  "frame": {
+    "noun": "bingkai"
+  },
+  "Framework": {
+    "noun": "Rangka kerja"
+  },
+  "frontend": {
+    "noun": "bahagian depan"
+  },
+  "general": {
+    "adjective": "am"
+  },
+  "generate": {
+    "verb": "jana"
+  },
+  "gradient": {
+    "noun": "kecerunan"
+  },
+  "Greek": {
+    "noun": "Yunani"
+  },
+  "grid": {
+    "noun": "grid"
+  },
+  "handbook": {
+    "noun": "buku panduan"
+  },
+  "Handler": {
+    "noun": "Pengelola"
+  },
+  "hashtag": {
+    "noun": "hashtag"
+  },
+  "Header": {
+    "noun": "Pengepala"
+  },
+  "help": {
+    "verb": "bantu"
+  },
+  "Help": {
+    "noun": "Bantuan"
+  },
+  "hex": {
+    "noun": "heks"
+  },
+  "hidden": {
+    "adjective": "tersembunyi"
+  },
+  "highlight": {
+    "verb": "serlahkan"
+  },
+  "Hint": {
+    "noun": "Pembayang"
+  },
+  "home page": {
+    "noun": "laman utama"
+  },
+  "homepage": {
+    "noun": "laman hadapan"
+  },
+  "Hook": {
+    "noun": "Paut"
+  },
+  "Hostname": {
+    "noun": "Nama Hos"
+  },
+  "Hover": {
+    "verb": "Hover / Apung"
+  },
+  "hyphen": {
+    "noun": "sempang"
+  },
+  "identifier": {
+    "noun": "pengecam"
+  },
+  "ignore": {
+    "noun": "abai"
+  },
+  "illustration": {
+    "noun": "ilustrasi"
+  },
+  "Image": {
+    "noun": "Imej"
+  },
+  "immediately": {
+    "adverb": "serta merta"
+  },
+  "inbox": {
+    "noun": "peti masuk"
+  },
+  "includes": {
+    "verb": "terdiri daripada / termasuklah"
+  },
+  "inconsistent": {
+    "verb": "tidak tekal"
+  },
+  "initialize": {
+    "verb": "mengasal"
+  },
+  "inline": {
+    "verb": "dalam baris"
+  },
+  "insert": {
+    "verb": "sisip"
+  },
+  "inserter": {
+    "noun": "penyisip"
+  },
+  "install": {
+    "verb": "pasang"
+  },
+  "installer": {
+    "noun": "pemasang"
+  },
+  "instance": {
+    "noun": "tika"
+  },
+  "instruction": {
+    "noun": "arahan"
+  },
+  "integrate": {
+    "verb": "sepadu"
+  },
+  "interface": {
+    "noun": "antara muka"
+  },
+  "invalid": {
+    "verb": "tidak sah"
+  },
+  "italic": {
+    "verb": "condong"
+  },
+  "italicize": {
+    "verb": "condongkan"
+  },
+  "Item": {
+    "noun": "Butir"
+  },
+  "Items": {
+    "noun": "Butiran"
+  },
+  "justify": {
+    "verb": "laras / imbang"
+  },
+  "keep": {
+    "verb": "kekal"
+  },
+  "keep track": {
+    "verb": "awasi"
+  },
+  "knowledge base": {
+    "noun": "pangkalan pengetahuan / pangkalan ilmu"
+  },
+  "knowledgebase": {
+    "noun": "pangkalan pengetahuan / pangkalan ilmu"
+  },
+  "launch": {
+    "verb": "lancarkan"
+  },
+  "layout": {
+    "noun": "bentangan / susun atur"
+  },
+  "Level": {
+    "noun": "Paras"
+  },
+  "library": {
+    "noun": "pustaka / perpustakaan"
+  },
+  "line break": {
+    "noun": "hentian baris"
+  },
+  "live": {
+    "pronoun": "(secara) langsung"
+  },
+  "Loader": {
+    "noun": "Pemuat"
+  },
+  "locale": {
+    "noun": "penempatan"
+  },
+  "localhost": {
+    "noun": "hos setempat"
+  },
+  "log in": {
+    "verb": "log masuk"
+  },
+  "Login": {
+    "noun": "Log Masuk"
+  },
+  "loop": {
+    "noun": "gelungan"
+  },
+  "maintain": {
+    "verb": "senggara / selenggara"
+  },
+  "markup": {
+    "noun": "penanda"
+  },
+  "match": {
+    "verb": "padan"
+  },
+  "material": {
+    "noun": "bahan"
+  },
+  "Menu": {
+    "noun": "menu"
+  },
+  "merge": {
+    "verb": "cantum"
+  },
+  "meta": {
+    "noun": "meta"
+  },
+  "metadata": {
+    "noun": "metadata"
+  },
+  "method": {
+    "noun": "kaedah"
+  },
+  "migration": {
+    "pronoun": "penghijrahan"
+  },
+  "mismatch": {
+    "verb": "tidak sepadan"
+  },
+  "missing": {
+    "verb": "hilang"
+  },
+  "Mode": {
+    "noun": "Mod"
+  },
+  "moderate": {
+    "verb": "mengendali"
+  },
+  "moderation": {
+    "noun": "penyederhanaan"
+  },
+  "Moderator": {
+    "noun": "Penyederhana"
+  },
+  "modification": {
+    "noun": "pengubahsuaian"
+  },
+  "move": {
+    "verb": "alih"
+  },
+  "multisite": {
+    "noun": "laman berbilang"
+  },
+  "must": {
+    "verb": "mesti"
+  },
+  "namespace": {
+    "noun": "ruang nama"
+  },
+  "native": {
+    "adjective": "tempatan / natif"
+  },
+  "navigate": {
+    "verb": "kemudi"
+  },
+  "Navigation": {
+    "noun": "Navigasi"
+  },
+  "nested": {
+    "noun": "bersarang"
+  },
+  "Network": {
+    "noun": "Rangkaian"
+  },
+  "never": {
+    "adverb": "tidak pernah / tidak sama sekali"
+  },
+  "New": {
+    "verb": "Baharu"
+  },
+  "newsletter": {
+    "noun": "surat berita"
+  },
+  "next": {
+    "verb": "seterusnya / depan"
+  },
+  "nicename": {
+    "noun": "slug nama"
+  },
+  "nick name": {
+    "noun": "nama samaran"
+  },
+  "nickname": {
+    "noun": "nama pendek"
+  },
+  "nonce": {
+    "noun": "karut"
+  },
+  "Notice": {
+    "noun": "Notis"
+  },
+  "Notification": {
+    "noun": "Pemberitahuan"
+  },
+  "notify": {
+    "verb": "beritahu"
+  },
+  "novice": {
+    "noun": "novis"
+  },
+  "Off": {
+    "noun": "Padam"
+  },
+  "off": {
+    "verb": "matikan"
+  },
+  "offset": {
+    "verb": "imbang"
+  },
+  "on": {
+    "verb": "hidupkan / di / pada"
+  },
+  "opacity": {
+    "noun": "kelegapan"
+  },
+  "optimize": {
+    "verb": "mengoptimumkan"
+  },
+  "Option": {
+    "noun": "Pilihan"
+  },
+  "order": {
+    "verb": "atur"
+  },
+  "ordered": {
+    "noun": "teratur / tertib"
+  },
+  "original": {
+    "noun": "asal"
+  },
+  "Out-of-the-box": {
+    "noun": "Terus berfungsi"
+  },
+  "outdated": {
+    "verb": "ketinggalan zaman"
+  },
+  "overlay": {
+    "noun": "tindihan"
+  },
+  "override": {
+    "noun": "pembatal"
+  },
+  "overview": {
+    "noun": "gambaran keseluruhan",
+    "verb": "gambaran keseluruhan"
+  },
+  "overwrite": {
+    "verb": "menulis ganti"
+  },
+  "Page": {
+    "noun": "Halaman"
+  },
+  "paginate": {
+    "verb": "menomborkan halaman"
+  },
+  "Pagination": {
+    "noun": "Penomboran Halaman"
+  },
+  "paging": {
+    "noun": "menomborkan halaman",
+    "verb": "menomborkan halaman"
+  },
+  "Parent": {
+    "noun": "Induk"
+  },
+  "parentheses": {
+    "noun": "kurungan"
+  },
+  "Password": {
+    "noun": "Kata Laluan"
+  },
+  "password-protect": {
+    "verb": "selindung dengan kata laluan"
+  },
+  "Path": {
+    "noun": "Laluan"
+  },
+  "pattern": {
+    "noun": "corak"
+  },
+  "pause": {
+    "verb": "jeda"
+  },
+  "payload": {
+    "noun": "beban bayar"
+  },
+  "pending": {
+    "verb": "belum selesai"
+  },
+  "performance": {
+    "noun": "prestasi"
+  },
+  "Permalink": {
+    "noun": "Pautan kekal"
+  },
+  "permanent": {
+    "verb": "secara kekal"
+  },
+  "permission": {
+    "verb": "keizinan / kebenaran"
+  },
+  "picker": {
+    "noun": "pemetik"
+  },
+  "Pingback": {
+    "noun": "Ping balik"
+  },
+  "placeholder": {
+    "noun": "sandaran"
+  },
+  "platform": {
+    "noun": "platform"
+  },
+  "Plugin": {
+    "noun": "Pemalam"
+  },
+  "popup": {
+    "verb": "timbul"
+  },
+  "position": {
+    "noun": "kedudukan"
+  },
+  "Post": {
+    "noun": "Kiriman"
+  },
+  "post": {
+    "verb": "kirim"
+  },
+  "preferred": {
+    "verb": "keutamaan / pilihan"
+  },
+  "prefix": {
+    "noun": "awalan"
+  },
+  "preformatted": {
+    "verb": "sedia format"
+  },
+  "premium": {
+    "noun": "premium"
+  },
+  "preset": {
+    "noun": "pratetapan"
+  },
+  "press": {
+    "verb": "tekan"
+  },
+  "preview": {
+    "verb": "pratonton"
+  },
+  "previous": {
+    "noun": "sebelumnya / lalu"
+  },
+  "primary": {
+    "noun": "utama / primer"
+  },
+  "privacy": {
+    "noun": "privasi"
+  },
+  "private": {
+    "noun": "persendirian / sulit"
+  },
+  "privilege": {
+    "noun": "keistimewaan"
+  },
+  "profile": {
+    "noun": "profil"
+  },
+  "progress": {
+    "verb": "kemajuan"
+  },
+  "prominent": {
+    "adjective": "menonjol"
+  },
+  "prompt": {
+    "noun": "bantu ingat / prom"
+  },
+  "property": {
+    "noun": "sifat"
+  },
+  "Publication": {
+    "noun": "Terbitan"
+  },
+  "publish": {
+    "noun": "terbit"
+  },
+  "publisher": {
+    "noun": "penerbit"
+  },
+  "query": {
+    "verb": "pertanyaan"
+  },
+  "Query": {
+    "noun": "Pertanyaan"
+  },
+  "queue": {
+    "noun": "barisan / giliran"
+  },
+  "queued": {
+    "noun": "digilirkan",
+    "verb": "digilirkan"
+  },
+  "Quick": {
+    "noun": "Pantas"
+  },
+  "random": {
+    "noun": "rawak"
+  },
+  "ranking": {
+    "noun": "kedudukan"
+  },
+  "rate": {
+    "noun": "kadar"
+  },
+  "rating": {
+    "verb": "penarafan"
+  },
+  "recent": {
+    "adverb": "terkini / baru-baru ini"
+  },
+  "redirect": {
+    "verb": "mengalih"
+  },
+  "redo": {
+    "verb": "Buat Semula"
+  },
+  "reflect": {
+    "verb": "pantul"
+  },
+  "refresh": {
+    "verb": "segar semula"
+  },
+  "region": {
+    "noun": "kawasan"
+  },
+  "register": {
+    "verb": "daftar"
+  },
+  "registered": {
+    "adverb": "didaftarkan"
+  },
+  "reinstate": {
+    "verb": "dikenakan semula"
+  },
+  "reject": {
+    "verb": "tolak"
+  },
+  "related": {
+    "verb": "berkaitan"
+  },
+  "Release": {
+    "noun": "Keluaran"
+  },
+  "remote": {
+    "noun": "jarak jauh"
+  },
+  "remove": {
+    "verb": "buang"
+  },
+  "rendering": {
+    "verb": "persembahan"
+  },
+  "reorder": {
+    "verb": "atur semula"
+  },
+  "reply": {
+    "verb": "balas / jawab"
+  },
+  "Reply": {
+    "noun": "Balasan / Jawapan"
+  },
+  "reponse": {
+    "noun": "respon"
+  },
+  "repository": {
+    "noun": "repositori"
+  },
+  "request": {
+    "verb": "pohon / minta"
+  },
+  "Request": {
+    "noun": "Permohonan / Permintaan"
+  },
+  "require": {
+    "verb": "perlu"
+  },
+  "reserved": {
+    "verb": "dirizab"
+  },
+  "reset": {
+    "noun": "set semula",
+    "verb": "tetapkan semula"
+  },
+  "resolve": {
+    "verb": "selesai"
+  },
+  "resolved": {
+    "verb": "telah selesai"
+  },
+  "response": {
+    "verb": "respons / gerak balas"
+  },
+  "responsive": {
+    "verb": "responsif"
+  },
+  "restart": {
+    "verb": "mula semula"
+  },
+  "restore": {
+    "verb": "pulih"
+  },
+  "Result": {
+    "noun": "Hasil / Keputusan"
+  },
+  "retrieve": {
+    "verb": "mendapatkan"
+  },
+  "revert": {
+    "verb": "berbalik"
+  },
+  "review": {
+    "adverb": "meninjau / mengkaji semula",
+    "verb": "tinjau / kaji semula"
+  },
+  "revision": {
+    "verb": "semakan"
+  },
+  "rewrite": {
+    "verb": "tulis semula"
+  },
+  "Rich Text Area": {
+    "noun": "Kawasan Kaya Teks"
+  },
+  "role": {
+    "noun": "peranan"
+  },
+  "roll back": {
+    "verb": "undur"
+  },
+  "rollback": {
+    "noun": "gulung balik"
+  },
+  "route": {
+    "noun": "hala"
+  },
+  "run": {
+    "verb": "jalan"
+  },
+  "running": {
+    "adjective": "berjalan"
+  },
+  "runtime": {
+    "noun": "waktu jalan"
+  },
+  "screenshot": {
+    "noun": "tangkap layar"
+  },
+  "Screenshot": {
+    "verb": "Tangkap Layar"
+  },
+  "scroll": {
+    "verb": "tatal"
+  },
+  "Section": {
+    "noun": "Bahagian"
+  },
+  "select": {
+    "verb": "pilih"
+  },
+  "selected": {
+    "adverb": "dipilih"
+  },
+  "set": {
+    "verb": "tetap"
+  },
+  "set up": {
+    "verb": "pasang"
+  },
+  "Setting": {
+    "noun": "Tetapan"
+  },
+  "setting": {
+    "adjective": "menetapkan"
+  },
+  "settings": {
+    "noun": "tetapan"
+  },
+  "setup": {
+    "noun": "persediaan / pemasangan"
+  },
+  "share": {
+    "verb": "kongsi"
+  },
+  "shared": {
+    "verb": "berkongsi"
+  },
+  "Shortcode": {
+    "noun": "Kod Ringkas"
+  },
+  "Shortcut": {
+    "noun": "Pintas / Jalan Pintas"
+  },
+  "should": {
+    "verb": "harus"
+  },
+  "show": {
+    "verb": "tunjuk"
+  },
+  "showcase": {
+    "noun": "pameran"
+  },
+  "Sidebar": {
+    "noun": "Palang sisi / Batang sisi"
+  },
+  "silence": {
+    "verb": "senyap"
+  },
+  "simple": {
+    "adjective": "mudah"
+  },
+  "single quotes": {
+    "noun": "tanda petikan"
+  },
+  "Site": {
+    "noun": "Laman"
+  },
+  "skip": {
+    "verb": "langkau"
+  },
+  "slide": {
+    "noun": "slaid",
+    "verb": "lungsur"
+  },
+  "slider": {
+    "noun": "pelungsur"
+  },
+  "slideshow": {
+    "noun": "tayangan slaid"
+  },
+  "Slug": {
+    "noun": "Slug"
+  },
+  "solution": {
+    "noun": "penyelesaian"
+  },
+  "sort": {
+    "verb": "isih"
+  },
+  "sound": {
+    "noun": "bunyi"
+  },
+  "source": {
+    "noun": "sumber / punca"
+  },
+  "Spam": {
+    "noun": "Spam",
+    "verb": "Spam",
+    "adjective": "Spam"
+  },
+  "spammer": {
+    "noun": "penghantar spam"
+  },
+  "spark": {
+    "verb": "cetus"
+  },
+  "specific": {
+    "adjective": "khusus"
+  },
+  "split": {
+    "verb": "pisah"
+  },
+  "stale": {
+    "noun": "lapuk"
+  },
+  "standalone": {
+    "noun": "kendiri"
+  },
+  "standard": {
+    "noun": "piawai"
+  },
+  "standardize": {
+    "verb": "dipiawai"
+  },
+  "starter": {
+    "noun": "pemula"
+  },
+  "static": {
+    "noun": "static"
+  },
+  "sticky": {
+    "noun": "melekit"
+  },
+  "stream": {
+    "noun": "aliran"
+  },
+  "streamline": {
+    "verb": "perkemas"
+  },
+  "strikethrough": {
+    "noun": "garis batal"
+  },
+  "string": {
+    "noun": "rentetan"
+  },
+  "strip": {
+    "verb": "lucut"
+  },
+  "style": {
+    "verb": "gaya"
+  },
+  "style tag": {
+    "noun": "tag gaya"
+  },
+  "stylesheet": {
+    "noun": "lembaran gaya"
+  },
+  "styling": {
+    "noun": "penggayaan"
+  },
+  "subclass": {
+    "noun": "sub-kelas"
+  },
+  "Submenu": {
+    "noun": "Submenu"
+  },
+  "submit": {
+    "verb": "hantar / serah"
+  },
+  "subscription": {
+    "noun": "langganan"
+  },
+  "summary": {
+    "noun": "ringkasan"
+  },
+  "Support": {
+    "noun": "Sokongan"
+  },
+  "support": {
+    "verb": "sokong"
+  },
+  "switch": {
+    "verb": "tukar"
+  },
+  "sync": {
+    "verb": "selaras"
+  },
+  "Tab": {
+    "noun": "Tab"
+  },
+  "Tag": {
+    "noun": "Tag"
+  },
+  "tag": {
+    "verb": "tag"
+  },
+  "tagline": {
+    "noun": "baris slogan"
+  },
+  "tap": {
+    "verb": "ketik"
+  },
+  "target": {
+    "noun": "sasaran"
+  },
+  "task": {
+    "noun": "tugas"
+  },
+  "Taxonomy": {
+    "noun": "Taksonomi"
+  },
+  "template": {
+    "noun": "templat"
+  },
+  "Term": {
+    "noun": "Istilah / terma (see comments for details)"
+  },
+  "Theme": {
+    "noun": "Tema"
+  },
+  "thought": {
+    "noun": "pandangan"
+  },
+  "Thread": {
+    "noun": "Jalur"
+  },
+  "threading": {
+    "noun": "penjaluran"
+  },
+  "thumbnail": {
+    "noun": "imej kecil"
+  },
+  "ticker": {
+    "noun": "detik"
+  },
+  "tile": {
+    "noun": "jubin"
+  },
+  "timestamp": {
+    "noun": "cap masa"
+  },
+  "toggle": {
+    "verb": "togol"
+  },
+  "tool": {
+    "noun": "alat"
+  },
+  "Toolbar": {
+    "noun": "Palang alatan / Bar alatan"
+  },
+  "tooltip": {
+    "noun": "petua alat"
+  },
+  "track": {
+    "verb": "jejak"
+  },
+  "Track": {
+    "noun": "Runut"
+  },
+  "Trackback": {
+    "noun": "Jejak balik"
+  },
+  "transition": {
+    "adjective": "peralihan"
+  },
+  "trash": {
+    "noun": "sampah"
+  },
+  "troubleshoot": {
+    "verb": "penyelesai masalah"
+  },
+  "turn on": {
+    "verb": "hidupkan"
+  },
+  "typography": {
+    "noun": "tipografi"
+  },
+  "uncheck": {
+    "verb": "buang tanda"
+  },
+  "undo": {
+    "verb": "kembali ke asal"
+  },
+  "universal": {
+    "noun": "sejagat"
+  },
+  "unlimited": {
+    "adjective": "tanpa had"
+  },
+  "unnamed": {
+    "expression": "tidak bernama"
+  },
+  "unordered": {
+    "noun": "tidak tertib"
+  },
+  "unpack": {
+    "verb": "punggah"
+  },
+  "update": {
+    "verb": "kemas kini"
+  },
+  "upgrade": {
+    "verb": "tingkatkan / naik taraf"
+  },
+  "User": {
+    "noun": "Pengguna"
+  },
+  "Username": {
+    "noun": "Nama Pengguna"
+  },
+  "value": {
+    "noun": "nilai"
+  },
+  "values": {
+    "noun": "nilai-nilai"
+  },
+  "vendor": {
+    "noun": "vendor / pembekal"
+  },
+  "version": {
+    "noun": "versi"
+  },
+  "view": {
+    "verb": "pandang / lihat"
+  },
+  "visibility": {
+    "noun": "keterlihatan"
+  },
+  "visible": {
+    "noun": "boleh dilihat / kelihatan"
+  },
+  "Volume": {
+    "noun": "Kelantangan"
+  },
+  "Warning": {
+    "noun": "Amaran"
+  },
+  "web": {
+    "noun": "web / sesawang"
+  },
+  "welcome panel": {
+    "noun": "panel aluan"
+  },
+  "Widget": {
+    "noun": "Widget"
+  },
+  "widget-aware": {
+    "adjective": "peka widget"
+  },
+  "widgetized": {
+    "adverb": "diwidgetkan"
+  },
+  "wildcard": {
+    "noun": "kad liar"
+  },
+  "wishlist": {
+    "noun": "senarai hajat"
+  },
+  "wizard": {
+    "noun": "pintar"
+  },
+  "word processor": {
+    "noun": "pemproses kata"
+  },
+  "working": {
+    "verb": "berfungsi"
+  },
+  "wrap": {
+    "verb": "balut"
+  },
+  "wrapper": {
+    "noun": "pelindung"
+  },
+  "You": {
+    "noun": "Anda"
+  },
+  "You're all caught up": {
+    "noun": "Anda telah lengkapkan semuanya"
+  },
+  "zoom": {
+    "verb": "zum"
+  }
+}

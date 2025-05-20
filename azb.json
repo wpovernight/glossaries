@@ -1,0 +1,668 @@
+{
+  "Action": {
+    "noun": "عملیات،ایقدام"
+  },
+  "activate": {
+    "noun": "ایشه سالماق، فعال ائتمک"
+  },
+  "advance": {
+    "noun": "قاباقجیل"
+  },
+  "advanced": {
+    "noun": "قاباقجیل"
+  },
+  "again": {
+    "noun": "بیرداها"
+  },
+  "Align": {
+    "noun": "تاراز"
+  },
+  "alphanumeric": {
+    "noun": "حرف‌عدد"
+  },
+  "Alt text": {
+    "noun": "یئرینه متن"
+  },
+  "Alternate": {
+    "noun": "آرادان بیر"
+  },
+  "Alternative": {
+    "noun": "یئرینه"
+  },
+  "area": {
+    "noun": "ساحه"
+  },
+  "array": {
+    "noun": "دوزمه"
+  },
+  "Artist": {
+    "noun": "هونرچی"
+  },
+  "attachment": {
+    "noun": "سانجاق"
+  },
+  "attribute": {
+    "noun": "خاصیت"
+  },
+  "attributes": {
+    "noun": "صفت‌لر، خوصوصیت‌لر"
+  },
+  "Author": {
+    "noun": "یازیجی"
+  },
+  "auto-updates": {
+    "noun": "اوتوگونجل"
+  },
+  "Autoplay": {
+    "noun": "اؤزاوخوما،اؤزاوینا"
+  },
+  "background": {
+    "noun": "آرخاپلن"
+  },
+  "block": {
+    "noun": "بلوک"
+  },
+  "Body": {
+    "noun": "گؤوده"
+  },
+  "Box": {
+    "noun": "قوتو"
+  },
+  "breadcrumb": {
+    "noun": "مسیر"
+  },
+  "breadcrumbs": {
+    "noun": "باغلانتی نقشه‌سی"
+  },
+  "Browse": {
+    "noun": "گؤز آت، گؤز دولاندیر"
+  },
+  "Cancel": {
+    "noun": "واز گئچ"
+  },
+  "canvas": {
+    "noun": "لوحه"
+  },
+  "Capitalize": {
+    "noun": "ایلک حرف بؤیوک"
+  },
+  "Caption": {
+    "noun": "توضیح"
+  },
+  "caret": {
+    "noun": "علامت"
+  },
+  "category": {
+    "noun": "بؤلوم"
+  },
+  "Choose": {
+    "noun": "سئچ"
+  },
+  "Collapse": {
+    "noun": "یئغ"
+  },
+  "collection": {
+    "noun": "کؤل"
+  },
+  "color palette": {
+    "noun": "رنگ قوتوسو"
+  },
+  "column": {
+    "noun": "دیرک"
+  },
+  "Comments": {
+    "noun": "باخیشلار"
+  },
+  "Compact": {
+    "noun": "سیخیلمیش"
+  },
+  "configuration": {
+    "noun": "قوشوشدورما"
+  },
+  "Configure": {
+    "noun": "قوشوشدورما"
+  },
+  "Confirmation": {
+    "noun": "دؤغورلاما"
+  },
+  "container": {
+    "noun": "قاب"
+  },
+  "content": {
+    "noun": "متن، موحتوا"
+  },
+  "Continue reading": {
+    "noun": "آردینی اوخو"
+  },
+  "Coordinated": {
+    "noun": "اویغولانمیٛش"
+  },
+  "correct": {
+    "noun": "دوزگون"
+  },
+  "cursor": {
+    "noun": "گؤسترگه"
+  },
+  "customize": {
+    "noun": "اوزللشدیرمک"
+  },
+  "data": {
+    "noun": "دئیتا"
+  },
+  "Decoration": {
+    "noun": "بئزه‌مه"
+  },
+  "default": {
+    "noun": "وار ساییلان"
+  },
+  "design": {
+    "noun": "طراحی"
+  },
+  "Detach": {
+    "noun": "قوپاردماق"
+  },
+  "Detail": {
+    "noun": "دیلیم"
+  },
+  "dialog": {
+    "noun": "صوحبت"
+  },
+  "directory": {
+    "noun": "بوتا"
+  },
+  "Discussion": {
+    "noun": "بحث"
+  },
+  "Display": {
+    "noun": "گؤستریم"
+  },
+  "distortion": {
+    "noun": "چک‌باس"
+  },
+  "document": {
+    "noun": "سند"
+  },
+  "dropdown": {
+    "noun": "آچیلیر"
+  },
+  "Duotone": {
+    "noun": "ایکیلی رنگ"
+  },
+  "duplicate": {
+    "noun": "تیکراری"
+  },
+  "editor": {
+    "noun": "ائدیتور"
+  },
+  "element": {
+    "noun": "عنصور"
+  },
+  "elements": {
+    "noun": "عنصر، عنصرلار"
+  },
+  "Embed": {
+    "noun": "یئرلشدیرمه"
+  },
+  "Enable": {
+    "noun": "گوجلندیر"
+  },
+  "Entertainment": {
+    "noun": "باش قاتما"
+  },
+  "error": {
+    "noun": "خطا"
+  },
+  "Event": {
+    "noun": "واقیعه"
+  },
+  "Excerpt": {
+    "noun": "خولاصه، چیخاریش"
+  },
+  "Export": {
+    "noun": "ائشیکه آل"
+  },
+  "extension": {
+    "noun": "اوزانتی"
+  },
+  "external": {
+    "noun": "ائشیک"
+  },
+  "fallback": {
+    "noun": "قاییتلی"
+  },
+  "Favorites": {
+    "noun": "گؤزو توتانلار"
+  },
+  "Featured": {
+    "noun": "اوزه‌چیخان"
+  },
+  "featured image": {
+    "noun": "اوزعکس"
+  },
+  "feed": {
+    "noun": "یئم"
+  },
+  "Feedback": {
+    "noun": "یانسیتاما"
+  },
+  "Field": {
+    "noun": "یئرلیک، آلان"
+  },
+  "field": {
+    "noun": "یئر"
+  },
+  "Flip": {
+    "noun": "چویرمک"
+  },
+  "font": {
+    "noun": "فونت"
+  },
+  "footer": {
+    "noun": "آلت بیلگی"
+  },
+  "Footnote": {
+    "noun": "ورق‌آلتی"
+  },
+  "Format": {
+    "noun": "شئکل"
+  },
+  "Front Page": {
+    "noun": "اوز یارپاق"
+  },
+  "Fullscreen": {
+    "noun": "تام ائکران"
+  },
+  "function": {
+    "noun": "وظیفه،تابع"
+  },
+  "Gradient": {
+    "noun": "قرادیان"
+  },
+  "Guide": {
+    "noun": "یول‌سالیم"
+  },
+  "handle": {
+    "noun": "ساپ"
+  },
+  "header": {
+    "noun": "اوست بیلگی‌لر"
+  },
+  "help": {
+    "noun": "اَل توتماق"
+  },
+  "highlight": {
+    "noun": "شاخص، وورغون"
+  },
+  "homepage": {
+    "noun": "آناصحیفه"
+  },
+  "hook": {
+    "noun": "چنگل، قارماق"
+  },
+  "horizontal": {
+    "noun": "یاتای"
+  },
+  "identifier": {
+    "noun": "تانیملاییجی"
+  },
+  "Ignore": {
+    "noun": "یوخا سای"
+  },
+  "import": {
+    "noun": "ایچه آل"
+  },
+  "importer": {
+    "noun": "ایچه‌آلچی"
+  },
+  "inbox": {
+    "noun": "آل‌ساو"
+  },
+  "Insert": {
+    "noun": "گیردیر، یئرلشدیر"
+  },
+  "Inserte": {
+    "noun": "گیردیر"
+  },
+  "inserter": {
+    "noun": "یئرلشدیریجی"
+  },
+  "install": {
+    "noun": "قورماق، نصب، قوراشدیرما"
+  },
+  "interact": {
+    "noun": "ائتکی، تعامل"
+  },
+  "interactive": {
+    "noun": "تعامولی"
+  },
+  "Item": {
+    "noun": "مورید"
+  },
+  "layout": {
+    "noun": "دوزولمه"
+  },
+  "Learn more": {
+    "noun": "آرتیقراق بیلمک"
+  },
+  "load": {
+    "noun": "دولدورماق"
+  },
+  "Lowercase": {
+    "noun": "کیچیک حرف"
+  },
+  "Manage": {
+    "noun": "ایداره ائتمک، یونئتمَک"
+  },
+  "mark": {
+    "noun": "خال"
+  },
+  "match": {
+    "noun": "توتوشدورماق"
+  },
+  "Media Player": {
+    "noun": "مئدیا اویناچی"
+  },
+  "message": {
+    "noun": "ساو"
+  },
+  "Metadata": {
+    "noun": "آنلاتان‌لار"
+  },
+  "Method": {
+    "noun": "نئجه، گئدیلیم"
+  },
+  "Middle": {
+    "noun": "دیک اورتا"
+  },
+  "Mode": {
+    "noun": "حالت، مود، دوروش"
+  },
+  "navigate": {
+    "noun": "گزمک"
+  },
+  "navigation": {
+    "noun": "گزدیرمه"
+  },
+  "Options": {
+    "noun": "سئچه‌نک‌لر"
+  },
+  "outbox": {
+    "noun": "وئرساو"
+  },
+  "Overlay": {
+    "noun": "اوزلای"
+  },
+  "Page": {
+    "noun": "یارپاق"
+  },
+  "panel": {
+    "noun": "پانل، چوبوغ"
+  },
+  "parent": {
+    "noun": "آنا"
+  },
+  "Password": {
+    "noun": "رمز"
+  },
+  "pattern": {
+    "noun": "نومونه، اولگو"
+  },
+  "permalink": {
+    "noun": "قالیجی باغلانتی"
+  },
+  "Permanently": {
+    "noun": "دائمی، همیشه‌لیک"
+  },
+  "Personalize": {
+    "noun": "شخصیلشدیر"
+  },
+  "pingback": {
+    "noun": "باغلاتما"
+  },
+  "placeholder": {
+    "noun": "یئر توتوجو"
+  },
+  "plain text": {
+    "noun": "ساده متن"
+  },
+  "playlist": {
+    "noun": "اوینالیست"
+  },
+  "plugin": {
+    "noun": "تاخیلان"
+  },
+  "post": {
+    "noun": "یازی"
+  },
+  "preview": {
+    "noun": "اؤنباخیش"
+  },
+  "Processor": {
+    "noun": "ایشلم‌جی"
+  },
+  "Public": {
+    "noun": "هامی، هامیلیک"
+  },
+  "publish": {
+    "noun": "یایینلاماق"
+  },
+  "query": {
+    "noun": "ایستک، سورغو"
+  },
+  "Random": {
+    "noun": "آلابولا"
+  },
+  "Randomize": {
+    "noun": "هاردان توتدو"
+  },
+  "rate": {
+    "noun": "ایمتیاز"
+  },
+  "Rating": {
+    "noun": "ایمتیاز"
+  },
+  "Read more": {
+    "noun": "داها آرتیق اوخو"
+  },
+  "Reload": {
+    "noun": "گئنه دولدورماق"
+  },
+  "Remove": {
+    "noun": "قالدیر"
+  },
+  "Resolution": {
+    "noun": "گؤرونرلیک"
+  },
+  "Restore": {
+    "noun": "قایتارماق"
+  },
+  "reusable": {
+    "noun": "گئنه ایشلیه‌بیلیر"
+  },
+  "review": {
+    "noun": "مورور"
+  },
+  "revision": {
+    "noun": "اوست یازیم"
+  },
+  "rich content": {
+    "noun": "بول متن"
+  },
+  "Rich Text": {
+    "noun": "بول یازی"
+  },
+  "rotate": {
+    "noun": "فیرلاتماق"
+  },
+  "Route": {
+    "noun": "مسیر، یول"
+  },
+  "row": {
+    "noun": "سطر،ردیف"
+  },
+  "save": {
+    "noun": "ساخلا، ذخیره"
+  },
+  "schedule": {
+    "noun": "زامانلاشدیرما"
+  },
+  "schema": {
+    "noun": "طرح"
+  },
+  "Scrollable": {
+    "noun": "سوروشن"
+  },
+  "select": {
+    "noun": "اینتیخاب"
+  },
+  "server": {
+    "noun": "سئروئر"
+  },
+  "settings": {
+    "noun": "تنظیم‌لر"
+  },
+  "setup": {
+    "noun": "قوراشدیرما"
+  },
+  "share": {
+    "noun": "پایلاشیم"
+  },
+  "shortcode": {
+    "noun": "قیسا کوُد"
+  },
+  "sidebar": {
+    "noun": "یان چوبوغو"
+  },
+  "Singular": {
+    "noun": "ایچی تک"
+  },
+  "slug": {
+    "noun": "قیسا آد"
+  },
+  "Sort": {
+    "noun": "سئریه سال"
+  },
+  "source": {
+    "noun": "قایناق"
+  },
+  "space": {
+    "noun": "اورتام، آرا"
+  },
+  "Split": {
+    "noun": "تیکه‌له"
+  },
+  "Spotlight": {
+    "noun": "یئغیناجاق"
+  },
+  "spotlight": {
+    "noun": "آیدین‌یئر"
+  },
+  "static": {
+    "noun": "دورقون"
+  },
+  "structure": {
+    "noun": "قورولوش"
+  },
+  "style": {
+    "noun": "بیچیم"
+  },
+  "Style": {
+    "noun": "دوروشوق"
+  },
+  "Stylesheet": {
+    "noun": "بیچیم صفحه‌سی"
+  },
+  "subset": {
+    "noun": "آلت‌کؤل"
+  },
+  "supporte": {
+    "noun": "آرخالانماق"
+  },
+  "sure": {
+    "noun": "آرخایین"
+  },
+  "tab": {
+    "noun": "سئکمه‌"
+  },
+  "tag": {
+    "noun": "تَق"
+  },
+  "Tagline": {
+    "noun": "تانیتیم"
+  },
+  "Taxonomy": {
+    "noun": "طبقه"
+  },
+  "template": {
+    "noun": "قالب"
+  },
+  "temporary": {
+    "noun": "گئچه‌ری، گئچیجی"
+  },
+  "Term": {
+    "noun": "شرط"
+  },
+  "Theme": {
+    "noun": "تئم"
+  },
+  "thumbnail": {
+    "noun": "بالاجا"
+  },
+  "timezone": {
+    "noun": "چاغ‌یئری"
+  },
+  "toolbar": {
+    "noun": "آراچ چوبوغو"
+  },
+  "tools": {
+    "noun": "آلت‌لر"
+  },
+  "Top": {
+    "noun": "اوست"
+  },
+  "Trackback": {
+    "noun": "تعقیب‌لر"
+  },
+  "Tracklist": {
+    "noun": "آوازلیستی"
+  },
+  "type": {
+    "noun": "نوع"
+  },
+  "typography": {
+    "noun": "تایپوگرافی"
+  },
+  "unique": {
+    "noun": "بنزرسیز"
+  },
+  "Uppercase": {
+    "noun": "بؤیوک حرف"
+  },
+  "Use": {
+    "noun": "ایشه آلماق"
+  },
+  "valid": {
+    "noun": "گئچرلی"
+  },
+  "value": {
+    "noun": "میقدار"
+  },
+  "variation": {
+    "noun": "تنوع، متفاوت، تفاوت"
+  },
+  "Version": {
+    "noun": "یازیم،نوسخه"
+  },
+  "vertical": {
+    "noun": "دیکه‌ی"
+  },
+  "visitor": {
+    "noun": "گؤروجو"
+  },
+  "Warning": {
+    "noun": "باخین"
+  },
+  "Widget": {
+    "noun": "ویجت"
+  }
+}

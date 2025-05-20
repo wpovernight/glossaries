@@ -1,0 +1,247 @@
+{
+  "activate": {
+    "verb": "Tá"
+  },
+  "activated": {
+    "adjective": "ɖo títá"
+  },
+  "activation": {
+    "noun": "títá"
+  },
+  "Add new": {
+    "verb": "zéɖéji, hun yɔyɔ"
+  },
+  "Akismet": {
+    "noun": "Akismet"
+  },
+  "Allow": {
+    "verb": "nǎgbe"
+  },
+  "allowed": {
+    "adjective": "é nǎ gbé e"
+  },
+  "archive": {
+    "noun": "nuxóxósɛxwetɛn",
+    "verb": "sε ɖŏ / sε xwè"
+  },
+  "Are you": {
+    "expression": "à yīgbe ná à ?"
+  },
+  "argument": {
+    "noun": "Gonan"
+  },
+  "Ascending": {
+    "adjective": "jǐyíyi"
+  },
+  "attachment": {
+    "noun": "bibla"
+  },
+  "audio": {
+    "noun": "gbé"
+  },
+  "author": {
+    "noun": "mɛ e wlán é"
+  },
+  "BuddyPress": {
+    "noun": "BuddyPress"
+  },
+  "Builder": {
+    "noun": "Gbigbatɔ́"
+  },
+  "capabilities": {
+    "noun": "Gbénamen"
+  },
+  "category": {
+    "noun": "akpahwé"
+  },
+  "chat": {
+    "noun": "Ibi oho si so"
+  },
+  "Choose": {
+    "verb": "so dé do dé min"
+  },
+  "click": {
+    "noun": "zínzín"
+  },
+  "comment": {
+    "verb": "Yé nan ki kin o"
+  },
+  "deactivate": {
+    "verb": "cí"
+  },
+  "deactivation": {
+    "noun": "cící"
+  },
+  "Descending": {
+    "adjective": "dowíwá"
+  },
+  "Dismiss": {
+    "verb": "Igbé"
+  },
+  "Facebook": {
+    "noun": "Facebook"
+  },
+  "find": {
+    "verb": "Mɔ́n"
+  },
+  "Github": {
+    "noun": "Github"
+  },
+  "Happiness Engineer": {
+    "noun": "Happiness Engineer"
+  },
+  "Happiness Engineers": {
+    "noun": "Happiness Engineers"
+  },
+  "Help": {
+    "noun": "alɔdó"
+  },
+  "hide": {
+    "verb": "Sú dó"
+  },
+  "ID": {
+    "noun": "ID"
+  },
+  "language": {
+    "noun": "Gbé"
+  },
+  "metabox": {
+    "noun": "gbaví méta/ méta gbaví"
+  },
+  "metaboxes": {
+    "noun": "Gbaví méta lɛ́ɛ/ Méta gbaví lɛ́ɛ"
+  },
+  "New": {
+    "noun": "Yɔyɔ",
+    "adjective": "yɔyɔ"
+  },
+  "No": {
+    "noun": "xéŏ"
+  },
+  "Nothing found": {
+    "noun": "n’ti / nǔ ti"
+  },
+  "only": {
+    "adverb": "kpowùn"
+  },
+  "opt-out": {
+    "verb": "gbè"
+  },
+  "overlay": {
+    "verb": "zédédji"
+  },
+  "password": {
+    "noun": "tchavi"
+  },
+  "payment method": {
+    "noun": "ali tè dji mi nan gbon gbo soun aho"
+  },
+  "pending": {
+    "adjective": "é do té"
+  },
+  "permission": {
+    "noun": "gbé"
+  },
+  "plan": {
+    "noun": "noun wlé min"
+  },
+  "Please": {
+    "expression": "kɛnklɛn"
+  },
+  "quiz": {
+    "noun": "Nǔkanbyɔ"
+  },
+  "Reader": {
+    "noun": "Nuhato"
+  },
+  "recaptcha": {
+    "noun": "recaptcha"
+  },
+  "Remove": {
+    "verb": "Désinmè"
+  },
+  "Remove permanently": {
+    "verb": "súnsún bi"
+  },
+  "request": {
+    "noun": "noun bio/noun bio sé"
+  },
+  "required": {
+    "adjective": "dan dan"
+  },
+  "RSS": {
+    "noun": "RSS"
+  },
+  "Save": {
+    "verb": "zé do kan min"
+  },
+  "select": {
+    "noun": "zizé/ sisɔ́"
+  },
+  "Select": {
+    "verb": "zé/ sɔ́"
+  },
+  "show": {
+    "verb": "zé xlɛ́"
+  },
+  "spam": {
+    "noun": "gblégblé"
+  },
+  "status": {
+    "noun": "To"
+  },
+  "submit": {
+    "verb": "sè do"
+  },
+  "text editor": {
+    "noun": "Xó wlán nǔ / Xówlanǔ"
+  },
+  "textarea": {
+    "noun": "nu wlantin"
+  },
+  "toggle": {
+    "verb": "Houn / Sou / Diyo dédo détinmin"
+  },
+  "try again": {
+    "verb": "Lɛ tɛnkpɔn/ Lɛvɔ bɛ́"
+  },
+  "Twitter": {
+    "noun": "Twitter"
+  },
+  "url": {
+    "noun": "url"
+  },
+  "user": {
+    "noun": "Zizantɔ́"
+  },
+  "username": {
+    "noun": "Zizantɔ́ Nyĭkɔ́"
+  },
+  "VaultPress": {
+    "noun": "VaultPress"
+  },
+  "VideoPress": {
+    "noun": "VideoPress"
+  },
+  "view": {
+    "verb": "Kpon"
+  },
+  "WordCamp": {
+    "noun": "WordCamp"
+  },
+  "WordPress": {
+    "noun": "WordPress"
+  },
+  "WordPress Dashboard": {
+    "noun": "WordPress.com"
+  },
+  "WordPress.com": {
+    "noun": "XML-RPC"
+  },
+  "XML-RPC": {
+    "noun": "XML-RPC"
+  },
+  "Youtube": {
+    "noun": "YouTube"
+  }
+}

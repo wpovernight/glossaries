@@ -1,0 +1,137 @@
+{
+  "attachment": {
+    "noun": "এটাচমেন্ট"
+  },
+  "authorization": {
+    "noun": "অথোরাইজেশন"
+  },
+  "Block": {
+    "noun": "ব্লক"
+  },
+  "Button": {
+    "noun": "বাটন"
+  },
+  "Code": {
+    "noun": "কোড"
+  },
+  "comment": {
+    "noun": "কমেন্ট"
+  },
+  "control": {
+    "noun": "নিয়ন্ত্রণ"
+  },
+  "default": {
+    "noun": "ডিফল্ট"
+  },
+  "documentation": {
+    "noun": "ডকুমেন্টেশন"
+  },
+  "Edit": {
+    "noun": "এডিট"
+  },
+  "editor": {
+    "noun": "এডিটর"
+  },
+  "Embed": {
+    "verb": "এমবেড"
+  },
+  "Error": {
+    "noun": "ত্রুটি"
+  },
+  "guide": {
+    "noun": "গাইড"
+  },
+  "identifier": {
+    "noun": "পরিচায়ক"
+  },
+  "install": {
+    "noun": "ইন্সটল"
+  },
+  "Invalid": {
+    "noun": "সঠিক নয়"
+  },
+  "list": {
+    "noun": "লিস্ট"
+  },
+  "location": {
+    "noun": "অবস্থান"
+  },
+  "manage": {
+    "verb": "ম্যানেজ"
+  },
+  "management": {
+    "noun": "ম্যানেজমেন্ট"
+  },
+  "managing": {
+    "adjective": "ব্যবস্থাপনা"
+  },
+  "media": {
+    "noun": "মিডিয়া"
+  },
+  "On-sale": {
+    "noun": "ডিসকাউন্ট"
+  },
+  "Please": {
+    "noun": "অনুগ্রহ করে"
+  },
+  "Post": {
+    "noun": "পোস্ট"
+  },
+  "post type": {
+    "noun": "পোস্ট টাইপ"
+  },
+  "posts": {
+    "noun": "পোস্ট"
+  },
+  "press": {
+    "verb": "চাপা, চাপুন"
+  },
+  "privacy": {
+    "noun": "গোপনীয়তা"
+  },
+  "release": {
+    "noun": "রিলিজ"
+  },
+  "Response": {
+    "noun": "রেসপন্স"
+  },
+  "schedule": {
+    "noun": "শিডিউল"
+  },
+  "security": {
+    "noun": "সিকিউরিটি"
+  },
+  "select": {
+    "verb": "নির্বাচন, বাছাই"
+  },
+  "selected": {
+    "noun": "নির্বাচিত, বাছাইকৃত, বাছাই করা"
+  },
+  "Submit": {
+    "noun": "সাবমিট"
+  },
+  "taxonomy": {
+    "noun": "ট্যাক্সোনমি"
+  },
+  "term": {
+    "noun": "টার্ম"
+  },
+  "text": {
+    "noun": "টেক্সট"
+  },
+  "update": {
+    "noun": "আপডেট"
+  },
+  "updated": {
+    "noun": "আপডেট করা হয়েছে"
+  },
+  "user": {
+    "noun": "ইউজার"
+  },
+  "Version": {
+    "noun": "ভার্শন"
+  },
+  "widget": {
+    "noun": "উইজেট"
+  }
+}

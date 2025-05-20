@@ -1,0 +1,3605 @@
+{
+  "above": {
+    "preposition": "གོང་གི་"
+  },
+  "Accept": {
+    "verb": "མོས་མཐུན་བྱེད་པ།"
+  },
+  "acceptance": {
+    "noun": "དང་ལེན།"
+  },
+  "Access": {
+    "noun": "བཅར་འདྲིའི་དབང་ཚད།"
+  },
+  "Accessibility": {
+    "noun": "བདེ་ལྷོད་ཉར་ལེན།"
+  },
+  "Account": {
+    "noun": "ཐོ་ཁོངས།"
+  },
+  "Action": {
+    "noun": "བཀོལ་སྤྱོད།"
+  },
+  "Activate": {
+    "verb": "ནུས་སློང་།"
+  },
+  "activated": {
+    "adjective": "ནུས་སློང་བྱས་ཟིན།"
+  },
+  "activating": {
+    "adjective": "ནུས་སློང་།"
+  },
+  "activation": {
+    "noun": "ནུས་སློང་།"
+  },
+  "Active": {
+    "adjective": "འགུལ་ལྡན།"
+  },
+  "Active installations": {
+    "noun": "སྒྲིག་འཇུག་བྱས་ཚད།"
+  },
+  "Activity": {
+    "noun": "བྱེད་ལས།"
+  },
+  "Add": {
+    "noun": "ཁ་སྣོན།"
+  },
+  "Add New": {
+    "noun": "གསར་སྣོན།"
+  },
+  "Additional": {
+    "noun": "འཕར་མ།"
+  },
+  "Address": {
+    "noun": "ས་གནས།"
+  },
+  "Admin": {
+    "noun": "དོ་དམ།"
+  },
+  "Administration": {
+    "noun": "དྲ་ཚིགས་དོ་དམ་པ།"
+  },
+  "Administrator": {
+    "noun": "དོ་དམ་པ།"
+  },
+  "Adopt": {
+    "verb": "དང་ལེན།"
+  },
+  "Advanced": {
+    "adjective": "མཐོ་རིམ།"
+  },
+  "Advertising": {
+    "noun": "དྲིལ་བསྒྲགས་བྱེད་སྒོ།"
+  },
+  "Advice": {
+    "noun": "གྲོས་གཞི།"
+  },
+  "after": {
+    "noun": "རྗེས་སུ།"
+  },
+  "agent": {
+    "noun": "ངོ་ཚབ།"
+  },
+  "Agreed": {
+    "noun": "འཐད་པ།"
+  },
+  "Align": {
+    "noun": "སྙོམས་སྒྲིག"
+  },
+  "Alignment": {
+    "noun": "སྙོམས་སྒྲིག་ཚུལ།"
+  },
+  "All": {
+    "noun": "ཡོངས།"
+  },
+  "allocation": {
+    "noun": "བགོ་འགྲེམ།"
+  },
+  "allow": {
+    "verb": "བྱེད་དུ་འཇུག་པ།"
+  },
+  "Alpha": {
+    "noun": "Alpha"
+  },
+  "already": {
+    "adverb": "སྔ་ས་ནས།"
+  },
+  "Alt Text": {
+    "noun": "ཚབ་བྱེད་ཡིག་རྐྱང་།"
+  },
+  "alternate": {
+    "adjective": "བརྗེ་སྤྲོད།"
+  },
+  "alternative": {
+    "noun": "ཐབས་གཞན།"
+  },
+  "Alternative text": {
+    "noun": "ཚབ་བྱེད་ཡིག་རྐྱང་།"
+  },
+  "Always": {
+    "adverb": "ནམ་ཡིན་ཡང་།"
+  },
+  "Analytics": {
+    "noun": "དབྱེ་ཞིབ།"
+  },
+  "Anchor": {
+    "noun": "རྟོད་ཕུར།"
+  },
+  "and": {
+    "conjunction": "དང་"
+  },
+  "Annotation": {
+    "noun": "མཆན་འགྲེལ།"
+  },
+  "Announcement": {
+    "noun": "ཁྱབ་བསྒྲགས། གསལ་བསྒྲགས།"
+  },
+  "Anonymous": {
+    "noun": "མིང་མེད།"
+  },
+  "Antarctica": {
+    "noun": "ལྷོ་སྣེའི་གླིང་།"
+  },
+  "app": {
+    "noun": "བྱ་རིམ"
+  },
+  "Appearance": {
+    "noun": "ཕྱིའི་རྣམ་པ།"
+  },
+  "Application": {
+    "noun": "ཉེར་སྤྱོད་བྱ་རིམ།"
+  },
+  "Apply": {
+    "noun": "བཀོལ་སྤྱོད།"
+  },
+  "approve": {
+    "verb": "འཕྲོད།"
+  },
+  "Approved": {
+    "noun": "འཕྲོད་ཟིན།"
+  },
+  "April": {
+    "noun": "ཟླ་བཞི་བ།"
+  },
+  "architecture": {
+    "noun": "མ་ལག་གི་སྒྲིག་གཞི།"
+  },
+  "Archive": {
+    "noun": "ཡིག་མཛོད།"
+  },
+  "Archived": {
+    "verb": "ཡིག་མཛོད་དུ་ཉར་ཟིན།"
+  },
+  "Arctic": {
+    "noun": "བྱང་སྣེ།"
+  },
+  "area": {
+    "noun": "ས་ཁུལ"
+  },
+  "array": {
+    "noun": "གྲངས་ཚོ།"
+  },
+  "Arrow": {
+    "noun": "མདའ་རྟགས།"
+  },
+  "Article": {
+    "noun": "རྩོམ་ཡིག"
+  },
+  "as": {
+    "adverb": "ཇི་བཞིན། ནང་ལྟར།"
+  },
+  "Asc": {
+    "noun": "གྱེན་རིམ།"
+  },
+  "ascend": {
+    "noun": "གྱེན"
+  },
+  "ascending": {
+    "noun": "གྱེན་རིམ་"
+  },
+  "Aside": {
+    "noun": "ཆིག་ལབ།"
+  },
+  "asides": {
+    "noun": "ཕྱོགས་མཐའ།"
+  },
+  "Aspect": {
+    "noun": "དཀྱིས་ཞེང་།"
+  },
+  "asset": {
+    "noun": "ཤུལ་རྫས།"
+  },
+  "assign": {
+    "verb": "ལས་འགན་སྐུར་བ།"
+  },
+  "assist": {
+    "verb": "རོགས་བྱེད་པ།"
+  },
+  "assistance": {
+    "noun": "རོགས་རམ།"
+  },
+  "associated": {
+    "noun": "འབྲེལ་བ་"
+  },
+  "Association": {
+    "noun": "མཐུན་ཚོགས།"
+  },
+  "Atlantic": {
+    "noun": "ནུབ་ཀྱི་རྒྱ་མཚོ་ཆེན་པོ།"
+  },
+  "atom": {
+    "noun": "atom"
+  },
+  "Atom feed": {
+    "noun": "Atom feed"
+  },
+  "attach": {
+    "noun": "ཞར་བྱུང་།"
+  },
+  "Attachment": {
+    "noun": "ཞར་བྱུང་།"
+  },
+  "attacker": {
+    "noun": "འཐབ་རྒོལ་པ།"
+  },
+  "Attempt": {
+    "verb": "འབད་པ།"
+  },
+  "Attribute": {
+    "noun": "གཏོགས་གཤིས།"
+  },
+  "attribution": {
+    "noun": "གཏོགས་གཤིས།"
+  },
+  "Audio": {
+    "noun": "སྒྲ་ཟློས།"
+  },
+  "audio playlist": {
+    "noun": "སྒྲ་གཏོང་གསལ་ཐོ"
+  },
+  "August": {
+    "noun": "ཟླ་བརྒྱད་པ།"
+  },
+  "Australia": {
+    "noun": "ཨོ་སི་ཁྲུ་ལི་ཡ།"
+  },
+  "Authentication": {
+    "noun": "ར་སྤྲོད་ཁུངས་སྐྱེལ།"
+  },
+  "authenticity": {
+    "noun": "ཁུངས་ལྡན་ཡིན་ཚུལ།"
+  },
+  "Author": {
+    "noun": "རྩོམ་པ་པོ།"
+  },
+  "authorization": {
+    "noun": "དབང་ཚད་སྤྲོད་ལེན།"
+  },
+  "Auto": {
+    "noun": "རང་འགུལ།"
+  },
+  "Autoplaying": {
+    "noun": "རང་འགུལ་གྱིས་གཏོང་བ།"
+  },
+  "autosave": {
+    "noun": "རང་འགུལ་ཉར་ཚགས།"
+  },
+  "availability": {
+    "noun": "སྤྱོད་རུང་རང་བཞིན།"
+  },
+  "Available": {
+    "noun": "སྤྱོད་རུང་།"
+  },
+  "Avatar": {
+    "noun": "དབུ་བརྙན།"
+  },
+  "Back": {
+    "noun": "ཕྱིར་ལོག"
+  },
+  "Background": {
+    "noun": "རྒྱབ་ལྗོངས།"
+  },
+  "backorder": {
+    "noun": "ཆད་ཟོང་།"
+  },
+  "Backspace": {
+    "noun": "ཕྱིར་བཤོལ།"
+  },
+  "Backtick": {
+    "noun": "Backtick"
+  },
+  "backup": {
+    "noun": "གྲབས་ཉར།"
+  },
+  "backward": {
+    "adverb": "རྒྱབ་ཕྱོགས་སུ།"
+  },
+  "Banner": {
+    "noun": "འཕྲེད་འགེལ།"
+  },
+  "base": {
+    "noun": "རྨང་གཞི"
+  },
+  "basis": {
+    "noun": "རྨང་གཞི།"
+  },
+  "be": {
+    "verb": "ཡིན་པ"
+  },
+  "before": {
+    "conjunction": "སྔོན་དུ།"
+  },
+  "Begin": {
+    "verb": "འགོ་འཛུགས་པ།"
+  },
+  "beginning": {
+    "noun": "ཐོག་མ། འགོ་འཛུགས།"
+  },
+  "behave": {
+    "verb": "སྤྱོད་ཚུལ།"
+  },
+  "below": {
+    "adverb": "གཤམ་དུ་"
+  },
+  "Beta": {
+    "noun": "Beta"
+  },
+  "between": {
+    "noun": "དབར"
+  },
+  "Bill of Rights": {
+    "noun": "དབང་ཆའི་ཁྲིམས་གཞི།"
+  },
+  "bit": {
+    "noun": "གནས།"
+  },
+  "Bitrate": {
+    "noun": "བི་ཐེ་ཕྱོད"
+  },
+  "Blacklist": {
+    "noun": "མིང་ཐོ་ནག་པོ།"
+  },
+  "Blank": {
+    "noun": "སྟོང་བ།"
+  },
+  "block": {
+    "verb": "བཀག་སྡོམ།"
+  },
+  "Block": {
+    "noun": "རྡོག་པོ།"
+  },
+  "Blocklist": {
+    "noun": "བཀག་འགོག་གསལ་ཐོ།"
+  },
+  "Blockquote": {
+    "noun": "རྡོག་པོ་འདྲེན་བཀོལ།"
+  },
+  "Blog": {
+    "noun": "པོད་ཁུག"
+  },
+  "Blogger": {
+    "noun": "Blogger"
+  },
+  "Blue": {
+    "noun": "སྔོན་པོ།"
+  },
+  "Body": {
+    "noun": "ལུས།"
+  },
+  "Bold": {
+    "noun": "ཤ་ཆེན།"
+  },
+  "bookmark": {
+    "noun": "མཛའ་འབྲེལ།"
+  },
+  "Border": {
+    "noun": "མཐའ་སྒྲོམ།"
+  },
+  "Bottom": {
+    "noun": "ཞབས།"
+  },
+  "box": {
+    "noun": "སྒམ།"
+  },
+  "Branch": {
+    "noun": "ཡན་ལག"
+  },
+  "Breadcrumb": {
+    "noun": "བག་ལེབ་ཞིབ་ཧྲུག"
+  },
+  "bright": {
+    "adjective": "བཀྲག་མདངས་ཅན།"
+  },
+  "Brown": {
+    "noun": "རྫ་མདོག"
+  },
+  "Browse": {
+    "verb": "བཤར་ལྟ།"
+  },
+  "Browse Happy": {
+    "noun": "Browse Happy"
+  },
+  "browser": {
+    "noun": "བཤར་ཆས།"
+  },
+  "build": {
+    "verb": "འཛུགས་སྐྲུན་བྱེད་པ།"
+  },
+  "Build Package": {
+    "noun": "གོང་འཕེལ་ཐུམ་བུ།"
+  },
+  "built-in": {
+    "noun": "ནང་སྒྲིག"
+  },
+  "Bulk Action": {
+    "noun": "འབོར་བཅད་བཀོལ་སྤྱོད།"
+  },
+  "bullet": {
+    "noun": "རྣམ་གྲངས་རྟགས།"
+  },
+  "bullet list": {
+    "noun": "རྣམ་གྲངས་རྟགས་གསལ་ཐོ།"
+  },
+  "Business": {
+    "noun": "ཚོང་ལས།"
+  },
+  "button": {
+    "noun": "མཐེབ་གཅུས།"
+  },
+  "bypass": {
+    "verb": "གཡོལ་བ་"
+  },
+  "byte": {
+    "noun": "ཡིག་ཚིགས།"
+  },
+  "cache": {
+    "noun": "བར་ཁུལ།"
+  },
+  "Calculat": {
+    "verb": "རྩིས་རྒྱག་པ།"
+  },
+  "calculation": {
+    "noun": "རྩིས་རྒྱག"
+  },
+  "Calendar": {
+    "noun": "ལོ་ཐོ།"
+  },
+  "callback": {
+    "noun": "སླར་འདོན།"
+  },
+  "callback function": {
+    "noun": "སླར་འདོན་རྟེན་འབྱུང་གྲངས།"
+  },
+  "can": {
+    "noun": "ཐུབ་པའམ་རུང་བ་"
+  },
+  "Cancel": {
+    "noun": "འདོར་བ།"
+  },
+  "Caption": {
+    "noun": "གསལ་བཤད།"
+  },
+  "Card": {
+    "noun": "ཏག་སེ།"
+  },
+  "Caret": {
+    "noun": "ཆད་རྟགས།"
+  },
+  "carousel": {
+    "noun": "རེས་སྟོན།"
+  },
+  "cart": {
+    "noun": "སླེ་འཁོར།"
+  },
+  "Categories": {
+    "noun": "དཀར་ཆག"
+  },
+  "Category": {
+    "noun": "དཀར་ཆག"
+  },
+  "Caution": {
+    "noun": "ཉེན་བརྡ།"
+  },
+  "Cell": {
+    "noun": "སྡེ་ཚན་མིག"
+  },
+  "Center": {
+    "noun": "དཀྱིལ།"
+  },
+  "Change": {
+    "verb": "བརྗེ་འགྱུར།"
+  },
+  "Changelog": {
+    "noun": "དག་བཅོས་ཉིན་ཐོ།"
+  },
+  "Changeset": {
+    "noun": "བརྗེ་ལེན་ཚོགས།"
+  },
+  "Changesets": {
+    "noun": "བརྗེ་ལེན་ཚོགས།"
+  },
+  "chapter": {
+    "noun": "ལེའུ།"
+  },
+  "character": {
+    "noun": "ཡིག་རྟགས།"
+  },
+  "charset": {
+    "noun": "ཡིག་རྟགས་ཚོགས་སྤྱི།"
+  },
+  "chart": {
+    "noun": "རེའུ་མིག"
+  },
+  "Chat": {
+    "noun": "གླེང་མོལ།"
+  },
+  "Check": {
+    "verb": "ཞིབ་བཤེར།"
+  },
+  "checkbox": {
+    "noun": "མང་འདེམས་སྒྲོམ།"
+  },
+  "checkout": {
+    "noun": "མཇུག་བསྡོམས་རྩིས་རྒྱག"
+  },
+  "Chevron": {
+    "noun": "ཐོག་ཤིང་གྲུ་ཟུར་མ།"
+  },
+  "child": {
+    "noun": "བུ་རྒྱུད།"
+  },
+  "Choose": {
+    "noun": "འདེམས།"
+  },
+  "Circle": {
+    "noun": "གོར་ཐིག"
+  },
+  "citation": {
+    "noun": "འདྲེན་ཚིག"
+  },
+  "cite": {
+    "verb": "ལུང་འདྲེན་བྱེད་པ།"
+  },
+  "Class": {
+    "noun": "རིགས།"
+  },
+  "classic": {
+    "noun": "ཚད་ལྡན།"
+  },
+  "Classic Editor": {
+    "noun": "ཚད་ལྡན་རྩོམ་སྒྲིག་ཆས།"
+  },
+  "Clear": {
+    "noun": "གཙང་སེལ།"
+  },
+  "Click": {
+    "verb": "གནོན།"
+  },
+  "client": {
+    "noun": "མཁོ་མཁན་སྣེ།"
+  },
+  "clipboard": {
+    "noun": "དྲས་སྦྱར་པང་།"
+  },
+  "Close": {
+    "verb": "ཁ་རྒྱག"
+  },
+  "close": {
+    "adjective": "ཁ་བཅད་པ།"
+  },
+  "Code": {
+    "noun": "ཚབ་ཨང་།"
+  },
+  "cog": {
+    "noun": "སོ་འཁོར་གྱི་སོ།"
+  },
+  "Collapse": {
+    "verb": "སྐུམ།"
+  },
+  "collation": {
+    "noun": "གཤིབ་སྡུར།"
+  },
+  "Color": {
+    "noun": "ཁ་དོག"
+  },
+  "Cols": {
+    "noun": "གཞུང་།"
+  },
+  "Column": {
+    "noun": "སྟར།"
+  },
+  "combination": {
+    "noun": "མཉམ་སྡེབ།"
+  },
+  "Comic": {
+    "noun": "ཟུར་ཟའི་རི་མོ།"
+  },
+  "Comma": {
+    "noun": "བར་ཚེག"
+  },
+  "command": {
+    "noun": "བཀའ།"
+  },
+  "Comment": {
+    "noun": "དཔྱད་མཆན།"
+  },
+  "Comments": {
+    "noun": "མཆན།"
+  },
+  "Commercial": {
+    "noun": "བརྡ་ཁྱབ།"
+  },
+  "Committer": {
+    "noun": "འབུལ་སྤྲོད་བྱེད་མཁན།"
+  },
+  "Common": {
+    "adjective": "སྤྱིར་བཏང་གི་"
+  },
+  "communicate": {
+    "verb": "འབྲེལ་བ་བྱེད་པ།"
+  },
+  "Communication": {
+    "noun": "འབྲེལ་ལམ།"
+  },
+  "Community": {
+    "noun": "སྡེ་ཁུལ།"
+  },
+  "Compact": {
+    "noun": "མདོར་བསྡུས་པོ།"
+  },
+  "Company": {
+    "noun": "ཀུང་སི།"
+  },
+  "compare": {
+    "verb": "ཞིབ་བསྡུར།"
+  },
+  "compatibility": {
+    "noun": "འཆམ་མཐུན།"
+  },
+  "compatible": {
+    "adjective": "འཆམ་མཐུན།"
+  },
+  "Complete": {
+    "adjective": "ཆ་ཚང་།"
+  },
+  "compliant": {
+    "noun": "བསྟུན་པ།"
+  },
+  "component": {
+    "noun": "སྒྲིག་ལྷུ།"
+  },
+  "Compose": {
+    "verb": "རྩོམ་པ།"
+  },
+  "Configuration": {
+    "noun": "སྡེབ་སྒྲིག"
+  },
+  "Configure": {
+    "verb": "སྡེབ་སྒྲིག"
+  },
+  "Confirm": {
+    "verb": "གཏན་འཁེལ།"
+  },
+  "confirmation": {
+    "noun": "ངོས་འཛིན།"
+  },
+  "Connection": {
+    "noun": "འབྲེལ་མཐུད།"
+  },
+  "constant": {
+    "noun": "བརྟན་གྲངས།"
+  },
+  "Contact": {
+    "noun": "འབྲེལ་གཏུག"
+  },
+  "Contain": {
+    "verb": "(ནང་དུ།)ཤོང་བ། ཚུད་པ།"
+  },
+  "Container": {
+    "noun": "སྣོད་ཆས།"
+  },
+  "Content": {
+    "noun": "ནང་དོན།"
+  },
+  "continue": {
+    "verb": "འཕྲོ་སྐྱོང་བྱེད་པ།"
+  },
+  "Continue reading": {
+    "noun": "མུ་མཐུད་དུ་ཀློག"
+  },
+  "Contribute": {
+    "noun": "རོགས་སྐྱོར་ཞལ་འདེབས།"
+  },
+  "Contributor": {
+    "noun": "བྱས་རྗེས་འཇོག་མཁན།"
+  },
+  "Control": {
+    "noun": "སྟངས་འཛིན།"
+  },
+  "Convert": {
+    "verb": "བརྗེ་སྒྱུར།"
+  },
+  "Cookies": {
+    "noun": "Cookies"
+  },
+  "Copy": {
+    "noun": "མཁོ་ཕབ།"
+  },
+  "Core": {
+    "noun": "སྲོག་ཤིང་།"
+  },
+  "correct": {
+    "adjective": "ཡང་དག་པ།"
+  },
+  "correctly": {
+    "adverb": "ཡང་དག་པའི་སྒོ་ནས།"
+  },
+  "Count": {
+    "verb": "བགྲང་བ།"
+  },
+  "Counter": {
+    "noun": "བརྩིས་ཆས།"
+  },
+  "Coupon": {
+    "noun": "འཛིན་ཤོག"
+  },
+  "Course": {
+    "noun": "སློབ་ཚན།"
+  },
+  "Cover": {
+    "noun": "ཕྱི་སྐོགས།"
+  },
+  "Cover Image": {
+    "noun": "ཕྱི་སྐོགས་བརྙན་རིས།"
+  },
+  "Create": {
+    "verb": "གསར་སྐྲུན།"
+  },
+  "credentials": {
+    "noun": "དཔང་རྟགས།"
+  },
+  "Critical": {
+    "noun": "ཉེན་ཚབས་ཅན།"
+  },
+  "crop": {
+    "verb": "དྲས་གཏུབ།"
+  },
+  "current": {
+    "noun": "མིག་སྔའི་"
+  },
+  "cursor": {
+    "noun": "འོད་རྟགས།"
+  },
+  "Custom": {
+    "noun": "རང་སྒྲུབ།"
+  },
+  "Custom Background": {
+    "noun": "རང་བཟོས་རྒྱབ་ལྗོངས།"
+  },
+  "Custom Header": {
+    "noun": "རང་བཟོས་འགོ་བརྗོད།"
+  },
+  "Customization": {
+    "noun": "མངགས་བཟོ།"
+  },
+  "Customize": {
+    "noun": "རང་སྒྲུབ།"
+  },
+  "Customizer": {
+    "noun": "རང་སྒྲུབ་ཆས།"
+  },
+  "Customizing": {
+    "verb": "མངགས་བཟོ།"
+  },
+  "Cut": {
+    "verb": "དྲས་གཏུབ།"
+  },
+  "Cycle": {
+    "noun": "འཁོར་ཡུན།"
+  },
+  "Dark": {
+    "adjective": "སྨག་རུམ།"
+  },
+  "Dashboard": {
+    "noun": "ཚད་ཁྲའི་ལྡེབས་ངོས།"
+  },
+  "Data": {
+    "noun": "གཞི་གྲངས།"
+  },
+  "database": {
+    "noun": "གཞི་གྲངས་མཛོད"
+  },
+  "date": {
+    "noun": "ཟླ་ཚེས།"
+  },
+  "Day": {
+    "noun": "ཉིན།"
+  },
+  "Deactivate": {
+    "verb": "སྤྱོད་མཚམས་འཇོག"
+  },
+  "deactivated": {
+    "adjective": "སྤྱོད་མཚམས་བཞག་ཟིན།"
+  },
+  "Debug": {
+    "verb": "སྐྱོན་སེལ།"
+  },
+  "debugging": {
+    "noun": "སྐྱོན་སེལ།"
+  },
+  "December": {
+    "noun": "ཟླ་བཅུ་གཉིས་པ།"
+  },
+  "Declaration": {
+    "noun": "གསལ་བསྒྲགས།"
+  },
+  "Decline": {
+    "noun": "མར་ཆག"
+  },
+  "decorative": {
+    "adjective": "རྒྱན་བཀོད་ཀྱི།"
+  },
+  "Default": {
+    "noun": "སོར་བཞག"
+  },
+  "define": {
+    "verb": "ཚད་འཛིན་བཟོ་བ།"
+  },
+  "definition": {
+    "noun": "མཚན་ཉིད།"
+  },
+  "degree": {
+    "noun": "ཏུའུ།"
+  },
+  "delete": {
+    "noun": "སུབ"
+  },
+  "deleted": {
+    "noun": "བསུབས་ཟིན།"
+  },
+  "deletion": {
+    "noun": "སུབ"
+  },
+  "Demo": {
+    "noun": "དཔེ་སྟོན།"
+  },
+  "deprecate": {
+    "verb": "སྤྱད་ན་མི་ལེགས།"
+  },
+  "deprecated": {
+    "noun": "སྤྱད་ན་མི་ལེགས།"
+  },
+  "Desc": {
+    "noun": "ཐུར་རིམ།"
+  },
+  "descend": {
+    "noun": "ཐུར་"
+  },
+  "descending": {
+    "noun": "ཐུར་རིམ་"
+  },
+  "describe": {
+    "noun": "ཞིབ་བརྗོད།"
+  },
+  "Description": {
+    "noun": "ཞིབ་བརྗོད།"
+  },
+  "Design": {
+    "noun": "ཇུས་འགོད།"
+  },
+  "Desktop": {
+    "noun": "ཅོག་ངོས།"
+  },
+  "Destination": {
+    "noun": "དམིགས་འབེན།"
+  },
+  "detach": {
+    "verb": "ཁ་ཕྲལ།"
+  },
+  "Detail": {
+    "noun": "ཞིབ་ཕྲ།"
+  },
+  "detect": {
+    "verb": "དཔྱད་འཇལ།"
+  },
+  "determine": {
+    "verb": "ཐག་གཅོད།"
+  },
+  "developer": {
+    "noun": "གསར་འབྱེད་པ།"
+  },
+  "Development": {
+    "noun": "གོང་འཕེལ།"
+  },
+  "device": {
+    "noun": "སྒྲིག་ཆས།"
+  },
+  "dialog": {
+    "noun": "གླེང་སྒྲོམ"
+  },
+  "Dimensions": {
+    "noun": "འབྱེད་ཕྱོད།"
+  },
+  "directory": {
+    "noun": "དཀར་ཆག"
+  },
+  "Disable": {
+    "verb": "མི་སྤྱོད།"
+  },
+  "disabled": {
+    "adjective": "སྤྱད་མེད།"
+  },
+  "Disc": {
+    "noun": "གོར་ཚེག"
+  },
+  "Discussion": {
+    "noun": "བགྲོ་གླེང་།"
+  },
+  "Dismiss": {
+    "noun": "ཡང་བསྐྱར་མི་འཆར།"
+  },
+  "display": {
+    "noun": "འགྲེམས་སྟོན། བཀོད་ཤོམ།"
+  },
+  "distribute": {
+    "verb": "བགོ་འགྲེམས་བྱེད་པ།"
+  },
+  "divider": {
+    "noun": "མཚམས་གཅོད་ཐིག"
+  },
+  "Document": {
+    "noun": "ཡིག་ཚགས།"
+  },
+  "Documentation": {
+    "noun": "ཡིག་ཚགས།"
+  },
+  "Done": {
+    "noun": "ཚར་བ།"
+  },
+  "Dormant": {
+    "adjective": "བག་ལ་ཉལ་བ།"
+  },
+  "Dot": {
+    "noun": "ཚེག"
+  },
+  "Double-check": {
+    "verb": "བསྐྱར་ཞིབ།"
+  },
+  "down": {
+    "adverb": "མར་ཕྱོགས།"
+  },
+  "downgrade": {
+    "verb": "རིམ་པ་འབེབས་པ"
+  },
+  "Download": {
+    "verb": "ཕབ་ལེན།"
+  },
+  "Draft": {
+    "noun": "མ་ཟིན།"
+  },
+  "Drag": {
+    "noun": "དྲུད་པ།"
+  },
+  "Drop Cap": {
+    "noun": "ཡི་གེ་དང་པོ་མར་འགྲིབ།"
+  },
+  "drop-down": {
+    "noun": "མར་འགྲེམས།"
+  },
+  "Drop-ins": {
+    "noun": "ཤུགས་ཆེར་གཏོང་མཐུད་སྣེ།"
+  },
+  "dropcap": {
+    "noun": "མར་འགྲིབ།"
+  },
+  "dropdown": {
+    "noun": "མར་འགྲེམས།"
+  },
+  "Dump": {
+    "noun": "སྤོ་གསོག"
+  },
+  "Duplicate": {
+    "verb": "འདྲ་བཟོ།"
+  },
+  "dynamic": {
+    "adjective": "སྒུལ་ལྡན།"
+  },
+  "Ease": {
+    "adjective": "བདེ་ལྷོད་ངང་།"
+  },
+  "eCommerce": {
+    "noun": "གློག་རྡུལ་ཚོང་དོན།"
+  },
+  "Edit": {
+    "noun": "རྩོམ་སྒྲིག"
+  },
+  "Editor": {
+    "noun": "རྩོམ་སྒྲིག་པ།"
+  },
+  "element": {
+    "noun": "གྲུབ་ཆ།"
+  },
+  "Email": {
+    "noun": "གློག་ཡིག"
+  },
+  "Embed": {
+    "verb": "བཙུད་འཇུག"
+  },
+  "emphasis": {
+    "noun": "གལ་ཆེ་ཚུལ།"
+  },
+  "Empty": {
+    "noun": "སྟོང་བ།"
+  },
+  "Enable": {
+    "verb": "སྤྱོད་འགོ་འཛུགས་པ།"
+  },
+  "enabled": {
+    "noun": "སྤྱད་ཟིན།"
+  },
+  "Encoding": {
+    "noun": "ཨང་སྒྲིག"
+  },
+  "encounter": {
+    "verb": "འཕྲད་པ།"
+  },
+  "End": {
+    "noun": "མཇུག་རྫོགས།"
+  },
+  "endpoint": {
+    "noun": "མཇུག་རྫོགས་ཚེག"
+  },
+  "Engagement": {
+    "noun": "བྱེད་སྒོ"
+  },
+  "Engine": {
+    "noun": "མ་འཕྲུལ།"
+  },
+  "engineer": {
+    "noun": "ལས་གྲྭ་པ།"
+  },
+  "enhance": {
+    "verb": "འཕེལ་རྒྱས་གཏོང་བ།"
+  },
+  "enough": {
+    "noun": "འདང་ངེས།"
+  },
+  "Ensure": {
+    "verb": "ཁག་ཐེག"
+  },
+  "Enter": {
+    "noun": "ཐོོང་།",
+    "verb": "བླུགས།"
+  },
+  "Enter key": {
+    "noun": "འབེབས་བརྡའི་མཐེབ།"
+  },
+  "Entertainment": {
+    "noun": "སྤྲོ་སེང་།"
+  },
+  "entry": {
+    "noun": "ས་བཅད།"
+  },
+  "Erase": {
+    "verb": "སུབ་པ།"
+  },
+  "eraser": {
+    "noun": "སུབ་ཆས།"
+  },
+  "erasure": {
+    "noun": "གསུབ་པ།"
+  },
+  "ERROR": {
+    "noun": "ནོར་འཁྲུལ།"
+  },
+  "Escape": {
+    "noun": "Escape མཐེབ།"
+  },
+  "Etiquette": {
+    "noun": "གུས་སྲོལ།"
+  },
+  "Event": {
+    "noun": "བྱེད་སྒོ"
+  },
+  "everyone": {
+    "noun": "མི་སུས་ཀྱང་་"
+  },
+  "Everything": {
+    "noun": "ཐམས་ཅད།"
+  },
+  "Example": {
+    "noun": "དཔེ་བརྗོད།"
+  },
+  "Excerpt": {
+    "noun": "གནད་བསྡུས།"
+  },
+  "Exclude": {
+    "verb": "ཟུར་འདོན།"
+  },
+  "excludes": {
+    "verb": "སེལ་བ་"
+  },
+  "exclusive": {
+    "adjective": "མི་ཐེ"
+  },
+  "exist": {
+    "noun": "གནས་པ།"
+  },
+  "Exit": {
+    "noun": "ཕྱིར་ཐོན།"
+  },
+  "Expand": {
+    "noun": "རྒྱ་སྐྱེད་པ།"
+  },
+  "expect": {
+    "verb": "རེ་ལྟོས་བྱེད་པ།"
+  },
+  "Experimental": {
+    "adjective": "ཚོད་ལྟའི་རང་བཞིན་ཅན།"
+  },
+  "Expiration": {
+    "noun": "དུས་བཅད།"
+  },
+  "expire": {
+    "verb": "འདའ་བ།"
+  },
+  "expired": {
+    "adjective": "དུས་ལས་འདས་ཟིན།"
+  },
+  "Export": {
+    "noun": "ཕྱིར་འདྲེན།"
+  },
+  "exporter": {
+    "noun": "ཕྱིར་འདྲེན།"
+  },
+  "Extend": {
+    "verb": "རྒྱ་སྐྱེད།"
+  },
+  "extension": {
+    "noun": "རྒྱ་སྐྱེད།"
+  },
+  "External": {
+    "adjective": "ཕྱིའི་"
+  },
+  "extra": {
+    "adjective": "འཕར་མ།"
+  },
+  "extract": {
+    "verb": "བསྡུས་འགྲོལ།"
+  },
+  "F j, Y": {
+    "noun": "Y ལོའི་ཟླ n ཚེས j ཉིན།"
+  },
+  "Fade": {
+    "noun": "རིམ་ཡལ།"
+  },
+  "Fail": {
+    "noun": "མ་ཐུབ་པ།"
+  },
+  "failed": {
+    "noun": "མ་ཐུབ་པ།"
+  },
+  "False": {
+    "noun": "ནོར་འཁྲུལ"
+  },
+  "Fancy": {
+    "adjective": "བཀྲག་པོ།"
+  },
+  "FAQ": {
+    "noun": "FAQ"
+  },
+  "fatal": {
+    "noun": "ཚབས་ཆེན།"
+  },
+  "Favorites": {
+    "noun": "དགའ་ཤོས།"
+  },
+  "Feature": {
+    "noun": "ཁྱད་གཤིས།",
+    "adjective": "དམིགས་བསལ།"
+  },
+  "featured": {
+    "noun": "ཁྱད་ལྡན།"
+  },
+  "featured image": {
+    "noun": "ཁྱད་ལྡན་བརྙན་རིས།"
+  },
+  "February": {
+    "noun": "ཟླ་གཉིས་པ།"
+  },
+  "feed": {
+    "noun": "ཁྱབ་སྤེལ།"
+  },
+  "Feedback": {
+    "noun": "ཡ་ལན།"
+  },
+  "field": {
+    "noun": "ཡིག་དུམ།"
+  },
+  "File": {
+    "noun": "ཡིག་ཆ།"
+  },
+  "Fill": {
+    "verb": "འགེང་པ།"
+  },
+  "Filter": {
+    "verb": "གདམ་གསེས།"
+  },
+  "Find": {
+    "noun": "འཚོལ།"
+  },
+  "Finish": {
+    "noun": "ལེགས་གྲུབ།"
+  },
+  "First": {
+    "noun": "དང་པོ།"
+  },
+  "First name": {
+    "noun": "མིང་།"
+  },
+  "Fixed": {
+    "noun": "གཏན་འཇགས།"
+  },
+  "Flexibility": {
+    "noun": "སྟབས་བསྟུན་གྱི་རང་བཞིན།"
+  },
+  "Flexible": {
+    "noun": "སྟབས་བསྟུན།"
+  },
+  "float": {
+    "verb": "འཕྱོ་བ།"
+  },
+  "Fluid": {
+    "noun": "བཞུར་རྣམ།"
+  },
+  "flush": {
+    "verb": "གསར་འདོན།"
+  },
+  "Focal Point": {
+    "noun": "མདོ་ཚེག"
+  },
+  "Focus": {
+    "noun": "འདུ་གནས།"
+  },
+  "folder": {
+    "noun": "ཡིག་ཁུག"
+  },
+  "Follow": {
+    "verb": "དོ་ཁུར།"
+  },
+  "font size": {
+    "noun": "ཡིག་གཟུགས་ཀྱི་ཆེ་ཆུང་།"
+  },
+  "Footer": {
+    "noun": "ངོས་ཞབས།"
+  },
+  "Force": {
+    "verb": "བཙན་ཤེད།"
+  },
+  "Forever": {
+    "noun": "གཏན་དུ།"
+  },
+  "form": {
+    "noun": "རེའུ་མིག"
+  },
+  "Format": {
+    "noun": "རྣམ་གཞག"
+  },
+  "Forum": {
+    "noun": "གླེང་སྟེགས།"
+  },
+  "forward": {
+    "adjective": "མདུན་ཕྱོགས་སུ།"
+  },
+  "Forward-slash": {
+    "noun": "གསེག་ཤད།"
+  },
+  "found": {
+    "verb": "རྙེད་སོང་།"
+  },
+  "frame": {
+    "noun": "སྒྲོམ་གཞི།"
+  },
+  "Framework": {
+    "noun": "ཕྱི་སྒྲོམ།"
+  },
+  "Free": {
+    "noun": "རིན་མེད།"
+  },
+  "Freedom": {
+    "noun": "རང་དབང་།"
+  },
+  "Frequency": {
+    "noun": "ཟློས་ཕྱོད།"
+  },
+  "Frequently Asked Questions": {
+    "noun": "རྒྱུན་མཐོང་གནད་དོན།"
+  },
+  "Friday": {
+    "noun": "གཟའ་པ་སངས།"
+  },
+  "from": {
+    "preposition": "ནས། ལས།"
+  },
+  "front end": {
+    "noun": "མདུན་སྣེ།"
+  },
+  "Front Page": {
+    "noun": "ཤོག་ངོས་ཐོག་མ།"
+  },
+  "front-end": {
+    "noun": "མདུན་སྣེ།"
+  },
+  "Frontend": {
+    "noun": "མདུན་སྣེ།"
+  },
+  "Full": {
+    "noun": "ཆ་ཚང་།"
+  },
+  "Full Width": {
+    "noun": "ཞེང་ཡོངས།"
+  },
+  "Fullscreen": {
+    "noun": "ཡོལ་གང་།"
+  },
+  "fully opaque": {
+    "noun": "ཡོངས་སུ་ནང་གསལ་མིན་པ།"
+  },
+  "function": {
+    "noun": "རྟེན་འབྱུང་གྲངས།"
+  },
+  "g:i a": {
+    "noun": "a g:i"
+  },
+  "Galleries": {
+    "noun": "པར་དེབ།"
+  },
+  "Gallery": {
+    "noun": "པར་དེབ།"
+  },
+  "General": {
+    "noun": "རྒྱུན་ལྡན།"
+  },
+  "General Settings": {
+    "noun": "རྒྱུན་ལྡན་སྒྲིག་འགོད།"
+  },
+  "generate": {
+    "verb": "སྐྱེད་གྲུབ།"
+  },
+  "Generating": {
+    "verb": "སྐྱེད་གྲུབ་སྒང་"
+  },
+  "Genre": {
+    "noun": "བཟོ་ལྟ།"
+  },
+  "Get Involved": {
+    "noun": "འཛུལ་ཞུགས།"
+  },
+  "Getting Started": {
+    "noun": "འཇུག་ངོགས།"
+  },
+  "GitHub": {
+    "noun": "GitHub"
+  },
+  "give": {
+    "verb": "སྤྲོད་པ།"
+  },
+  "given": {
+    "verb": "སྤྲད་"
+  },
+  "Global": {
+    "adjective": "ཁྱོན་ཡོངས།"
+  },
+  "Go back": {
+    "noun": "ཕྱིར་ལོག"
+  },
+  "Go to top": {
+    "noun": "རྩེ་རུ་བསྐྱོད།"
+  },
+  "Gradient": {
+    "noun": "རིམ་འགྱུར།"
+  },
+  "Gravatar": {
+    "noun": "Gravatar"
+  },
+  "Gray": {
+    "noun": "ཐལ་མདོག"
+  },
+  "Great job": {
+    "noun": "ཤིན་ཏུ་བཟང་།"
+  },
+  "Green": {
+    "noun": "ལྗང་ཁུ།"
+  },
+  "Grid": {
+    "noun": "དྲ་མིག"
+  },
+  "group": {
+    "noun": "ཚན་པ།"
+  },
+  "Growth": {
+    "verb": "འཕེལ་བ།"
+  },
+  "guest": {
+    "noun": "སྐུ་མགྲོན།"
+  },
+  "Guide": {
+    "noun": "ཕྱོགས་སྟོན།"
+  },
+  "Gutenberg": {
+    "noun": "Gutenberg"
+  },
+  "handbook": {
+    "noun": "རྒྱུན་སྤྱོད་ལག་དེབ།"
+  },
+  "handle": {
+    "noun": "ཡུ་བ།"
+  },
+  "Handler": {
+    "noun": "སྒྲིག་གཅོད་བྱ་རིམ།"
+  },
+  "Handling": {
+    "noun": "གོ་སྒྲིག"
+  },
+  "harddrive": {
+    "noun": "སྲ་སྡེར།"
+  },
+  "hash": {
+    "noun": "སྟིག་ཧྲུག"
+  },
+  "have": {
+    "verb": "ཡོད་པ་"
+  },
+  "Header": {
+    "noun": "མགོ་བྱང་།"
+  },
+  "Heading": {
+    "noun": "ཁ་བྱང་།"
+  },
+  "Height": {
+    "noun": "མཐོ་ཚད།"
+  },
+  "here": {
+    "adverb": "འདིར་"
+  },
+  "hex": {
+    "noun": "བཅུ་དྲུག་གོང་འགྲིལ་ལུགས།"
+  },
+  "hexadecimal": {
+    "noun": "Hex (བཅུ་དྲུག་གོང་འགྲིལ་ལུགས)"
+  },
+  "hidden": {
+    "noun": "སྦས་སྐུང་།"
+  },
+  "Hide": {
+    "noun": "གབ།"
+  },
+  "hierarchy": {
+    "noun": "བང་རིམ་སྒྲིག་གཞི།"
+  },
+  "Home": {
+    "noun": "མདུན་ཤོག"
+  },
+  "Homepage": {
+    "noun": "གཙོ་ངོས།"
+  },
+  "hook": {
+    "noun": "རྙི།"
+  },
+  "horizontal": {
+    "noun": "ཆུ་སྙོམས།"
+  },
+  "horizontal-line": {
+    "noun": "ཆུ་སྙོམས་ཐིག"
+  },
+  "horizontally": {
+    "noun": "ཆུ་སྙོམས་དཀྱིལ་འགྲིག"
+  },
+  "host": {
+    "verb": "གཙོ་འཕྲུལ།"
+  },
+  "Hour": {
+    "noun": "ཆུ་ཚོད།"
+  },
+  "Hover": {
+    "verb": "གཡེང་བ།"
+  },
+  "html_lang_attribute": {
+    "noun": "bo"
+  },
+  "Hue": {
+    "noun": "ཚོན་མདངས།"
+  },
+  "Huge": {
+    "adjective": "ཤིན་ཏུ་ཆེན་པོ།"
+  },
+  "Human-readable": {
+    "noun": "མིའི་རིགས་ཀློག་འདོན།"
+  },
+  "Icon": {
+    "noun": "རྟགས་རིས"
+  },
+  "ID": {
+    "noun": "ID"
+  },
+  "idea": {
+    "noun": "བློ་བཀོད།"
+  },
+  "Ignore": {
+    "noun": "སྣང་མེད་གཏོང་།"
+  },
+  "Image": {
+    "noun": "བརྙན་རིས།"
+  },
+  "ImageMagick": {
+    "noun": "ImageMagick"
+  },
+  "Imagick": {
+    "noun": "Imagick"
+  },
+  "Immediately": {
+    "adverb": "འཕྲལ་དུ།"
+  },
+  "Import": {
+    "noun": "འདྲེན་འཇུག"
+  },
+  "improvement": {
+    "noun": "ལེགས་བཅོས།"
+  },
+  "in": {
+    "preposition": "ནང་།"
+  },
+  "inactive": {
+    "noun": "འགུལ་ལྡན་མིན་པ།"
+  },
+  "include": {
+    "verb": "ཐེ་བ།"
+  },
+  "including": {
+    "preposition": "འདུས་པ།"
+  },
+  "inclusive": {
+    "adjective": "ཐེ་བ"
+  },
+  "incognito": {
+    "adjective": "ཆས་རྫུས།"
+  },
+  "Incorrect": {
+    "adjective": "མ་དག་པ།"
+  },
+  "Indent": {
+    "noun": "སྐུམ་པ།"
+  },
+  "index": {
+    "noun": "ཕྱོགས་སྟོན།"
+  },
+  "Indian": {
+    "noun": "རྒྱ་གར།"
+  },
+  "Info": {
+    "noun": "ཆ་འཕྲིན།"
+  },
+  "information": {
+    "noun": "གནས་ཚུལ།"
+  },
+  "initial": {
+    "noun": "ཐོོག་མ།"
+  },
+  "Initialise": {
+    "verb": "འགོ་འཛུགས་པ།"
+  },
+  "initialize": {
+    "verb": "འགོོ་སྒྲིག"
+  },
+  "Initialized": {
+    "adjective": "འགོོོ་སྒྲིག་བྱས་ཟིན།"
+  },
+  "initiate": {
+    "verb": "འགོ་འཛུགས་པ།"
+  },
+  "Inline": {
+    "noun": "ནང་ཁུལ།"
+  },
+  "Insert": {
+    "verb": "བར་འཇུག"
+  },
+  "inserter": {
+    "noun": "བར་འཇུག་ཆས།"
+  },
+  "Install": {
+    "noun": "སྒྲིག་འཇུག"
+  },
+  "installation": {
+    "verb": "སྒྲིག་འཇུག"
+  },
+  "Installed": {
+    "noun": "བཅུག་ཟིན།"
+  },
+  "instruction": {
+    "noun": "གསལ་བཤད།"
+  },
+  "interactive": {
+    "verb": "སྣོལ་རེས།"
+  },
+  "interval": {
+    "noun": "བར་མཚམས།"
+  },
+  "into": {
+    "preposition": "ནང་ལ། ནང་དུ།"
+  },
+  "Invalid": {
+    "noun": "ནུས་མེད"
+  },
+  "invoice": {
+    "noun": "བཙོངས་འཛིན།"
+  },
+  "is": {
+    "noun": "ནི་"
+  },
+  "ISO8601": {
+    "noun": "ISO8601"
+  },
+  "issue": {
+    "noun": "གནད་དོན།"
+  },
+  "Italic": {
+    "noun": "གསེག་ཡིག"
+  },
+  "Item": {
+    "noun": "སྡེ་ཚན"
+  },
+  "January": {
+    "noun": "ཟླ་དང་པོ།"
+  },
+  "jazz": {
+    "noun": "རྗེ་སི་རོལ་མོ། ཇཱཛ།"
+  },
+  "Jazzer": {
+    "noun": "རྗེ་སི་རོལ་མོ་བ།"
+  },
+  "July": {
+    "noun": "ཟླ་བདུན་པ།"
+  },
+  "June": {
+    "noun": "ཟླ་དྲུག་པ།"
+  },
+  "Keep": {
+    "verb": "སྲུང་འཛིན།"
+  },
+  "key": {
+    "noun": "མཐེབ།"
+  },
+  "Keyboard": {
+    "noun": "མཐེབ་གཞོང་།"
+  },
+  "Keyword": {
+    "noun": "གནད་ཚིག"
+  },
+  "kind": {
+    "noun": "རིགས།"
+  },
+  "label": {
+    "noun": "ཤོག་བྱང་།"
+  },
+  "Landscape": {
+    "noun": "མཛེས་ལྗོངས།"
+  },
+  "Language": {
+    "noun": "སྐད་ཡིག"
+  },
+  "Large": {
+    "noun": "ཆེ་བ།"
+  },
+  "Last": {
+    "adjective": "མཐའ་མ།"
+  },
+  "Last name": {
+    "noun": "རུས།"
+  },
+  "Latest": {
+    "adjective": "གསར་ཤོས།"
+  },
+  "Latitude": {
+    "noun": "འཕྲེད་ཐིག"
+  },
+  "layer": {
+    "noun": "བང་རིམ།"
+  },
+  "Layout": {
+    "noun": "བཀོད་པ།"
+  },
+  "Learn": {
+    "verb": "སློབ་པ།"
+  },
+  "Learn more": {
+    "noun": "ཞིབ་ཏུ་རྒྱུས་ལོན།"
+  },
+  "Left": {
+    "noun": "གཡོན།"
+  },
+  "legacy": {
+    "noun": "ནོར་སྐལ་ཐོབ་ཐང་།",
+    "adjective": "རྙིང་བའི་"
+  },
+  "Length": {
+    "noun": "རིང་ཚད"
+  },
+  "Letter": {
+    "noun": "གསལ་བྱེད།"
+  },
+  "Level": {
+    "noun": "རིམ་གྲས།"
+  },
+  "Library": {
+    "noun": "མཛོད།"
+  },
+  "license": {
+    "noun": "འཁྲོལ་འཛིན།"
+  },
+  "Light": {
+    "noun": "གསལ་པོ།"
+  },
+  "Light Gray": {
+    "noun": "ཐལ་སྐྱ།"
+  },
+  "lightness": {
+    "noun": "གསལ་ཚད།"
+  },
+  "Limit": {
+    "noun": "ཚོད་འཛིན།"
+  },
+  "Line": {
+    "noun": "ཐིག"
+  },
+  "Linear": {
+    "adjective": "ཐིག་གི"
+  },
+  "Link": {
+    "noun": "སྦྲེལ་ཐག"
+  },
+  "List": {
+    "noun": "གསལ་ཐོ།"
+  },
+  "Live": {
+    "noun": "སྐབས་ཐོག"
+  },
+  "LiveJournal": {
+    "noun": "LiveJournal"
+  },
+  "Load": {
+    "verb": "འཇུག་པ།"
+  },
+  "Locale": {
+    "noun": "ཁུལ་ཁོངས།"
+  },
+  "location": {
+    "noun": "གནས་ཡུལ།"
+  },
+  "Log": {
+    "noun": "ཉིན་ཐོ།"
+  },
+  "Log In": {
+    "noun": "ཐོ་འཇུག"
+  },
+  "Log Out": {
+    "noun": "ཐོ་འབུད།"
+  },
+  "Login": {
+    "noun": "ཐོ་འཇུག"
+  },
+  "Logo": {
+    "noun": "ལས་རྟགས།"
+  },
+  "Longitude": {
+    "noun": "གཞུང་ཐིག"
+  },
+  "Loop": {
+    "noun": "རེས་འཁོར།"
+  },
+  "loopback": {
+    "noun": "ཕྱིར་སྐྱེལ།"
+  },
+  "Lost": {
+    "noun": "བོར་བ།"
+  },
+  "Lower Alpha": {
+    "noun": "དབྱིན་ཡིག་གསལ་བྱེད་ཆུང་འབྲི།"
+  },
+  "Lower Greek": {
+    "noun": "གྷི་རིག་གསལ་བྱེད་ཆུང་འབྲི།"
+  },
+  "Lower Roman": {
+    "noun": "རོ་མའི་ཨང་ཀི་ཆུང་འབྲི།"
+  },
+  "mailbox": {
+    "noun": "སྦྲག་སྒམ།"
+  },
+  "Main": {
+    "noun": "གཙོ་བོ"
+  },
+  "maintain": {
+    "verb": "སྲུང་སྐྱོང་།"
+  },
+  "Maintenance": {
+    "noun": "སྲུང་སྐྱོང་།"
+  },
+  "Make": {
+    "verb": "བཟོ་བ།"
+  },
+  "Manage": {
+    "verb": "དོ་དམ།"
+  },
+  "Management": {
+    "noun": "དོ་དམ།"
+  },
+  "Manager": {
+    "noun": "དོ་དམ་ཆས།"
+  },
+  "Manipulation": {
+    "noun": "བཀོད་སྤྱོད།"
+  },
+  "manual": {
+    "noun": "ལག་དེབ།",
+    "adjective": "ལག་ཐབས་ཀྱིས་"
+  },
+  "manually": {
+    "adjective": "མིའི་ཐབས་ཀྱིས་"
+  },
+  "March": {
+    "noun": "ཟླ་གསུམ་པ།"
+  },
+  "Margin": {
+    "noun": "མཐའ་ཐག"
+  },
+  "Mark": {
+    "noun": "རྟགས།"
+  },
+  "Marketing": {
+    "noun": "བྲིན་པ།"
+  },
+  "Markup": {
+    "noun": "རྟགས་འགོད།"
+  },
+  "Mask": {
+    "noun": "སྒྲིབ་པ།"
+  },
+  "match": {
+    "noun": "མཚུངས་ཟླ།"
+  },
+  "matrix": {
+    "noun": "ཕྱོགས་ཚད་བསྟར་སྒྲིག"
+  },
+  "Maximum": {
+    "noun": "ཆེས་ཆེ་བ།"
+  },
+  "May": {
+    "noun": "ཟླ་ལྔ་པ།"
+  },
+  "Media": {
+    "noun": "སྨྱན་སྦྱོར།"
+  },
+  "Medium": {
+    "adjective": "འབྲིང་བ།"
+  },
+  "Meetup": {
+    "noun": "Meetup ལྷན་འཛོམས།"
+  },
+  "megabyte": {
+    "noun": "ཡིག་ཚིགས་ས་ཡ།"
+  },
+  "member": {
+    "noun": "ཁོངས་མི།"
+  },
+  "Membership": {
+    "noun": "ཚོགས་མིའི་གོ་གནས་/ཐོབ་ཐང་།"
+  },
+  "Menu": {
+    "noun": "གདམ་ཐོ།"
+  },
+  "merge": {
+    "verb": "ཟླ་སྒྲིལ།"
+  },
+  "merging": {
+    "noun": "ཟླ་སྒྲིལ།"
+  },
+  "message": {
+    "noun": "ཆ་འཕྲིན།"
+  },
+  "Meta": {
+    "noun": "ཟུར་བརྗོད།"
+  },
+  "metadata": {
+    "noun": "ཟུར་བརྗོད་གཞི་གྲངས།"
+  },
+  "Middle": {
+    "noun": "དཀྱིལ།"
+  },
+  "million": {
+    "noun": "ས་ཡ"
+  },
+  "Minimum": {
+    "adjective": "ཉུང་མཐའ།"
+  },
+  "minor": {
+    "adjective": "གལ་ཆུང་།"
+  },
+  "Minute": {
+    "noun": "སྐར་མ།"
+  },
+  "mirror": {
+    "noun": "ཤེལ་བརྙན།"
+  },
+  "Missing": {
+    "noun": "མ་ཚང་བ།"
+  },
+  "mobile": {
+    "noun": "སྤོ་རུང"
+  },
+  "Mode": {
+    "noun": "དཔེ་རྣམ།"
+  },
+  "moderation": {
+    "noun": "རན་ཚོད།"
+  },
+  "Modified": {
+    "verb": "བཟོ་བཅོས།"
+  },
+  "modify": {
+    "verb": "བཟོ་བཅོོས།"
+  },
+  "module": {
+    "noun": "དཔེ་དུམ།"
+  },
+  "Monday": {
+    "noun": "གཟའ་ཟླ་བ།"
+  },
+  "monospaced font": {
+    "noun": "ཞེང་མཚུངས་ཡིག་གཟུགས།"
+  },
+  "Month": {
+    "noun": "ཟླ"
+  },
+  "monthly": {
+    "noun": "ཟླ་འཁོར།"
+  },
+  "Moon": {
+    "noun": "ཟླ་བ།"
+  },
+  "More": {
+    "noun": "དེ་ལས་མང་།"
+  },
+  "Most": {
+    "noun": "ཆེས་ཆེ་བ་"
+  },
+  "Most Used": {
+    "noun": "སྤྱད་མང་ཤོས།"
+  },
+  "Mouse": {
+    "noun": "ཙི་གུ"
+  },
+  "Movable Type": {
+    "noun": "Movable Type"
+  },
+  "move": {
+    "verb": "སྤོ་བསྣུར།"
+  },
+  "Move down": {
+    "noun": "མར་འགྲིལ།"
+  },
+  "Move up": {
+    "noun": "ཡར་འགྲིལ།"
+  },
+  "movie": {
+    "noun": "གློག་བརྙན།"
+  },
+  "multi-file": {
+    "noun": "ཡིག་ཆ་དུ་མ་ཅན།"
+  },
+  "Multilingual": {
+    "noun": "སྐད་ཡིག་སྣ་མང་།"
+  },
+  "multiple": {
+    "adjective": "དུ་མ་"
+  },
+  "Multisite": {
+    "noun": "དྲ་ཚིགས་དུ་མ།"
+  },
+  "music": {
+    "noun": "རོལ་དབྱངས།"
+  },
+  "must": {
+    "noun": "ངེས་པར་དུ"
+  },
+  "Mute": {
+    "noun": "སྒྲ་མེད།"
+  },
+  "Name": {
+    "noun": "མིང་།"
+  },
+  "Navigate": {
+    "noun": "ཕྱོགས་སྟོན།"
+  },
+  "Navigation": {
+    "noun": "ཕྱོགས་སྟོན།"
+  },
+  "navigator": {
+    "noun": "ཕྱོགས་སྟོན་ཆས།"
+  },
+  "Nest": {
+    "noun": "སྐོང་འཛུད།"
+  },
+  "Nested": {
+    "adjective": "སྐོང་འཛུད།"
+  },
+  "Network": {
+    "noun": "དྲ་རྒྱ། དྲ་ཚིགས་དུ་མ་ཅན།"
+  },
+  "never": {
+    "adjective": "ནམ་ཡང་(མིན།)"
+  },
+  "New": {
+    "noun": "གསར་པ།"
+  },
+  "Newer": {
+    "adjective": "ཅུང་གསར་བའི་"
+  },
+  "newly-added": {
+    "noun": "གསར་བསྣན།"
+  },
+  "Next": {
+    "noun": "རྗེས་མ།"
+  },
+  "nickname": {
+    "noun": "གཅེས་མིང་།"
+  },
+  "Nightly Builds": {
+    "noun": "ཉིན་རེའི་ཆེས་གསར་བའི་ཚོད་ལྟའི་ཐོན་རིམ།"
+  },
+  "None": {
+    "noun": "མེད།"
+  },
+  "Normal": {
+    "noun": "སྤྱིར་བཏང་པ།"
+  },
+  "not": {
+    "adverb": "མིན།"
+  },
+  "Note": {
+    "verb": "ཞར་མཆན།"
+  },
+  "Nothing Found": {
+    "noun": "རྙེད་མ་སོང་།"
+  },
+  "Notice": {
+    "noun": "དོ་སྣང་།"
+  },
+  "Notification": {
+    "noun": "གསལ་བསྒྲགས།"
+  },
+  "notify": {
+    "verb": "བཤད་པ།"
+  },
+  "November": {
+    "noun": "ཟླ་བཅུ་གཅིག་པ།"
+  },
+  "now": {
+    "adjective": "ད་ལྟ།"
+  },
+  "Number": {
+    "noun": "ཨང་གྲངས།"
+  },
+  "object": {
+    "noun": "བྱ་ཡུལ"
+  },
+  "October": {
+    "noun": "ཟླ་བཅུ་པ།"
+  },
+  "of": {
+    "preposition": "ཡི་"
+  },
+  "off": {
+    "noun": "off"
+  },
+  "Older": {
+    "adjective": "ཅུང་རྙིང་བའི་"
+  },
+  "once": {
+    "noun": "ཐེངས་གཅིག"
+  },
+  "Opacity": {
+    "noun": "ནང་གསལ་མིན་ཚད།"
+  },
+  "Open": {
+    "adjective": "ཁ་ཕྱེ།"
+  },
+  "OPML": {
+    "noun": "OPML"
+  },
+  "Optimization": {
+    "noun": "ལེགས་འགྱུར།"
+  },
+  "optimize": {
+    "verb": "ལེགས་འགྱུར།"
+  },
+  "optimized": {
+    "noun": "ལེགས་འགྱུར་བྱས་ཟིན།"
+  },
+  "Optimizer": {
+    "noun": "ལེགས་འགྱུར།"
+  },
+  "option": {
+    "noun": "གདམ་ཚན།"
+  },
+  "Optional": {
+    "adjective": "རང་མོས།"
+  },
+  "Orange": {
+    "noun": "ལི་མདོག"
+  },
+  "order": {
+    "noun": "སྟར་སྒྲིག"
+  },
+  "organize": {
+    "noun": "དོ་དམ།"
+  },
+  "organizer": {
+    "noun": "སྒྲིག་འཛུགས་བྱེད་མཁན།"
+  },
+  "Original": {
+    "noun": "གདོད་མ།"
+  },
+  "out of date": {
+    "adjective": "རྙིང་དྲགས་པ།"
+  },
+  "Outdent": {
+    "noun": "སྐྱེད་པ།"
+  },
+  "Outline": {
+    "noun": "སྤྱི་ཁོག"
+  },
+  "over": {
+    "noun": "བརྒལ་བ"
+  },
+  "Overlay": {
+    "verb": "སྣོན་བརྩེགས།"
+  },
+  "Overview": {
+    "noun": "མདོར་བསྟན།"
+  },
+  "ownership": {
+    "noun": "བདག་དབང་།"
+  },
+  "oxygen": {
+    "noun": "དབྱང་རླུང་།"
+  },
+  "Pacific": {
+    "noun": "ཞི་བདེ་རྒྱ་མཚོ་ཆེན་པོ།"
+  },
+  "Pack": {
+    "noun": "ཐུམ་པོ།"
+  },
+  "Package": {
+    "noun": "ཐུམ་བུ།"
+  },
+  "Padding": {
+    "noun": "ནང་མཐའི་བར་ཐག"
+  },
+  "Page": {
+    "noun": "ཤོག་ངོས།"
+  },
+  "Page Break": {
+    "noun": "ཤོག་ངོས་དབྱེ་རྟགས།"
+  },
+  "Pagination": {
+    "noun": "ཤོག་གྲངས་བཀོད་སྒྲིག"
+  },
+  "palette": {
+    "noun": "ཚོན་སྡེར།"
+  },
+  "panel": {
+    "noun": "པང་ལེབ་"
+  },
+  "Paragraph": {
+    "noun": "དུམ་ཚན།"
+  },
+  "parameter": {
+    "noun": "ཞུགས་གྲངས།"
+  },
+  "parent": {
+    "noun": "ཕ་རྒྱུད་"
+  },
+  "part": {
+    "noun": "ཆ་ཤས། དུམ་བུ།"
+  },
+  "partially": {
+    "adverb": "ཁག་གཅིག"
+  },
+  "Pass": {
+    "noun": "བརྒྱུད་སྤྲོད།"
+  },
+  "Password": {
+    "noun": "གསང་ཨང་།"
+  },
+  "Paste": {
+    "verb": "སྦྱོར།"
+  },
+  "path": {
+    "noun": "འགྲོ་ལམ།"
+  },
+  "Pattern": {
+    "noun": "པར་ངོས་བཀོད་སྒྲིག"
+  },
+  "Pause": {
+    "noun": "སྐབས་སྡོད།"
+  },
+  "pause": {
+    "verb": "སྐབས་སྡོད།"
+  },
+  "Pending": {
+    "adjective": "བཤེར་སྒུག"
+  },
+  "per": {
+    "noun": "རེ་རེ།"
+  },
+  "Percentage": {
+    "noun": "བརྒྱ་ཆའི་འབབ།"
+  },
+  "perfect": {
+    "noun": "སྐྱོན་བྲལ།"
+  },
+  "perform": {
+    "noun": "ལག་བསྟར།"
+  },
+  "Performance": {
+    "noun": "གཤིས་ནུས།"
+  },
+  "Period": {
+    "noun": "Period"
+  },
+  "permalink": {
+    "noun": "གཏན་འཇགས་སྦྲེལ་མཐུད།"
+  },
+  "Permanent": {
+    "adjective": "གཏན་དུ་"
+  },
+  "Permanent Link": {
+    "noun": "གཏན་འཇགས་སྦྲེལ་མཐུད།"
+  },
+  "permanently": {
+    "noun": "དུས་གཏན་དུ།"
+  },
+  "permission": {
+    "noun": "དབང་ཚད།"
+  },
+  "personal": {
+    "noun": "སྒེར་གྱི་"
+  },
+  "photo": {
+    "noun": "འདྲ་པར།"
+  },
+  "picker": {
+    "noun": "འདེམས་ཆས།"
+  },
+  "Picture": {
+    "noun": "པར་རིས།"
+  },
+  "Pill Shape": {
+    "noun": "སྨན་གྱི་རིལ་བུའི་དབྱིབས།"
+  },
+  "Pin to": {
+    "noun": "་་་ལ་གཏན་འཇགས།"
+  },
+  "Pingback": {
+    "noun": "Pingback"
+  },
+  "Pink": {
+    "noun": "ཟིང་སྐྱ།"
+  },
+  "pixel": {
+    "noun": "པིག་ཟེལ།"
+  },
+  "place": {
+    "noun": "ས་ཆ།",
+    "verb": "འཇོག་པ།"
+  },
+  "Placeholder": {
+    "noun": "གནས་བཟུང་རྟགས།"
+  },
+  "plain": {
+    "noun": "གསལ་ཆ་དོད་པོ།"
+  },
+  "Play": {
+    "verb": "གཏོང་བ།"
+  },
+  "Playback": {
+    "noun": "གཏོང་ཆས།"
+  },
+  "player": {
+    "noun": "གཏོང་ཆས།"
+  },
+  "Please try again": {
+    "noun": "ཡང་བསྐྱར་གནང་རོགས།"
+  },
+  "Plugin": {
+    "noun": "མཐུད་སྣེ"
+  },
+  "Plus": {
+    "noun": "སྡོམ་རྟགས།"
+  },
+  "podcast": {
+    "noun": "podcast"
+  },
+  "poetry": {
+    "noun": "སྙན་ངག"
+  },
+  "Point": {
+    "noun": "ཚེག"
+  },
+  "policy": {
+    "noun": "སྲིད་ཇུས།"
+  },
+  "Polyglots": {
+    "noun": "སྐད་ཁོངས་དུ་མ་ཅན།"
+  },
+  "Popular": {
+    "adjective": "ཚ་ཤོས།"
+  },
+  "Popup": {
+    "noun": "སྒེའུ་ཁུང་འཕར་ཐོན།"
+  },
+  "Port": {
+    "noun": "མཐུད་ཁ།"
+  },
+  "Portfolio": {
+    "noun": "བརྩམས་ཆོས་ཕྱོགས་སྒྲིག"
+  },
+  "Portrait": {
+    "noun": "སྐུ་པར།"
+  },
+  "position": {
+    "noun": "གནས་ཡུལ།"
+  },
+  "Post": {
+    "noun": "རྩོམ་ཡིག"
+  },
+  "Post Comment": {
+    "noun": "དཔྱད་མཆན་སྤེལ།"
+  },
+  "Poster": {
+    "noun": "འགྲེམས་ཤོག"
+  },
+  "potentially": {
+    "adjective": "སྲིད་པ།"
+  },
+  "Pre-publish": {
+    "noun": "མ་སྤེལ་གོང་།"
+  },
+  "preference": {
+    "noun": "འདམ་ང་།"
+  },
+  "prefix": {
+    "noun": "སྔོན་འདོགས།"
+  },
+  "preformatted": {
+    "noun": "preformatted"
+  },
+  "Premium": {
+    "noun": "མཐོ་རིམ།"
+  },
+  "present": {
+    "adjective": "གནས་པ།"
+  },
+  "Preset": {
+    "noun": "སྔོན་བཟོ།"
+  },
+  "Press": {
+    "verb": "གནོན་པ། གཙིར་པ།"
+  },
+  "Press This": {
+    "noun": "Press This"
+  },
+  "Prev": {
+    "noun": "སྔོན་མ།"
+  },
+  "prevent": {
+    "verb": "སྔོན་འགོག་བྱེད་པ།"
+  },
+  "Preview": {
+    "verb": "སྔོན་ལྟ།"
+  },
+  "Previous": {
+    "adjective": "སྔོན་མ།"
+  },
+  "Price": {
+    "noun": "རིན་གོང་།"
+  },
+  "Primary": {
+    "noun": "གཙོ་བོ།"
+  },
+  "Primary Menu": {
+    "noun": "གདམ་ཐོ་གཙོ་བོ།"
+  },
+  "Print": {
+    "noun": "པར་འདེབས།"
+  },
+  "Priorities": {
+    "noun": "སྔོན་ཐོབ་དབང་ཆ།"
+  },
+  "Priority": {
+    "noun": "སྔོན་ཐོབ།"
+  },
+  "Privacy": {
+    "noun": "སྒོས་གསང་།"
+  },
+  "Private": {
+    "noun": "གསང་བ།"
+  },
+  "privately": {
+    "adverb": "ལྐོག་ཏུ།"
+  },
+  "process": {
+    "verb": "སྒྲིག་གཅོད།"
+  },
+  "Product": {
+    "noun": "ཐོན་རྫས།"
+  },
+  "Profile": {
+    "noun": "སྣང་བརྙན།"
+  },
+  "programming": {
+    "noun": "བྱ་རིམ་ཇུས་འགོད།"
+  },
+  "progress": {
+    "noun": "སྒྲུབ་ཚད།"
+  },
+  "project": {
+    "noun": "ལས་གཞི།"
+  },
+  "properly": {
+    "adverb": "ཚུལ་མཐུན་དུ།"
+  },
+  "property": {
+    "noun": "གཏོགས་གཤིས།"
+  },
+  "protect": {
+    "verb": "སྲུང་སྐྱོབ།"
+  },
+  "Public": {
+    "noun": "ཡོངས་བསྒྲགས།"
+  },
+  "Publication": {
+    "noun": "འགྲེམས་སྤེལ།"
+  },
+  "Publish": {
+    "noun": "པར་འགྲེམས།",
+    "verb": "སྤེལ།"
+  },
+  "Published": {
+    "noun": "སྤེལ་ཟིན།"
+  },
+  "Published in": {
+    "noun": "སྤེལ་ཡུལ།"
+  },
+  "Publishing": {
+    "verb": "པར་འགྲེམས་སྒང"
+  },
+  "Pullquote": {
+    "noun": "ལུང་གལ་ཆེན་འདྲེན་པ།"
+  },
+  "Purple": {
+    "noun": "རྒྱ་སྨུག"
+  },
+  "Purpose": {
+    "noun": "སྤྱོད་སྒོ"
+  },
+  "Quantity": {
+    "noun": "གྲངས་ཚད།"
+  },
+  "query": {
+    "noun": "འདྲི་རྩད།"
+  },
+  "Question": {
+    "noun": "དྲི་བ།"
+  },
+  "quick edit": {
+    "noun": "མྱུར་སྒྲིག"
+  },
+  "Quiz": {
+    "noun": "ཚོད་ལྟ་ཆུང་བ།"
+  },
+  "Quote": {
+    "noun": "ལུང་འདྲེན།"
+  },
+  "Radial": {
+    "adjective": "འོད་ཟེར་གྱི།"
+  },
+  "Radius": {
+    "noun": "ཕྱེད་ཚངས་ཐིག"
+  },
+  "Random": {
+    "adjective": "སྐབས་བསྟུན།"
+  },
+  "Range": {
+    "noun": "ཁྱབ་ཁོངས།"
+  },
+  "Rate": {
+    "verb": "གདེང་འཇོག"
+  },
+  "rating": {
+    "noun": "གདེང་འཇོག"
+  },
+  "ratio": {
+    "noun": "བསྡུར་ཚད།"
+  },
+  "reach": {
+    "verb": "སྙོབ་པ།"
+  },
+  "reachable": {
+    "adjective": "སྙོོབ་ཐུབ།"
+  },
+  "Read more": {
+    "noun": "མང་དུ་ཀློག"
+  },
+  "Reading": {
+    "noun": "ཀློག་འདོན།"
+  },
+  "Readme": {
+    "noun": "རང་དོན་རང་བརྗོད།"
+  },
+  "recent": {
+    "noun": "ཉེ་བའི་"
+  },
+  "recommend": {
+    "verb": "འོས་སྦྱོར།"
+  },
+  "Recovery": {
+    "noun": "ཕྱིར་སོན། བསྐྱར་རྙེད།"
+  },
+  "redirect": {
+    "noun": "ཡང་བསྐྱར་བཀོད་སྒྲིག"
+  },
+  "Redo": {
+    "noun": "བསྐྱར་བཟོ།"
+  },
+  "Refresh": {
+    "verb": "གསར་འདོན།"
+  },
+  "Register": {
+    "noun": "ཐོ་འགོད།"
+  },
+  "registration": {
+    "noun": "ཐོ་འགོད།"
+  },
+  "Regular": {
+    "noun": "སྤྱིར་བཏང་།"
+  },
+  "Reinstate": {
+    "verb": "སླར་གསོ།"
+  },
+  "relate": {
+    "verb": "གནས་ལུགས་བརྗོད་པ།"
+  },
+  "release": {
+    "noun": "འགྲེམ་སྤེལ་ཐོན་རིམ།"
+  },
+  "reload": {
+    "verb": "བསྐྱར་འཇུག"
+  },
+  "Remember": {
+    "verb": "ཡིད་ལ་འཆང་བ།"
+  },
+  "Remove": {
+    "verb": "སྤོ་འབུད།"
+  },
+  "removed": {
+    "noun": "སྤོ་འབུད་བྱས་ཟིན།"
+  },
+  "render": {
+    "verb": "སྒྱུར་པ།"
+  },
+  "Reorder": {
+    "verb": "བསྐྱར་སྒྲིག"
+  },
+  "Rep": {
+    "noun": "འཐུས་མི།"
+  },
+  "repair": {
+    "verb": "སོར་ཆུད།"
+  },
+  "Repeat": {
+    "noun": "བསྐྱར་ཟློས།"
+  },
+  "Replace": {
+    "verb": "བརྗེ་སྤོར།"
+  },
+  "Reply": {
+    "noun": "ལན་སློག"
+  },
+  "Report": {
+    "verb": "སྙན་ཞུ།"
+  },
+  "Repository": {
+    "noun": "ཉར་གསོག་བར་སྟོང་།"
+  },
+  "Request": {
+    "verb": "རེ་ཞུ།"
+  },
+  "require": {
+    "noun": "ངེས་པར་དགོས་པ"
+  },
+  "required": {
+    "adjective": "དགོས་ངེས།"
+  },
+  "Requirements": {
+    "noun": "བླང་བྱ།"
+  },
+  "Reset": {
+    "verb": "སོར་སློག"
+  },
+  "resolution": {
+    "noun": "འབྱེད་ཕྱོད།"
+  },
+  "Resolve": {
+    "verb": "ཐག་གཅོད་པ།"
+  },
+  "Resource": {
+    "noun": "ཐོན་ཁུངས།"
+  },
+  "respect": {
+    "noun": "སྒོ་བསྟུན།"
+  },
+  "response": {
+    "noun": "ཡ་ལེན།"
+  },
+  "Responsive": {
+    "adjective": "ཡ་ལེན།"
+  },
+  "restore": {
+    "verb": "སླར་གསོ་བྱེད་པ།"
+  },
+  "restored": {
+    "noun": "སླར་གསོ་བྱས་ཟིན།"
+  },
+  "Restrict": {
+    "verb": "ཚད་བཀག་བཟོ་བ།"
+  },
+  "result": {
+    "noun": "མཐའ་འབྲས"
+  },
+  "Resume": {
+    "verb": "བསྐྱར་སྤྱོད།"
+  },
+  "resumed": {
+    "noun": "བསྐྱར་སྤྱོད་བྱས་ཟིན།"
+  },
+  "Retention": {
+    "noun": "སོར་ཉར།"
+  },
+  "retrieve": {
+    "noun": "སྡུད་སྒྲིལ།",
+    "verb": "བསྐྱར་སོན།"
+  },
+  "Retry": {
+    "verb": "ཡང་བསྐྱར་ཚོད་ལྟ།"
+  },
+  "Return": {
+    "noun": "ཕྱིར་ལོག"
+  },
+  "Reunion": {
+    "noun": "སླར་འཛོམས།"
+  },
+  "Reusable": {
+    "adjective": "ཡང་བསྐྱར་སྤྱོད་ཆོག་པའི་"
+  },
+  "Reverse": {
+    "noun": "ལྡོག་ཕྱོགས།"
+  },
+  "Review": {
+    "noun": "བསྐྱར་ཞིབ།",
+    "verb": "དཔྱད་བརྗོད།"
+  },
+  "Revision": {
+    "noun": "བཟོ་བཅོས་པར་གཞི།"
+  },
+  "rich": {
+    "noun": "ཕུན་སུམ་ཚོགས་པ།"
+  },
+  "Right": {
+    "noun": "གཡས།"
+  },
+  "Roadmap": {
+    "noun": "ལམ་རིས།"
+  },
+  "Robots": {
+    "adverb": "འཕྲུལ་ཆས་མི།"
+  },
+  "robust": {
+    "adjective": "ཤེད་ཤུགས་ཅན། རྩལ་སྟོབས་ཆེན་པོ།"
+  },
+  "Role": {
+    "noun": "ཐོབ་ཐང་།"
+  },
+  "root": {
+    "noun": "དཀར་ཆག་རྩ་བ།"
+  },
+  "Rotate": {
+    "verb": "སྐོར་བ། འཁོར་བ།"
+  },
+  "Rounded": {
+    "noun": "ཕུབ་སྒོར།"
+  },
+  "route": {
+    "noun": "ལམ་སྟོན།"
+  },
+  "Row": {
+    "noun": "ཕྲེང་།"
+  },
+  "RSS feed": {
+    "noun": "RSS feed"
+  },
+  "rule": {
+    "noun": "སྒྲིག་གཞི།"
+  },
+  "Sample": {
+    "noun": "དཔེེ་གཞི།"
+  },
+  "saturation": {
+    "noun": "ཚད་ལོངས་ཚད།"
+  },
+  "Saturday": {
+    "noun": "གཟའ་སྤེན་པ།"
+  },
+  "Save": {
+    "noun": "ཉར་ཚགས།"
+  },
+  "Saved": {
+    "noun": "ཉར་ཟིན།"
+  },
+  "scale": {
+    "verb": "སྐྱེད་སྐྱུང་།"
+  },
+  "Scan": {
+    "verb": "བཤར་འབེབས།"
+  },
+  "Schedule": {
+    "noun": "དུས་བཀག"
+  },
+  "Scheduled": {
+    "noun": "དུས་བཀག་བྱས་ཟིན།"
+  },
+  "Scheduling": {
+    "verb": "བཀོད་སྒྲིག་སྒང"
+  },
+  "Scope": {
+    "noun": "ཁྱབ་ཁོངས།"
+  },
+  "score": {
+    "noun": "ཐོབ་གྲངས།"
+  },
+  "Screen": {
+    "noun": "བརྙན་ཡོལ།"
+  },
+  "screenshot": {
+    "noun": "གཏུབ་རིས།"
+  },
+  "script": {
+    "noun": "བཀའ་བརྡའི་ཨང་།"
+  },
+  "Scroll": {
+    "noun": "འགྲིལ་བ།"
+  },
+  "Search": {
+    "verb": "བཤེར་འཚོལ།"
+  },
+  "Seasonal": {
+    "adjective": "ནམ་དུས་ཀྱི།"
+  },
+  "Secondary": {
+    "noun": "ཕལ་བ།"
+  },
+  "section": {
+    "noun": "ཚན་པ།"
+  },
+  "secure": {
+    "adjective": "ཉེན་མེད།"
+  },
+  "security": {
+    "noun": "བདེ་འཇགས།"
+  },
+  "Select": {
+    "noun": "གདམ།"
+  },
+  "selection": {
+    "noun": "འདེམ་སྒྲུག"
+  },
+  "selectively": {
+    "noun": "འདེམས་སྒྲུག"
+  },
+  "Selector": {
+    "noun": "འདེམས་ཆས།"
+  },
+  "Send": {
+    "verb": "གཏོང་།"
+  },
+  "Separate": {
+    "verb": "དབྱེ་མཚམས་གཅོད་པ།"
+  },
+  "Separator": {
+    "noun": "མཚམས་གཅོད་རྟགས།"
+  },
+  "September": {
+    "noun": "ཟླ་དགུ་པ།"
+  },
+  "server": {
+    "noun": "ཞབས་ཞུ་འཕྲུལ་ཆས།"
+  },
+  "Server-side": {
+    "noun": "ཞབས་ཞུ་འཕྲུལ་ཆས་སྣེ"
+  },
+  "Session": {
+    "noun": "གླེང་མོལ།"
+  },
+  "set": {
+    "noun": "ཚོགས"
+  },
+  "Setting": {
+    "noun": "སྒྲིག་འགོད།"
+  },
+  "Setup": {
+    "noun": "སྒྲིག་འཇུག"
+  },
+  "shade": {
+    "noun": "གྲིབ་མ།"
+  },
+  "share": {
+    "noun": "མཉམ་སྤྱོད"
+  },
+  "short": {
+    "noun": "ཐུང་ངུ་།"
+  },
+  "Shortcode": {
+    "noun": "ཚབ་ཨང་ཐུང་བ།"
+  },
+  "Shortcut": {
+    "noun": "མྱུར་ལམ།"
+  },
+  "Shortlink": {
+    "noun": "སྦྲེལ་ཐུང་།"
+  },
+  "should": {
+    "noun": "ཡིན་པ"
+  },
+  "show": {
+    "verb": "ངོམ་སྟོན།"
+  },
+  "Show": {
+    "noun": "འཆར།"
+  },
+  "Showcase": {
+    "noun": "བཀྲམ་དངོས་ཤེལ་སྒྲོམ།"
+  },
+  "side-by-side": {
+    "noun": "གྲལ་སྟར་གཅིག་སྒྲིག"
+  },
+  "Sidebar": {
+    "noun": "འགྲམ་ཚང་།"
+  },
+  "Sign up": {
+    "noun": "དེབ་སྐྱེལ།"
+  },
+  "signature": {
+    "noun": "མིང་རྟགས།"
+  },
+  "Silver": {
+    "noun": "དངུལ་མདོག"
+  },
+  "simple": {
+    "noun": "སྟབས་བདེ།"
+  },
+  "Simplicity": {
+    "noun": "སྟབས་བདེའི་རང་བཞིན།"
+  },
+  "Single": {
+    "noun": "ཆིག་རྐྱང"
+  },
+  "Site": {
+    "noun": "དྲ་ཚིགས།"
+  },
+  "Site Health": {
+    "noun": "དྲ་ཚིགས་ཀྱི་བདེ་ཐང་།"
+  },
+  "Size": {
+    "noun": "ཆེ་ཆུང་།"
+  },
+  "Skip": {
+    "verb": "མཆོང་པ།"
+  },
+  "Skip to content": {
+    "noun": "གཞུང་དངོས་ལ་མཆོང་།"
+  },
+  "Slide": {
+    "verb": "ཤུད་པ།"
+  },
+  "Slider": {
+    "noun": "སྒྲོན་བརྙན།"
+  },
+  "slug": {
+    "noun": "མིང་གཞན།"
+  },
+  "Small": {
+    "adjective": "ཆུང་བ།"
+  },
+  "snippet": {
+    "noun": "དུམ་བུ།"
+  },
+  "Social": {
+    "noun": "སྤྱི་ཚོགས་འབྲེལ་བའི་དྲ་བ།"
+  },
+  "Solid": {
+    "adjective": "འབུར་གཟུགས།"
+  },
+  "some": {
+    "noun": "འགའ་ཤས།"
+  },
+  "Sorry": {
+    "noun": "དགོངས་དག་ཞུ།"
+  },
+  "Sorting": {
+    "verb": "རིམ་སྒྲིག"
+  },
+  "Source": {
+    "noun": "ཐོོན་ཁུངས།"
+  },
+  "Source code": {
+    "noun": "ཁུངས་ཚང་ཨང་།"
+  },
+  "space": {
+    "noun": "སྟོང་མིག"
+  },
+  "Spacer": {
+    "noun": "བར་རྟགས།"
+  },
+  "spacing": {
+    "noun": "བར་སྟོང་།"
+  },
+  "Spam": {
+    "noun": "གད་སྙིགས།"
+  },
+  "Speak": {
+    "verb": "གཏམ་བཤད།"
+  },
+  "speaker": {
+    "noun": "གཏམ་བཤད་མཁན།"
+  },
+  "Speaker Deck": {
+    "noun": "Speaker Deck"
+  },
+  "Special": {
+    "noun": "དམིགས་བསལ།"
+  },
+  "specific": {
+    "noun": "དམིགས་བཙུགས་"
+  },
+  "specified": {
+    "noun": "དམིགས་འཛུགས་བྱས་པ།"
+  },
+  "Spinbox": {
+    "noun": "Spinbox"
+  },
+  "sponsor": {
+    "noun": "ཡིད་མཐུན་རོགས་སྐྱོར་ཚོང་པ།"
+  },
+  "Spotlight": {
+    "noun": "འོད་འདུའི་གློག་ཞུ།"
+  },
+  "Spreadsheet": {
+    "noun": "གློག་རྡུལ་རེའུ་མིག"
+  },
+  "Square": {
+    "noun": "ཁོག་ཡོད་གྲུ་བཞི།"
+  },
+  "Squared": {
+    "noun": "གྲུ་བཞི།"
+  },
+  "stable": {
+    "adjective": "སྲ་བརྟན།"
+  },
+  "Stack": {
+    "noun": "སྤུང་རྩེག"
+  },
+  "Standard": {
+    "noun": "ཚད་ལྡན།"
+  },
+  "stars": {
+    "noun": "སྐར་མ།"
+  },
+  "start": {
+    "verb": "འགོ་འཛུགས་པ།"
+  },
+  "State": {
+    "noun": "གནས་བབ།"
+  },
+  "statement": {
+    "noun": "གསལ་བསྒྲགས།"
+  },
+  "static": {
+    "adjective": "གསོར་གནས།"
+  },
+  "Statistics": {
+    "noun": "བསྡོམས་རྩིས།"
+  },
+  "Stats": {
+    "noun": "བསྡོམས་རྩིས།"
+  },
+  "Status": {
+    "noun": "གནས་བབས།"
+  },
+  "Stick": {
+    "verb": "སྦྱོར་བ།"
+  },
+  "sticky": {
+    "noun": "རྩེར་འཇོག"
+  },
+  "store": {
+    "noun": "གསོག་འཇོག"
+  },
+  "Strength indicator": {
+    "noun": "དྲག་ཚད་ཚོད་སྐོར།"
+  },
+  "Strict": {
+    "adjective": "སྒྲིག་དམ་པོ།"
+  },
+  "Strikethrough": {
+    "noun": "སུབ་ཐིག"
+  },
+  "string": {
+    "noun": "ཡིག་རྟགས་ཕྲེང་།"
+  },
+  "Stripe": {
+    "noun": "ཁྲ་ཐིག"
+  },
+  "structure": {
+    "noun": "གཞི་སྒྲོམ།"
+  },
+  "Stunning": {
+    "adjective": "ཧང་སངས་དགོས་པའི།"
+  },
+  "Style": {
+    "noun": "བཟོ་ལྟ།"
+  },
+  "sub-categories": {
+    "noun": "བུ་རྒྱུད་དཀར་ཆག"
+  },
+  "sub-directorie": {
+    "noun": "བུ་རྒྱུད་དཀར་ཆག"
+  },
+  "Subdomain": {
+    "noun": "བུ་རྒྱུད་ཁོངས་མིང་།"
+  },
+  "Subheading": {
+    "noun": "ཁ་བྱང་ཕལ་བ།"
+  },
+  "Subject": {
+    "noun": "བརྗོད་གཞི།"
+  },
+  "Submit": {
+    "verb": "འབུལ་སྤྲོད།"
+  },
+  "Submit for Review": {
+    "noun": "བཤེར་སྤྲོད།"
+  },
+  "Submitted On": {
+    "noun": "སྤྲོད་དུས།"
+  },
+  "Subscribe": {
+    "verb": "སྔོན་མངག"
+  },
+  "Subscriber": {
+    "noun": "སྔོན་མངག་མཁན།"
+  },
+  "Subscript": {
+    "noun": "འོག་རྟགས།"
+  },
+  "Subscription": {
+    "noun": "སྔོན་མངག"
+  },
+  "subtitle": {
+    "noun": "ཁ་བྱང་ཕལ་བ།"
+  },
+  "successfully": {
+    "adverb": "བདེ་བླག་ངང་"
+  },
+  "Suggestion": {
+    "noun": "བསམ་འཆར། གྲོས་འདོན།"
+  },
+  "Sunday": {
+    "noun": "གཟའ་ཉི་མ།"
+  },
+  "Superscript": {
+    "noun": "སྟེང་ཡིག"
+  },
+  "supplie": {
+    "noun": "མཁོ་འདོན།"
+  },
+  "supplied": {
+    "noun": "མཁོ་འདོན།"
+  },
+  "support": {
+    "verb": "རམ་འདེགས།"
+  },
+  "survey": {
+    "verb": "བརྟག་དཔྱད།"
+  },
+  "Suspend": {
+    "noun": "སྐབས་སྡོད།"
+  },
+  "Swag": {
+    "noun": "ཚོང་རྫས།"
+  },
+  "Swap": {
+    "verb": "བརྗེ་རེས།"
+  },
+  "Switch": {
+    "verb": "བརྗེ་བ། སྒྱུར་བ།"
+  },
+  "sync": {
+    "verb": "གོམ་མཉམ།"
+  },
+  "system": {
+    "noun": "མ་ལག"
+  },
+  "Tab": {
+    "noun": "གདམ་བྱང་།"
+  },
+  "Table": {
+    "noun": "རེའུ་མིག"
+  },
+  "Tablet": {
+    "noun": "ངོས་ལེབ་གློག་ཀླད།"
+  },
+  "tag": {
+    "noun": "འགྲེལ་བྱང་།"
+  },
+  "Tag Cloud": {
+    "noun": "Cloud འགྲེལ་བྱང་།"
+  },
+  "Tagline": {
+    "noun": "ཁ་བྱང་ཕལ་བ།"
+  },
+  "Take over": {
+    "noun": "རྩིས་ལེན།"
+  },
+  "Tan": {
+    "noun": "ཁམ་མདོག"
+  },
+  "tap": {
+    "verb": "ཡང་རྡེབ།"
+  },
+  "target": {
+    "noun": "དམིགས་འབེན།"
+  },
+  "taxonomy": {
+    "noun": "རིགས་དགར་ཐབས"
+  },
+  "Team": {
+    "noun": "ཚན་ཁག"
+  },
+  "technology": {
+    "noun": "ལག་རྩལ།"
+  },
+  "Template": {
+    "noun": "དཔེ་པང་།"
+  },
+  "temporary": {
+    "adjective": "གནས་སྐབས་ཀྱི་"
+  },
+  "tempt": {
+    "verb": "སླུ་བྲིད།"
+  },
+  "Term": {
+    "noun": "སྡེ་ཚན"
+  },
+  "Terms of Service": {
+    "noun": "བཀོལ་སྤྱོད་དོན་ཚན།"
+  },
+  "Testimonial": {
+    "noun": "དཔང་ཡིག"
+  },
+  "Text": {
+    "noun": "ཡིག་རྐྱང་།"
+  },
+  "That": {
+    "noun": "དེ་"
+  },
+  "Theme": {
+    "noun": "དཔེ་སྒྲོམ།"
+  },
+  "these": {
+    "noun": "འདི་དག་"
+  },
+  "this": {
+    "noun": "འདི་"
+  },
+  "Those": {
+    "noun": "དེ་དག་"
+  },
+  "Thumbnail": {
+    "noun": "བསྡུས་རིས།"
+  },
+  "Thursday": {
+    "noun": "གཟའ་ཕུར་བུ།"
+  },
+  "Time": {
+    "noun": "དུས་ཚོད།"
+  },
+  "Timezone": {
+    "noun": "དུས་ཁུལ།"
+  },
+  "tip": {
+    "noun": "སྣེ་སྟོན།"
+  },
+  "tips": {
+    "noun": "སྣེ་སྟོན།"
+  },
+  "Title": {
+    "noun": "ཁ་བྱང་།"
+  },
+  "to": {
+    "preposition": "བར།"
+  },
+  "Toggle": {
+    "noun": "བཅད་བསྒྱུར།"
+  },
+  "Token": {
+    "noun": "བཀའ་བྱང་།"
+  },
+  "Toolbar": {
+    "noun": "ལག་ཆའི་ཚང་།"
+  },
+  "Tools": {
+    "noun": "ལག་ཆ།"
+  },
+  "Top": {
+    "noun": "རྩེ།"
+  },
+  "Topic": {
+    "noun": "གླེང་གཞི།"
+  },
+  "Total": {
+    "noun": "བསྡོམས་གྲངས།",
+    "adjective": "ཆ་ཚང་།"
+  },
+  "track": {
+    "noun": "རྗེས་འདེད།"
+  },
+  "trackback": {
+    "noun": "trackback"
+  },
+  "Training": {
+    "noun": "གསོ་སྦྱོང་།"
+  },
+  "Transfer": {
+    "noun": "གནས་སྤོ།"
+  },
+  "transform": {
+    "noun": "དབྱིབས་རྣམ་སྒྱུར་བ།"
+  },
+  "Translate": {
+    "verb": "ཡིག་བསྒྱུར།"
+  },
+  "Translation": {
+    "noun": "ཡིག་སྒྱུར།"
+  },
+  "transparent": {
+    "noun": "ནང་གསལ།"
+  },
+  "Trash": {
+    "noun": "སྙིགས་སྣོད།"
+  },
+  "True": {
+    "noun": "ཡང་དག"
+  },
+  "Trust": {
+    "noun": "ཡིད་ཆེས།"
+  },
+  "Tuesday": {
+    "noun": "གཟའ་མིག་དམར།"
+  },
+  "Tumblr": {
+    "noun": "Tumblr"
+  },
+  "type": {
+    "noun": "རིགས"
+  },
+  "TypePad": {
+    "noun": "TypePad"
+  },
+  "typing": {
+    "verb": "ཡི་གེ་གཏག་པ།"
+  },
+  "Typography": {
+    "noun": "པར་སྒྲིག"
+  },
+  "Ultimate": {
+    "noun": "མཐར་ཐུག"
+  },
+  "Unable": {
+    "adjective": "མི་ཐུབ་པ།"
+  },
+  "Unapproved": {
+    "noun": "ཕྱིར་སློག"
+  },
+  "Unarchive": {
+    "noun": "ཚགས་ཉར་དོར།"
+  },
+  "unavailable": {
+    "noun": "སྤྱོད་མི་རུང་བ།"
+  },
+  "Undefined": {
+    "noun": "མི་གསལ་བ།"
+  },
+  "Underline": {
+    "noun": "འོག་ཐིག"
+  },
+  "underscore": {
+    "noun": "འོག་ཐིག"
+  },
+  "Undo": {
+    "noun": "ཕྱིར་འཐེན།"
+  },
+  "unexpected": {
+    "adjective": "གློ་བུར་གྱི།"
+  },
+  "Unfollow": {
+    "noun": "རྗེས་འདེད་མི་བྱེད།"
+  },
+  "Unified": {
+    "noun": "ཆིག་སྒྲིལ་རྣམ་པ།"
+  },
+  "Uninstall": {
+    "verb": "བཤིག་འདོན།"
+  },
+  "Unique": {
+    "noun": "ཁོ་ན།"
+  },
+  "Universal": {
+    "adjective": "ཐུན་མོང་དུ་སྤྱོད་པ།"
+  },
+  "unknown": {
+    "noun": "མི་གསལ།"
+  },
+  "Unlink": {
+    "noun": "སྦྲེལ་མཐུད་དོར།"
+  },
+  "unordered": {
+    "noun": "སྟར་མེད།"
+  },
+  "Unpin": {
+    "verb": "་་་་ནས་ལེན་པ།"
+  },
+  "Unrecognized": {
+    "noun": "ངོས་འཛིན་བྱེད་མི་ཐུབ་པ།"
+  },
+  "unschedule": {
+    "adjective": "སྔོན་ཚུད་ནས་སྒྲིག་གཤོམ་བྱས་མེད་པ།"
+  },
+  "Untitled": {
+    "noun": "ཁ་བྱང་མེད།"
+  },
+  "Untrash": {
+    "noun": "སོར་ཆུད།"
+  },
+  "up": {
+    "adverb": "ཡར་ཕྱོགས་སུ།"
+  },
+  "up to date": {
+    "adjective": "གསར་ཤོས་ཡིན་པ།"
+  },
+  "Update": {
+    "noun": "གསར་བཅོས།"
+  },
+  "updated": {
+    "verb": "གསར་བཅོས་བྱས་ཟིན།"
+  },
+  "Updating": {
+    "verb": "གསར་བཅོས་སྒང"
+  },
+  "Upgrade": {
+    "verb": "རིམ་སྤར།"
+  },
+  "Upload": {
+    "noun": "སྐྱེལ་འཇོག"
+  },
+  "Uploaded": {
+    "noun": "སྐྱེལ་འཇོག་བྱས་ཟིན།"
+  },
+  "uploader": {
+    "noun": "སྐྱེལ་འཇོག་ཡོ་ཆས།"
+  },
+  "Upper Alpha": {
+    "noun": "དབྱིན་ཡིག་གསལ་བྱེད་ཆེ་འབྲི།"
+  },
+  "Upper Roman": {
+    "noun": "རོ་མའི་ཨང་ཀི་ཆེ་འབྲི།"
+  },
+  "uppercase": {
+    "noun": "ཆེ་འབྲི།"
+  },
+  "URL": {
+    "noun": "URL"
+  },
+  "Usage": {
+    "noun": "བཀོལ་ཐབས།"
+  },
+  "use": {
+    "verb": "བཀོལ་བ།"
+  },
+  "used": {
+    "adjective": "སྤྱད་ཟིན།"
+  },
+  "User": {
+    "noun": "སྤྱོད་མཁན"
+  },
+  "User Agent": {
+    "noun": "སྤྱོད་མཁན་ངོ་ཚབ (UA)"
+  },
+  "Username": {
+    "noun": "སྤྱོད་མཁན་མིང"
+  },
+  "valid": {
+    "adjective": "ནུས་ལྡན་"
+  },
+  "Validate": {
+    "verb": "ར་སྤྲོད།"
+  },
+  "Validator": {
+    "noun": "ར་སྤྲོད་ཆས།"
+  },
+  "Value": {
+    "noun": "གྲངས་ཐང་།"
+  },
+  "Variable": {
+    "adjective": "འགྱུར་ལྡོག་ཅན།"
+  },
+  "variation": {
+    "noun": "འགྱུར་ལྡོག"
+  },
+  "Vector": {
+    "noun": "ཕྱོགས་ཚད།"
+  },
+  "verification": {
+    "noun": "བདེན་དཔང་ར་སྤྲོད།"
+  },
+  "verify": {
+    "verb": "བདེེན་དཔང་བྱེད་པ།"
+  },
+  "Versatile": {
+    "adjective": "བྱེད་ནུས་སྣ་མང་གི་་་"
+  },
+  "Verse": {
+    "noun": "སྙན་ངག"
+  },
+  "Version": {
+    "noun": "ཐོན་རིམ།"
+  },
+  "Vertical": {
+    "noun": "དྲང་འཕྱང་།"
+  },
+  "Vertically": {
+    "noun": "དྲང་འཕྱང"
+  },
+  "Very dark gray": {
+    "noun": "གོ་ཐལ་མདོག"
+  },
+  "Video": {
+    "noun": "བརྙན་ཟློས།"
+  },
+  "video playlist": {
+    "noun": "བརྙན་གཏོང་གསལ་ཐོ"
+  },
+  "View": {
+    "noun": "མཐོང་སྣང་།"
+  },
+  "viewports": {
+    "noun": "ལྟ་ཁུང་།"
+  },
+  "virtual": {
+    "noun": "རྟོག་བཟོ།"
+  },
+  "Visibility": {
+    "noun": "བསྒྲགས་ཚད།"
+  },
+  "visible": {
+    "noun": "མངོན་རུང་།"
+  },
+  "Visit": {
+    "noun": "བཅར་འདྲི་"
+  },
+  "Visual": {
+    "noun": "ཐད་མཐོང་།"
+  },
+  "Visual Editor": {
+    "noun": "ཐད་མཐོང་རྩོམ་སྒྲིག་ཆས།"
+  },
+  "visually": {
+    "adverb": "ཐད་མཐོང་གིས་་"
+  },
+  "Waiting": {
+    "noun": "སྒུག་སྡོད།"
+  },
+  "Warning": {
+    "noun": "ཉེན་བརྡ།"
+  },
+  "way": {
+    "noun": "ཐབས་ལམ།"
+  },
+  "weak": {
+    "noun": "ཞན་པ།"
+  },
+  "Website": {
+    "noun": "དྲ་ཚིགས།"
+  },
+  "Wednesday": {
+    "noun": "གཟའ་ལྷག་པ།"
+  },
+  "weekly": {
+    "noun": "གཟའ་འཁོར་རེ།"
+  },
+  "when": {
+    "adjective": "དེ་དུས། དེ་སྐབས། སྐབས་སུ།"
+  },
+  "whitelist": {
+    "noun": "མིང་ཐོ་དཀར་པོ།"
+  },
+  "Wide": {
+    "adjective": "མཐའ་བྲལ།"
+  },
+  "Widget": {
+    "noun": "ལྷུ་ཆུང་།"
+  },
+  "Width": {
+    "noun": "ཞེང་ཚད།"
+  },
+  "Wildcard": {
+    "noun": "མཐུན་སྡེབ།"
+  },
+  "without": {
+    "adverb": "ཕྱི་རོལ་དུ།"
+  },
+  "word": {
+    "noun": "མིང་ཚིག"
+  },
+  "WordPress Planet": {
+    "noun": "WordPress Planet"
+  },
+  "Words": {
+    "noun": "ཡིག་གྲངས།"
+  },
+  "wrapper": {
+    "noun": "ཕྱི་ཤུབས།"
+  },
+  "writable": {
+    "noun": "འབྲི་རུང་བ།"
+  },
+  "Write": {
+    "verb": "འབྲི་བ།"
+  },
+  "Writing Settings": {
+    "noun": "འབྲི་བའི་སྒྲིག་འགོད།"
+  },
+  "XML Sitemap": {
+    "noun": "XML Sitemap"
+  },
+  "Year": {
+    "noun": "ལོ།"
+  },
+  "Your": {
+    "noun": "ཁྱེད་ཀྱི་"
+  },
+  "zipped": {
+    "noun": "སྡུད་སྒྲིལ།"
+  },
+  "Zoom": {
+    "noun": "སྐྱེད་སྐྱུང་།"
+  }
+}

@@ -1,0 +1,553 @@
+{
+  "Activate": {
+    "verb": "Falgeli, Falgelid",
+    "noun": "Falgelin"
+  },
+  "Anonymous": {
+    "noun": "Dahsoon"
+  },
+  "Approve": {
+    "verb": "Ansixi"
+  },
+  "Archive": {
+    "noun": "Arkiifiyaha"
+  },
+  "Array": {
+    "noun": "Teed"
+  },
+  "Attachment": {
+    "noun": "Lifaaq"
+  },
+  "Audio": {
+    "noun": "Maqal"
+  },
+  "Automatic": {
+    "adjective": "Iswad"
+  },
+  "Background": {
+    "noun": "Dibyaal"
+  },
+  "Banned": {
+    "noun": "La mamnuucay"
+  },
+  "Base": {
+    "noun": "Sal"
+  },
+  "Bio": {
+    "noun": "Mahadho"
+  },
+  "Bitrate": {
+    "noun": "Xaddi-ineed"
+  },
+  "Block": {
+    "noun": "Xayndaab, Xayndaabka"
+  },
+  "Blocks": {
+    "noun": "Xayndaabyo, Xayndaabyada"
+  },
+  "Blog": {
+    "noun": "Balog"
+  },
+  "Boolean": {
+    "noun": "Bool"
+  },
+  "Branch": {
+    "noun": "Laan, Laanta"
+  },
+  "Browser": {
+    "noun": "Sahmiye"
+  },
+  "Button": {
+    "noun": "Badhan"
+  },
+  "Cancel": {
+    "verb": "Laal"
+  },
+  "Card": {
+    "noun": "Kaar"
+  },
+  "Cards": {
+    "noun": "Kaarar, Kaararka"
+  },
+  "Categories": {
+    "noun": "Khaanado"
+  },
+  "Category": {
+    "noun": "Khaanad"
+  },
+  "Class": {
+    "noun": "Need"
+  },
+  "Code": {
+    "noun": "Afgarad"
+  },
+  "Column": {
+    "noun": "Joogutax, Dacal"
+  },
+  "Comment": {
+    "noun": "Faallo",
+    "verb": "Ka faallood"
+  },
+  "Committer": {
+    "noun": "Go'aamiye, Go'aamiyaha"
+  },
+  "Committers": {
+    "noun": "Go'aamiyayaal, Go'aamiyayaasha"
+  },
+  "Content": {
+    "noun": "Dhigaal"
+  },
+  "Copy": {
+    "noun": "Kareeb",
+    "verb": "Kareeb"
+  },
+  "Damage": {
+    "noun": "Waxyeello"
+  },
+  "Dark Mode": {
+    "noun": "Habka Madow"
+  },
+  "Dashboard": {
+    "noun": "Jaafka Wadidda"
+  },
+  "Data": {
+    "noun": "Xog"
+  },
+  "Database": {
+    "noun": "Xoggunka"
+  },
+  "Default": {
+    "noun": "Gabbaad"
+  },
+  "Define": {
+    "verb": "Qeex, Qeexid"
+  },
+  "Definition": {
+    "noun": "Qeexaal"
+  },
+  "Delete": {
+    "verb": "Tirtir"
+  },
+  "Describe": {
+    "verb": "Sharax, Sharaxid"
+  },
+  "Description": {
+    "noun": "Sharraxaad"
+  },
+  "Destination": {
+    "noun": "Bartilmaameed"
+  },
+  "Destroy": {
+    "verb": "Burburi"
+  },
+  "Developer": {
+    "noun": "Horumariye, Horumariyaha"
+  },
+  "Directory": {
+    "noun": "Gal, Galka"
+  },
+  "Do": {
+    "verb": "Yeel"
+  },
+  "Done": {
+    "verb": "Yeelan"
+  },
+  "Download": {
+    "noun": "Rogidda",
+    "verb": "Rog, Rogid"
+  },
+  "Draft": {
+    "noun": "Qabyo"
+  },
+  "Eject": {
+    "verb": "Saar"
+  },
+  "Email": {
+    "noun": "Emayl"
+  },
+  "Error": {
+    "noun": "Gef, Cillad"
+  },
+  "Excerpt": {
+    "noun": "Arar, Ararta"
+  },
+  "Extension": {
+    "noun": "Kordhin, Kordhinta"
+  },
+  "Extensions": {
+    "noun": "Kordhinno"
+  },
+  "FAQ": {
+    "noun": "SBI"
+  },
+  "Feedback": {
+    "noun": "Falcelis"
+  },
+  "File": {
+    "noun": "Fayl"
+  },
+  "Flagged": {
+    "noun": "La calansaaray"
+  },
+  "Float": {
+    "noun": "Sabbeeye"
+  },
+  "Font size": {
+    "noun": "Cabbir khad"
+  },
+  "Footer": {
+    "noun": "Cageeye"
+  },
+  "Format": {
+    "noun": "Beeqaab"
+  },
+  "Forum": {
+    "noun": "Madal"
+  },
+  "Frame": {
+    "noun": "Idaar",
+    "verb": "Idaar, Idaarid"
+  },
+  "Function": {
+    "noun": "Fansaar"
+  },
+  "Guidelines": {
+    "noun": "Tilmaamaha"
+  },
+  "Header": {
+    "noun": "Madxiye"
+  },
+  "Heading": {
+    "noun": "Cinwaan"
+  },
+  "Heght": {
+    "noun": "Joog, Jooga"
+  },
+  "Hide": {
+    "noun": "Qari"
+  },
+  "Hint": {
+    "noun": "Hagid"
+  },
+  "Home": {
+    "noun": "Hoy"
+  },
+  "Horizontal": {
+    "noun": "Jiifsan"
+  },
+  "Hostname": {
+    "noun": "Marti-magac, Marti-magaca"
+  },
+  "Icon": {
+    "noun": "Astaan"
+  },
+  "Ink": {
+    "noun": "Anqaas"
+  },
+  "Install": {
+    "verb": "Rakib, Rakibid"
+  },
+  "Installation": {
+    "noun": "Rakibaad"
+  },
+  "Integer": {
+    "noun": "Abyoone"
+  },
+  "Interpretation": {
+    "noun": "Laqbayn"
+  },
+  "Introduction": {
+    "noun": "Hordhac"
+  },
+  "Keyword": {
+    "noun": "Ereyfure"
+  },
+  "Leave": {
+    "verb": "Dhaaf, Dhaafid"
+  },
+  "License": {
+    "noun": "Shati"
+  },
+  "List": {
+    "noun": "Liis"
+  },
+  "Load": {
+    "noun": "Rar"
+  },
+  "Locale": {
+    "noun": "Carri, Carriga"
+  },
+  "Location": {
+    "noun": "Goob"
+  },
+  "Logo": {
+    "noun": "Halhays, Halhayska"
+  },
+  "Loop": {
+    "noun": "Galool"
+  },
+  "Media": {
+    "noun": "Maqal iyo Muuqaal, Meediya, Meediyaha"
+  },
+  "Memory": {
+    "noun": "Xusuus"
+  },
+  "Menu": {
+    "noun": "Taxmo"
+  },
+  "Message": {
+    "noun": "Fariin"
+  },
+  "Mission": {
+    "noun": "Hiigsi"
+  },
+  "Mute": {
+    "noun": "Shib"
+  },
+  "Notes": {
+    "noun": "Xusuusqor"
+  },
+  "Notification": {
+    "noun": "Baraarujin"
+  },
+  "Null": {
+    "noun": "Madhan"
+  },
+  "Object": {
+    "noun": "Walax"
+  },
+  "Off": {
+    "noun": "Damsan"
+  },
+  "Ok": {
+    "expression": "Hagaag"
+  },
+  "On": {
+    "noun": "Daaran"
+  },
+  "Option": {
+    "noun": "Xulanti"
+  },
+  "Optional": {
+    "adjective": "Dookh"
+  },
+  "Ordered List": {
+    "noun": "Liis Hannaan Leh"
+  },
+  "Package": {
+    "noun": "Xirmo"
+  },
+  "Page": {
+    "noun": "Bog"
+  },
+  "Parameter": {
+    "noun": "Baaramitir"
+  },
+  "Password": {
+    "noun": "Ereykugal"
+  },
+  "Pattern": {
+    "noun": "Qaab"
+  },
+  "Pending": {
+    "noun": "Hubinsug"
+  },
+  "Permalink": {
+    "noun": "Xiriirsugan"
+  },
+  "Pingback": {
+    "noun": "Jibiqcelis"
+  },
+  "Placeholder": {
+    "noun": "Goobhaye, Goobhayaha"
+  },
+  "Plugin": {
+    "noun": "Kaabe, Kaabaha"
+  },
+  "Plugins": {
+    "noun": "Kaabayaal, Kaabayaasha"
+  },
+  "Post": {
+    "noun": "Qormo"
+  },
+  "Preview": {
+    "noun": "Milicsi",
+    "verb": "Milicso"
+  },
+  "Profile": {
+    "noun": "Xogkoob, Xogkoobka"
+  },
+  "Publish": {
+    "verb": "Faafi"
+  },
+  "Refresh": {
+    "verb": "Rarceli"
+  },
+  "Release": {
+    "verb": "Siidayn, Siidaynta"
+  },
+  "Remove": {
+    "verb": "Bixi"
+  },
+  "Repository": {
+    "noun": "Bakhaar"
+  },
+  "Reset": {
+    "verb": "Dib u deji"
+  },
+  "Responsive": {
+    "adjective": "Okobban"
+  },
+  "REST": {
+    "noun": "REST"
+  },
+  "Restore": {
+    "verb": "Celi"
+  },
+  "Review": {
+    "noun": "Dibu-eegis"
+  },
+  "Rich Editor": {
+    "noun": "Tifaftire Hodman"
+  },
+  "Row": {
+    "noun": "Jiifutax, Saf"
+  },
+  "Screenshot": {
+    "noun": "Sawirshaashad"
+  },
+  "Search": {
+    "noun": "Raadi"
+  },
+  "Separator": {
+    "noun": "Kalasooce"
+  },
+  "Server": {
+    "noun": "Serfar"
+  },
+  "Set": {
+    "verb": "Deji"
+  },
+  "Settings": {
+    "noun": "Dejinta"
+  },
+  "Show": {
+    "verb": "Muuji"
+  },
+  "Showcase": {
+    "noun": "Bandhig"
+  },
+  "Sidebar": {
+    "noun": "Bar-dhinac"
+  },
+  "Site": {
+    "noun": "Bar"
+  },
+  "Spam": {
+    "noun": "Isbam, Shufto"
+  },
+  "Static": {
+    "noun": "Neg"
+  },
+  "Static Page": {
+    "noun": "Bog Neg"
+  },
+  "Stats": {
+    "noun": "Istaatikada"
+  },
+  "String": {
+    "noun": "Xadhig"
+  },
+  "Style": {
+    "noun": "Hab, Hababka"
+  },
+  "Submit": {
+    "verb": "Gudbi, Gudbin"
+  },
+  "Subscribe": {
+    "noun": "Rukumo, Rukumid"
+  },
+  "Support": {
+    "noun": "Taageero"
+  },
+  "Tag": {
+    "noun": "Sumad"
+  },
+  "Tagline": {
+    "noun": "Halkudheg"
+  },
+  "Tags": {
+    "noun": "Sumado"
+  },
+  "Template": {
+    "noun": "Moodal, Moodalka"
+  },
+  "Text": {
+    "noun": "Qoraal"
+  },
+  "Theme": {
+    "noun": "Naqshad"
+  },
+  "Themes": {
+    "noun": "Naqshado"
+  },
+  "Thumbnail": {
+    "noun": "Sawiryare, Sawiryaraha"
+  },
+  "Title": {
+    "noun": "Cinwaan, Suraab"
+  },
+  "Toolbar": {
+    "noun": "Egnedsito"
+  },
+  "Trackback": {
+    "noun": "Raadcelis"
+  },
+  "Trash": {
+    "noun": "Qashin",
+    "verb": "Qub"
+  },
+  "Type": {
+    "noun": "Namuun"
+  },
+  "Unordered List": {
+    "noun": "Liis Hannaan La'"
+  },
+  "Upload": {
+    "verb": "Rarsaar, Rarsaaray",
+    "noun": "Rarsaarid"
+  },
+  "User": {
+    "noun": "Adeegsade"
+  },
+  "Username": {
+    "noun": "Magackugal"
+  },
+  "Variable": {
+    "noun": "Doorsoome"
+  },
+  "Version": {
+    "noun": "Meeris"
+  },
+  "Video": {
+    "noun": "Muuqaal, Fiidiyow"
+  },
+  "View": {
+    "verb": "Arag"
+  },
+  "Vission": {
+    "noun": "Hiraal"
+  },
+  "Visual": {
+    "adjective": "Muuqda"
+  },
+  "Widget": {
+    "noun": "Gabal, Gabalka"
+  },
+  "Widgets": {
+    "noun": "Gaballo, Gaballada"
+  },
+  "Width": {
+    "noun": "Ballac"
+  }
+}

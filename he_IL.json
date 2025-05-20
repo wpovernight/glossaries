@@ -1,0 +1,276 @@
+{
+  "admin bar": {
+    "noun": "סרגל ניהול"
+  },
+  "akismet": {
+    "noun": "אקיזמט"
+  },
+  "archive": {
+    "noun": "ארכיון"
+  },
+  "array": {
+    "noun": "מערך"
+  },
+  "author": {
+    "noun": "מחבר"
+  },
+  "avatar": {
+    "noun": "צלמית משתמש"
+  },
+  "bbpress": {
+    "noun": "ביביפרס"
+  },
+  "block": {
+    "noun": "בלוק"
+  },
+  "block patterns": {
+    "noun": "מקבצי בלוקים"
+  },
+  "blog": {
+    "noun": "אתר"
+  },
+  "browser": {
+    "noun": "דפדפן"
+  },
+  "BuddyPress": {
+    "noun": "באדיפרס"
+  },
+  "bug": {
+    "noun": "תקלה"
+  },
+  "bulk action": {
+    "noun": "עריכה קבוצתית"
+  },
+  "comment": {
+    "noun": "תגובה",
+    "verb": "להגיב"
+  },
+  "crop": {
+    "verb": "חיתוך"
+  },
+  "dashboard": {
+    "noun": "לוח בקרה"
+  },
+  "default": {
+    "noun": "ברירת מחדל"
+  },
+  "default theme": {
+    "expression": "תבנית ברירת מחדל"
+  },
+  "deprecated": {
+    "adjective": "הוצא משימוש",
+    "noun": "הוצא משימוש"
+  },
+  "design system": {
+    "noun": "מערכת עיצוב"
+  },
+  "developer": {
+    "noun": "מפתח"
+  },
+  "documentation": {
+    "noun": "תיעוד"
+  },
+  "draft": {
+    "noun": "טיוטה"
+  },
+  "email": {
+    "noun": "אימייל"
+  },
+  "embed": {
+    "noun": "הטמעה"
+  },
+  "error": {
+    "noun": "שגיאה"
+  },
+  "excerpt": {
+    "noun": "תקציר"
+  },
+  "fatal error": {
+    "noun": "שגיאה חמורה"
+  },
+  "favicon": {
+    "noun": "סמל אתר"
+  },
+  "featured image": {
+    "noun": "תמונה ראשית"
+  },
+  "formatting shortcuts": {
+    "noun": "קיצורי עיצוב"
+  },
+  "GlotPress": {
+    "noun": "גלוטפרס"
+  },
+  "gradient": {
+    "noun": "מעבר צבע"
+  },
+  "help tab": {
+    "noun": "לשונית עזרה"
+  },
+  "hook": {
+    "noun": "הוק"
+  },
+  "howdy": {
+    "expression": "שלום"
+  },
+  "icon": {
+    "noun": "סמל"
+  },
+  "lost your password?": {
+    "expression": "שחזור סיסמה"
+  },
+  "multisite": {
+    "noun": "רשת אתרים"
+  },
+  "pagination": {
+    "noun": "דפדוף"
+  },
+  "permalink": {
+    "noun": "מבנה קישור"
+  },
+  "plugin": {
+    "noun": "תוסף"
+  },
+  "post": {
+    "noun": "פוסט",
+    "verb": "לפרסם"
+  },
+  "post format": {
+    "noun": "סוג תוכן"
+  },
+  "post status": {
+    "noun": "מצב עריכה"
+  },
+  "post type": {
+    "noun": "סוג תוכן"
+  },
+  "post types": {
+    "noun": "סוגי תוכן"
+  },
+  "preset": {
+    "noun": "מוגדר מראש"
+  },
+  "press this": {
+    "noun": "פרסם את זה"
+  },
+  "preview": {
+    "verb": "תצוגה מקדימה"
+  },
+  "profile": {
+    "noun": "פרופיל"
+  },
+  "query": {
+    "noun": "שאילתא"
+  },
+  "quickpress": {
+    "noun": "פרסום מהיר"
+  },
+  "recovery mode": {
+    "noun": "מצב התאוששות"
+  },
+  "register": {
+    "verb": "הרשמה"
+  },
+  "revision": {
+    "noun": "גרסה"
+  },
+  "role": {
+    "noun": "תפקיד"
+  },
+  "short code": {
+    "noun": "שורטקוד"
+  },
+  "shortcode": {
+    "noun": "שורטקוד"
+  },
+  "sidebar": {
+    "noun": "סרגל צדדי"
+  },
+  "site": {
+    "noun": "אתר"
+  },
+  "slug": {
+    "noun": "מזהה כתובת"
+  },
+  "spam": {
+    "noun": "ספאם"
+  },
+  "stick": {
+    "verb": "להדביק"
+  },
+  "sticky": {
+    "adjective": "דביק"
+  },
+  "sticky post": {
+    "noun": "פוסט דביק"
+  },
+  "sub-directory": {
+    "noun": "תת-ספרייה"
+  },
+  "sub-domain": {
+    "noun": "תת-דומיין"
+  },
+  "subdirectory": {
+    "noun": "תת-ספרייה"
+  },
+  "subdomain": {
+    "noun": "תת-דומיין"
+  },
+  "tag": {
+    "noun": "תגית/תגיות"
+  },
+  "taxonomy": {
+    "noun": "טקסונומיה"
+  },
+  "template": {
+    "noun": "תבנית"
+  },
+  "template hierarchy": {
+    "noun": "היררכית תבנית"
+  },
+  "template parts": {
+    "noun": "חלקי תבנית"
+  },
+  "term": {
+    "noun": "מונח"
+  },
+  "theme": {
+    "noun": "תבנית"
+  },
+  "toolbar": {
+    "noun": "סרגל כלים"
+  },
+  "trackback": {
+    "noun": "טראקבאק"
+  },
+  "trash": {
+    "noun": "פח"
+  },
+  "upgrade": {
+    "noun": "שדרוג",
+    "verb": "לשדרג"
+  },
+  "user": {
+    "noun": "משתמש"
+  },
+  "username": {
+    "noun": "שם משתמש"
+  },
+  "variation": {
+    "noun": "וריאציה"
+  },
+  "verification code": {
+    "noun": "קוד אימות"
+  },
+  "video": {
+    "noun": "וידאו"
+  },
+  "view": {
+    "verb": "להציג"
+  },
+  "widget": {
+    "noun": "וידג'ט"
+  },
+  "wordpress": {
+    "noun": "וורדפרס"
+  }
+}

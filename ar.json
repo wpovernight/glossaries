@@ -1,0 +1,1124 @@
+{
+  "Accessibility": {
+    "noun": "إمكانية وصول"
+  },
+  "Account": {
+    "noun": "حساب"
+  },
+  "Action": {
+    "noun": "إجراء"
+  },
+  "adjust": {
+    "verb": "ضبط"
+  },
+  "advanced": {
+    "adjective": "متقدم"
+  },
+  "Alignment": {
+    "noun": "محاذاة"
+  },
+  "Alpha": {
+    "noun": "ألفا"
+  },
+  "alphanumeric": {
+    "adjective": "أبجدي رقمي"
+  },
+  "AOV": {
+    "abbreviation": "متوسط قيمة الطلب"
+  },
+  "API": {
+    "abbreviation": "واجهة برمجة التطبيقات (API)"
+  },
+  "Application": {
+    "noun": "تطبيق"
+  },
+  "Article": {
+    "noun": "مقالة / مقالات"
+  },
+  "Artist": {
+    "noun": "فنان"
+  },
+  "assign": {
+    "verb": "إسناد"
+  },
+  "Attachment": {
+    "noun": "مُرفق"
+  },
+  "Attachments": {
+    "noun": "مٌرفقات"
+  },
+  "Authentication": {
+    "noun": "مصادقة"
+  },
+  "Author": {
+    "noun": "كاتب"
+  },
+  "Authorization": {
+    "noun": "تفويض"
+  },
+  "Automattic": {
+    "noun": "Automattic"
+  },
+  "Avatar": {
+    "noun": "صورة رمزية"
+  },
+  "Backslash": {
+    "noun": "خط مائل عكسي"
+  },
+  "Backup": {
+    "noun": "نسخة احتياطية"
+  },
+  "Backups": {
+    "noun": "نسخ احتياطية"
+  },
+  "Beta": {
+    "noun": "بيتا"
+  },
+  "Block": {
+    "noun": "مُكوِّن"
+  },
+  "Block Editor": {
+    "noun": "مُحرر المكوِّنات"
+  },
+  "Block Pattern": {
+    "noun": "نمط مُكوِّن"
+  },
+  "Block Patterns": {
+    "noun": "أنماط مُكوِّن"
+  },
+  "Blocks": {
+    "noun": "مكوِّنات"
+  },
+  "Blog": {
+    "noun": "مدونة"
+  },
+  "Breadcrumb": {
+    "noun": "مسار التنقل"
+  },
+  "Breadcrumbs": {
+    "noun": "مسارات التنقل"
+  },
+  "Bulk Action": {
+    "noun": "إجراء مُجمع"
+  },
+  "Bulk Actions": {
+    "noun": "إجراءات مُجمعة"
+  },
+  "Button": {
+    "noun": "زر"
+  },
+  "button-style link": {
+    "expression": "رابط على شكل زر"
+  },
+  "Calendar": {
+    "noun": "تقويم"
+  },
+  "cancel": {
+    "verb": "إلغاء"
+  },
+  "Canvas": {
+    "noun": "لوحة"
+  },
+  "Capabilities": {
+    "noun": "صلاحيات"
+  },
+  "Capability": {
+    "noun": "صلاحية"
+  },
+  "Categories": {
+    "noun": "تصنيفات"
+  },
+  "Category": {
+    "noun": "تصنيف"
+  },
+  "Changeset": {
+    "noun": "حزمة تغييرات"
+  },
+  "Changesets": {
+    "noun": "حزم تغييرات"
+  },
+  "Checkbox": {
+    "noun": "مربع اختيار"
+  },
+  "Checkboxes": {
+    "noun": "مربعات اختيار"
+  },
+  "classic": {
+    "adjective": "تقليدي"
+  },
+  "Classic Editor": {
+    "noun": "محرر تقليدي"
+  },
+  "Classic Widgets": {
+    "noun": "ودجات تقليدية"
+  },
+  "Click": {
+    "verb": "انقر"
+  },
+  "Clipboard": {
+    "noun": "حافظة"
+  },
+  "Code Editor": {
+    "noun": "مُحرر شفرة برمجية"
+  },
+  "Color Picker": {
+    "noun": "لاقط لون"
+  },
+  "Column": {
+    "noun": "عمود"
+  },
+  "Columns": {
+    "noun": "أعمدة"
+  },
+  "Comma": {
+    "noun": "فاصلة"
+  },
+  "Command": {
+    "noun": "أمر"
+  },
+  "Commas": {
+    "noun": "فواصل"
+  },
+  "Comment": {
+    "noun": "تعليق"
+  },
+  "Commenter": {
+    "noun": "مُعلِق"
+  },
+  "Comments": {
+    "noun": "تعليقات"
+  },
+  "Company": {
+    "noun": "شركة"
+  },
+  "Container": {
+    "noun": "حاوية"
+  },
+  "Contributor": {
+    "noun": "مساهم"
+  },
+  "Contributors": {
+    "noun": "مساهمون، مساهمين"
+  },
+  "convert": {
+    "verb": "تحويل"
+  },
+  "copy": {
+    "verb": "نسخ"
+  },
+  "Copyright": {
+    "noun": "حقوق النشر"
+  },
+  "Cover": {
+    "noun": "غلاف"
+  },
+  "CSS": {
+    "abbreviation": "CSS"
+  },
+  "Customizer": {
+    "noun": "أداة التخصيص"
+  },
+  "Dashboard": {
+    "noun": "لوحة تحكم"
+  },
+  "Database": {
+    "noun": "قاعدة بيانات"
+  },
+  "deactivate": {
+    "verb": "تعطيل"
+  },
+  "deactivated": {
+    "verb": "تم تعطيل"
+  },
+  "decode": {
+    "verb": "فك ترميز"
+  },
+  "Default": {
+    "noun": "افتراضي"
+  },
+  "delete": {
+    "verb": "حذف"
+  },
+  "deprecated": {
+    "adjective": "مهجور"
+  },
+  "Design": {
+    "noun": "تصميم"
+  },
+  "detailed": {
+    "adjective": "مُفصَّل"
+  },
+  "Development Environment": {
+    "noun": "البيئة التطويرية"
+  },
+  "Dimensions": {
+    "noun": "أبعاد"
+  },
+  "disable": {
+    "noun": "تعطيل"
+  },
+  "disabled": {
+    "adjective": "مُعطّل"
+  },
+  "dismiss": {
+    "verb": "تجاهل"
+  },
+  "DNS": {
+    "abbreviation": "نظام أسماء النطاقات (DNS)"
+  },
+  "Domain": {
+    "noun": "نطاق"
+  },
+  "Domains": {
+    "noun": "نطاقات"
+  },
+  "download": {
+    "verb": "تنزيل"
+  },
+  "Draft": {
+    "noun": "مسودة"
+  },
+  "Dropdown": {
+    "noun": "قائمة منسدلة"
+  },
+  "edit": {
+    "verb": "تحرير"
+  },
+  "editable": {
+    "adjective": "قابل للتحرير"
+  },
+  "Email": {
+    "noun": "بريد إلكتروني"
+  },
+  "Embeds": {
+    "noun": "تضمينات"
+  },
+  "Emoticons": {
+    "noun": "أيقونات تعبيرية"
+  },
+  "Enable": {
+    "noun": "تفعيل"
+  },
+  "encode": {
+    "verb": "ترميز"
+  },
+  "Enhancements": {
+    "noun": "تحسينات"
+  },
+  "Error": {
+    "noun": "خطأ"
+  },
+  "Excerpt": {
+    "noun": "مقتطف"
+  },
+  "Excerpts": {
+    "noun": "مقتطفات"
+  },
+  "expand": {
+    "verb": "توسيع"
+  },
+  "F j, Y": {
+    "noun": "j F، Y"
+  },
+  "Facebook": {
+    "noun": "فيسبوك"
+  },
+  "Family": {
+    "noun": "عائلة"
+  },
+  "Favicon": {
+    "noun": "أيقونة المفضلة"
+  },
+  "Featured Image": {
+    "noun": "صورة بارزة"
+  },
+  "Fields": {
+    "noun": "حقول"
+  },
+  "Fieldset": {
+    "noun": "مجموعة حقول"
+  },
+  "Fieldsets": {
+    "noun": "مجموعات حقول"
+  },
+  "Filter": {
+    "noun": "خُطاف ترشيح"
+  },
+  "filter": {
+    "verb": "تصفية"
+  },
+  "Filters": {
+    "noun": "عوامل تصفية"
+  },
+  "Folder": {
+    "noun": "مجلد"
+  },
+  "Footer": {
+    "noun": "تذييل"
+  },
+  "Footers": {
+    "noun": "تذييلات"
+  },
+  "Form": {
+    "noun": "نموذج"
+  },
+  "Format": {
+    "noun": "صيغة"
+  },
+  "Formatting": {
+    "noun": "تنسيق"
+  },
+  "Forms": {
+    "noun": "نماذج"
+  },
+  "Forum": {
+    "noun": "منتدى"
+  },
+  "Forums": {
+    "noun": "منتديات"
+  },
+  "free": {
+    "adjective": "مجّاني"
+  },
+  "Front Page": {
+    "noun": "الصفحة الأمامية"
+  },
+  "FTP": {
+    "abbreviation": "بروتوكول نقل الملفات (FTP)"
+  },
+  "Full Site Editing": {
+    "noun": "تحرير الموقع بالكامل"
+  },
+  "Function": {
+    "noun": "دالة"
+  },
+  "general": {
+    "adjective": "عام"
+  },
+  "global": {
+    "adjective": "عام، عمومي"
+  },
+  "Global Styles": {
+    "noun": "تنسيقات عامة"
+  },
+  "Gravatar": {
+    "noun": "Gravatar"
+  },
+  "Group": {
+    "noun": "مجموعة"
+  },
+  "GUID": {
+    "abbreviation": "مُعرِّف (GUID)"
+  },
+  "Gutenberg": {
+    "noun": "Gutenberg"
+  },
+  "Header": {
+    "noun": "ترويسة"
+  },
+  "Headers": {
+    "noun": "ترويسات"
+  },
+  "Heading": {
+    "noun": "عنوان"
+  },
+  "Headings": {
+    "noun": "عناوين"
+  },
+  "height": {
+    "noun": "ارتفاع"
+  },
+  "hidden": {
+    "adjective": "مخفي"
+  },
+  "hierarchical": {
+    "adjective": "هرمي"
+  },
+  "Hierarchy": {
+    "noun": "تسلسل هرمي"
+  },
+  "Home Page": {
+    "noun": "الصفحة الرئيسية"
+  },
+  "Homepage": {
+    "noun": "الصفحة الرئيسية"
+  },
+  "Hook": {
+    "noun": "خُطاف"
+  },
+  "Hostname": {
+    "noun": "اسم المُضيف"
+  },
+  "howdy": {
+    "expression": "مرحبًا"
+  },
+  "HTML": {
+    "abbreviation": "HTML"
+  },
+  "human readable": {
+    "expression": "قابل للقراءة"
+  },
+  "Icon": {
+    "noun": "أيقونة"
+  },
+  "Icons": {
+    "noun": "أيقونات"
+  },
+  "ID": {
+    "abbreviation": "مُعرِّف"
+  },
+  "insert": {
+    "verb": "إدراج"
+  },
+  "Insights": {
+    "noun": "رؤى"
+  },
+  "Instagram": {
+    "noun": "انستغرام"
+  },
+  "Install": {
+    "noun": "تنصيب"
+  },
+  "invalid": {
+    "adjective": "غير صالحة"
+  },
+  "Jetpack": {
+    "noun": "Jetpack"
+  },
+  "Keyphrase": {
+    "noun": "عبارة مفتاحية"
+  },
+  "Keyphrases": {
+    "noun": "عبارات مفتاحية"
+  },
+  "Keyword": {
+    "noun": "كلمة مفتاحية"
+  },
+  "Keywords": {
+    "noun": "كلمات مفتاحية"
+  },
+  "Layout": {
+    "noun": "تخطيط"
+  },
+  "Layouts": {
+    "noun": "تخطيطات"
+  },
+  "Left": {
+    "noun": "يمين"
+  },
+  "Link": {
+    "noun": "رابط"
+  },
+  "Links": {
+    "noun": "روابط"
+  },
+  "Location": {
+    "noun": "مكان"
+  },
+  "Logo": {
+    "noun": "شعار"
+  },
+  "Loop": {
+    "noun": "حلقة"
+  },
+  "M d, g:ia": {
+    "noun": "j F، g:ia"
+  },
+  "M j, Y": {
+    "noun": "j F، Y"
+  },
+  "M j, Y @ G:i": {
+    "noun": "j F، Y @ G:i"
+  },
+  "M j, Y @ H:i": {
+    "noun": "j F، Y @ H:i"
+  },
+  "manual": {
+    "adjective": "يدوي"
+  },
+  "Margin": {
+    "noun": "هامش"
+  },
+  "Margins": {
+    "noun": "هوامش"
+  },
+  "Media": {
+    "noun": "وسائط"
+  },
+  "Media Library": {
+    "noun": "مكتبة الوسائط"
+  },
+  "Member": {
+    "noun": "عضو"
+  },
+  "Menu": {
+    "noun": "قائمة"
+  },
+  "Mobile": {
+    "noun": "جوال"
+  },
+  "Modern Design": {
+    "noun": "تصميم عصري"
+  },
+  "Multisite": {
+    "noun": "مُتعدد المواقع"
+  },
+  "MySQL": {
+    "noun": "MySQL"
+  },
+  "Name": {
+    "noun": "اسم"
+  },
+  "Names": {
+    "noun": "أسماء"
+  },
+  "Namespace": {
+    "noun": "مساحة الاسم (Namespace)"
+  },
+  "Navigation Menu": {
+    "noun": "قائمة تنقل"
+  },
+  "Navigation Menus": {
+    "noun": "قوائم تنقل"
+  },
+  "Network": {
+    "noun": "شبكة"
+  },
+  "Networks": {
+    "noun": "شبكات"
+  },
+  "oEmbed": {
+    "noun": "oEmbed"
+  },
+  "official": {
+    "adjective": "رسمي"
+  },
+  "Opacity": {
+    "noun": "عتامة"
+  },
+  "Option": {
+    "noun": "خيار"
+  },
+  "optional": {
+    "adjective": "اختياري"
+  },
+  "Options": {
+    "noun": "خيارات"
+  },
+  "Owner": {
+    "noun": "مالك"
+  },
+  "Page": {
+    "noun": "صفحة"
+  },
+  "Page Cache": {
+    "noun": "ذاكرة التخزين المؤقت للصفحات"
+  },
+  "Palette": {
+    "noun": "لوحة الألوان"
+  },
+  "Parameter": {
+    "noun": "مُعامل"
+  },
+  "Parameters": {
+    "noun": "مُعاملات"
+  },
+  "Parent Page": {
+    "noun": "صفحة أم"
+  },
+  "Parent Term": {
+    "noun": "عنصر أب"
+  },
+  "Password": {
+    "noun": "كلمة مرور"
+  },
+  "paste": {
+    "verb": "لصق"
+  },
+  "Pattern": {
+    "noun": "نمط"
+  },
+  "Patterns": {
+    "noun": "أنماط"
+  },
+  "Permalink": {
+    "noun": "رابط دائم"
+  },
+  "Permalinks": {
+    "noun": "روابط دائمة"
+  },
+  "permanently": {
+    "adverb": "بشكل دائم"
+  },
+  "Permission": {
+    "noun": "صلاحية"
+  },
+  "Permissions": {
+    "noun": "صلاحيات"
+  },
+  "permitted": {
+    "adjective": "مسموح"
+  },
+  "Persistent Object Cache": {
+    "noun": "ذاكرة التخزين المؤقت للكائنات الثابتة"
+  },
+  "personal": {
+    "adjective": "شخصيّة"
+  },
+  "Photo": {
+    "noun": "صورة"
+  },
+  "PHP": {
+    "noun": "PHP"
+  },
+  "Pingbacks": {
+    "noun": "تنبيهات"
+  },
+  "Pixel": {
+    "noun": "بكسل"
+  },
+  "Playlist": {
+    "noun": "قائمة تشغيل"
+  },
+  "Plugin": {
+    "noun": "إضافة"
+  },
+  "Plugin Author": {
+    "noun": "مطور الإضافة"
+  },
+  "Plugin Directory": {
+    "noun": "دليل الإضافات"
+  },
+  "Plugins": {
+    "noun": "إضافات"
+  },
+  "popular": {
+    "adjective": "شائعة، شعبية، شهيرة"
+  },
+  "Post": {
+    "noun": "مقالة"
+  },
+  "Post Format": {
+    "noun": "صيغة المقال"
+  },
+  "Post Formats": {
+    "noun": "صيغ المقال"
+  },
+  "Post Type": {
+    "noun": "نوع محتوى"
+  },
+  "Post Types": {
+    "noun": "أنواع محتوى"
+  },
+  "Posts": {
+    "noun": "مقالات"
+  },
+  "Preference": {
+    "noun": "تفضيل"
+  },
+  "Preferences": {
+    "noun": "تفضيلات"
+  },
+  "Prefix": {
+    "noun": "بادئة"
+  },
+  "premium": {
+    "adjective": "مميّز"
+  },
+  "press": {
+    "verb": "اضغط"
+  },
+  "Press This": {
+    "verb": "انشر هذا"
+  },
+  "Preview": {
+    "noun": "معاينة"
+  },
+  "Primary Domain": {
+    "noun": "نطاق أساسي"
+  },
+  "Privacy": {
+    "noun": "خصوصية"
+  },
+  "private": {
+    "adjective": "خاص"
+  },
+  "Problem": {
+    "noun": "مشكلة"
+  },
+  "Problems": {
+    "noun": "مُشكلات"
+  },
+  "Production Environment": {
+    "noun": "البيئة التشغيلية"
+  },
+  "Profile": {
+    "noun": "ملف شخصي"
+  },
+  "protected": {
+    "adjective": "محمي"
+  },
+  "public facing": {
+    "expression": "موجّه للعامة"
+  },
+  "Queries": {
+    "noun": "استعلامات"
+  },
+  "Query": {
+    "noun": "استعلام"
+  },
+  "random": {
+    "adjective": "عشوائي"
+  },
+  "Rank Math": {
+    "noun": "رانك ماث"
+  },
+  "recent": {
+    "adjective": "أحدث"
+  },
+  "Registration": {
+    "noun": "تسجيل"
+  },
+  "Relationship": {
+    "noun": "علاقة"
+  },
+  "Release": {
+    "noun": "إصدار"
+  },
+  "remove": {
+    "verb": "إزالة"
+  },
+  "Reply": {
+    "noun": "رد"
+  },
+  "required": {
+    "adjective": "مطلوب"
+  },
+  "REST": {
+    "abbreviation": "REST"
+  },
+  "Result": {
+    "noun": "نتيجة"
+  },
+  "Results": {
+    "noun": "نتائج"
+  },
+  "Revision": {
+    "noun": "مراجعة"
+  },
+  "Right": {
+    "noun": "يسار"
+  },
+  "Role": {
+    "noun": "دور"
+  },
+  "Roles": {
+    "noun": "أدوار"
+  },
+  "Save Changes": {
+    "expression": "حفظ التغييرات"
+  },
+  "Screen": {
+    "noun": "شاشة"
+  },
+  "Screenshot": {
+    "noun": "لقطة شاشة"
+  },
+  "Screenshots": {
+    "noun": "لقطات شاشة"
+  },
+  "search": {
+    "verb": "بحث"
+  },
+  "Search Terms": {
+    "noun": "مصطلحات بحث"
+  },
+  "Server": {
+    "noun": "خادم"
+  },
+  "Session": {
+    "noun": "جلسة"
+  },
+  "Sessions": {
+    "noun": "جلسات"
+  },
+  "Settings": {
+    "noun": "إعدادات"
+  },
+  "SFTP": {
+    "abbreviation": "بروتوكول نقل الملفات الآمن (SFTP)"
+  },
+  "Share": {
+    "noun": "مشاركة"
+  },
+  "Shares": {
+    "noun": "مشاركات"
+  },
+  "Shortcode": {
+    "noun": "كود قصير"
+  },
+  "Sidebar": {
+    "noun": "شريط جانبي"
+  },
+  "Sidebars": {
+    "noun": "أشرطة جانبية"
+  },
+  "Single Sign-On": {
+    "noun": "تسجيل الدخول الموحد"
+  },
+  "Site": {
+    "noun": "موقع"
+  },
+  "Size": {
+    "noun": "حجم"
+  },
+  "Slug": {
+    "noun": "اسم لطيف"
+  },
+  "Spam": {
+    "noun": "مزعج"
+  },
+  "specified": {
+    "adjective": "مُحدد"
+  },
+  "Staging Environment": {
+    "noun": "البيئة المرحلية"
+  },
+  "Staging Site": {
+    "noun": "موقع مرحلي"
+  },
+  "standard": {
+    "adjective": "قياسي"
+  },
+  "Status": {
+    "noun": "حالة"
+  },
+  "sticky": {
+    "adjective": "مثبّت"
+  },
+  "Style": {
+    "noun": "تنسيق، أسلوب"
+  },
+  "Styles": {
+    "noun": "تنسيقات، أساليب"
+  },
+  "Subdirectory": {
+    "noun": "مجلد فرعي"
+  },
+  "Subdomain": {
+    "noun": "نطاق فرعي"
+  },
+  "Subsite": {
+    "noun": "موقع فرعي"
+  },
+  "Super Admin": {
+    "noun": "مدير عام"
+  },
+  "Tab": {
+    "noun": "علامة تبويب"
+  },
+  "Tabs": {
+    "noun": "علامات تبويب"
+  },
+  "Tag": {
+    "noun": "وسم"
+  },
+  "Tags": {
+    "noun": "وسوم"
+  },
+  "Taxonomies": {
+    "noun": "فئات"
+  },
+  "Taxonomy": {
+    "noun": "فئة"
+  },
+  "Team": {
+    "noun": "فريق"
+  },
+  "Template": {
+    "noun": "قالب / قوالب"
+  },
+  "Term": {
+    "noun": "عنصر"
+  },
+  "Terms": {
+    "noun": "عناصر"
+  },
+  "Testing Environment": {
+    "noun": "البيئة التجريبية"
+  },
+  "Text": {
+    "noun": "نص"
+  },
+  "Text Editor": {
+    "noun": "محرر نصوص"
+  },
+  "Theme": {
+    "noun": "قالب"
+  },
+  "Theme Author": {
+    "noun": "مُطور القالب"
+  },
+  "Theme Directory": {
+    "noun": "دليل القوالب"
+  },
+  "Themeansar": {
+    "noun": "ثيميانسار"
+  },
+  "Themes": {
+    "noun": "قوالب"
+  },
+  "Thumbnail Image": {
+    "noun": "صورة مُصغرة"
+  },
+  "Title": {
+    "noun": "عنوان"
+  },
+  "Toolbar": {
+    "noun": "شريط أدوات"
+  },
+  "Topic": {
+    "noun": "موضوع"
+  },
+  "Trackbacks": {
+    "noun": "تعقيبات"
+  },
+  "transparent": {
+    "adjective": "شفاف"
+  },
+  "Trash": {
+    "noun": "سلة مُهملات"
+  },
+  "Twitter": {
+    "noun": "تويتر"
+  },
+  "Typography": {
+    "noun": "أسلوب طباعة"
+  },
+  "UI": {
+    "abbreviation": "واجهة المستخدم (UI)"
+  },
+  "unauthorized": {
+    "adjective": "غير مصرّح"
+  },
+  "unavailable": {
+    "adjective": "غير متاح"
+  },
+  "Underscores": {
+    "noun": "شرطات سفلية"
+  },
+  "undo": {
+    "verb": "تراجع"
+  },
+  "unexpected": {
+    "adjective": "غير متوقع"
+  },
+  "unique": {
+    "adjective": "فريد"
+  },
+  "unknown": {
+    "adjective": "غير معروف"
+  },
+  "untitled": {
+    "adjective": "بدون عنوان"
+  },
+  "Update": {
+    "noun": "تحديث"
+  },
+  "upload": {
+    "verb": "رفع"
+  },
+  "URI": {
+    "noun": "مُعرِّف (URI)"
+  },
+  "User": {
+    "noun": "مستخدم"
+  },
+  "Username": {
+    "noun": "اسم المستخدم"
+  },
+  "Users": {
+    "noun": "مستخدمين"
+  },
+  "UUID": {
+    "abbreviation": "مُعرِّف (UUID)"
+  },
+  "valid": {
+    "adjective": "صالح"
+  },
+  "Version": {
+    "noun": "نسخة"
+  },
+  "Video": {
+    "noun": "فيديو"
+  },
+  "Videos": {
+    "noun": "مقاطع فيديو"
+  },
+  "Visitor": {
+    "noun": "زائر"
+  },
+  "Visitors": {
+    "noun": "زوار"
+  },
+  "Visual Editor": {
+    "noun": "مُحرر مرئي"
+  },
+  "Web": {
+    "noun": "ويب"
+  },
+  "Webfont": {
+    "noun": "خط ويب"
+  },
+  "Webfonts": {
+    "noun": "خطوط ويب"
+  },
+  "Website": {
+    "noun": "موقع إلكتروني"
+  },
+  "Weight": {
+    "noun": "وزن"
+  },
+  "Widget": {
+    "noun": "ودجت"
+  },
+  "Widgets": {
+    "noun": "ودجات"
+  },
+  "Width": {
+    "noun": "عرض"
+  },
+  "WordPress": {
+    "noun": "ووردبريس"
+  },
+  "you must": {
+    "expression": "يجب عليك"
+  },
+  "you should": {
+    "expression": "ينبغي عليك"
+  },
+  "your comment": {
+    "expression": "تعليقك"
+  },
+  "your email": {
+    "expression": "بريدك الإلكتروني"
+  },
+  "your homepage": {
+    "expression": "صفحتك الرئيسية"
+  },
+  "your inbox": {
+    "expression": "بريدك الوارد"
+  },
+  "your name": {
+    "expression": "اسمك"
+  },
+  "your role": {
+    "expression": "دورك"
+  },
+  "your website": {
+    "expression": "موقعك الإلكتروني"
+  },
+  "Youtube": {
+    "noun": "يوتيوب"
+  }
+}

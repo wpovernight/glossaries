@@ -1,0 +1,117 @@
+{
+  "about": {
+    "preposition": "сиһилии"
+  },
+  "Activate": {
+    "verb": "Холбоо"
+  },
+  "app": {
+    "noun": "дьибилгэт"
+  },
+  "background": {
+    "noun": "кэтэх ойуу"
+  },
+  "cell": {
+    "noun": "харах"
+  },
+  "customize": {
+    "verb": "нарылаа"
+  },
+  "Default": {
+    "adjective": "Анаан этиллибэтэҕинэ"
+  },
+  "download": {
+    "noun": "хачайдааһын",
+    "verb": "хачайдаа"
+  },
+  "draft": {
+    "noun": "баллыр"
+  },
+  "error": {
+    "noun": "алҕас"
+  },
+  "failed": {
+    "verb": "сатаммата"
+  },
+  "file": {
+    "noun": "билэ"
+  },
+  "hide": {
+    "verb": "саһыар"
+  },
+  "icon": {
+    "noun": "ойуучаан"
+  },
+  "interface": {
+    "noun": "алтыһаан"
+  },
+  "key": {
+    "noun": "баттам"
+  },
+  "Link": {
+    "noun": "Сигэ"
+  },
+  "logo": {
+    "noun": "си-бэлиэ"
+  },
+  "Look Up": {
+    "noun": "көрдөөһүн"
+  },
+  "memory": {
+    "noun": "долоҕой"
+  },
+  "menu": {
+    "noun": "талба"
+  },
+  "namespace": {
+    "noun": "аат дала"
+  },
+  "options": {
+    "noun": "туруоруулар"
+  },
+  "password": {
+    "noun": "аһарык"
+  },
+  "Permalinks": {
+    "noun": "Олоҕурбут сигэ"
+  },
+  "revision": {
+    "noun": "барыл"
+  },
+  "run": {
+    "verb": "саҕалаа"
+  },
+  "Search": {
+    "noun": "Көрдөөһүн"
+  },
+  "sidebar": {
+    "noun": "хаптал"
+  },
+  "sorry": {
+    "noun": "баалаама"
+  },
+  "temporary": {
+    "adjective": "быстах"
+  },
+  "trash": {
+    "noun": "бөх хоппото"
+  },
+  "Try again": {
+    "verb": "Хатылаан көр"
+  },
+  "undo": {
+    "noun": "төннөр"
+  },
+  "unknown": {
+    "adjective": "биллибэт"
+  },
+  "upload": {
+    "verb": "киллэр"
+  },
+  "warning": {
+    "verb": "болҕой"
+  },
+  "web page": {
+    "noun": "ситим-сирэй"
+  }
+}

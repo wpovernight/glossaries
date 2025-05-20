@@ -1,0 +1,242 @@
+{
+  "administrator": {
+    "noun": "administrátor"
+  },
+  "application password": {
+    "noun": "heslo aplikácie"
+  },
+  "autoloaded options": {
+    "noun": "automaticky načítavané nastavenia"
+  },
+  "backorder": {
+    "verb": "nákup na objednávku"
+  },
+  "block binding": {
+    "noun": "previazanie blokov"
+  },
+  "block theme": {
+    "noun": "bloková téma"
+  },
+  "bookmarklet": {
+    "noun": "bookmarklet"
+  },
+  "BuddyPress": {
+    "noun": "BuddyPress"
+  },
+  "button": {
+    "noun": "tlačidlo"
+  },
+  "callback": {
+    "noun": "spätné volanie"
+  },
+  "category": {
+    "noun": "kategória"
+  },
+  "child theme": {
+    "noun": "odvodená téma"
+  },
+  "comment": {
+    "noun": "komentár"
+  },
+  "custom": {
+    "adjective": "vlastné"
+  },
+  "Customizer": {
+    "noun": "Prispôsobenie"
+  },
+  "dashboard": {
+    "noun": "nástenka"
+  },
+  "draft": {
+    "noun": "koncept"
+  },
+  "editor": {
+    "noun": "editor"
+  },
+  "email": {
+    "noun": "e-mail"
+  },
+  "featured image": {
+    "noun": "ilustračný obrázok"
+  },
+  "feed": {
+    "noun": "feed"
+  },
+  "flat rate": {
+    "noun": "paušálna sadzba"
+  },
+  "folder": {
+    "noun": "priečinok"
+  },
+  "font family": {
+    "noun": "rodina písma"
+  },
+  "font weight": {
+    "noun": "hrúbka písma"
+  },
+  "font weights": {
+    "noun": "hrúbky písma"
+  },
+  "footer": {
+    "noun": "pätička"
+  },
+  "guideline": {
+    "noun": "príručka"
+  },
+  "header": {
+    "noun": "hlavička"
+  },
+  "IP": {
+    "noun": "IP adresa"
+  },
+  "knowledge base": {
+    "noun": "báza znalostí"
+  },
+  "latest": {
+    "adjective": "najnovšie"
+  },
+  "leave a comment": {
+    "expression": "pridajte komentár"
+  },
+  "list view": {
+    "noun": "zoznamové zobrazenie"
+  },
+  "live chat": {
+    "noun": "live chat"
+  },
+  "media library": {
+    "noun": "knižnica multimédií"
+  },
+  "menu": {
+    "noun": "menu / navigácia"
+  },
+  "network": {
+    "noun": "sieť"
+  },
+  "network admin": {
+    "expression": "administrácia siete"
+  },
+  "overrides": {
+    "noun": "prepisy"
+  },
+  "page": {
+    "noun": "stránka"
+  },
+  "page cache": {
+    "noun": "ukladanie stránok do medzipamäte"
+  },
+  "pagination": {
+    "noun": "stránkovanie"
+  },
+  "permalink": {
+    "noun": "trvalý odkaz"
+  },
+  "Personal Data": {
+    "noun": "Osobné údaje"
+  },
+  "pingback": {
+    "noun": "pingback"
+  },
+  "plugin": {
+    "noun": "plugin"
+  },
+  "plugins": {
+    "noun": "pluginy"
+  },
+  "post": {
+    "noun": "článok"
+  },
+  "post type": {
+    "expression": "typ obsahu"
+  },
+  "Powered by": {
+    "noun": "Dostupné pomocou / Poháňa"
+  },
+  "Press This": {
+    "expression": "Press This"
+  },
+  "restoring": {
+    "verb": "obnovovanie"
+  },
+  "reverting": {
+    "noun": "zvrátenie zmien"
+  },
+  "shipping": {
+    "noun": "doprava"
+  },
+  "shipping class": {
+    "noun": "trieda dopravy"
+  },
+  "shipping method": {
+    "noun": "spôsob doručenia"
+  },
+  "shipping zone": {
+    "noun": "zóna dopravy"
+  },
+  "Shortcode": {
+    "noun": "Shortcode"
+  },
+  "site": {
+    "noun": "webová stránka"
+  },
+  "Site Editor": {
+    "noun": "Editor stránky"
+  },
+  "SKU": {
+    "noun": "Katalógové číslo"
+  },
+  "slug": {
+    "noun": "slug"
+  },
+  "spam": {
+    "noun": "spam"
+  },
+  "tag": {
+    "noun": "značka"
+  },
+  "term": {
+    "noun": "výraz"
+  },
+  "terms": {
+    "noun": "výrazy / podmienky"
+  },
+  "theme": {
+    "noun": "téma"
+  },
+  "toolbar": {
+    "noun": "panel nástrojov"
+  },
+  "trackback": {
+    "noun": "trackback"
+  },
+  "URL": {
+    "noun": "URL adresa"
+  },
+  "user": {
+    "noun": "používateľ"
+  },
+  "User Experience": {
+    "noun": "Používateľská skúsenosť"
+  },
+  "username": {
+    "noun": "používateľské meno"
+  },
+  "website": {
+    "noun": "webová stránka"
+  },
+  "widget": {
+    "noun": "widget"
+  },
+  "widget area": {
+    "noun": "oblasť pre widgety"
+  },
+  "widget areas": {
+    "noun": "oblasti pre widgety"
+  },
+  "WordPress": {
+    "noun": "WordPress"
+  },
+  "WordPress Plugin Directory": {
+    "noun": "Katalóg WordPress pluginov"
+  }
+}

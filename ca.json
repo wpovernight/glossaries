@@ -1,0 +1,611 @@
+{
+  "abort": {
+    "verb": "interrompre"
+  },
+  "accent color": {
+    "noun": "color d'èmfasi"
+  },
+  "add new": {
+    "expression": "afegeix"
+  },
+  "add-on": {
+    "noun": "complement"
+  },
+  "addon": {
+    "noun": "complement"
+  },
+  "alignment": {
+    "noun": "alineació"
+  },
+  "archive": {
+    "noun": "arxiu"
+  },
+  "are you sure": {
+    "expression": "segur que"
+  },
+  "array": {
+    "noun": "matriu"
+  },
+  "aside": {
+    "noun": "anotació"
+  },
+  "asset": {
+    "noun": "recurs"
+  },
+  "attachment": {
+    "noun": "adjunt"
+  },
+  "backorder": {
+    "noun": "reserva"
+  },
+  "badge": {
+    "noun": "insígnia"
+  },
+  "banner": {
+    "noun": "bàner"
+  },
+  "block": {
+    "verb": "blocar",
+    "noun": "bloc"
+  },
+  "blog": {
+    "noun": "blog"
+  },
+  "border": {
+    "noun": "vora"
+  },
+  "breadcrumb": {
+    "noun": "ruta de navegació"
+  },
+  "bulk": {
+    "noun": "en massa"
+  },
+  "cache": {
+    "noun": "memòria cau"
+  },
+  "callback": {
+    "noun": "crida de retorn"
+  },
+  "capability": {
+    "noun": "capacitat"
+  },
+  "caption": {
+    "noun": "llegenda"
+  },
+  "cart": {
+    "noun": "cistella"
+  },
+  "case sensitive": {
+    "expression": "distingeix entre majúscules i minúscules"
+  },
+  "checkbox": {
+    "noun": "casella de selecció"
+  },
+  "choose": {
+    "verb": "triar"
+  },
+  "clear": {
+    "verb": "netejar"
+  },
+  "click": {
+    "noun": "clic",
+    "verb": "clicar (termcat)"
+  },
+  "clipboard": {
+    "noun": "porta-retalls"
+  },
+  "collapse": {
+    "verb": "reduir"
+  },
+  "contributor": {
+    "noun": "col·laborador, -a"
+  },
+  "cookie": {
+    "noun": "galeta"
+  },
+  "copyright": {
+    "noun": "copyright"
+  },
+  "crop": {
+    "verb": "escapçar"
+  },
+  "cross-sell": {
+    "noun": "venda creuada"
+  },
+  "Customizer": {
+    "noun": "Personalitzador"
+  },
+  "dashboard": {
+    "noun": "tauler"
+  },
+  "decrypt": {
+    "verb": "desxifrar"
+  },
+  "decryption": {
+    "noun": "desxifratge"
+  },
+  "delay": {
+    "noun": "retard",
+    "verb": "retardar"
+  },
+  "delete": {
+    "verb": "suprimir"
+  },
+  "deprecated": {
+    "adjective": "obsolet, -a"
+  },
+  "destination": {
+    "noun": "destinació"
+  },
+  "dismiss": {
+    "verb": "descartar"
+  },
+  "download": {
+    "noun": "baixada",
+    "verb": "baixar"
+  },
+  "downtime": {
+    "noun": "temps d'inactivitat"
+  },
+  "dropdown": {
+    "noun": "desplegable"
+  },
+  "duotone": {
+    "noun": "bitò"
+  },
+  "email": {
+    "noun": "correu electrònic"
+  },
+  "email address": {
+    "noun": "adreça electrònica"
+  },
+  "embed": {
+    "verb": "incrustar"
+  },
+  "encription": {
+    "noun": "xifratge"
+  },
+  "encrypt": {
+    "verb": "xifrar"
+  },
+  "enter": {
+    "noun": "retorn",
+    "verb": "introduir"
+  },
+  "event": {
+    "noun": "esdeveniment"
+  },
+  "excerpt": {
+    "noun": "extracte"
+  },
+  "fallback": {
+    "noun": "alternativa"
+  },
+  "FAQ": {
+    "noun": "PMF"
+  },
+  "favorite": {
+    "adjective": "preferit, -da"
+  },
+  "favourite": {
+    "adjective": "preferit, -da"
+  },
+  "feature": {
+    "noun": "característica"
+  },
+  "featured": {
+    "adjective": "destacat, -da"
+  },
+  "fee": {
+    "noun": "quota"
+  },
+  "feed": {
+    "noun": "canal"
+  },
+  "fetch": {
+    "verb": "recollir"
+  },
+  "file": {
+    "noun": "fitxer"
+  },
+  "font": {
+    "noun": "tipus de lletra"
+  },
+  "front page": {
+    "noun": "portada"
+  },
+  "gradient": {
+    "noun": "degradat"
+  },
+  "grid": {
+    "noun": "graella"
+  },
+  "guidelines": {
+    "noun": "directrius"
+  },
+  "header": {
+    "noun": "capçalera"
+  },
+  "heading": {
+    "noun": "capçalera"
+  },
+  "height": {
+    "noun": "alçada"
+  },
+  "hero section": {
+    "noun": "secció de portada"
+  },
+  "hide": {
+    "verb": "amagar"
+  },
+  "home": {
+    "noun": "pàgina d'inici"
+  },
+  "honeypot": {
+    "noun": "esquer"
+  },
+  "hook": {
+    "noun": "ganxo"
+  },
+  "hosting": {
+    "noun": "allotjament"
+  },
+  "hover": {
+    "verb": "en passar el ratolí"
+  },
+  "howdy": {
+    "interjection": "hola"
+  },
+  "inbox": {
+    "noun": "bústia d’entrada"
+  },
+  "invalid": {
+    "adjective": "no vàlid, -a"
+  },
+  "item": {
+    "noun": "element / article"
+  },
+  "layout": {
+    "noun": "disseny"
+  },
+  "lazy load": {
+    "noun": "càrrega diferida"
+  },
+  "legacy": {
+    "adjective": "antic, -ga"
+  },
+  "length": {
+    "noun": "longitud"
+  },
+  "locale": {
+    "noun": "configuració regional"
+  },
+  "location": {
+    "noun": "ubicació"
+  },
+  "lock": {
+    "noun": "bloqueig",
+    "verb": "bloquejar"
+  },
+  "log": {
+    "noun": "registre"
+  },
+  "logo": {
+    "noun": "logotip"
+  },
+  "manage": {
+    "verb": "gestionar"
+  },
+  "manager": {
+    "noun": "gestor, -a"
+  },
+  "media": {
+    "noun": "mèdia"
+  },
+  "media library": {
+    "noun": "mediateca"
+  },
+  "membership": {
+    "noun": "afiliació"
+  },
+  "merge": {
+    "verb": "fusionar"
+  },
+  "modal": {
+    "noun": "finestra emergent"
+  },
+  "move to trash": {
+    "verb": "moure a la paperera"
+  },
+  "multisite": {
+    "noun": "multilloc"
+  },
+  "newsletter": {
+    "noun": "butlletí"
+  },
+  "notification": {
+    "noun": "notificació"
+  },
+  "off": {
+    "adjective": "inactiu, -va"
+  },
+  "offset": {
+    "noun": "desplaçament"
+  },
+  "OK": {
+    "interjection": "d'acord"
+  },
+  "onboarding": {
+    "noun": "posada en marxa"
+  },
+  "oops": {
+    "interjection": "vaja"
+  },
+  "overlay": {
+    "adjective": "superposat, -da",
+    "verb": "superposar",
+    "noun": "superposició"
+  },
+  "overview": {
+    "noun": "resum"
+  },
+  "padding": {
+    "noun": "separació"
+  },
+  "panel": {
+    "noun": "quadre"
+  },
+  "path": {
+    "noun": "camí"
+  },
+  "permalink": {
+    "noun": "enllaç permanent"
+  },
+  "pingback": {
+    "noun": "retroping"
+  },
+  "placeholder": {
+    "noun": "espai reservat"
+  },
+  "plain text": {
+    "noun": "text sense format"
+  },
+  "please": {
+    "expression": "-"
+  },
+  "plugin": {
+    "noun": "extensió"
+  },
+  "pop-up": {
+    "noun": "finestra emergent"
+  },
+  "popup": {
+    "noun": "finestra emergent"
+  },
+  "post": {
+    "noun": "entrada"
+  },
+  "post type": {
+    "noun": "tipus de contingut"
+  },
+  "preview": {
+    "noun": "previsualització",
+    "verb": "previsualitzar"
+  },
+  "previous": {
+    "adjective": "anterior"
+  },
+  "primary": {
+    "adjective": "principal"
+  },
+  "privacy": {
+    "noun": "privadesa"
+  },
+  "prompt": {
+    "noun": "indicació"
+  },
+  "radio button": {
+    "noun": "botó d’opció"
+  },
+  "rating": {
+    "noun": "valoració"
+  },
+  "refactor": {
+    "noun": "refacció",
+    "verb": "refer"
+  },
+  "referer": {
+    "noun": "referent"
+  },
+  "referrer": {
+    "noun": "referent"
+  },
+  "refresh": {
+    "verb": "actualitzar"
+  },
+  "regular": {
+    "adjective": "normal"
+  },
+  "remove": {
+    "verb": "eliminar"
+  },
+  "rename": {
+    "verb": "canviar el nom"
+  },
+  "replace": {
+    "verb": "reemplaçar"
+  },
+  "reset": {
+    "verb": "reinicialitzar"
+  },
+  "restore": {
+    "verb": "restaurar"
+  },
+  "resume": {
+    "verb": "reprendre"
+  },
+  "retrieve": {
+    "verb": "recuperar"
+  },
+  "role": {
+    "noun": "rol"
+  },
+  "rotate": {
+    "verb": "girar"
+  },
+  "sanitization": {
+    "noun": "sanejament"
+  },
+  "sanitize": {
+    "verb": "sanejar"
+  },
+  "save": {
+    "verb": "desar"
+  },
+  "search": {
+    "noun": "cerca",
+    "verb": "cercar"
+  },
+  "setting": {
+    "noun": "paràmetre"
+  },
+  "settings": {
+    "noun": "paràmetres"
+  },
+  "short-code": {
+    "noun": "codi de substitució"
+  },
+  "shortcode": {
+    "noun": "codi de substitució"
+  },
+  "shortcut": {
+    "noun": "drecera"
+  },
+  "skip": {
+    "verb": "ometre"
+  },
+  "slider": {
+    "noun": "control lliscant"
+  },
+  "slug": {
+    "noun": "àlies"
+  },
+  "snippet": {
+    "noun": "fragment"
+  },
+  "something is wrong": {
+    "expression": "s’ha produït un error"
+  },
+  "something went wrong": {
+    "expression": "s’ha produït un error"
+  },
+  "sorry": {
+    "expression": "-"
+  },
+  "spacing": {
+    "noun": "espaiat"
+  },
+  "spam": {
+    "noun": "brossa"
+  },
+  "status": {
+    "noun": "estat"
+  },
+  "sticky": {
+    "adjective": "fixat, -da"
+  },
+  "storage": {
+    "noun": "emmagatzematge"
+  },
+  "street address": {
+    "noun": "adreça postal"
+  },
+  "successfully": {
+    "adverb": "correctament"
+  },
+  "tag": {
+    "noun": "etiqueta"
+  },
+  "tagline": {
+    "noun": "lema"
+  },
+  "take over": {
+    "verb": "prendre el control"
+  },
+  "template part": {
+    "noun": "secció de plantilla"
+  },
+  "timezone": {
+    "noun": "zona horària"
+  },
+  "token": {
+    "noun": "testimoni"
+  },
+  "trackback": {
+    "noun": "retroenllaç"
+  },
+  "transient": {
+    "noun": "dada transitòria"
+  },
+  "trash": {
+    "noun": "paperera",
+    "verb": "moure a la paperera"
+  },
+  "troubleshooting": {
+    "noun": "resolució de problemes"
+  },
+  "try again": {
+    "expression": "torneu-ho a provar"
+  },
+  "try it again": {
+    "expression": "torneu-ho a provar"
+  },
+  "unable to": {
+    "expression": "no s'ha pogut"
+  },
+  "unsubscribe": {
+    "verb": "cancel·lar la subscripció"
+  },
+  "upload": {
+    "verb": "pujar"
+  },
+  "upsell": {
+    "noun": "venda dirigida"
+  },
+  "URL": {
+    "noun": "URL és masculí"
+  },
+  "usage": {
+    "noun": "ús"
+  },
+  "use": {
+    "verb": "utilitzar"
+  },
+  "venue": {
+    "noun": "recinte"
+  },
+  "viewport": {
+    "noun": "àrea de visualització"
+  },
+  "warning": {
+    "noun": "avís"
+  },
+  "website": {
+    "noun": "lloc web"
+  },
+  "welcome": {
+    "expression": "us donem la benvinguda"
+  },
+  "what's new": {
+    "expression": "novetats"
+  },
+  "widget": {
+    "noun": "giny"
+  },
+  "width": {
+    "noun": "amplada"
+  },
+  "you should": {
+    "expression": "«És recomanable que» + subjuntiu"
+  }
+}

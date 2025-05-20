@@ -1,0 +1,1984 @@
+{
+  "accordion": {
+    "noun": "sanfona"
+  },
+  "Action links": {
+    "noun": "Links de ações"
+  },
+  "activate": {
+    "verb": "ativar"
+  },
+  "Add-on": {
+    "noun": "complemento"
+  },
+  "add-on": {
+    "noun": "complemento"
+  },
+  "added": {
+    "verb": "adicionado"
+  },
+  "Addon": {
+    "noun": "complemento"
+  },
+  "addon": {
+    "noun": "complemento"
+  },
+  "address": {
+    "verb": "corrige",
+    "noun": "endereço"
+  },
+  "Afghan Afghani": {
+    "noun": "Afegane afegão"
+  },
+  "Afghanistan": {
+    "noun": "Afeganistão"
+  },
+  "Aland Islands": {
+    "noun": "Ilhas Aland"
+  },
+  "Albania": {
+    "noun": "Albânia"
+  },
+  "Albanian Lek": {
+    "noun": "Lek albanês"
+  },
+  "Algeria": {
+    "noun": "Argélia"
+  },
+  "Algerian Dinar": {
+    "noun": "Dinar argelino"
+  },
+  "American Samoa": {
+    "noun": "Samoa Americana"
+  },
+  "Andorra": {
+    "noun": "Andorra"
+  },
+  "Angola": {
+    "noun": "Angola"
+  },
+  "Angolan Kwanza": {
+    "noun": "Kwanza angolano"
+  },
+  "Anguilla": {
+    "noun": "Anguila"
+  },
+  "Antarctica": {
+    "noun": "Antártida"
+  },
+  "Antigua and Barbuda": {
+    "noun": "Antígua e Barbuda"
+  },
+  "April": {
+    "noun": "abril"
+  },
+  "are you sure you want": {
+    "expression": "tem certeza de que deseja"
+  },
+  "Argentina": {
+    "noun": "Argentina"
+  },
+  "Argentine Peso": {
+    "noun": "Peso argentino"
+  },
+  "Armenia": {
+    "noun": "Armênia"
+  },
+  "Armenian Dram": {
+    "noun": "Dram armênio"
+  },
+  "array": {
+    "noun": "array"
+  },
+  "Aruba": {
+    "noun": "Aruba"
+  },
+  "Aruban Florin": {
+    "noun": "Florim arubano"
+  },
+  "aside": {
+    "noun": "nota"
+  },
+  "At a glance": {
+    "expression": "Agora"
+  },
+  "at the bottom": {
+    "expression": "na parte inferior"
+  },
+  "at the top": {
+    "expression": "na parte superior"
+  },
+  "attachment": {
+    "noun": "anexo"
+  },
+  "August": {
+    "noun": "agosto"
+  },
+  "Australia": {
+    "noun": "Austrália"
+  },
+  "Australian Dollar": {
+    "noun": "Dólar australiano"
+  },
+  "Austria": {
+    "noun": "Áustria"
+  },
+  "Azerbaijan": {
+    "noun": "Azerbaijão"
+  },
+  "Azerbaijani Manat": {
+    "noun": "Manate azerbaijano"
+  },
+  "backend": {
+    "noun": "painel"
+  },
+  "background": {
+    "noun": "plano de fundo"
+  },
+  "backup": {
+    "noun": "backup",
+    "verb": "fazer backup"
+  },
+  "Bahamas": {
+    "noun": "Bahamas"
+  },
+  "Bahamian Dollar": {
+    "noun": "Dólar bahamense"
+  },
+  "Bahrain": {
+    "noun": "Barém"
+  },
+  "Bahraini Dinar": {
+    "noun": "Dinar bareinita"
+  },
+  "Bangladesh": {
+    "noun": "Bangladesh"
+  },
+  "Bangladeshi Taka": {
+    "noun": "Taka bengali"
+  },
+  "banner": {
+    "noun": "banner"
+  },
+  "Barbadian Dollar": {
+    "noun": "Dólar barbadense"
+  },
+  "Barbados": {
+    "noun": "Barbados"
+  },
+  "batch": {
+    "noun": "lote",
+    "adjective": "em lote"
+  },
+  "Belarus": {
+    "noun": "Bielorrússia"
+  },
+  "Belarusian Ruble": {
+    "noun": "Rublo bielorrusso"
+  },
+  "Belgium": {
+    "noun": "Bélgica"
+  },
+  "Belize": {
+    "noun": "Belize"
+  },
+  "Belize Dollar": {
+    "noun": "Dólar belizenho"
+  },
+  "Benin": {
+    "noun": "Benim"
+  },
+  "Bermuda": {
+    "noun": "Bermudas"
+  },
+  "Bermudian Dollar": {
+    "noun": "Dólar bermudense"
+  },
+  "Bhutan": {
+    "noun": "Butão"
+  },
+  "Bhutanese Ngultrum": {
+    "noun": "Ngultrum butanês"
+  },
+  "bitrate": {
+    "noun": "taxa de bits"
+  },
+  "blacklist": {
+    "noun": "lista de bloqueios"
+  },
+  "Block": {
+    "noun": "Bloco"
+  },
+  "Block Editor": {
+    "noun": "Editor de blocos"
+  },
+  "blocklist": {
+    "noun": "lista de bloqueios"
+  },
+  "blog": {
+    "noun": "blog"
+  },
+  "blogroll": {
+    "noun": "lista de links"
+  },
+  "BOGO": {
+    "noun": "\"compre um, ganhe outro\""
+  },
+  "Bolivia": {
+    "noun": "Bolívia"
+  },
+  "Bolivian Boliviano": {
+    "noun": "Boliviano"
+  },
+  "Bonaire, Saint Eustatius and Saba": {
+    "noun": "Bonaire, Santo Eustáquio e Saba"
+  },
+  "border color and style picker": {
+    "noun": "seletor de cor e estilo de borda"
+  },
+  "Bosnia": {
+    "noun": "Bósnia"
+  },
+  "Bosnia and Herzegovina": {
+    "noun": "Bósnia e Herzegovina"
+  },
+  "Botswana": {
+    "noun": "Botsuana"
+  },
+  "Botswana Pula": {
+    "noun": "Pula botsuanesa"
+  },
+  "Brazil": {
+    "noun": "Brasil"
+  },
+  "Brazilian Real": {
+    "noun": "Real brasileiro"
+  },
+  "breadcrumbs": {
+    "noun": "caminho de navegação"
+  },
+  "browse": {
+    "verb": "procurar"
+  },
+  "browser": {
+    "noun": "navegador"
+  },
+  "Brunei": {
+    "noun": "Brunei"
+  },
+  "Brunei Dollar": {
+    "noun": "Dólar bruneano"
+  },
+  "bug": {
+    "noun": "erro"
+  },
+  "Bug": {
+    "noun": "erro"
+  },
+  "bugfix": {
+    "noun": "correção de erros"
+  },
+  "Bugfix": {
+    "noun": "correção de erros"
+  },
+  "Bulgaria": {
+    "noun": "Bulgária"
+  },
+  "Bulgarian Lev": {
+    "noun": "Lev búlgaro"
+  },
+  "Burkina Faso": {
+    "noun": "Burkina Faso"
+  },
+  "Burma; Myanmar": {
+    "noun": "Myanmar"
+  },
+  "Burmese Kyat": {
+    "noun": "Quiate"
+  },
+  "Burundi": {
+    "noun": "Burundi"
+  },
+  "Burundian Franc": {
+    "noun": "Franco burundiano"
+  },
+  "by default": {
+    "expression": "por padrão"
+  },
+  "cache": {
+    "noun": "cache"
+  },
+  "callback": {
+    "noun": "callback"
+  },
+  "Cambodia": {
+    "noun": "Camboja"
+  },
+  "Cameroon": {
+    "noun": "Camarões"
+  },
+  "Canada": {
+    "noun": "Canadá"
+  },
+  "Canadian Dollar": {
+    "noun": "Dólar canadense"
+  },
+  "Can’t": {
+    "expression": "não é possível"
+  },
+  "cancel": {
+    "verb": "cancelar"
+  },
+  "cannot view": {
+    "noun": "não é possível ver"
+  },
+  "capabilities": {
+    "noun": "capacidades"
+  },
+  "capability": {
+    "noun": "capacidade"
+  },
+  "Cape Verde": {
+    "noun": "Cabo Verde"
+  },
+  "Cape Verdean escudo": {
+    "noun": "Escudo cabo-verdiano"
+  },
+  "captioning ID": {
+    "expression": "ID de legenda"
+  },
+  "Caribbean Netherlands": {
+    "noun": "Países Baixos Caribenhos"
+  },
+  "Cayman Islands Dollar": {
+    "noun": "Dólar das Ilhas Cayman"
+  },
+  "Central African Republic": {
+    "noun": "República Centro-africana"
+  },
+  "CFA Franc": {
+    "noun": "Franco CFA"
+  },
+  "CFP Franc": {
+    "noun": "Franco CFP"
+  },
+  "Chad": {
+    "noun": "Chade"
+  },
+  "changelog": {
+    "noun": "registro de alterações"
+  },
+  "Changelog": {
+    "noun": "registro de alterações"
+  },
+  "chat": {
+    "noun": "bate-papo"
+  },
+  "cheating, uh?": {
+    "expression": "Trapaceando, é?"
+  },
+  "check": {
+    "verb": "marcar"
+  },
+  "check box": {
+    "noun": "caixa de seleção"
+  },
+  "check boxes": {
+    "noun": "caixas de seleção"
+  },
+  "check out": {
+    "expression": "consultar"
+  },
+  "checkbox": {
+    "noun": "caixa de seleção"
+  },
+  "checkboxes": {
+    "noun": "caixas de seleção"
+  },
+  "checkout": {
+    "noun": "finalização de compra"
+  },
+  "child theme": {
+    "expression": "tema descendente"
+  },
+  "children": {
+    "noun": "descendentes"
+  },
+  "Chile": {
+    "noun": "Chile"
+  },
+  "Chilean Peso": {
+    "noun": "Peso chileno"
+  },
+  "China": {
+    "noun": "China"
+  },
+  "Chinese Yuan": {
+    "noun": "Yuan chinês"
+  },
+  "Christmas Island": {
+    "noun": "Ilha Christmas"
+  },
+  "clean": {
+    "adjective": "simples"
+  },
+  "clear": {
+    "verb": "limpar"
+  },
+  "closed": {
+    "adjective": "encerrado"
+  },
+  "collapse": {
+    "verb": "recolher"
+  },
+  "Colombia": {
+    "noun": "Colômbia"
+  },
+  "color picker": {
+    "expression": "seletor de cor"
+  },
+  "coming soon": {
+    "expression": "em breve"
+  },
+  "Coming soon": {
+    "expression": "Em breve"
+  },
+  "Comoros": {
+    "noun": "Comores"
+  },
+  "complete": {
+    "adjective": "concluído"
+  },
+  "completed": {
+    "adjective": "concluído"
+  },
+  "compliance": {
+    "noun": "conformidade"
+  },
+  "connect to x": {
+    "expression": "conectar a x"
+  },
+  "Contact Us": {
+    "expression": "Fale conosco"
+  },
+  "Contact us": {
+    "expression": "Fale conosco"
+  },
+  "contact us": {
+    "expression": "fale conosco"
+  },
+  "contributor": {
+    "noun": "colaborador"
+  },
+  "Convertible Mark": {
+    "noun": "Marco conversível"
+  },
+  "core": {
+    "noun": "arquivos básicos"
+  },
+  "Costa Rica": {
+    "noun": "Costa Rica"
+  },
+  "Costumizer": {
+    "noun": "Personalizar"
+  },
+  "Could not": {
+    "noun": "Não foi possível"
+  },
+  "Couldn’t": {
+    "expression": "não foi possível"
+  },
+  "Cover": {
+    "noun": "Cobertura"
+  },
+  "Cover image": {
+    "expression": "Imagem de capa"
+  },
+  "Croatia": {
+    "noun": "Croácia"
+  },
+  "crop": {
+    "verb": "recortar"
+  },
+  "Cuba": {
+    "noun": "Cuba"
+  },
+  "Curacao": {
+    "noun": "Curaçau"
+  },
+  "currently": {
+    "adverb": "no momento"
+  },
+  "custom": {
+    "noun": "personalizado"
+  },
+  "custom  post type": {
+    "expression": "tipo de post personalizado"
+  },
+  "customization": {
+    "noun": "personalização"
+  },
+  "Customize": {
+    "noun": "Personalize"
+  },
+  "customize": {
+    "noun": "personalizar"
+  },
+  "customizer": {
+    "noun": "Personalizar"
+  },
+  "Cyprus": {
+    "noun": "Chipre"
+  },
+  "Czech Republic": {
+    "noun": "República Tcheca"
+  },
+  "database": {
+    "noun": "banco de dados"
+  },
+  "deactivate": {
+    "verb": "desativar"
+  },
+  "debug": {
+    "verb": "depurar"
+  },
+  "December": {
+    "noun": "dezembro"
+  },
+  "default": {
+    "adjective": "padrão",
+    "noun": "padrão"
+  },
+  "delete": {
+    "verb": "excluir"
+  },
+  "Delete": {
+    "verb": "excluir"
+  },
+  "Deleted": {
+    "adjective": "excluído"
+  },
+  "deleted": {
+    "verb": "excluído",
+    "adjective": "excluído"
+  },
+  "Democratic Republic of the Congo": {
+    "noun": "República Democrática do Congo"
+  },
+  "Denmark": {
+    "noun": "Dinamarca"
+  },
+  "deprecated": {
+    "adjective": "obsoleto(a)"
+  },
+  "design": {
+    "noun": "design"
+  },
+  "development log": {
+    "noun": "registro de desenvolvimento"
+  },
+  "device": {
+    "noun": "dispositivo"
+  },
+  "disable": {
+    "verb": "desativar"
+  },
+  "dismiss": {
+    "verb": "dispensar"
+  },
+  "display": {
+    "verb": "exibir",
+    "noun": "exibição"
+  },
+  "distraction free": {
+    "expression": "escrita sem distrações"
+  },
+  "distraction-free writing": {
+    "expression": "escrita sem distrações"
+  },
+  "Djibouti": {
+    "noun": "Djibuti"
+  },
+  "Dominica": {
+    "noun": "Dominica"
+  },
+  "Dominican Republic": {
+    "noun": "Dominicana, República"
+  },
+  "don’t be stupid": {
+    "expression": "não marque bobeira"
+  },
+  "done": {
+    "verb": "concluído"
+  },
+  "download": {
+    "noun": "baixar",
+    "verb": "baixar"
+  },
+  "draft": {
+    "noun": "rascunho"
+  },
+  "drag and drop": {
+    "expression": "arrastar e soltar"
+  },
+  "drag'n drop": {
+    "expression": "arrastar e soltar"
+  },
+  "drop-down": {
+    "noun": "menu suspenso"
+  },
+  "Drop-in": {
+    "noun": "Avançado"
+  },
+  "dropdown": {
+    "noun": "menu suspenso"
+  },
+  "East Timor": {
+    "noun": "Timor Leste"
+  },
+  "ebook": {
+    "noun": "e-book"
+  },
+  "Ebook": {
+    "noun": "E-book"
+  },
+  "Ecuador": {
+    "noun": "Equador"
+  },
+  "Egypt": {
+    "noun": "Egito"
+  },
+  "El Salvador": {
+    "noun": "El Salvador"
+  },
+  "Elapsed": {
+    "noun": "tempo decorrido"
+  },
+  "elapsed": {
+    "noun": "tempo decorrido"
+  },
+  "Email": {
+    "noun": "E-mail"
+  },
+  "email": {
+    "noun": "e-mail"
+  },
+  "Embed": {
+    "noun": "Código incorporado"
+  },
+  "embed": {
+    "verb": "incorporar"
+  },
+  "embedded": {
+    "expression": "(mídia) incorporada"
+  },
+  "enable": {
+    "verb": "ativar"
+  },
+  "end tag": {
+    "noun": "tag de fechamento"
+  },
+  "endpoint": {
+    "noun": "endpoint"
+  },
+  "England": {
+    "noun": "Inglaterra"
+  },
+  "Ensure": {
+    "noun": "Garantir"
+  },
+  "enter": {
+    "verb": "digite"
+  },
+  "entry": {
+    "noun": "post"
+  },
+  "Equatorial Guinea": {
+    "noun": "Guiné Equatorial"
+  },
+  "Erase": {
+    "verb": "Remover"
+  },
+  "eraser": {
+    "noun": "autor da remoção"
+  },
+  "erasure": {
+    "noun": "remoção"
+  },
+  "Eritrea": {
+    "noun": "Eritreia"
+  },
+  "escaping": {
+    "noun": "escaping"
+  },
+  "Estonia": {
+    "noun": "Estônia"
+  },
+  "Ethiopia": {
+    "noun": "Etiópia"
+  },
+  "excerpt": {
+    "noun": "resumo"
+  },
+  "Excerpt": {
+    "noun": "resumo"
+  },
+  "fallback": {
+    "noun": "contingência"
+  },
+  "FAQ": {
+    "expression": "Perguntas frequentes"
+  },
+  "feature": {
+    "noun": "recurso"
+  },
+  "featured": {
+    "adjective": "em destaque"
+  },
+  "Featured image": {
+    "expression": "Imagem destacada"
+  },
+  "February": {
+    "noun": "fevereiro"
+  },
+  "Federated States of Micronesia": {
+    "noun": "Estados Federados da Micronésia"
+  },
+  "feedback": {
+    "noun": "comentário ou sugestão"
+  },
+  "feeds": {
+    "noun": "feeds"
+  },
+  "fetch": {
+    "verb": "coletar"
+  },
+  "Fiji": {
+    "noun": "Fiji"
+  },
+  "Finland": {
+    "noun": "Finlândia"
+  },
+  "first name": {
+    "noun": "nome"
+  },
+  "Fix": {
+    "noun": "Correção",
+    "verb": "corrigir"
+  },
+  "fix": {
+    "verb": "corrigir"
+  },
+  "Fixed": {
+    "verb": "Corrigido"
+  },
+  "flip": {
+    "verb": "virar"
+  },
+  "follow-up": {
+    "expression": "acompanhar"
+  },
+  "font": {
+    "noun": "fonte"
+  },
+  "Fork": {
+    "noun": "Bifurcação",
+    "verb": "Bifurcar"
+  },
+  "frame": {
+    "noun": "frame"
+  },
+  "framework": {
+    "noun": "estrutura"
+  },
+  "France": {
+    "noun": "França"
+  },
+  "Frequently Asked Questions": {
+    "expression": "perguntas frequentes"
+  },
+  "freshness": {
+    "adjective": "tempo desde a publicação"
+  },
+  "Friday": {
+    "noun": "sexta-feira"
+  },
+  "front-end": {
+    "noun": "interface"
+  },
+  "frontend": {
+    "noun": "interface"
+  },
+  "Full Site Editing": {
+    "expression": "Edição completa do site"
+  },
+  "fullscreen": {
+    "noun": "tela cheia"
+  },
+  "Gabon": {
+    "noun": "Gabão"
+  },
+  "Gallery": {
+    "noun": "Galeria"
+  },
+  "Gambia, The": {
+    "noun": "Gâmbia"
+  },
+  "gap": {
+    "noun": "espaço entre itens"
+  },
+  "gatekeeper": {
+    "noun": "guardião"
+  },
+  "GDPR": {
+    "noun": "GDPR"
+  },
+  "Georgia": {
+    "noun": "Geórgia"
+  },
+  "Germany": {
+    "noun": "Alemanha"
+  },
+  "Ghana": {
+    "noun": "Gana"
+  },
+  "global dashboard": {
+    "expression": "painel geral"
+  },
+  "gradient": {
+    "noun": "gradiente"
+  },
+  "Greece": {
+    "noun": "Grécia"
+  },
+  "Grenada": {
+    "noun": "Granada"
+  },
+  "grid": {
+    "noun": "grade"
+  },
+  "group": {
+    "verb": "agrupar",
+    "noun": "grupo"
+  },
+  "Guatemala": {
+    "noun": "Guatemala"
+  },
+  "Guinea": {
+    "noun": "Guiné"
+  },
+  "Guinea-Bissau": {
+    "noun": "Guiné-Bissau"
+  },
+  "Guyana": {
+    "noun": "Guiana"
+  },
+  "Haiti": {
+    "noun": "Haiti"
+  },
+  "header": {
+    "noun": "cabeçalho"
+  },
+  "Header image": {
+    "expression": "Imagem de cabeçalho"
+  },
+  "Heading": {
+    "noun": "Título"
+  },
+  "health": {
+    "noun": "condição"
+  },
+  "Health Check": {
+    "expression": "Diagnóstico"
+  },
+  "held": {
+    "verb": "retido"
+  },
+  "help on": {
+    "expression": "ajuda sobre"
+  },
+  "hidden Gui": {
+    "expression": "GUI oculta"
+  },
+  "hold": {
+    "verb": "reter"
+  },
+  "Holland": {
+    "noun": "Holanda"
+  },
+  "homepage": {
+    "noun": "página inicial"
+  },
+  "Honduras": {
+    "noun": "Honduras"
+  },
+  "hot tag": {
+    "expression": "tag popular"
+  },
+  "hotkeys": {
+    "expression": "teclas de acesso"
+  },
+  "Hungary": {
+    "noun": "Hungria"
+  },
+  "Iceland": {
+    "noun": "Islândia"
+  },
+  "ID": {
+    "noun": "ID"
+  },
+  "improved": {
+    "verb": "melhorado"
+  },
+  "index": {
+    "noun": "índice"
+  },
+  "India": {
+    "noun": "Índia"
+  },
+  "Indonesia": {
+    "noun": "Indonésia"
+  },
+  "invoke URLs": {
+    "expression": "chamar URLs"
+  },
+  "IP address": {
+    "expression": "Endereço IP"
+  },
+  "Iran": {
+    "noun": "Irã"
+  },
+  "Iraq": {
+    "noun": "Iraque"
+  },
+  "Ireland": {
+    "noun": "Irlanda"
+  },
+  "Israel": {
+    "noun": "Israel"
+  },
+  "Italy": {
+    "noun": "Itália"
+  },
+  "Ivory Coast; Côte d’Ivoire": {
+    "noun": "Costa do Marfim"
+  },
+  "Jamaica": {
+    "noun": "Jamaica"
+  },
+  "January": {
+    "noun": "janeiro"
+  },
+  "Japan": {
+    "noun": "Japão"
+  },
+  "javascript": {
+    "noun": "JavaScript"
+  },
+  "Jordan": {
+    "noun": "Jordânia"
+  },
+  "July": {
+    "noun": "julho"
+  },
+  "June": {
+    "noun": "junho"
+  },
+  "Kazakhstan": {
+    "noun": "Cazaquistão"
+  },
+  "keep in mind that": {
+    "expression": "lembre-se de que"
+  },
+  "keep up to date": {
+    "expression": "Receber atualizações"
+  },
+  "Kenya": {
+    "noun": "Quênia"
+  },
+  "key master": {
+    "expression": "admin-mestre"
+  },
+  "keyword": {
+    "noun": "palavra-chave"
+  },
+  "keywords": {
+    "noun": "palavras-chave"
+  },
+  "Kiribati": {
+    "noun": "Quiribáti"
+  },
+  "Kuwait": {
+    "noun": "Kuaite"
+  },
+  "Kyrgyzstan": {
+    "noun": "Quirguistão"
+  },
+  "label": {
+    "noun": "rótulo"
+  },
+  "language": {
+    "noun": "idioma"
+  },
+  "Laos": {
+    "noun": "Laos"
+  },
+  "large": {
+    "adjective": "grande"
+  },
+  "last name": {
+    "noun": "sobrenome"
+  },
+  "latest": {
+    "adjective": "mais recentes"
+  },
+  "Latvia": {
+    "noun": "Letônia"
+  },
+  "lazy loading": {
+    "noun": "carregamento tardio"
+  },
+  "Lebanon": {
+    "noun": "Líbano"
+  },
+  "Lesotho": {
+    "noun": "Lesoto"
+  },
+  "Liberia": {
+    "noun": "Libéria"
+  },
+  "Libya": {
+    "noun": "Líbia"
+  },
+  "Liechtenstein": {
+    "noun": "Liechtenstein"
+  },
+  "link to": {
+    "verb": "apontar para"
+  },
+  "Lithuania": {
+    "noun": "Lituânia"
+  },
+  "Live Chat": {
+    "expression": "Conversa ao vivo"
+  },
+  "live chat": {
+    "expression": "conversa ao vivo"
+  },
+  "live preview": {
+    "expression": "ver ao vivo"
+  },
+  "locale": {
+    "noun": "localização"
+  },
+  "log": {
+    "noun": "registro"
+  },
+  "log in": {
+    "verb": "acessar"
+  },
+  "Log in": {
+    "verb": "acessar"
+  },
+  "log out": {
+    "verb": "sair"
+  },
+  "logged": {
+    "noun": "conectado"
+  },
+  "logged out": {
+    "expression": "desconectado"
+  },
+  "login": {
+    "verb": "acessar"
+  },
+  "Login": {
+    "noun": "Acesso"
+  },
+  "logo": {
+    "noun": "logo"
+  },
+  "loop": {
+    "noun": "loop",
+    "verb": "fazer loop"
+  },
+  "Luxembourg": {
+    "noun": "Luxemburgo"
+  },
+  "Macedonia": {
+    "noun": "Macedônia"
+  },
+  "Madagascar": {
+    "noun": "Madagascar"
+  },
+  "Malawi": {
+    "noun": "Malawi"
+  },
+  "Malaysia": {
+    "noun": "Malásia"
+  },
+  "Maldives": {
+    "noun": "Maldivas"
+  },
+  "Mali": {
+    "noun": "Máli"
+  },
+  "Malta": {
+    "noun": "Malta"
+  },
+  "malware": {
+    "noun": "malware"
+  },
+  "manage": {
+    "verb": "gerenciar"
+  },
+  "mapping": {
+    "noun": "mapeamento",
+    "verb": "mapeando"
+  },
+  "March": {
+    "noun": "março"
+  },
+  "matching x": {
+    "expression": "correspondente a x"
+  },
+  "Mauritania": {
+    "noun": "Mauritânia"
+  },
+  "Mauritian Rupee": {
+    "noun": "Rupia mauriciana"
+  },
+  "Mauritius": {
+    "noun": "Maurício"
+  },
+  "May": {
+    "noun": "maio"
+  },
+  "may": {
+    "verb": "poder"
+  },
+  "media attachment": {
+    "noun": "mídia"
+  },
+  "medium": {
+    "adjective": "média"
+  },
+  "meta field": {
+    "noun": "campo do metadado"
+  },
+  "meta key": {
+    "noun": "chave do metadado"
+  },
+  "meta value": {
+    "noun": "valor do metadado"
+  },
+  "metadata": {
+    "noun": "metadados"
+  },
+  "Mexico": {
+    "noun": "México"
+  },
+  "mobile": {
+    "noun": "dispositivo móvel"
+  },
+  "moderate": {
+    "verb": "moderar"
+  },
+  "Moldova": {
+    "noun": "Moldávia"
+  },
+  "Monaco": {
+    "noun": "Mônaco"
+  },
+  "Monday": {
+    "noun": "segunda-feira"
+  },
+  "Mongolia": {
+    "noun": "Mongólia"
+  },
+  "Montenegro": {
+    "noun": "Montenegro"
+  },
+  "Morocco": {
+    "noun": "Marrocos"
+  },
+  "Mozambique": {
+    "noun": "Moçambique"
+  },
+  "multisite": {
+    "noun": "multisite"
+  },
+  "Namibia": {
+    "noun": "Namíbia"
+  },
+  "Nauru": {
+    "noun": "Nauru"
+  },
+  "Nepal": {
+    "noun": "Nepal"
+  },
+  "Never show again": {
+    "expression": "Não mostrar mais"
+  },
+  "New Zealand": {
+    "noun": "Nova Zelândia"
+  },
+  "newest": {
+    "adjective": "mais recente"
+  },
+  "Nicaragua": {
+    "noun": "Nicarágua"
+  },
+  "nickname": {
+    "noun": "apelido"
+  },
+  "Niger": {
+    "noun": "Níger"
+  },
+  "Nigeria": {
+    "noun": "Nigéria"
+  },
+  "no x found": {
+    "expression": "nenhum x encontrado"
+  },
+  "North Korea": {
+    "noun": "Coreia do Norte"
+  },
+  "Norway": {
+    "noun": "Noruega"
+  },
+  "November": {
+    "noun": "novembro"
+  },
+  "October": {
+    "noun": "outubro"
+  },
+  "offline": {
+    "adjective": "off-line"
+  },
+  "offset": {
+    "noun": "compensação/compensar"
+  },
+  "Oman": {
+    "noun": "Omã"
+  },
+  "on/off": {
+    "adjective": "ativado/desativado"
+  },
+  "online": {
+    "adjective": "on-line"
+  },
+  "Oops": {
+    "expression": "Opa"
+  },
+  "Outline": {
+    "noun": "Estrutura"
+  },
+  "Pakistan": {
+    "noun": "Paquistão"
+  },
+  "Palestine": {
+    "noun": "Palestina"
+  },
+  "Panama": {
+    "noun": "Panamá"
+  },
+  "Papua New Guinea": {
+    "noun": "Papua Nova Guiné"
+  },
+  "Paragraph": {
+    "noun": "Parágrafo"
+  },
+  "Paraguay": {
+    "noun": "Paraguai"
+  },
+  "parent": {
+    "noun": "ascendente"
+  },
+  "parent category": {
+    "noun": "categoria ascendente"
+  },
+  "parent theme": {
+    "noun": "tema ascendente"
+  },
+  "password strength": {
+    "noun": "nível de segurança da senha"
+  },
+  "performance": {
+    "noun": "desempenho"
+  },
+  "permalink": {
+    "noun": "link permanente"
+  },
+  "Permalink": {
+    "noun": "link permanente"
+  },
+  "Peru": {
+    "noun": "Peru"
+  },
+  "Philippines": {
+    "noun": "Filipinas"
+  },
+  "pingback": {
+    "noun": "pingback"
+  },
+  "pixel": {
+    "noun": "pixel"
+  },
+  "pixels": {
+    "noun": "pixeis"
+  },
+  "placeholder": {
+    "noun": "conteúdo de marcação"
+  },
+  "playback": {
+    "noun": "reprodução"
+  },
+  "Playback": {
+    "noun": "reprodução"
+  },
+  "player": {
+    "noun": "reprodutor"
+  },
+  "Player": {
+    "noun": "reprodutor"
+  },
+  "Plugin": {
+    "noun": "Plugin"
+  },
+  "plugin": {
+    "noun": "plugin"
+  },
+  "Poland": {
+    "noun": "Polônia"
+  },
+  "portfolio": {
+    "noun": "portfólio"
+  },
+  "Portugal": {
+    "noun": "Portugal"
+  },
+  "post": {
+    "noun": "post",
+    "verb": "publicar"
+  },
+  "post type": {
+    "expression": "tipo de post"
+  },
+  "Post type": {
+    "expression": "tipo de post"
+  },
+  "Poster image": {
+    "expression": "Imagem do poster"
+  },
+  "prefetch": {
+    "verb": "pré-carregar"
+  },
+  "preview": {
+    "verb": "pré-visualizar",
+    "noun": "pré-visualização"
+  },
+  "props to": {
+    "expression": "agradecemos a"
+  },
+  "Qatar": {
+    "noun": "Catar"
+  },
+  "query": {
+    "noun": "consulta"
+  },
+  "quiz": {
+    "noun": "questionário"
+  },
+  "Quote": {
+    "noun": "Citação"
+  },
+  "radio": {
+    "noun": "opção"
+  },
+  "radio button": {
+    "noun": "botão de opção"
+  },
+  "rating": {
+    "noun": "classificação"
+  },
+  "Recovery": {
+    "noun": "Restauração"
+  },
+  "refresh": {
+    "verb": "atualizar"
+  },
+  "register": {
+    "verb": "cadastrar"
+  },
+  "Register": {
+    "verb": "Cadastrar"
+  },
+  "Registration": {
+    "noun": "Cadastro"
+  },
+  "registration": {
+    "noun": "cadastro"
+  },
+  "release": {
+    "noun": "lançamento"
+  },
+  "Remember Me": {
+    "expression": "Manter conexão"
+  },
+  "removed": {
+    "verb": "removido"
+  },
+  "reply to": {
+    "verb": "responder a"
+  },
+  "report": {
+    "verb": "relatar",
+    "noun": "relatório"
+  },
+  "Republic of the Congo": {
+    "noun": "República do Congo"
+  },
+  "request": {
+    "noun": "solicitação",
+    "verb": "solicitar"
+  },
+  "required": {
+    "adjective": "obrigatório"
+  },
+  "Requirements": {
+    "noun": "requisitos"
+  },
+  "reset": {
+    "verb": "redefinir"
+  },
+  "Reset": {
+    "verb": "Redefinir"
+  },
+  "respond to": {
+    "verb": "responder a"
+  },
+  "responsive": {
+    "noun": "responsivo"
+  },
+  "Responsive": {
+    "noun": "responsivo"
+  },
+  "REST API": {
+    "noun": "API REST"
+  },
+  "rewind": {
+    "verb": "retroceder"
+  },
+  "Rich Editor": {
+    "noun": "Editor visual"
+  },
+  "Riel": {
+    "noun": "Riel"
+  },
+  "Role": {
+    "noun": "função"
+  },
+  "role": {
+    "noun": "função"
+  },
+  "Romania": {
+    "noun": "Romênia"
+  },
+  "RSS feed": {
+    "noun": "feed RSS"
+  },
+  "Russia": {
+    "noun": "Rússia"
+  },
+  "Rwanda": {
+    "noun": "Ruanda"
+  },
+  "Saint Kitts and Nevis": {
+    "noun": "São Cristóvão e Neves"
+  },
+  "Saint Lucia": {
+    "noun": "Santa Lúcia"
+  },
+  "Saint Vincent and the Grenadines": {
+    "noun": "São Vicente e Granadinas"
+  },
+  "Samoa": {
+    "noun": "Samoa"
+  },
+  "San Marino": {
+    "noun": "São Marino"
+  },
+  "Saturday": {
+    "noun": "sábado"
+  },
+  "Saudi Arabia": {
+    "noun": "Arábia Saudita"
+  },
+  "save": {
+    "verb": "salvar"
+  },
+  "saved": {
+    "verb": "salvo"
+  },
+  "São Tomé and Príncipe": {
+    "noun": "São Tomé e Príncipe"
+  },
+  "scan": {
+    "noun": "varredura",
+    "verb": "examinar"
+  },
+  "schedule": {
+    "noun": "agenda",
+    "verb": "agendar"
+  },
+  "scheduled": {
+    "adjective": "agendado"
+  },
+  "Scotland": {
+    "noun": "Escócia"
+  },
+  "Search": {
+    "noun": "Pesquisa",
+    "verb": "Pesquisar"
+  },
+  "search": {
+    "noun": "pesquisa",
+    "verb": "pesquisar"
+  },
+  "search engine": {
+    "noun": "mecanismo de pesquisa"
+  },
+  "search for": {
+    "expression": "procurar"
+  },
+  "secret key": {
+    "noun": "chave secreta"
+  },
+  "Senegal": {
+    "noun": "Senegal"
+  },
+  "sensitive data": {
+    "expression": "dados pessoais"
+  },
+  "SEO": {
+    "noun": "SEO"
+  },
+  "September": {
+    "noun": "setembro"
+  },
+  "Serbia": {
+    "noun": "Sérvia"
+  },
+  "set a password": {
+    "expression": "definir uma senha"
+  },
+  "settings": {
+    "noun": "configurações"
+  },
+  "Seychelles": {
+    "noun": "Seicheles; Seychelles"
+  },
+  "shortcode": {
+    "noun": "shortcode"
+  },
+  "show": {
+    "verb": "mostrar"
+  },
+  "Showing": {
+    "noun": "exibindo"
+  },
+  "shuffle": {
+    "verb": "embaralhar"
+  },
+  "sidebar": {
+    "noun": "barra lateral"
+  },
+  "Sierra Leone": {
+    "noun": "Serra Leoa"
+  },
+  "sign up": {
+    "verb": "registrar",
+    "noun": "registro"
+  },
+  "Singapore": {
+    "noun": "Cingapura"
+  },
+  "Site Editor": {
+    "expression": "Editor do site"
+  },
+  "Site Health": {
+    "noun": "Diagnóstico"
+  },
+  "site map": {
+    "noun": "mapa do site"
+  },
+  "sitemap": {
+    "noun": "sitemap"
+  },
+  "Slovakia": {
+    "noun": "Eslováquia"
+  },
+  "Slovenia": {
+    "noun": "Eslovênia"
+  },
+  "slug": {
+    "noun": "slug"
+  },
+  "small": {
+    "adjective": "pequena"
+  },
+  "so you cannot": {
+    "expression": "portanto, você não pode"
+  },
+  "software": {
+    "noun": "programa"
+  },
+  "Software": {
+    "noun": "programa"
+  },
+  "Solomon Islands": {
+    "noun": "Salomão, Ilhas"
+  },
+  "Somalia": {
+    "noun": "Somália"
+  },
+  "source": {
+    "noun": "origem"
+  },
+  "South Africa": {
+    "noun": "África do Sul"
+  },
+  "South Korea": {
+    "noun": "Coreia do Sul"
+  },
+  "South Sudan": {
+    "noun": "Sudão do Sul"
+  },
+  "Spain": {
+    "noun": "Espanha"
+  },
+  "spam": {
+    "noun": "spam"
+  },
+  "Sri Lanka": {
+    "noun": "Sri Lanka"
+  },
+  "start": {
+    "verb": "iniciar"
+  },
+  "start tag": {
+    "noun": "tag de abertura"
+  },
+  "state-of-the-art": {
+    "expression": "avançado"
+  },
+  "status": {
+    "noun": "status"
+  },
+  "sticky": {
+    "adjective": "fixo"
+  },
+  "stretch to fit": {
+    "expression": "aumentar para ajustar ao tamanho"
+  },
+  "subdomain": {
+    "noun": "subdomínio"
+  },
+  "submit": {
+    "verb": "enviar"
+  },
+  "subscribe": {
+    "verb": "assinar"
+  },
+  "subscribed": {
+    "verb": "assinou"
+  },
+  "subscriptions": {
+    "noun": "assinaturas"
+  },
+  "Sudan": {
+    "noun": "Sudão"
+  },
+  "Sunday": {
+    "noun": "domingo"
+  },
+  "Suriname": {
+    "noun": "Suriname"
+  },
+  "Swaziland": {
+    "noun": "Suazilândia"
+  },
+  "Sweden": {
+    "noun": "Suécia"
+  },
+  "Switzerland": {
+    "noun": "Suíça"
+  },
+  "Syria": {
+    "noun": "Síria"
+  },
+  "tab": {
+    "noun": "aba"
+  },
+  "tag": {
+    "noun": "tag"
+  },
+  "Tajikistan": {
+    "noun": "Tadjiquistão"
+  },
+  "Tanzania": {
+    "noun": "Tanzânia"
+  },
+  "target": {
+    "noun": "destino"
+  },
+  "team": {
+    "noun": "equipe"
+  },
+  "template": {
+    "noun": "modelo"
+  },
+  "template part": {
+    "noun": "parte de modelo"
+  },
+  "Thailand": {
+    "noun": "Tailândia"
+  },
+  "The Bahamas": {
+    "noun": "Bahamas"
+  },
+  "theme customizer": {
+    "noun": "personalizador de tema"
+  },
+  "then": {
+    "interjection": "então"
+  },
+  "threshold": {
+    "noun": "limiar"
+  },
+  "throttling": {
+    "noun": "controle de fluxo"
+  },
+  "Thumbnail": {
+    "noun": "Miniatura"
+  },
+  "Thursday": {
+    "noun": "quinta-feira"
+  },
+  "tile": {
+    "verb": "repetir"
+  },
+  "timezone": {
+    "noun": "fuso horário"
+  },
+  "toggle": {
+    "verb": "alternar",
+    "noun": "botão de alternância"
+  },
+  "Togo": {
+    "noun": "Togo"
+  },
+  "Tonga": {
+    "noun": "Tonga"
+  },
+  "trackback": {
+    "noun": "trackback"
+  },
+  "trash": {
+    "noun": "lixeira"
+  },
+  "trigger": {
+    "noun": "gatilho",
+    "verb": "ativar"
+  },
+  "Trinidad and Tobago": {
+    "noun": "Trinidad e Tobago"
+  },
+  "troubleshoot": {
+    "verb": "resolver problemas"
+  },
+  "Troubleshooting": {
+    "noun": "resolução de problemas"
+  },
+  "Tuesday": {
+    "noun": "terça-feira"
+  },
+  "Tunisia": {
+    "noun": "Tunísia"
+  },
+  "Turkey": {
+    "noun": "Turquia"
+  },
+  "Turkmenistan": {
+    "noun": "Turcomenistão"
+  },
+  "tweak": {
+    "noun": "ajuste"
+  },
+  "Uganda": {
+    "noun": "Uganda"
+  },
+  "Ukraine": {
+    "noun": "Ucrânia"
+  },
+  "undelete": {
+    "verb": "restaurar"
+  },
+  "underscore": {
+    "noun": "sublinhado"
+  },
+  "unfollow": {
+    "verb": "deixar de seguir"
+  },
+  "United Arab Emirates": {
+    "noun": "Emirados Árabes Unidos"
+  },
+  "United Kingdom": {
+    "noun": "Reino Unido"
+  },
+  "United States": {
+    "noun": "Estados Unidos"
+  },
+  "update": {
+    "verb": "atualizar",
+    "noun": "atualização"
+  },
+  "updated": {
+    "verb": "atualizado"
+  },
+  "upload": {
+    "noun": "enviar",
+    "verb": "enviar"
+  },
+  "URL": {
+    "noun": "URL"
+  },
+  "url": {
+    "noun": "URL"
+  },
+  "Uruguay": {
+    "noun": "Uruguai"
+  },
+  "user": {
+    "noun": "usuário"
+  },
+  "User": {
+    "noun": "usuário"
+  },
+  "username": {
+    "noun": "nome de usuário"
+  },
+  "users": {
+    "noun": "usuários"
+  },
+  "Users": {
+    "noun": "usuários"
+  },
+  "Uzbekistan": {
+    "noun": "Usbequistão"
+  },
+  "Vanuatu": {
+    "noun": "Vanuatu"
+  },
+  "Vatican City": {
+    "noun": "Cidade do Vaticano"
+  },
+  "Venezuela": {
+    "noun": "Venezuela"
+  },
+  "Venezuelan bol&iacute;var": {
+    "noun": "Bolívar venezuelano"
+  },
+  "Vietnam": {
+    "noun": "Vietnã"
+  },
+  "Vietnamese Dong": {
+    "noun": "Dong vietnamita"
+  },
+  "view": {
+    "noun": "visualização",
+    "verb": "ver"
+  },
+  "Wales": {
+    "noun": "País de Gales"
+  },
+  "Warning": {
+    "noun": "Alerta"
+  },
+  "warning": {
+    "interjection": "atenção"
+  },
+  "webhook": {
+    "noun": "webhook"
+  },
+  "website": {
+    "noun": "site"
+  },
+  "Wednesday": {
+    "noun": "quarta-feira"
+  },
+  "Welcome": {
+    "noun": "Boas-vindas"
+  },
+  "welcome": {
+    "noun": "boas-vindas"
+  },
+  "West African CFA Franc": {
+    "noun": "Franco CFA ocidental"
+  },
+  "Western Sahara": {
+    "noun": "Saara Ocidental"
+  },
+  "wide": {
+    "noun": "amplo"
+  },
+  "widget": {
+    "noun": "widget"
+  },
+  "WordPress": {
+    "noun": "WordPress"
+  },
+  "workflow": {
+    "noun": "fluxo de trabalho"
+  },
+  "wrapper": {
+    "noun": "invólucro"
+  },
+  "write": {
+    "verb": "escrever"
+  },
+  "Yemen": {
+    "noun": "Iêmen"
+  },
+  "Yemeni Rial": {
+    "noun": "Rial iemenita"
+  },
+  "you are about to": {
+    "expression": "você está prestes a"
+  },
+  "you are not allowed to": {
+    "expression": "sem permissão para"
+  },
+  "you can just/only": {
+    "expression": "basta"
+  },
+  "you cannot to": {
+    "expression": "sem permissão para"
+  },
+  "you must have": {
+    "expression": "deve ter"
+  },
+  "Zambia": {
+    "noun": "Zâmbia"
+  },
+  "Zambian Kwacha": {
+    "noun": "Kwacha zambiano"
+  },
+  "Zimbabwe": {
+    "noun": "Zimbábue"
+  },
+  "Zoom Out": {
+    "noun": "Visão ampla"
+  }
+}

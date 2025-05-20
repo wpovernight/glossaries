@@ -1,0 +1,1462 @@
+{
+  "action scheduler": {
+    "noun": "action scheduler"
+  },
+  "Activation Key": {
+    "noun": "Activatiesleutel"
+  },
+  "add": {
+    "verb": "toevoegen"
+  },
+  "add new": {
+    "noun": "toevoegen"
+  },
+  "add on": {
+    "noun": "add-on"
+  },
+  "add ons": {
+    "noun": "add-ons"
+  },
+  "add to": {
+    "noun": "toevoegen"
+  },
+  "add-on": {
+    "noun": "add-on"
+  },
+  "add-ons": {
+    "noun": "add-ons"
+  },
+  "addon": {
+    "noun": "add-on"
+  },
+  "addons": {
+    "noun": "add-ons"
+  },
+  "adjective": {
+    "noun": "bijvoeglijk naamwoord"
+  },
+  "admin": {
+    "noun": "beheerder"
+  },
+  "admin bar": {
+    "noun": "beheerder werkbalk"
+  },
+  "administrator": {
+    "noun": "beheerder"
+  },
+  "adverb": {
+    "noun": "bijwoord"
+  },
+  "all": {
+    "noun": "alle"
+  },
+  "Allow": {
+    "noun": "Toestaan"
+  },
+  "analytics data": {
+    "noun": "Statistische gegevens"
+  },
+  "API key": {
+    "noun": "API-sleutel"
+  },
+  "API keys": {
+    "noun": "API-sleutels"
+  },
+  "API-key": {
+    "noun": "API-sleutel"
+  },
+  "API-keys": {
+    "noun": "API-sleutels"
+  },
+  "appearance": {
+    "noun": "weergave"
+  },
+  "application passwords": {
+    "noun": "applicatiewachtwoorden"
+  },
+  "approval": {
+    "noun": "goedkeuring"
+  },
+  "approve": {
+    "noun": "goedkeuren",
+    "verb": "toestaan"
+  },
+  "Approved": {
+    "noun": "Goedgekeurd"
+  },
+  "Arbitrary": {
+    "noun": "Eigen"
+  },
+  "archive": {
+    "noun": "archief"
+  },
+  "archives": {
+    "noun": "archieven"
+  },
+  "area": {
+    "noun": "ruimte"
+  },
+  "asides": {
+    "noun": "zijdelings"
+  },
+  "asset": {
+    "noun": "asset"
+  },
+  "assets": {
+    "noun": "assets"
+  },
+  "attachment": {
+    "noun": "bijlage"
+  },
+  "Audio player": {
+    "noun": "Audiospeler"
+  },
+  "author": {
+    "noun": "auteur"
+  },
+  "available": {
+    "noun": "beschikbare"
+  },
+  "back-up": {
+    "noun": "back-up"
+  },
+  "back-ups": {
+    "noun": "back-ups"
+  },
+  "Background updates": {
+    "noun": "Achtergrondupdates"
+  },
+  "backup": {
+    "noun": "back-up"
+  },
+  "backups": {
+    "noun": "back-ups"
+  },
+  "block": {
+    "noun": "blok"
+  },
+  "block editor": {
+    "noun": "blok-editor"
+  },
+  "block pattern": {
+    "noun": "blokpatroon"
+  },
+  "block patterns": {
+    "noun": "blokpatronen"
+  },
+  "block theme": {
+    "noun": "blokthema"
+  },
+  "block themes": {
+    "noun": "blokthema's"
+  },
+  "blockquote": {
+    "noun": "blockquote"
+  },
+  "blockquotes": {
+    "noun": "blockquotes"
+  },
+  "body": {
+    "noun": "body"
+  },
+  "Bookmark": {
+    "noun": "bladwijzer"
+  },
+  "Bookmarks": {
+    "noun": "Bladwijzers"
+  },
+  "Bottom": {
+    "noun": "Onderaan"
+  },
+  "box": {
+    "noun": "vak"
+  },
+  "Boxed": {
+    "noun": "Boxed"
+  },
+  "boxes": {
+    "noun": "vakken"
+  },
+  "breadcrumb": {
+    "noun": "kruimelpad"
+  },
+  "breadcrumbs": {
+    "noun": "kruimelpad"
+  },
+  "British Indian Ocean Territory": {
+    "noun": "Brits Indische Oceaanterritorium"
+  },
+  "browsing": {
+    "verb": "bladeren"
+  },
+  "button": {
+    "noun": "knop"
+  },
+  "buttons": {
+    "noun": "knoppen"
+  },
+  "call to action": {
+    "noun": "Call to Action"
+  },
+  "call-to-action": {
+    "noun": "Call to Action"
+  },
+  "cancel": {
+    "verb": "annuleren"
+  },
+  "caption": {
+    "noun": "onderschrift"
+  },
+  "cart": {
+    "noun": "winkelwagen"
+  },
+  "change log": {
+    "noun": "changelog"
+  },
+  "Change logo": {
+    "noun": "Logo wijzigen"
+  },
+  "changelog": {
+    "noun": "changelog"
+  },
+  "Changes": {
+    "noun": "Wijzigingen"
+  },
+  "checkbox": {
+    "noun": "selectievak"
+  },
+  "checkboxes": {
+    "noun": "selectievakken"
+  },
+  "child theme": {
+    "noun": "subthema"
+  },
+  "childtheme": {
+    "noun": "subthema"
+  },
+  "clipboard": {
+    "noun": "klembord"
+  },
+  "close": {
+    "verb": "sluiten"
+  },
+  "Close dialog": {
+    "noun": "Dialoogvenster sluiten"
+  },
+  "Cloud": {
+    "noun": "Wolk"
+  },
+  "CodePen": {
+    "noun": "CodePen"
+  },
+  "comando palet": {
+    "noun": "opdrachtpaneel"
+  },
+  "command palette": {
+    "noun": "opdrachtpaneel"
+  },
+  "comment": {
+    "noun": "reactie"
+  },
+  "comments": {
+    "noun": "reacties"
+  },
+  "conjunction": {
+    "noun": "conjunctie"
+  },
+  "Contact Form 7": {
+    "noun": "Contact Form 7"
+  },
+  "Content": {
+    "noun": "Inhoud"
+  },
+  "Contributor": {
+    "noun": "Bijdrager"
+  },
+  "coupon": {
+    "noun": "coupon"
+  },
+  "coupons": {
+    "noun": "coupons"
+  },
+  "cover": {
+    "noun": "cover"
+  },
+  "cover image": {
+    "noun": "omslagafbeelding"
+  },
+  "cover photo": {
+    "noun": "omslagfoto"
+  },
+  "crop": {
+    "verb": "bijsnijden"
+  },
+  "Current": {
+    "noun": "huidige"
+  },
+  "Currently": {
+    "noun": "Momenteel"
+  },
+  "custom": {
+    "noun": "aangepast"
+  },
+  "Custom color": {
+    "noun": "aangepaste kleur"
+  },
+  "Custom Link": {
+    "noun": "aangepaste link"
+  },
+  "Custom Links": {
+    "noun": "aangepaste links"
+  },
+  "custom post": {
+    "noun": "aangepast bericht"
+  },
+  "custom post type": {
+    "noun": "aangepast berichttype"
+  },
+  "custom post types": {
+    "noun": "aangepaste berichttypes"
+  },
+  "custom posts": {
+    "noun": "aangepaste berichten"
+  },
+  "Customizer": {
+    "noun": "Customizer"
+  },
+  "Customizing": {
+    "verb": "Personaliseren"
+  },
+  "Dailymotion": {
+    "noun": "Dailymotion"
+  },
+  "dashboard": {
+    "noun": "dashboard"
+  },
+  "data": {
+    "noun": "gegevens"
+  },
+  "database": {
+    "noun": "database"
+  },
+  "databases": {
+    "noun": "databases"
+  },
+  "date format": {
+    "noun": "datumnotatie"
+  },
+  "dates": {
+    "noun": "datums"
+  },
+  "default": {
+    "noun": "standaard"
+  },
+  "delete": {
+    "verb": "verwijderen"
+  },
+  "deprecated": {
+    "adjective": "verouderd"
+  },
+  "description": {
+    "noun": "beschrijving"
+  },
+  "Diffusion": {
+    "noun": "Diffusion"
+  },
+  "directory": {
+    "noun": "map"
+  },
+  "disabled": {
+    "noun": "uitgeschakeld"
+  },
+  "Discover": {
+    "noun": "Ontdek"
+  },
+  "Dismiss": {
+    "noun": "Negeren"
+  },
+  "display": {
+    "verb": "tonen"
+  },
+  "Display name": {
+    "noun": "Weergave naam"
+  },
+  "draft": {
+    "noun": "concept"
+  },
+  "drafts": {
+    "noun": "concepten"
+  },
+  "drag and drop": {
+    "interjection": "slepen en plaatsen"
+  },
+  "Drag boxes here": {
+    "noun": "sleep de vakken naar hier"
+  },
+  "Drop": {
+    "noun": "Plaats"
+  },
+  "drop-down": {
+    "noun": "dropdown"
+  },
+  "Dropbox": {
+    "noun": "Dropbox"
+  },
+  "dropdown": {
+    "noun": "dropdown"
+  },
+  "e commerce": {
+    "noun": "e-commerce"
+  },
+  "e-commerce": {
+    "noun": "e-commerce"
+  },
+  "e-mail": {
+    "noun": "e-mail"
+  },
+  "ebay": {
+    "noun": "eBay"
+  },
+  "ecommerce": {
+    "noun": "e-commerce"
+  },
+  "Edge": {
+    "noun": "Edge"
+  },
+  "edge": {
+    "noun": "rand"
+  },
+  "edit": {
+    "verb": "Bewerken"
+  },
+  "editor": {
+    "noun": "editor"
+  },
+  "editor toolbar": {
+    "noun": "editor werkbalk"
+  },
+  "email": {
+    "noun": "e-mail"
+  },
+  "email address": {
+    "noun": "e-mailadres"
+  },
+  "Email Notification": {
+    "noun": "e-mailnotificatie"
+  },
+  "Email Notifications": {
+    "noun": "E-mailnotificaties"
+  },
+  "embed": {
+    "verb": "insluiten"
+  },
+  "enable": {
+    "verb": "inschakelen"
+  },
+  "enable/disable": {
+    "noun": "in-/uitschakelen"
+  },
+  "enabled": {
+    "noun": "ingeschakeld"
+  },
+  "entries": {
+    "noun": "ingaves"
+  },
+  "error": {
+    "noun": "fout"
+  },
+  "Error reconnecting to the database": {
+    "expression": "Fout opgetreden tijdens het opnieuw verbinden met de database"
+  },
+  "etc": {
+    "noun": "enz"
+  },
+  "etc.": {
+    "noun": "enz."
+  },
+  "excerpt": {
+    "noun": "samenvatting"
+  },
+  "export file": {
+    "noun": "exportbestand"
+  },
+  "expression": {
+    "noun": "uitdrukking"
+  },
+  "F j Y": {
+    "noun": "j F Y"
+  },
+  "F j, Y": {
+    "noun": "j F Y"
+  },
+  "failed": {
+    "noun": "mislukt"
+  },
+  "featured image": {
+    "noun": "uitgelichte afbeelding"
+  },
+  "feed": {
+    "noun": "feed"
+  },
+  "feedback": {
+    "noun": "feedback"
+  },
+  "file handle": {
+    "noun": "file handle"
+  },
+  "file type": {
+    "noun": "bestandstype"
+  },
+  "filter": {
+    "noun": "filter",
+    "verb": "filteren"
+  },
+  "filters": {
+    "noun": "filters"
+  },
+  "Fixed Layout": {
+    "noun": "Vaste lay-out"
+  },
+  "Fluid Layout": {
+    "noun": "Vloeiende lay-out"
+  },
+  "folder": {
+    "noun": "map"
+  },
+  "folders": {
+    "noun": "mappen"
+  },
+  "font": {
+    "noun": "lettertype"
+  },
+  "Font Awesome": {
+    "noun": "Font Awesome"
+  },
+  "Font face": {
+    "noun": "font face"
+  },
+  "font faces": {
+    "noun": "font faces"
+  },
+  "Font Weight": {
+    "noun": "Lettertype dikte"
+  },
+  "fonts": {
+    "noun": "lettertypes"
+  },
+  "footer": {
+    "noun": "footer"
+  },
+  "forbidden": {
+    "noun": "niet toegestaan"
+  },
+  "format": {
+    "noun": "formaat"
+  },
+  "forums": {
+    "noun": "forums"
+  },
+  "front page": {
+    "noun": "startpagina"
+  },
+  "Front-page": {
+    "noun": "Startpagina"
+  },
+  "frontpage": {
+    "noun": "startpagina"
+  },
+  "Full Site Editing": {
+    "noun": "Full Site Editing"
+  },
+  "Fullscreen": {
+    "noun": "Volledige scherm"
+  },
+  "g a": {
+    "expression": "H"
+  },
+  "g:i a": {
+    "noun": "H:i"
+  },
+  "g:i:s a": {
+    "expression": "H:i:s"
+  },
+  "galleries": {
+    "noun": "galerijen"
+  },
+  "gallery": {
+    "noun": "galerij"
+  },
+  "Github": {
+    "noun": "GitHub"
+  },
+  "Google Fonts": {
+    "noun": "Google Fonts"
+  },
+  "grid": {
+    "noun": "raster"
+  },
+  "H:i": {
+    "noun": "H:i"
+  },
+  "header": {
+    "noun": "header"
+  },
+  "heading": {
+    "noun": "koptekst"
+  },
+  "hide": {
+    "verb": "verbergen"
+  },
+  "home page": {
+    "noun": "homepage"
+  },
+  "homepage": {
+    "noun": "homepage"
+  },
+  "honeypot": {
+    "noun": "honeypot"
+  },
+  "hook": {
+    "noun": "hook"
+  },
+  "hooks": {
+    "noun": "hooks"
+  },
+  "hover": {
+    "verb": "hoveren"
+  },
+  "Human-readable": {
+    "noun": "Leesbare"
+  },
+  "icon": {
+    "noun": "icoon"
+  },
+  "icons": {
+    "noun": "iconen"
+  },
+  "iframe": {
+    "noun": "iframe"
+  },
+  "image": {
+    "noun": "afbeelding"
+  },
+  "images": {
+    "noun": "afbeeldingen"
+  },
+  "importer": {
+    "noun": "importeerfunctie"
+  },
+  "inline": {
+    "noun": "inline"
+  },
+  "insert": {
+    "verb": "invoegen"
+  },
+  "inserted": {
+    "noun": "ingevoegd"
+  },
+  "instead": {
+    "noun": "in plaats daarvan"
+  },
+  "interjection": {
+    "noun": "tussenvoegsel"
+  },
+  "Invalid": {
+    "noun": "ongeldig"
+  },
+  "Invalid object type": {
+    "noun": "Ongeldig objecttype"
+  },
+  "IP Address": {
+    "noun": "IP-adres"
+  },
+  "IP addresses": {
+    "noun": "IP-adressen"
+  },
+  "IP-address": {
+    "noun": "IP-adres"
+  },
+  "IP-addresses": {
+    "noun": "IP-adressen"
+  },
+  "italic": {
+    "noun": "cursief"
+  },
+  "key": {
+    "noun": "toets"
+  },
+  "keys": {
+    "noun": "toetsen"
+  },
+  "keyword": {
+    "noun": "trefwoord"
+  },
+  "keywords": {
+    "noun": "trefwoorden"
+  },
+  "Layout": {
+    "noun": "lay-out"
+  },
+  "legacy": {
+    "noun": "verouderde"
+  },
+  "License key": {
+    "noun": "Licentiesleutel"
+  },
+  "lightbox": {
+    "noun": "lightbox"
+  },
+  "Linkedin": {
+    "noun": "LinkedIn"
+  },
+  "links": {
+    "noun": "links"
+  },
+  "Locale": {
+    "noun": "Locale"
+  },
+  "location": {
+    "noun": "locatie"
+  },
+  "log out": {
+    "noun": "uitloggen"
+  },
+  "logfile": {
+    "noun": "logbestand"
+  },
+  "M j, Y": {
+    "noun": "j F Y"
+  },
+  "mailchimp": {
+    "noun": "Mailchimp"
+  },
+  "MailPoet": {
+    "noun": "MailPoet"
+  },
+  "main menu": {
+    "noun": "hoofdmenu"
+  },
+  "major/minor": {
+    "noun": "grote/kleine"
+  },
+  "margin": {
+    "noun": "margin"
+  },
+  "mark": {
+    "noun": "markeren"
+  },
+  "masonry": {
+    "noun": "masonry"
+  },
+  "matching": {
+    "noun": "overeenstemmen"
+  },
+  "Media file": {
+    "noun": "Mediabestand"
+  },
+  "menu": {
+    "noun": "menu"
+  },
+  "menu item": {
+    "noun": "menu-item"
+  },
+  "menu items": {
+    "noun": "menu-items"
+  },
+  "menu-item": {
+    "noun": "menu-item"
+  },
+  "menu-items": {
+    "noun": "menu-items"
+  },
+  "menus": {
+    "noun": "menu's"
+  },
+  "meta box": {
+    "noun": "metabox"
+  },
+  "metabox": {
+    "noun": "metabox"
+  },
+  "metaboxes": {
+    "noun": "metaboxes"
+  },
+  "metadata": {
+    "noun": "metadata"
+  },
+  "minify": {
+    "noun": "minify"
+  },
+  "mismatch": {
+    "noun": "komen niet overeen"
+  },
+  "Mobile": {
+    "noun": "Mobiel"
+  },
+  "mouse interaction": {
+    "noun": "muisinteractie"
+  },
+  "move": {
+    "verb": "verplaatsen"
+  },
+  "Multiline textarea": {
+    "noun": "Tekstveld met meerdere regels"
+  },
+  "multisite": {
+    "noun": "multisite"
+  },
+  "multisites": {
+    "noun": "multisites"
+  },
+  "mute": {
+    "verb": "dempen"
+  },
+  "Mute": {
+    "noun": "Afbreken"
+  },
+  "named": {
+    "noun": "benoemde"
+  },
+  "namespace": {
+    "noun": "namespace"
+  },
+  "navigate": {
+    "noun": "navigeren"
+  },
+  "Navigation Label": {
+    "noun": "Navigatie-label"
+  },
+  "Nicename": {
+    "noun": "Schermnaam"
+  },
+  "nickname": {
+    "noun": "persoon"
+  },
+  "nonce": {
+    "noun": "nonce"
+  },
+  "Notes": {
+    "noun": "notities"
+  },
+  "notice": {
+    "noun": "melding"
+  },
+  "notification": {
+    "noun": "notificatie"
+  },
+  "notifications": {
+    "noun": "notificaties"
+  },
+  "noun": {
+    "noun": "zelfstandig naamwoord"
+  },
+  "object": {
+    "noun": "object"
+  },
+  "P.S": {
+    "noun": "PS"
+  },
+  "padding": {
+    "noun": "padding"
+  },
+  "page": {
+    "noun": "pagina"
+  },
+  "pages": {
+    "noun": "pagina's"
+  },
+  "paragraph": {
+    "noun": "paragraaf"
+  },
+  "paragraphs": {
+    "noun": "paragrafen"
+  },
+  "parent": {
+    "verb": "hoofd"
+  },
+  "password": {
+    "noun": "wachtwoord"
+  },
+  "passwords": {
+    "noun": "wachtwoorden"
+  },
+  "Paypal": {
+    "noun": "PayPal"
+  },
+  "Pending": {
+    "noun": "In afwachting"
+  },
+  "performance": {
+    "noun": "performantie"
+  },
+  "permalink": {
+    "noun": "permalink"
+  },
+  "permalinks": {
+    "noun": "permalinks"
+  },
+  "Permanently": {
+    "noun": "Permanent"
+  },
+  "permissions": {
+    "noun": "rechten"
+  },
+  "personal data": {
+    "noun": "persoonsgegevens"
+  },
+  "pingback": {
+    "noun": "pingback"
+  },
+  "placeholder": {
+    "noun": "plaatshouder"
+  },
+  "placeholders": {
+    "noun": "plaatshouders"
+  },
+  "plug-in": {
+    "noun": "plugin"
+  },
+  "plug-ins": {
+    "noun": "plugins"
+  },
+  "plugin": {
+    "noun": "plugin"
+  },
+  "plugins": {
+    "noun": "plugins"
+  },
+  "plural": {
+    "noun": "meervoud"
+  },
+  "Pocketcast": {
+    "noun": "Pocket Cast"
+  },
+  "pop-up": {
+    "noun": "pop-up"
+  },
+  "popup": {
+    "noun": "pop-up"
+  },
+  "post": {
+    "noun": "bericht"
+  },
+  "post format": {
+    "noun": "berichtformaat"
+  },
+  "post type": {
+    "noun": "berichttype"
+  },
+  "post types": {
+    "noun": "berichttypes"
+  },
+  "poster": {
+    "noun": "poster"
+  },
+  "Poster": {
+    "noun": "Aanbieder"
+  },
+  "posts": {
+    "noun": "berichten"
+  },
+  "Posts navigation": {
+    "noun": "Berichtnavigatie"
+  },
+  "posttypes": {
+    "noun": "berichtypes"
+  },
+  "Pre-Packaged": {
+    "noun": "Bij installatie inbegrepen"
+  },
+  "preposition": {
+    "noun": "voorzetsel"
+  },
+  "preview": {
+    "noun": "voorbeeld"
+  },
+  "previewing": {
+    "noun": "voorbeeld bekijken"
+  },
+  "Private": {
+    "noun": "Privé"
+  },
+  "pronoun": {
+    "noun": "voornaamwoord"
+  },
+  "published by": {
+    "noun": "gepubliceerd door"
+  },
+  "quote": {
+    "noun": "citaat"
+  },
+  "quotes": {
+    "noun": "citaten"
+  },
+  "rating": {
+    "noun": "beoordeling"
+  },
+  "reactivate": {
+    "noun": "opnieuw activeren"
+  },
+  "reCAPTCHA": {
+    "noun": "reCAPTCHA"
+  },
+  "recommended": {
+    "noun": "aanbevolen"
+  },
+  "records": {
+    "adverb": "records"
+  },
+  "Recovery mode": {
+    "noun": "Herstelmodus"
+  },
+  "redirect": {
+    "noun": "redirect"
+  },
+  "refund": {
+    "noun": "terugbetaling"
+  },
+  "refunds": {
+    "noun": "terugbetalingen"
+  },
+  "Remove": {
+    "noun": "Verwijderen"
+  },
+  "reorder": {
+    "verb": "herschikken"
+  },
+  "repository": {
+    "noun": "repository"
+  },
+  "request": {
+    "noun": "request"
+  },
+  "requirements": {
+    "noun": "vereisten"
+  },
+  "resource": {
+    "noun": "hulpbron"
+  },
+  "responsive": {
+    "adjective": "responsive"
+  },
+  "Responsive Layout": {
+    "noun": "responsieve lay-out"
+  },
+  "REST API": {
+    "noun": "REST-API"
+  },
+  "REST-API": {
+    "noun": "REST-API"
+  },
+  "restrict": {
+    "adjective": "beveiligd",
+    "verb": "beperken"
+  },
+  "restricted": {
+    "adjective": "beveiligde"
+  },
+  "resume": {
+    "noun": "cv",
+    "verb": "hervatten"
+  },
+  "reusable block": {
+    "noun": "herbruikbaar blok"
+  },
+  "review": {
+    "noun": "beoordeling"
+  },
+  "reviews": {
+    "noun": "beoordelingen"
+  },
+  "Rich Text Area": {
+    "noun": "Verrijkt tekstvak"
+  },
+  "run": {
+    "verb": "uitvoeren"
+  },
+  "Salt": {
+    "noun": "salt"
+  },
+  "salt": {
+    "noun": "zout"
+  },
+  "sandbox": {
+    "noun": "zandbak"
+  },
+  "save": {
+    "noun": "opslaan"
+  },
+  "saved": {
+    "noun": "opgeslagen"
+  },
+  "Scheduled": {
+    "noun": "Gepland"
+  },
+  "Screen Options": {
+    "noun": "Scherminstellingen"
+  },
+  "search": {
+    "verb": "zoeken"
+  },
+  "search engine": {
+    "noun": "zoekmachine"
+  },
+  "search engines": {
+    "noun": "zoekmachines"
+  },
+  "Search Results": {
+    "noun": "zoekresultaten"
+  },
+  "select": {
+    "verb": "selecteer"
+  },
+  "sending": {
+    "verb": "verzenden"
+  },
+  "sent": {
+    "verb": "verzonden"
+  },
+  "separator": {
+    "noun": "scheidingsteken"
+  },
+  "service": {
+    "noun": "dienst"
+  },
+  "setting": {
+    "noun": "instelling"
+  },
+  "settings": {
+    "noun": "instellingen"
+  },
+  "setup": {
+    "noun": "configuratie"
+  },
+  "share button": {
+    "noun": "deelknop"
+  },
+  "Sharing options": {
+    "noun": "Instellingen voor delen"
+  },
+  "Short code": {
+    "noun": "Shortcode"
+  },
+  "short link": {
+    "noun": "korte link"
+  },
+  "shortcode": {
+    "noun": "shortcode"
+  },
+  "shortcut": {
+    "noun": "sneltoets"
+  },
+  "shortcuts": {
+    "noun": "sneltoetsen"
+  },
+  "show": {
+    "verb": "tonen"
+  },
+  "Show Controls": {
+    "expression": "Besturing tonen"
+  },
+  "sidebar": {
+    "noun": "zijbalk"
+  },
+  "singular": {
+    "noun": "enkelvoud"
+  },
+  "site": {
+    "noun": "website"
+  },
+  "site editor": {
+    "noun": "site-editor"
+  },
+  "Site Health": {
+    "noun": "Websitediagnose"
+  },
+  "site icon": {
+    "noun": "favicon"
+  },
+  "site icons": {
+    "noun": "favicons"
+  },
+  "site-editor": {
+    "noun": "site-editor"
+  },
+  "sitemap": {
+    "noun": "sitemap"
+  },
+  "sites": {
+    "noun": "websites"
+  },
+  "size": {
+    "noun": "grootte"
+  },
+  "Skin": {
+    "noun": "Huid"
+  },
+  "skip": {
+    "noun": "overslaan"
+  },
+  "slider": {
+    "noun": "slider"
+  },
+  "slideshow": {
+    "noun": "slideshow"
+  },
+  "slug": {
+    "noun": "slug"
+  },
+  "slugs": {
+    "noun": "slugs"
+  },
+  "social media": {
+    "noun": "sociale media"
+  },
+  "sorry": {
+    "noun": "geen sorry"
+  },
+  "soundcloud": {
+    "noun": "SoundCloud"
+  },
+  "start page": {
+    "noun": "startpagina"
+  },
+  "startpage": {
+    "noun": "startpagina"
+  },
+  "sticky": {
+    "adjective": "sticky"
+  },
+  "string": {
+    "noun": "string"
+  },
+  "strings": {
+    "noun": "strings"
+  },
+  "Stripe": {
+    "noun": "streep"
+  },
+  "stylesheet": {
+    "noun": "stylesheet"
+  },
+  "subheading": {
+    "noun": "subkop"
+  },
+  "succesfully": {
+    "noun": "succesvol"
+  },
+  "successfully": {
+    "noun": "succesvol"
+  },
+  "support": {
+    "noun": "Ondersteuning"
+  },
+  "tag": {
+    "verb": "tag"
+  },
+  "tagged": {
+    "noun": "getagd"
+  },
+  "tagline": {
+    "noun": "slogan"
+  },
+  "tags": {
+    "noun": "tags"
+  },
+  "taxonomy": {
+    "noun": "taxonomie"
+  },
+  "template": {
+    "noun": "template"
+  },
+  "templates": {
+    "noun": "templates"
+  },
+  "testimonial": {
+    "noun": "getuigenis"
+  },
+  "testimonials": {
+    "noun": "getuigenissen"
+  },
+  "The search results will be updated as you type.": {
+    "noun": "De zoekresultaten worden vernieuwd terwijl je typt."
+  },
+  "theme": {
+    "noun": "thema"
+  },
+  "themes": {
+    "noun": "thema's"
+  },
+  "thumbnail": {
+    "noun": "thumbnail"
+  },
+  "thumbnails": {
+    "noun": "thumbnails"
+  },
+  "Tiktok": {
+    "noun": "TikTok"
+  },
+  "time format": {
+    "noun": "tijdnotatie"
+  },
+  "Time Slider": {
+    "noun": "Tijdregelaar"
+  },
+  "Title Spacing": {
+    "noun": "Titel spacing"
+  },
+  "Toggle": {
+    "noun": "aan-/uitzetten"
+  },
+  "tool": {
+    "noun": "tool"
+  },
+  "toolbar": {
+    "noun": "werkbalk"
+  },
+  "tools": {
+    "noun": "tools"
+  },
+  "tooltip": {
+    "noun": "tooltip"
+  },
+  "tooltips": {
+    "noun": "tooltips"
+  },
+  "Top": {
+    "noun": "Boven"
+  },
+  "topic": {
+    "noun": "onderwerp"
+  },
+  "topics": {
+    "noun": "onderwerpen"
+  },
+  "track": {
+    "noun": "track"
+  },
+  "trackback": {
+    "noun": "trackback"
+  },
+  "tracking": {
+    "noun": "tracking"
+  },
+  "Trash": {
+    "noun": "Prullenmand",
+    "verb": "Verwijderen"
+  },
+  "typo": {
+    "noun": "typfout"
+  },
+  "unapprove": {
+    "verb": "weigeren"
+  },
+  "unapproved": {
+    "verb": "geweigerd"
+  },
+  "Unarchive": {
+    "noun": "Dearchiveren"
+  },
+  "uninstall": {
+    "noun": "de-installatie",
+    "verb": "deïnstalleren"
+  },
+  "update": {
+    "noun": "update",
+    "verb": "bijwerken"
+  },
+  "Update now": {
+    "verb": "Nu bijwerken"
+  },
+  "updated": {
+    "verb": "bijgewerkt"
+  },
+  "updates": {
+    "noun": "updates"
+  },
+  "upload": {
+    "noun": "upload"
+  },
+  "uploading": {
+    "noun": "uploaden"
+  },
+  "verb": {
+    "noun": "werkwoord"
+  },
+  "Video Player": {
+    "noun": "Videospeler"
+  },
+  "view": {
+    "verb": "bekijken",
+    "noun": "weergave"
+  },
+  "Volume Slider": {
+    "noun": "Volumeregelaar"
+  },
+  "warning": {
+    "noun": "waarschuwing"
+  },
+  "Webp": {
+    "noun": "WebP"
+  },
+  "website": {
+    "noun": "website"
+  },
+  "website icon": {
+    "noun": "favicon"
+  },
+  "website icons": {
+    "noun": "favicons"
+  },
+  "websites": {
+    "noun": "websites"
+  },
+  "Whatsapp": {
+    "noun": "WhatsApp"
+  },
+  "widget": {
+    "noun": "widget"
+  },
+  "widget area": {
+    "noun": "widgetruimte"
+  },
+  "widgets": {
+    "noun": "widgets"
+  },
+  "winrar": {
+    "noun": "WinRAR"
+  },
+  "winzip": {
+    "noun": "WinZip"
+  },
+  "woocommerce": {
+    "noun": "WooCommerce"
+  },
+  "WordPress": {
+    "noun": "WordPress"
+  },
+  "WordPress core": {
+    "noun": "WordPress core"
+  },
+  "wp-admin": {
+    "noun": "wp-admin"
+  },
+  "wp-content": {
+    "noun": "wp-content"
+  },
+  "you": {
+    "noun": "je"
+  },
+  "you are not allowed to": {
+    "noun": "je hebt geen toestemming om"
+  },
+  "You don't have the permission": {
+    "noun": "Je hebt geen toestemming om"
+  },
+  "your": {
+    "noun": "je"
+  },
+  "Youtube": {
+    "noun": "YouTube"
+  }
+}

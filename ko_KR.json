@@ -1,0 +1,765 @@
+{
+  "accent color": {
+    "noun": "강조 색상"
+  },
+  "activate": {
+    "verb": "활성화"
+  },
+  "activated": {
+    "adjective": "활성화됨"
+  },
+  "address": {
+    "noun": "주소"
+  },
+  "administrator": {
+    "noun": "관리자"
+  },
+  "advanced settings": {
+    "noun": "고급 설정"
+  },
+  "all": {
+    "noun": "모두",
+    "adjective": "모든"
+  },
+  "Appearance": {
+    "noun": "모양"
+  },
+  "archive": {
+    "noun": "아카이브"
+  },
+  "area": {
+    "noun": "영역"
+  },
+  "Area": {
+    "noun": "영역"
+  },
+  "article": {
+    "noun": "글"
+  },
+  "aside": {
+    "noun": "추가 정보"
+  },
+  "attachment": {
+    "noun": "첨부파일"
+  },
+  "audio": {
+    "noun": "오디오"
+  },
+  "author": {
+    "noun": "글쓴이"
+  },
+  "Author": {
+    "noun": "작성자"
+  },
+  "Automattic": {
+    "noun": "Automattic"
+  },
+  "avatar": {
+    "noun": "아바타"
+  },
+  "background": {
+    "noun": "배경"
+  },
+  "background color": {
+    "noun": "배경 색상"
+  },
+  "background image": {
+    "noun": "배경 이미지"
+  },
+  "block": {
+    "noun": "블록",
+    "verb": "차단"
+  },
+  "blockquote": {
+    "noun": "인용"
+  },
+  "blog": {
+    "noun": "블로그"
+  },
+  "blog post": {
+    "noun": "블로그 글"
+  },
+  "border": {
+    "noun": "테두리"
+  },
+  "Breadcrumbs": {
+    "noun": "이동 경로"
+  },
+  "browser": {
+    "noun": "브라우저"
+  },
+  "Bulk Actions": {
+    "noun": "일괄 동작"
+  },
+  "bullet list": {
+    "noun": "불릿 목록"
+  },
+  "button": {
+    "noun": "버튼"
+  },
+  "carousel": {
+    "noun": "캐러셀"
+  },
+  "cart": {
+    "noun": "장바구니"
+  },
+  "category": {
+    "noun": "카테고리"
+  },
+  "checkboxes": {
+    "noun": "체크박스"
+  },
+  "checkout": {
+    "noun": "결제"
+  },
+  "Classic": {
+    "adjective": "클래식"
+  },
+  "Code Editor": {
+    "noun": "코드 편집기"
+  },
+  "color scheme": {
+    "noun": "색 구성표"
+  },
+  "comment": {
+    "noun": "댓글"
+  },
+  "computer": {
+    "noun": "컴퓨터"
+  },
+  "contact form": {
+    "noun": "컨택트 폼"
+  },
+  "container": {
+    "noun": "컨테이너"
+  },
+  "content": {
+    "noun": "콘텐츠"
+  },
+  "Contributor": {
+    "noun": "기여자"
+  },
+  "Cookie": {
+    "noun": "쿠키"
+  },
+  "crop": {
+    "verb": "자르기"
+  },
+  "Custom Colors": {
+    "noun": "사용자 정의 색상"
+  },
+  "Custom CSS": {
+    "noun": "사용자 정의 CSS"
+  },
+  "Custom Fonts": {
+    "noun": "사용자 정의 글꼴"
+  },
+  "customize": {
+    "verb": "사용자 정의"
+  },
+  "Customizer": {
+    "noun": "사용자 정의 기능"
+  },
+  "customizer": {
+    "noun": "사용자 정의 하기"
+  },
+  "dashboard": {
+    "noun": "대시보드"
+  },
+  "deactivate": {
+    "verb": "비활성화"
+  },
+  "default": {
+    "noun": "기본"
+  },
+  "default theme": {
+    "noun": "기본 테마"
+  },
+  "delete": {
+    "noun": "삭제"
+  },
+  "deprecated": {
+    "adjective": "폐기 예정"
+  },
+  "description": {
+    "noun": "설명"
+  },
+  "developer": {
+    "noun": "개발자"
+  },
+  "directory": {
+    "noun": "디렉터리"
+  },
+  "disable": {
+    "verb": "비활성화"
+  },
+  "Disabled": {
+    "noun": "사용 안 함"
+  },
+  "display": {
+    "noun": "표시",
+    "verb": "보이다"
+  },
+  "Distraction Free": {
+    "noun": "집중 모드"
+  },
+  "divider": {
+    "noun": "나눔자"
+  },
+  "domain": {
+    "noun": "도메인"
+  },
+  "domain name": {
+    "noun": "도메인 네임"
+  },
+  "draft": {
+    "noun": "임시글"
+  },
+  "Drop Cap": {
+    "noun": "드롭 캡"
+  },
+  "e-mail": {
+    "noun": "이메일"
+  },
+  "eCommerce": {
+    "noun": "전자상거래"
+  },
+  "editor": {
+    "noun": "편집자"
+  },
+  "email": {
+    "noun": "이메일"
+  },
+  "email address": {
+    "noun": "이메일 주소"
+  },
+  "embed": {
+    "noun": "삽입"
+  },
+  "emoticon": {
+    "noun": "이모티콘"
+  },
+  "enable": {
+    "verb": "활성화"
+  },
+  "Enabled": {
+    "adjective": "사용"
+  },
+  "error": {
+    "noun": "오류"
+  },
+  "excerpt": {
+    "noun": "요약글"
+  },
+  "Facebook": {
+    "noun": "페이스북"
+  },
+  "favicon": {
+    "noun": "파비콘"
+  },
+  "Featured": {
+    "adjective": "추천"
+  },
+  "featured image": {
+    "noun": "대표 이미지"
+  },
+  "featured post": {
+    "noun": "특성 글"
+  },
+  "feed": {
+    "noun": "피드"
+  },
+  "File": {
+    "noun": "파일"
+  },
+  "filter": {
+    "noun": "필터"
+  },
+  "folder": {
+    "noun": "폴더"
+  },
+  "Follow": {
+    "verb": "팔로우"
+  },
+  "Follower": {
+    "noun": "팔로워"
+  },
+  "Following": {
+    "verb": "팔로우 중"
+  },
+  "font": {
+    "noun": "글꼴"
+  },
+  "footer": {
+    "noun": "푸터"
+  },
+  "gallery": {
+    "noun": "갤러리"
+  },
+  "Gutenberg": {
+    "noun": "구텐베르크"
+  },
+  "Ham": {
+    "noun": "스팸 아님"
+  },
+  "handler": {
+    "noun": "핸들러"
+  },
+  "Headers": {
+    "noun": "헤더"
+  },
+  "help": {
+    "noun": "도움말",
+    "verb": "도움"
+  },
+  "hide": {
+    "verb": "숨기기"
+  },
+  "horizontal-line": {
+    "noun": "가로줄"
+  },
+  "host": {
+    "noun": "호스팅"
+  },
+  "hosting provider": {
+    "noun": "호스팅 공급업체"
+  },
+  "hover": {
+    "adjective": "마우스 오버"
+  },
+  "howdy": {
+    "expression": "안녕하세요"
+  },
+  "indent": {
+    "verb": "들여쓰기"
+  },
+  "inserter": {
+    "noun": "삽입기"
+  },
+  "invalid": {
+    "adjective": "유효하지 않은"
+  },
+  "IP address": {
+    "noun": "IP 주소"
+  },
+  "item": {
+    "noun": "항목"
+  },
+  "keyword": {
+    "noun": "키워드"
+  },
+  "label": {
+    "noun": "레이블"
+  },
+  "Learn More": {
+    "expression": "더 알아보기"
+  },
+  "license": {
+    "noun": "라이선스"
+  },
+  "likes": {
+    "noun": "좋아요"
+  },
+  "live chat": {
+    "noun": "실시간 채팅"
+  },
+  "Lock": {
+    "noun": "잠금"
+  },
+  "log in": {
+    "verb": "로그인"
+  },
+  "log out": {
+    "verb": "로그아웃"
+  },
+  "logged in": {
+    "adjective": "로그인된"
+  },
+  "logged out": {
+    "adjective": "로그아웃된"
+  },
+  "login": {
+    "noun": "로그인"
+  },
+  "logout": {
+    "noun": "로그아웃"
+  },
+  "media library": {
+    "noun": "미디어 라이브러리"
+  },
+  "membership": {
+    "noun": "멤버십"
+  },
+  "menu": {
+    "noun": "메뉴"
+  },
+  "menu item": {
+    "noun": "메뉴 아이템"
+  },
+  "meta": {
+    "noun": "메타"
+  },
+  "multisite": {
+    "noun": "멀티사이트"
+  },
+  "navigation": {
+    "noun": "내비게이션"
+  },
+  "Navigation": {
+    "noun": "내비게이션"
+  },
+  "network": {
+    "noun": "네트워크"
+  },
+  "News": {
+    "noun": "뉴스"
+  },
+  "next post": {
+    "noun": "다음 글"
+  },
+  "nightly": {
+    "adjective": "수시"
+  },
+  "None": {
+    "noun": "없음"
+  },
+  "not sticky": {
+    "adjective": "붙박이 아닌"
+  },
+  "Notifications": {
+    "noun": "알림"
+  },
+  "numbered list": {
+    "noun": "숫자 있는 목록"
+  },
+  "option": {
+    "noun": "옵션"
+  },
+  "outdent": {
+    "verb": "내어쓰기"
+  },
+  "page": {
+    "noun": "페이지"
+  },
+  "pagination": {
+    "noun": "페이지 처리"
+  },
+  "parameter": {
+    "noun": "파라미터"
+  },
+  "pending": {
+    "adjective": "대기 중"
+  },
+  "permalink": {
+    "noun": "퍼머링크"
+  },
+  "permission": {
+    "noun": "권한"
+  },
+  "pingback": {
+    "noun": "핑백"
+  },
+  "placeholder": {
+    "noun": "플레이스홀더"
+  },
+  "plan": {
+    "noun": "요금제"
+  },
+  "plugin": {
+    "noun": "플러그인"
+  },
+  "poetry": {
+    "noun": "시"
+  },
+  "poll": {
+    "noun": "설문조사"
+  },
+  "post": {
+    "noun": "게시물"
+  },
+  "post format": {
+    "noun": "글 형식"
+  },
+  "post status": {
+    "noun": "글 상태"
+  },
+  "post type": {
+    "noun": "게시물 유형"
+  },
+  "Posted on": {
+    "expression": "작성일자"
+  },
+  "Poster Image": {
+    "noun": "포스터 이미지"
+  },
+  "Premium": {
+    "adjective": "프리미엄"
+  },
+  "preview": {
+    "noun": "미리보기"
+  },
+  "previous post": {
+    "noun": "이전 글"
+  },
+  "Privacy Protection": {
+    "noun": "개인정보 보호"
+  },
+  "profile": {
+    "noun": "프로필"
+  },
+  "Publish": {
+    "noun": "공개"
+  },
+  "publish": {
+    "verb": "공개"
+  },
+  "query": {
+    "noun": "쿼리"
+  },
+  "Redirect": {
+    "noun": "리다이렉트"
+  },
+  "referrer": {
+    "noun": "리퍼러"
+  },
+  "refund policy": {
+    "noun": "환불 정책"
+  },
+  "register": {
+    "verb": "회원가입"
+  },
+  "registration": {
+    "noun": "회원가입"
+  },
+  "Related Posts": {
+    "noun": "관련 글"
+  },
+  "release": {
+    "noun": "릴리스"
+  },
+  "remove": {
+    "noun": "제거"
+  },
+  "required": {
+    "noun": "필수"
+  },
+  "responsive": {
+    "adjective": "반응형"
+  },
+  "Reusable Block": {
+    "noun": "재사용 가능 블록"
+  },
+  "reusable block": {
+    "noun": "재사용 가능 블록"
+  },
+  "Revision": {
+    "noun": "리비전"
+  },
+  "role": {
+    "noun": "역할"
+  },
+  "Rows": {
+    "noun": "행"
+  },
+  "RSS": {
+    "noun": "RSS"
+  },
+  "Screen Options": {
+    "noun": "화면 옵션"
+  },
+  "separator": {
+    "noun": "분리자"
+  },
+  "server": {
+    "noun": "서버"
+  },
+  "share": {
+    "noun": "공유"
+  },
+  "sharing button": {
+    "noun": "공유 버튼"
+  },
+  "sharing settings": {
+    "noun": "공유 설정"
+  },
+  "shortcode": {
+    "noun": "쇼트코드"
+  },
+  "Showcase": {
+    "noun": "쇼케이스"
+  },
+  "sidebar": {
+    "noun": "사이드바"
+  },
+  "single": {
+    "noun": "단일"
+  },
+  "single post": {
+    "noun": "단일 글"
+  },
+  "Single Sign-On": {
+    "noun": "SSO(Single Sign-On)"
+  },
+  "site": {
+    "noun": "사이트"
+  },
+  "Slider": {
+    "noun": "슬라이더"
+  },
+  "slideshow": {
+    "noun": "슬라이드쇼"
+  },
+  "slug": {
+    "noun": "슬러그"
+  },
+  "Social Media": {
+    "noun": "소셜 미디어"
+  },
+  "spam": {
+    "noun": "스팸"
+  },
+  "Spotlight mode": {
+    "noun": "스포트라이트 모드"
+  },
+  "State of the Word": {
+    "noun": "스테이트 오브 더 워드"
+  },
+  "status": {
+    "noun": "상태"
+  },
+  "sticky": {
+    "adjective": "붙박이"
+  },
+  "Sticky Post": {
+    "noun": "붙박이 글"
+  },
+  "store": {
+    "noun": "스토어"
+  },
+  "strikethrough": {
+    "noun": "취소선"
+  },
+  "subscribe": {
+    "verb": "구독"
+  },
+  "Subscriber": {
+    "noun": "구독자"
+  },
+  "subscription": {
+    "noun": "구독"
+  },
+  "subtitle": {
+    "noun": "부제목"
+  },
+  "Super admin": {
+    "noun": "최고 관리자"
+  },
+  "survey": {
+    "noun": "설문 조사"
+  },
+  "tag": {
+    "noun": "태그"
+  },
+  "tagline": {
+    "noun": "태그라인"
+  },
+  "taxonomy": {
+    "noun": "택소노미"
+  },
+  "template": {
+    "noun": "템플릿"
+  },
+  "template hierarchy": {
+    "noun": "템플릿 계층"
+  },
+  "term": {
+    "noun": "용어"
+  },
+  "Terms of Service": {
+    "noun": "서비스 약관"
+  },
+  "text editor": {
+    "noun": "텍스트 편집기"
+  },
+  "theme": {
+    "noun": "테마"
+  },
+  "third party": {
+    "noun": "서드 파티"
+  },
+  "thumbnail": {
+    "noun": "썸네일"
+  },
+  "timestamp": {
+    "noun": "타임스탬프"
+  },
+  "Title": {
+    "noun": "제목"
+  },
+  "Toolbar": {
+    "noun": "도구 모음"
+  },
+  "trackback": {
+    "noun": "트랙백"
+  },
+  "trash": {
+    "noun": "휴지통"
+  },
+  "trashed": {
+    "adjective": "삭제됨"
+  },
+  "troubleshooting": {
+    "noun": "문제 해결"
+  },
+  "Twitter": {
+    "noun": "트위터"
+  },
+  "Undo": {
+    "noun": "되돌리기"
+  },
+  "update": {
+    "noun": "업데이트"
+  },
+  "upgrade": {
+    "noun": "업그레이드"
+  },
+  "uploader": {
+    "noun": "업로더"
+  },
+  "user": {
+    "noun": "사용자"
+  },
+  "username": {
+    "noun": "사용자명"
+  },
+  "valid": {
+    "adjective": "유효한"
+  },
+  "video": {
+    "noun": "동영상"
+  },
+  "view": {
+    "noun": "보기"
+  },
+  "web server": {
+    "noun": "웹 서버"
+  },
+  "website": {
+    "noun": "웹사이트"
+  },
+  "Widget": {
+    "noun": "위젯"
+  },
+  "WordCamp": {
+    "noun": "워드캠프"
+  },
+  "WordPress.com": {
+    "noun": "WordPress.com"
+  },
+  "WordPress.org": {
+    "noun": "WordPress.org"
+  },
+  "XML-RPC": {
+    "noun": "XML-RPC"
+  }
+}

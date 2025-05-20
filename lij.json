@@ -1,0 +1,350 @@
+{
+  "about": {
+    "noun": "Niâtri"
+  },
+  "action": {
+    "noun": "Açion"
+  },
+  "app": {
+    "noun": "Aplicaçión / App-e"
+  },
+  "ass": {
+    "noun": "Panê / Cû"
+  },
+  "belin": {
+    "noun": "Belìn"
+  },
+  "blog": {
+    "noun": "Blòg-e"
+  },
+  "cancel": {
+    "noun": "Anulâ"
+  },
+  "categorie": {
+    "noun": "Categorîa"
+  },
+  "categories": {
+    "noun": "Categorîe"
+  },
+  "closed": {
+    "noun": "Saræ / Seròu"
+  },
+  "community": {
+    "noun": "Comunitæ"
+  },
+  "delete": {
+    "noun": "Eliminâ"
+  },
+  "deretano": {
+    "noun": "Tafanâio / Pretérito"
+  },
+  "description": {
+    "noun": "Descriçión"
+  },
+  "developer": {
+    "noun": "Svilupatô"
+  },
+  "download": {
+    "noun": "Descaregâ"
+  },
+  "downloads": {
+    "noun": "Descaregaménti"
+  },
+  "e-mail": {
+    "noun": "Æmâi-e / Æmàil-e"
+  },
+  "edit": {
+    "noun": "Modificâ"
+  },
+  "email": {
+    "noun": "Æmâi-e / Æmàil-e"
+  },
+  "featured": {
+    "noun": "Evidençiòu"
+  },
+  "forum": {
+    "noun": "Fòrum-e"
+  },
+  "found": {
+    "noun": "Atrovòu / Trovòu"
+  },
+  "get involved": {
+    "noun": "Métise in Zêugo"
+  },
+  "glossary": {
+    "noun": "Glosâio"
+  },
+  "hello": {
+    "noun": "Böna"
+  },
+  "help": {
+    "noun": "Agiùtto"
+  },
+  "hi": {
+    "noun": "Böna"
+  },
+  "home": {
+    "noun": "Pàgina Prinçipâ"
+  },
+  "homepage": {
+    "noun": "Pàgina Prinçipâ"
+  },
+  "howdy": {
+    "noun": "Böna"
+  },
+  "html": {
+    "noun": "HTML-e"
+  },
+  "image": {
+    "noun": "Inmàgine"
+  },
+  "in": {
+    "noun": "inte / into / inta / inti"
+  },
+  "internet": {
+    "noun": "Internétte"
+  },
+  "internet site": {
+    "noun": "Scîto d’Internétte"
+  },
+  "internet sites": {
+    "noun": "Scîti d’Internétte"
+  },
+  "invitation": {
+    "noun": "Invîo"
+  },
+  "language": {
+    "noun": "Lèngoa / Lengoàggio"
+  },
+  "learn": {
+    "noun": "Inprénde"
+  },
+  "ligurian": {
+    "noun": "Lìgure"
+  },
+  "linguistics": {
+    "noun": "Lengoìstica"
+  },
+  "link": {
+    "noun": "Colegaménto"
+  },
+  "links": {
+    "noun": "Colegaménti"
+  },
+  "loading": {
+    "noun": "Caregaménto"
+  },
+  "locale": {
+    "noun": "Locâle"
+  },
+  "log in": {
+    "noun": "Intrâ"
+  },
+  "log-in": {
+    "noun": "Intrâ"
+  },
+  "login": {
+    "noun": "Intrâ"
+  },
+  "mail": {
+    "noun": "Pòsta eletrònica"
+  },
+  "mussa": {
+    "noun": "Móssa"
+  },
+  "name": {
+    "noun": "Nómme"
+  },
+  "names": {
+    "noun": "Nómmi"
+  },
+  "network": {
+    "noun": "Ræ"
+  },
+  "news": {
+    "noun": "Nêòvìtæ"
+  },
+  "next": {
+    "noun": "sucesîvo"
+  },
+  "nothing": {
+    "noun": "Nìnte"
+  },
+  "nothing found": {
+    "noun": "No l'è stæto atrovòu nìnte"
+  },
+  "official": {
+    "noun": "Ofiçiâ"
+  },
+  "oops": {
+    "noun": "scûza"
+  },
+  "open source": {
+    "noun": "Co-o còdice avèrtou / open-e sòurce-e"
+  },
+  "page not found": {
+    "noun": "Pàgina no atrovâ"
+  },
+  "password": {
+    "noun": "Ciâveuîa"
+  },
+  "penis": {
+    "noun": "Belìn / Càsso"
+  },
+  "plugin": {
+    "noun": "Azónta"
+  },
+  "plugins": {
+    "noun": "Azónte"
+  },
+  "privacy": {
+    "noun": "Riservatéssa"
+  },
+  "privacy policy": {
+    "noun": "Polìtica in sciâ Riservatéssa"
+  },
+  "privacy-policy": {
+    "noun": "Polìtica in sciâ Riservatéssa"
+  },
+  "project": {
+    "noun": "Progètto"
+  },
+  "proudly powered": {
+    "noun": "Òrgoliozaménte Alimentòu"
+  },
+  "register": {
+    "noun": "Registrâse"
+  },
+  "release": {
+    "noun": "Relàscîòu"
+  },
+  "releases": {
+    "noun": "Relàscîèu"
+  },
+  "remove": {
+    "noun": "Levâ"
+  },
+  "requested": {
+    "noun": "Domandòu"
+  },
+  "required": {
+    "noun": "Necesâio"
+  },
+  "resources": {
+    "noun": "Resoùrse"
+  },
+  "rosetta": {
+    "noun": "Rozétta"
+  },
+  "search": {
+    "noun": "Çercâ / Riçercâ / Riçèrca"
+  },
+  "share this": {
+    "noun": "Condivìddi sto chîe"
+  },
+  "shared": {
+    "noun": "Condivîzo"
+  },
+  "sign in": {
+    "noun": "Registrâse"
+  },
+  "sign-in": {
+    "noun": "Registrâse"
+  },
+  "signin": {
+    "noun": "Registrâse"
+  },
+  "site": {
+    "noun": "Scîto"
+  },
+  "site stats": {
+    "noun": "Statìstiche do scîto"
+  },
+  "sites": {
+    "noun": "Scîti"
+  },
+  "skip to content": {
+    "noun": "Sâtâ a-o contegnûo"
+  },
+  "software": {
+    "noun": "Progràmma / Sòftware-e"
+  },
+  "something": {
+    "noun": "Quarcösa"
+  },
+  "submitted": {
+    "noun": "Inviòu"
+  },
+  "support": {
+    "noun": "Supòrto"
+  },
+  "supporto": {
+    "noun": "Supòrto"
+  },
+  "tag": {
+    "noun": "Tàg-e"
+  },
+  "tagged": {
+    "noun": "Tàggou"
+  },
+  "thank you": {
+    "noun": "¡ Gràçie !"
+  },
+  "theme": {
+    "noun": "Têmma"
+  },
+  "themes": {
+    "noun": "Têmmi"
+  },
+  "title": {
+    "noun": "Tìtolo"
+  },
+  "trash": {
+    "noun": "Ruménta / Çestìn da Ruménta"
+  },
+  "trash bin": {
+    "noun": "Çestìn da Ruménta"
+  },
+  "update": {
+    "noun": "Agiornâ"
+  },
+  "updated": {
+    "noun": "Agiornòu"
+  },
+  "updating": {
+    "noun": "Agiornaménto"
+  },
+  "user": {
+    "noun": "Uténte"
+  },
+  "user name": {
+    "noun": "Nómme Uténte"
+  },
+  "username": {
+    "noun": "Nómme Uténte"
+  },
+  "users": {
+    "noun": "Uténti"
+  },
+  "visit": {
+    "noun": "Vixitâ"
+  },
+  "vulva": {
+    "noun": "Móssa / Goèrsa / Vagìnn-a"
+  },
+  "web site": {
+    "noun": "Scîto wèb-e"
+  },
+  "web sites": {
+    "noun": "Scîti wèb-e"
+  },
+  "website": {
+    "noun": "Scîto wèb-e"
+  },
+  "welcome": {
+    "noun": "Ben vegnûi"
+  },
+  "write": {
+    "noun": "Scrîve"
+  }
+}

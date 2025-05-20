@@ -1,0 +1,30 @@
+{
+  "Comment": {
+    "noun": "Kommentar"
+  },
+  "Directory": {
+    "noun": "Regëster"
+  },
+  "next": {
+    "adjective": "nächst(en)"
+  },
+  "pattern": {
+    "noun": "Modell"
+  },
+  "Post": {
+    "noun": "Artikel"
+  },
+  "preview": {
+    "verb": "ukucken",
+    "noun": "prévisioun, ubléck, usiicht"
+  },
+  "previous": {
+    "adjective": "viregt(en)"
+  },
+  "publish": {
+    "verb": "verëffentlechen"
+  },
+  "render": {
+    "verb": "duerstellen"
+  }
+}

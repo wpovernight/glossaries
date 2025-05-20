@@ -1,0 +1,255 @@
+{
+  "activate": {
+    "verb": "激活"
+  },
+  "active": {
+    "adjective": "启用"
+  },
+  "archive": {
+    "noun": "档案"
+  },
+  "audio": {
+    "noun": "音频"
+  },
+  "available": {
+    "adjective": "可用"
+  },
+  "background update": {
+    "noun": "后台更新"
+  },
+  "block": {
+    "noun": "区块"
+  },
+  "Block Editor": {
+    "noun": "区块编辑器"
+  },
+  "capability": {
+    "noun": "权限"
+  },
+  "category": {
+    "noun": "分类"
+  },
+  "changeset": {
+    "noun": "变更集"
+  },
+  "Classic Editor": {
+    "noun": "经典编辑器"
+  },
+  "context": {
+    "noun": "上下文"
+  },
+  "control": {
+    "noun": "控件"
+  },
+  "cookie": {
+    "noun": "cookie"
+  },
+  "cookies": {
+    "noun": "cookies"
+  },
+  "Customizer": {
+    "noun": "定制器"
+  },
+  "dashboard": {
+    "noun": "仪表盘"
+  },
+  "drop-in": {
+    "noun": "强化扩展"
+  },
+  "Editor": {
+    "noun": "编辑器"
+  },
+  "eraser": {
+    "noun": "抹除器"
+  },
+  "excerpt": {
+    "noun": "摘要"
+  },
+  "exporter": {
+    "noun": "导出器"
+  },
+  "feed": {
+    "noun": "feed"
+  },
+  "field": {
+    "noun": "字段"
+  },
+  "filter": {
+    "noun": "过滤器"
+  },
+  "friendly name": {
+    "noun": "友好名称"
+  },
+  "gallery": {
+    "noun": "画廊"
+  },
+  "Gutenberg": {
+    "noun": "古腾堡"
+  },
+  "Hello Dolly": {
+    "noun": "《你好多莉》"
+  },
+  "hierarchical": {
+    "noun": "层级"
+  },
+  "image": {
+    "noun": "图像"
+  },
+  "inactive": {
+    "adjective": "未启用"
+  },
+  "initialize": {
+    "verb": "初始化"
+  },
+  "Installer": {
+    "noun": "安装器"
+  },
+  "item": {
+    "noun": "项目"
+  },
+  "key": {
+    "noun": "键"
+  },
+  "legacy": {
+    "adjective": "旧"
+  },
+  "log in": {
+    "verb": "登录"
+  },
+  "log out": {
+    "verb": "注销"
+  },
+  "login": {
+    "noun": "登录"
+  },
+  "multisite": {
+    "noun": "多站点"
+  },
+  "network": {
+    "noun": "网络"
+  },
+  "page": {
+    "noun": "页面"
+  },
+  "panel": {
+    "noun": "面板"
+  },
+  "parent": {
+    "noun": "父"
+  },
+  "pause": {
+    "verb": "暂停"
+  },
+  "permalink": {
+    "noun": "永久链接"
+  },
+  "personal data": {
+    "noun": "个人数据"
+  },
+  "plugin": {
+    "noun": "插件"
+  },
+  "post": {
+    "noun": "文章"
+  },
+  "post format": {
+    "noun": "文章格式"
+  },
+  "Press This": {
+    "noun": "快速发布"
+  },
+  "Recovery Mode": {
+    "noun": "恢复模式"
+  },
+  "reset": {
+    "verb": "重置"
+  },
+  "REST base": {
+    "noun": "REST base"
+  },
+  "resume": {
+    "verb": "恢复"
+  },
+  "revision": {
+    "noun": "修订版本"
+  },
+  "role": {
+    "noun": "角色"
+  },
+  "RSS": {
+    "noun": "RSS"
+  },
+  "schedule": {
+    "verb": "计划"
+  },
+  "shortcode": {
+    "noun": "短代码"
+  },
+  "sidebar": {
+    "noun": "侧栏"
+  },
+  "site": {
+    "noun": "网站"
+  },
+  "slug": {
+    "noun": "别名"
+  },
+  "sorry": {
+    "interjection": "抱歉"
+  },
+  "Spotlight Mode": {
+    "noun": "探照灯模式"
+  },
+  "sticky": {
+    "verb": "置顶"
+  },
+  "tag": {
+    "noun": "标签"
+  },
+  "take over": {
+    "verb": "接管"
+  },
+  "taxonomy": {
+    "noun": "分类法"
+  },
+  "term": {
+    "noun": "项目"
+  },
+  "theme": {
+    "noun": "主题"
+  },
+  "thumbnail": {
+    "noun": "缩略图"
+  },
+  "tips": {
+    "noun": "贴士"
+  },
+  "trash": {
+    "verb": "移至回收站",
+    "noun": "回收站"
+  },
+  "update": {
+    "noun": "更新"
+  },
+  "video": {
+    "noun": "视频"
+  },
+  "visibility": {
+    "noun": "可见性"
+  },
+  "visitor": {
+    "noun": "访客"
+  },
+  "widget": {
+    "noun": "小工具"
+  },
+  "widget area": {
+    "noun": "小工具区"
+  },
+  "you": {
+    "pronoun": "你"
+  },
+  "your": {
+    "pronoun": "你的"
+  }
+}

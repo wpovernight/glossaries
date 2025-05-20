@@ -1,0 +1,1378 @@
+{
+  "accent color": {
+    "noun": "ظاہری رنگ"
+  },
+  "account": {
+    "noun": "اکاؤنٹ"
+  },
+  "account recovery": {
+    "noun": "اکاونٹ ریکوری"
+  },
+  "Action": {
+    "noun": "کاروائی"
+  },
+  "action hook": {
+    "noun": "Action Hook"
+  },
+  "activate": {
+    "verb": "فعال کریں"
+  },
+  "activated": {
+    "adjective": "فعال شدہ"
+  },
+  "activation e-mail": {
+    "noun": "فعال کرنے کی ای میل"
+  },
+  "ad policy": {
+    "noun": "اشتہاری پالیسی"
+  },
+  "Ad-Free": {
+    "adjective": "اشتہار سے پاک"
+  },
+  "Add": {
+    "noun": "شامل کریں"
+  },
+  "add email": {
+    "expression": "ای میل شامل کریں"
+  },
+  "Addon": {
+    "noun": "ایڈون"
+  },
+  "address": {
+    "noun": "ایڈریس",
+    "verb": "ایڈریس"
+  },
+  "address bar": {
+    "noun": "ایڈریس بار"
+  },
+  "admin bar": {
+    "noun": "ایڈمن بار"
+  },
+  "administrator": {
+    "noun": "منتظم"
+  },
+  "ads": {
+    "noun": "اشتہار"
+  },
+  "Advanced": {
+    "noun": "جدید ترین"
+  },
+  "adventures": {
+    "noun": "مہم جو"
+  },
+  "After the Deadline": {
+    "noun": "اخری تاریخ کے بعد"
+  },
+  "Akismet": {
+    "noun": "Akismet"
+  },
+  "Analytify": {
+    "noun": "انالیٹیفائے"
+  },
+  "Appearance": {
+    "noun": "ظاہری شکل"
+  },
+  "applicable law": {
+    "noun": "قابل اطلاق قانون"
+  },
+  "Approve and Reply": {
+    "verb": "منظور کریں اور جواب دیں"
+  },
+  "arbitral decision": {
+    "noun": "ثالثی فیصلے"
+  },
+  "Archive": {
+    "noun": "آرکائیو"
+  },
+  "archive": {
+    "verb": "آرکائیو کریں"
+  },
+  "archives": {
+    "noun": "محفوظات"
+  },
+  "are you sure you want": {
+    "expression": "کیا آپ کو یقین ہے کہ"
+  },
+  "argument": {
+    "noun": "دلیل"
+  },
+  "array": {
+    "noun": "ترتیب وار فہرست"
+  },
+  "article": {
+    "noun": "مضمون"
+  },
+  "aside": {
+    "noun": "ایک طرف"
+  },
+  "at the bottom": {
+    "preposition": "نیچے دیئے گئے"
+  },
+  "attachment": {
+    "noun": "منسلکہ"
+  },
+  "audio": {
+    "adjective": "آڈیو",
+    "noun": "آڈیو"
+  },
+  "Audio Codec": {
+    "noun": "آڈیو کوڈیک"
+  },
+  "authentication": {
+    "verb": "تصدیق کریں"
+  },
+  "Authenticator app": {
+    "noun": "Authenticator ایپلی کیشن"
+  },
+  "author": {
+    "noun": "مصنف"
+  },
+  "auto renew": {
+    "noun": "خودکار تجدید"
+  },
+  "automatic renewal": {
+    "noun": "خودکار تجدید"
+  },
+  "Automattic": {
+    "noun": "Automattic"
+  },
+  "Automattician": {
+    "noun": "Automattic کے ملازمین"
+  },
+  "avatar": {
+    "noun": "اوتار"
+  },
+  "background": {
+    "noun": "پس منظر"
+  },
+  "background color": {
+    "noun": "پس منظر کا رنگ"
+  },
+  "background image": {
+    "noun": "پس منظر کی تصویر"
+  },
+  "background pattern": {
+    "noun": "پس منظر کا پیٹرن"
+  },
+  "backup code": {
+    "noun": "بیک اپ کوڈ"
+  },
+  "basic": {
+    "adjective": "بنیادی"
+  },
+  "Best ever": {
+    "adjective": "سب سے بہترین"
+  },
+  "billing history": {
+    "noun": "بلنگ کی سرگزشت"
+  },
+  "Bitrate": {
+    "noun": "بٹ ریٹ"
+  },
+  "blavatar": {
+    "noun": "بیلاوتار"
+  },
+  "Blog": {
+    "noun": "بلاگ"
+  },
+  "blog address": {
+    "noun": "بلاگ کا ایڈریس"
+  },
+  "blog post": {
+    "noun": "بلاگ پوسٹ"
+  },
+  "blog theme": {
+    "noun": "بلاگ کی تھییم"
+  },
+  "blogger": {
+    "noun": "بلاگر"
+  },
+  "blogs": {
+    "noun": "بلاگز"
+  },
+  "Blogs I Follow": {
+    "noun": "میرے فالو کردہ بلاگز"
+  },
+  "browser": {
+    "noun": "براؤزر"
+  },
+  "BuddyPress": {
+    "noun": "BuddyPress"
+  },
+  "bundle": {
+    "noun": "بنڈل"
+  },
+  "bundle purchase": {
+    "noun": "بنڈل کی خریداری"
+  },
+  "button": {
+    "noun": "بٹن"
+  },
+  "Cancel": {
+    "verb": "منسوخ کریں"
+  },
+  "cart": {
+    "noun": "ٹوکری"
+  },
+  "category": {
+    "verb": "زمرہ",
+    "noun": "زمرہ"
+  },
+  "character set": {
+    "noun": "حروف کے سیٹ"
+  },
+  "chargeback": {
+    "noun": "چارج بیک"
+  },
+  "chargeback fee": {
+    "noun": "چارج بیک فیس"
+  },
+  "Child Theme": {
+    "noun": "ماتحت تھیم"
+  },
+  "Child theme": {
+    "noun": "ماتحت تھیم"
+  },
+  "click": {
+    "verb": "کلک کریں"
+  },
+  "CNAME record": {
+    "noun": "CNAME ریکارڈ"
+  },
+  "code": {
+    "noun": "کوڈ"
+  },
+  "Collapse": {
+    "verb": "بند کریں"
+  },
+  "color scheme": {
+    "noun": "کلر اسکیم"
+  },
+  "comment": {
+    "verb": "تبصرہ کریں",
+    "noun": "تبصرہ"
+  },
+  "Comments": {
+    "noun": "تبصرے"
+  },
+  "Community Translator": {
+    "noun": "کمیونٹی مترجم"
+  },
+  "computer": {
+    "noun": "کمپوٹر"
+  },
+  "confirm": {
+    "noun": "تصدیق"
+  },
+  "constant": {
+    "noun": "مستقل"
+  },
+  "contact form": {
+    "noun": "رابطے کا فارم"
+  },
+  "Content Area": {
+    "noun": "مواد کا ایریا"
+  },
+  "contributor": {
+    "noun": "شریک کار"
+  },
+  "Cookie": {
+    "noun": "کوکی"
+  },
+  "Creative Commons": {
+    "noun": "Creative Commons"
+  },
+  "crop": {
+    "verb": "کراپ کریں"
+  },
+  "Custom Colors": {
+    "noun": "مرضی کے رنگ"
+  },
+  "Custom CSS": {
+    "noun": "مرضی کا سی ایس ایس"
+  },
+  "Custom Design": {
+    "noun": "مرضی کا ڈیزائن"
+  },
+  "Custom Domain": {
+    "noun": "مرضی کا ڈومین"
+  },
+  "Custom Fonts": {
+    "noun": "مرضی کے فونٹس"
+  },
+  "Customize": {
+    "verb": "مرضی کے مطابق بنائیں"
+  },
+  "Customizer": {
+    "noun": "کسٹمائزر"
+  },
+  "Dashboard": {
+    "noun": "ڈیش بورڈ"
+  },
+  "Date range": {
+    "noun": "تاریخ کی حد"
+  },
+  "deactivate": {
+    "verb": "غیر فعال کریں"
+  },
+  "default": {
+    "noun": "طے شدہ"
+  },
+  "default theme": {
+    "noun": "طے شدہ تھیم"
+  },
+  "Default width": {
+    "noun": "طے شدہ چوڑائی"
+  },
+  "deprecate": {
+    "verb": "نا منظور کریں"
+  },
+  "deprecated": {
+    "adjective": "نا منظور کیا"
+  },
+  "Description": {
+    "noun": "تفصیل"
+  },
+  "developer": {
+    "noun": "ڈیولپر"
+  },
+  "Developer": {
+    "noun": "ڈویلپر"
+  },
+  "Digital Millennium Copyright Act": {
+    "noun": "ڈیجیٹل ملینیم کاپی رائٹ ایکٹ"
+  },
+  "Directory": {
+    "noun": "ڈائریکٹری"
+  },
+  "Dismiss Errors": {
+    "verb": "خرابیاں برخاست کریں"
+  },
+  "Distraction Free Writing": {
+    "verb": "ڈسٹریکشن فری رائٹنگ"
+  },
+  "domain": {
+    "noun": "ڈومین"
+  },
+  "Domain Contact Information": {
+    "noun": "ڈومین رابطے کی معلومات"
+  },
+  "Domain Lock": {
+    "noun": "ڈومین لاک"
+  },
+  "Domain Mapping": {
+    "verb": "ڈومین میپنگ"
+  },
+  "domain name": {
+    "noun": "ڈومین نیم"
+  },
+  "domain registrar": {
+    "noun": "ڈومین رجسٹرار"
+  },
+  "domain registration": {
+    "noun": "ڈومین رجسٹریشن"
+  },
+  "domain subscription": {
+    "noun": "ڈومین سبسکرپشن"
+  },
+  "domain transfer": {
+    "noun": "ڈومین ٹرانسفر"
+  },
+  "domain upgrade": {
+    "noun": "ڈومین اپگریڈ"
+  },
+  "draft": {
+    "noun": "ڈرافٹ"
+  },
+  "e-mail": {
+    "noun": "ای میل"
+  },
+  "eCommerce": {
+    "noun": "ای کامرس"
+  },
+  "Edit": {
+    "verb": "ترمیم کریں"
+  },
+  "editor": {
+    "noun": "ایڈیٹر"
+  },
+  "email": {
+    "noun": "ای میل"
+  },
+  "Email Address": {
+    "noun": "ای میل ایڈریس"
+  },
+  "emoji": {
+    "noun": "ایموجی"
+  },
+  "emoticon": {
+    "noun": "ایموٹیکون"
+  },
+  "Entry title": {
+    "noun": "عنوان"
+  },
+  "error": {
+    "noun": "خرابی"
+  },
+  "excerpt": {
+    "noun": "خلاصہ"
+  },
+  "Export": {
+    "noun": "برآمد"
+  },
+  "exposure": {
+    "noun": "توجہ"
+  },
+  "Extra Storage": {
+    "noun": "اضافی اسٹوریج"
+  },
+  "Facebook": {
+    "noun": "فیس بک"
+  },
+  "favicon": {
+    "noun": "فیکون"
+  },
+  "feature": {
+    "noun": "خصوصیت"
+  },
+  "featured image": {
+    "noun": "نمایاں تصویر"
+  },
+  "featured post": {
+    "noun": "نمایاں پوسٹ"
+  },
+  "feed": {
+    "noun": "فیڈ"
+  },
+  "filter": {
+    "noun": "فلٹر",
+    "verb": "فلٹر کریں"
+  },
+  "filter hook": {
+    "noun": "فلٹر ہوک"
+  },
+  "Firehose": {
+    "noun": "فائرہوز"
+  },
+  "flying": {
+    "verb": "پرواز کرنا"
+  },
+  "folder": {
+    "noun": "فولڈر"
+  },
+  "follow": {
+    "noun": "فالو",
+    "verb": "فالو کریں"
+  },
+  "Follow this Blog?": {
+    "expression": "اس بلاگ کو فالو کریں"
+  },
+  "follower": {
+    "noun": "فالور"
+  },
+  "followers": {
+    "noun": "فالورز"
+  },
+  "Following": {
+    "verb": "فالونگ"
+  },
+  "footer": {
+    "noun": "فوٹر"
+  },
+  "form": {
+    "noun": "فارم"
+  },
+  "format": {
+    "noun": "فارمیٹ"
+  },
+  "Forum": {
+    "noun": "فورم"
+  },
+  "free trial": {
+    "noun": "مفت جانچ"
+  },
+  "Freshly Pressed": {
+    "noun": "Freshly Pressed"
+  },
+  "Front page": {
+    "noun": "پہلا صفحہ"
+  },
+  "Fuzzy": {
+    "noun": "غیر واضح"
+  },
+  "gallery": {
+    "noun": "گیلری"
+  },
+  "Get Started": {
+    "expression": "شروع کریں"
+  },
+  "Glossary": {
+    "noun": "لغت"
+  },
+  "GlotPress": {
+    "noun": "GlotPress"
+  },
+  "Go Fullscreen": {
+    "verb": "فل اسکرین کریں"
+  },
+  "Google": {
+    "noun": "گوگل"
+  },
+  "Google Analytics": {
+    "noun": "گوگل انالیٹکس"
+  },
+  "Gravatar": {
+    "noun": "Gravatar"
+  },
+  "Gravatar Profile": {
+    "noun": "Gravatar پروفائل"
+  },
+  "Guided Transfer": {
+    "noun": "Guided Transfer"
+  },
+  "Ham": {
+    "adjective": "غیر متعلقہ نہیں ہے"
+  },
+  "Hammiest": {
+    "adjective": "غیر متعلقہ نہیں ہے"
+  },
+  "Happiness Engineer": {
+    "noun": "خوشیاں بکیھرنے والے انجینئر"
+  },
+  "Header": {
+    "noun": "ہیڈر"
+  },
+  "Headers": {
+    "noun": "ہیڈرز"
+  },
+  "Help & Support": {
+    "verb": "مدد اور معاونت"
+  },
+  "Help Center": {
+    "noun": "امدادی مرکز"
+  },
+  "Hide": {
+    "verb": "چھپائیں"
+  },
+  "History": {
+    "noun": "سرگزشت"
+  },
+  "Home": {
+    "noun": "سرورق"
+  },
+  "Home Page": {
+    "noun": "سرورق"
+  },
+  "hook": {
+    "noun": "ہوک"
+  },
+  "host": {
+    "noun": "ہوسٹ"
+  },
+  "hosting provider": {
+    "noun": "ہوسٹنگ فراہم کنندہ"
+  },
+  "hosts": {
+    "noun": "ہوسٹس"
+  },
+  "hover": {
+    "verb": "منڈلانا",
+    "adjective": "منڈلانا"
+  },
+  "howdy": {
+    "expression": "سلام"
+  },
+  "Images": {
+    "noun": "تصاویر"
+  },
+  "Import": {
+    "noun": "درآمد"
+  },
+  "Insert": {
+    "verb": "داخل کریں"
+  },
+  "Insights": {
+    "noun": "بصیرتیں"
+  },
+  "Instagram": {
+    "noun": "انسٹا گرام"
+  },
+  "instant comment email": {
+    "noun": "فوری تبصرے کی ای میل"
+  },
+  "instant post email": {
+    "noun": "فوری پوسٹ کی ای میل"
+  },
+  "Internet Corporation for Assigned Names and Numbers (ICANN)": {
+    "noun": "انٹرنیٹ کارپوریشن برائے متعین اسم و اعداد (ICANN)"
+  },
+  "invalid": {
+    "adjective": "غلط"
+  },
+  "IP address": {
+    "noun": "آئی پی ایڈریس"
+  },
+  "Jetpack": {
+    "noun": "Jetpack"
+  },
+  "Jetpack Monitor": {
+    "noun": "Jetpack مانیٹر"
+  },
+  "Keyword": {
+    "noun": "کی ورڈز"
+  },
+  "Late Renewal Fee": {
+    "noun": "تاخیر سے تجدید کی فیس"
+  },
+  "later": {
+    "expression": "بعد میں"
+  },
+  "Latest": {
+    "noun": "تازہ ترین"
+  },
+  "Learn more": {
+    "noun": "مزید جانیے"
+  },
+  "like": {
+    "verb": "پسند کریں",
+    "noun": "پسند"
+  },
+  "likes": {
+    "noun": "پسندیدہ"
+  },
+  "Link Hover": {
+    "noun": "لنک ہوور"
+  },
+  "Link One": {
+    "noun": "لنک ون"
+  },
+  "live chat": {
+    "noun": "براہ راست چیٹ"
+  },
+  "live chat support": {
+    "noun": "براہ راست چیٹ معاونت"
+  },
+  "log in": {
+    "verb": "لاگ ان کریں"
+  },
+  "log out": {
+    "verb": "لاگ آوٹ کریں"
+  },
+  "logged in": {
+    "adjective": "لاگ ان ہو گئے"
+  },
+  "logged out": {
+    "adjective": "لاگ آؤٹ ہو گئے"
+  },
+  "login": {
+    "verb": "لاگ ان کریں"
+  },
+  "logout": {
+    "verb": "لاگ آؤٹ کریں"
+  },
+  "Look Up": {
+    "verb": "تلاش کریں"
+  },
+  "Manage": {
+    "verb": "منظم کریں",
+    "noun": "منظم"
+  },
+  "mapped domain": {
+    "noun": "میپ شدہ ڈومین"
+  },
+  "media item": {
+    "noun": "میڈیا آئٹم"
+  },
+  "menu": {
+    "noun": "مینو"
+  },
+  "Menu": {
+    "noun": "مینو"
+  },
+  "menu item": {
+    "noun": "مینو آئٹم"
+  },
+  "menu location": {
+    "noun": "مینو کا مقام"
+  },
+  "meta": {
+    "noun": "میٹا"
+  },
+  "Metadata": {
+    "noun": "میٹا ڈیٹا"
+  },
+  "minimalist theme": {
+    "noun": "منیمالسٹ تھیم"
+  },
+  "mobile device": {
+    "noun": "موبائل ڈیوائس"
+  },
+  "moderate": {
+    "verb": "ماڈریٹ کریں"
+  },
+  "modern design": {
+    "noun": "جدید ڈیزائن"
+  },
+  "Move down one": {
+    "verb": "ایک کو نیچے منتقل کریں"
+  },
+  "Move up one": {
+    "verb": "ایک کو اوپر منتقل کریں"
+  },
+  "Multilingual": {
+    "noun": "کثیر اللسان"
+  },
+  "multisite": {
+    "noun": "ملٹی سائٹ",
+    "adjective": "ملٹی سائٹ بنائیں"
+  },
+  "mute": {
+    "verb": "بےصوت کریں"
+  },
+  "MX records": {
+    "noun": "ایم ایکس ریکارڈز"
+  },
+  "My Blogs": {
+    "noun": "میرے بلاگز"
+  },
+  "My Upgrades": {
+    "noun": "میرے اپگریڈز"
+  },
+  "name server": {
+    "noun": "نیم سرور"
+  },
+  "navigation": {
+    "verb": "نیویگیشن"
+  },
+  "next post": {
+    "noun": "اگلی پوسٹ"
+  },
+  "No Ads": {
+    "noun": "اشتہار سے پاک"
+  },
+  "No Repeat": {
+    "noun": "دہرائیں نہیں"
+  },
+  "normal visitor": {
+    "noun": "نارمل وزیٹر"
+  },
+  "not sticky": {
+    "adjective": "چسپاں نہیں ہے"
+  },
+  "Notifications": {
+    "noun": "اطلاعات"
+  },
+  "older post": {
+    "noun": "پرانی پوسٹ"
+  },
+  "Omnisearch": {
+    "noun": "Omnisearch"
+  },
+  "option": {
+    "noun": "اختیار"
+  },
+  "optional": {
+    "adjective": "اختیاری"
+  },
+  "page": {
+    "noun": "صفحہ"
+  },
+  "parameter": {
+    "noun": "پیرامیٹر"
+  },
+  "parent category": {
+    "noun": "بنیادی زمرہ"
+  },
+  "parent post": {
+    "noun": "بنیادی پوسٹ"
+  },
+  "password": {
+    "noun": "پاسورڈ"
+  },
+  "pending": {
+    "adjective": "زیرالتوا"
+  },
+  "permalink": {
+    "noun": "پرما لنک"
+  },
+  "permission": {
+    "noun": "اجازت"
+  },
+  "personal blog": {
+    "noun": "ذاتی بلاگ"
+  },
+  "personal blogger": {
+    "noun": "ذاتی بلاگر"
+  },
+  "photoblogger": {
+    "noun": "فوٹو بلاگر"
+  },
+  "PIN": {
+    "noun": "پن کوڈ"
+  },
+  "PIN lock": {
+    "noun": "پن کوڈ لاک"
+  },
+  "ping": {
+    "noun": "پنگ"
+  },
+  "pingback": {
+    "noun": "پنگ بیک"
+  },
+  "Pinterest": {
+    "noun": "پنٹریسٹ"
+  },
+  "plan": {
+    "noun": "پلان"
+  },
+  "playlist": {
+    "noun": "پلےلسٹ"
+  },
+  "Please": {
+    "noun": "براہ مہربانی"
+  },
+  "plugin": {
+    "noun": "پلگ ان"
+  },
+  "poll": {
+    "verb": "پول"
+  },
+  "Polldaddy": {
+    "noun": "پول ڈیڈی"
+  },
+  "Portfolio Page": {
+    "noun": "پورٹ فولیو کا صفحہ"
+  },
+  "portfolio theme": {
+    "noun": "پورٹ فولیو کی تھیم"
+  },
+  "post": {
+    "verb": "پوسٹ کریں",
+    "noun": "پوسٹ"
+  },
+  "Post Carousel": {
+    "noun": "پوسٹ کا جھولا"
+  },
+  "post format": {
+    "noun": "پوسٹ فارمیٹ"
+  },
+  "Post List": {
+    "noun": "پوسٹ کی فہرست"
+  },
+  "Post Meta": {
+    "noun": "پوسٹ میٹا"
+  },
+  "post status": {
+    "noun": "پوسٹ اسٹیٹس"
+  },
+  "post thumbnail": {
+    "noun": "پوسٹ تھمب نیل"
+  },
+  "post type": {
+    "noun": "پوسٹ کی قسم"
+  },
+  "posting goal": {
+    "noun": "پوسٹنگ کا مقصد"
+  },
+  "posts": {
+    "noun": "پوسٹیں"
+  },
+  "premium theme": {
+    "noun": "پریمیم تھیم"
+  },
+  "premium upgrade": {
+    "noun": "پریمیم اپگریڈ"
+  },
+  "Preset": {
+    "noun": "پہلے سے ترتیب شدہ"
+  },
+  "Press This": {
+    "verb": "Press This"
+  },
+  "preview": {
+    "noun": "پیش منظر",
+    "verb": "پیش منظر"
+  },
+  "previous post": {
+    "noun": "سابقہ پوسٹ"
+  },
+  "primary domain": {
+    "noun": "بنیادی ڈومین"
+  },
+  "Privacy Protection": {
+    "noun": "پرائیویسی کا تحفظ"
+  },
+  "Privacy Upgrade": {
+    "noun": "پرائیویسی اپگریڈ"
+  },
+  "Private Registration": {
+    "noun": "نجی رجسٹریشن"
+  },
+  "Private Whois upgrade": {
+    "noun": "نجی Whois رجسٹریشن"
+  },
+  "Profile": {
+    "noun": "پروفائل"
+  },
+  "profile": {
+    "noun": "پروفائل"
+  },
+  "proof of ownership": {
+    "noun": "ملکیت کا ثبوت"
+  },
+  "Publicize": {
+    "noun": "تشہیر",
+    "verb": "تشہیر کریں"
+  },
+  "Publish": {
+    "verb": "شائع کریں"
+  },
+  "publishing platform": {
+    "noun": "اشاعتی پلیٹ فارم"
+  },
+  "query": {
+    "verb": "سوال پوچھیں",
+    "noun": "سوال"
+  },
+  "Rating": {
+    "noun": "درجہ بندی"
+  },
+  "Ratings": {
+    "noun": "درجہ بندیاں"
+  },
+  "Reader": {
+    "noun": "ریڈر"
+  },
+  "reader": {
+    "noun": "قاری"
+  },
+  "Real Content": {
+    "noun": "اصل مواد"
+  },
+  "Reblog": {
+    "noun": "ریبلاگ",
+    "verb": "ریبلاگ کریں"
+  },
+  "reblog": {
+    "noun": "ریبلاگ"
+  },
+  "Redirect": {
+    "noun": "ری ڈائریکٹ"
+  },
+  "referrer": {
+    "noun": "حوالہ دہندہ"
+  },
+  "refund policy": {
+    "noun": "رقم کی واپسی کی پالیسی"
+  },
+  "registrar": {
+    "noun": "رجسٹرار"
+  },
+  "required": {
+    "adjective": "ضرورت ہے"
+  },
+  "required field": {
+    "expression": "اس خانے کی ضرورت ہے"
+  },
+  "Resend": {
+    "verb": "دوبارہ بھیجیں"
+  },
+  "Reset Password": {
+    "expression": "پاسورڈ دوبارہ منتخب کریں"
+  },
+  "Responsive": {
+    "noun": "اثر پذیر"
+  },
+  "responsive": {
+    "adjective": "اثر پذیر"
+  },
+  "Restore": {
+    "verb": "بحال کریں"
+  },
+  "Reverse order": {
+    "verb": "معکوس ترتیب"
+  },
+  "Review": {
+    "noun": "جائزہ"
+  },
+  "Reviews": {
+    "noun": "جائزے"
+  },
+  "ribbon": {
+    "noun": "ربن"
+  },
+  "role": {
+    "noun": "کردار"
+  },
+  "RSS": {
+    "noun": "آر ایس ایس"
+  },
+  "save": {
+    "verb": "محفوظ کریں"
+  },
+  "search engine": {
+    "noun": "سرچ انجن"
+  },
+  "self-hosted": {
+    "adjective": "سیلف ہوسٹڈ"
+  },
+  "server": {
+    "noun": "سرور"
+  },
+  "Setting": {
+    "noun": "ترتیب"
+  },
+  "Settings": {
+    "noun": "ترتیبات"
+  },
+  "share": {
+    "verb": "شیئر کریں"
+  },
+  "Share": {
+    "noun": "شیئر"
+  },
+  "Shares": {
+    "noun": "شیئرز"
+  },
+  "sharing": {
+    "verb": "شیئرنگ"
+  },
+  "sharing button": {
+    "noun": "شیئرنگ بٹن"
+  },
+  "sharing settings": {
+    "noun": "شیئرنگ ترتیبات"
+  },
+  "shortcode": {
+    "noun": "شارٹ کوڈ"
+  },
+  "Showcase": {
+    "noun": "شوکیس"
+  },
+  "sidebar": {
+    "noun": "سائیڈ بار"
+  },
+  "sign in": {
+    "verb": "سائن ان کریں"
+  },
+  "sign up": {
+    "verb": "سائن اپ کریں"
+  },
+  "signed in": {
+    "expression": "سائن ان کیا ہوا ہے"
+  },
+  "Simplenote": {
+    "noun": "Simplenote"
+  },
+  "Single Sign-On": {
+    "verb": "سنگل سائن آن"
+  },
+  "site": {
+    "noun": "سائٹ"
+  },
+  "Site Redirect": {
+    "verb": "سائٹ ری ڈائریکٹ"
+  },
+  "Slider": {
+    "noun": "سلائیڈر"
+  },
+  "slideshow": {
+    "noun": "سلائیڈ شو"
+  },
+  "slug": {
+    "noun": "سلگ"
+  },
+  "Social Media": {
+    "noun": "شوشل میڈیا"
+  },
+  "Space Upgrade": {
+    "noun": "اسپیس اپگریڈ"
+  },
+  "spam": {
+    "noun": "غیر متعلقہ",
+    "adjective": "غیر متعلقہ"
+  },
+  "Spammiest": {
+    "adjective": "ایک وقت میں موصولہ  زیادہ غیر متعلقہ کے ساتھ"
+  },
+  "SRV record": {
+    "noun": "ایس آر وی ریکارڈ"
+  },
+  "status": {
+    "noun": "اسٹیٹس"
+  },
+  "stick": {
+    "verb": "چسپاں"
+  },
+  "sticky": {
+    "adjective": "چسپاں ہے"
+  },
+  "Sticky Post": {
+    "noun": "چسپاں پوسٹ"
+  },
+  "store": {
+    "noun": "اسٹور"
+  },
+  "string": {
+    "noun": "اسٹرنگ"
+  },
+  "subscribe": {
+    "verb": "سبسکرائب کریں"
+  },
+  "subscription": {
+    "noun": "سبسکرپشن"
+  },
+  "subscription dashboard": {
+    "noun": "سبسکرپشن ڈیش بورڈ"
+  },
+  "Subversion": {
+    "noun": "Subversion"
+  },
+  "summary emails": {
+    "noun": "حلاصے کی ای میلز"
+  },
+  "super-charge": {
+    "verb": "سپر چارج"
+  },
+  "support guide": {
+    "noun": "معاونتی گائیڈ"
+  },
+  "support page": {
+    "noun": "معاونتی صفحہ"
+  },
+  "support team": {
+    "noun": "معاونتی ٹیم"
+  },
+  "survey": {
+    "noun": "سروے"
+  },
+  "tag": {
+    "noun": "ٹیگ"
+  },
+  "tagline": {
+    "noun": "ٹیگ لائن"
+  },
+  "Tags": {
+    "noun": "ٹیگز"
+  },
+  "taxonomy": {
+    "noun": "اصول صنف بندی"
+  },
+  "template hierarchy": {
+    "noun": "ٹیمپلیٹ کی درجہ بندی"
+  },
+  "term": {
+    "noun": "اصطلاح"
+  },
+  "terms and conditions": {
+    "noun": "شرائط و ضوابط"
+  },
+  "terms of service": {
+    "noun": "سروس کی شرائط"
+  },
+  "text editor": {
+    "noun": "ٹیکسٹ ایڈیٹر"
+  },
+  "theme": {
+    "noun": "تھیم"
+  },
+  "Theme Showcase": {
+    "noun": "تھیم شوکیس"
+  },
+  "thumbnail": {
+    "noun": "تھمب نیل"
+  },
+  "time stamp": {
+    "noun": "ٹائم اسٹیمپ"
+  },
+  "timestamp": {
+    "noun": "ٹائم اسٹیمپ"
+  },
+  "Tip": {
+    "noun": "مشورہ"
+  },
+  "title": {
+    "noun": "عنوان"
+  },
+  "Toolbar": {
+    "noun": "ٹول بار"
+  },
+  "trackback": {
+    "noun": "ٹریک بیک"
+  },
+  "traffic": {
+    "noun": "ٹریفک"
+  },
+  "Transfer Code": {
+    "noun": "منتقلی کا کوڈ"
+  },
+  "trash": {
+    "noun": "ردی کی ٹوکری"
+  },
+  "trial period": {
+    "noun": "آزمائشی مدت"
+  },
+  "troubleshooting": {
+    "verb": "ٹروبل شوٹنگ"
+  },
+  "Twitter": {
+    "noun": "ٹوئٹر"
+  },
+  "Undo": {
+    "verb": "کالعدم کریں"
+  },
+  "Unfollow": {
+    "verb": "انفالو کریں"
+  },
+  "Unlimited Storage": {
+    "noun": "لا محدود اسٹوریج"
+  },
+  "Unlimited Themes": {
+    "noun": "لامحدود تھیمز"
+  },
+  "unmute": {
+    "verb": "باصوت کریں"
+  },
+  "update": {
+    "noun": "تجدید"
+  },
+  "upgrade": {
+    "noun": "اپگریڈ",
+    "verb": "اپگریڈ کریں"
+  },
+  "Upgrades page": {
+    "noun": "صفحات اپگریڈ کریں"
+  },
+  "upload": {
+    "verb": "اپلوڈ کریں"
+  },
+  "Upload New": {
+    "verb": "ابھی اپلوڈ کریں"
+  },
+  "uploader": {
+    "noun": "اپلوڈر"
+  },
+  "URI": {
+    "noun": "یوآرآئی"
+  },
+  "URL": {
+    "noun": "یوآرایل"
+  },
+  "User": {
+    "noun": "صارف"
+  },
+  "username": {
+    "noun": "اسم رکنیت"
+  },
+  "Users": {
+    "noun": "صارفین"
+  },
+  "ٖFeatures": {
+    "noun": "خصوصیات"
+  },
+  "valid": {
+    "adjective": "درست"
+  },
+  "validator": {
+    "noun": "توثیق کنندہ"
+  },
+  "VaultPress": {
+    "noun": "VaultPress"
+  },
+  "verification code": {
+    "noun": "تصدیقی کوڈ"
+  },
+  "video": {
+    "noun": "ویڈیو"
+  },
+  "VideoPress": {
+    "noun": "VideoPress"
+  },
+  "view": {
+    "verb": "دیکھیں"
+  },
+  "views": {
+    "noun": "مناظر"
+  },
+  "Vimeo": {
+    "noun": "ویمیو"
+  },
+  "VIP Hosting": {
+    "noun": "وی آئی پی ہوسٹنگ"
+  },
+  "VIP Service": {
+    "noun": "وی آئی پی سروس"
+  },
+  "VIP Support": {
+    "noun": "وی آئی پی معاونت"
+  },
+  "Visitor": {
+    "noun": "وزیٹر"
+  },
+  "web server": {
+    "noun": "ویب سرور"
+  },
+  "website": {
+    "noun": "ویب سائٹ"
+  },
+  "Widget": {
+    "noun": "ویجٹ"
+  },
+  "WooCommerce": {
+    "noun": "WooCommerce"
+  },
+  "WordCamp": {
+    "noun": "WordCamp"
+  },
+  "WordPress": {
+    "noun": "WordPress"
+  },
+  "WordPress Dashboard": {
+    "noun": "WordPress ڈیش بورڈ"
+  },
+  "WordPress.com": {
+    "noun": "WordPress.com"
+  },
+  "WordPress.com Basic": {
+    "noun": "WordPress.com بنیادی"
+  },
+  "WordPress.com Business": {
+    "noun": "WordPress.com کاروباری"
+  },
+  "WordPress.com Enterprise": {
+    "noun": "WordPress.com انٹرپرائز"
+  },
+  "WordPress.com Firehose": {
+    "noun": "WordPress.com فائرہوز"
+  },
+  "WordPress.com Premium": {
+    "noun": "WordPress.com پریمیم"
+  },
+  "WordPress.com Reader": {
+    "noun": "WordPress.com ریڈر"
+  },
+  "WordPress.com specialist": {
+    "noun": "WordPress.com اسپیشلسٹ"
+  },
+  "WordPress.com Store": {
+    "noun": "WordPress.com اسٹور"
+  },
+  "WordPress.com support": {
+    "noun": "WordPress.com معاونت"
+  },
+  "WordPress.org": {
+    "noun": "WordPress.org"
+  },
+  "XML-RPC": {
+    "noun": "XML-RPC"
+  },
+  "You May Like": {
+    "expression": "آپ کو پسند ہوں"
+  },
+  "Youtube": {
+    "noun": "یوٹیوب"
+  },
+  "Yummy Pie": {
+    "noun": "پائی چارٹ"
+  }
+}

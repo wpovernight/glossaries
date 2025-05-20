@@ -1,0 +1,1198 @@
+{
+  "accessibility": {
+    "noun": "irisgarritasun"
+  },
+  "activate": {
+    "verb": "aktibatu"
+  },
+  "Activate": {
+    "verb": "Aktibatu"
+  },
+  "add": {
+    "verb": "gehitu"
+  },
+  "Add": {
+    "verb": "Gehitu"
+  },
+  "admin": {
+    "noun": "administratzaile"
+  },
+  "administrator": {
+    "noun": "administratzaile"
+  },
+  "Are you sure": {
+    "expression": "Ziur al zaude ... ?"
+  },
+  "area": {
+    "noun": "eremu"
+  },
+  "argument": {
+    "noun": "argumentu"
+  },
+  "Arrow keys": {
+    "noun": "Gezi teklak"
+  },
+  "assign": {
+    "verb": "esleitu"
+  },
+  "Assign": {
+    "verb": "Esleitu"
+  },
+  "Attachment": {
+    "noun": "Eranskin"
+  },
+  "attachment": {
+    "noun": "eranskin"
+  },
+  "attribute": {
+    "noun": "atributu"
+  },
+  "authenticate": {
+    "verb": "egiaztatu"
+  },
+  "Authenticate": {
+    "verb": "Erkatu"
+  },
+  "authentication": {
+    "verb": "egiaztaketa"
+  },
+  "available": {
+    "noun": "eskuragarri"
+  },
+  "avatar": {
+    "noun": "abatar"
+  },
+  "Avatar": {
+    "noun": "Abatar"
+  },
+  "background": {
+    "noun": "atzeko planoa"
+  },
+  "Background": {
+    "noun": "Atzeko (planoa)"
+  },
+  "background image": {
+    "noun": "atzeko irudia"
+  },
+  "Backspace key": {
+    "noun": "Atzera tekla"
+  },
+  "backup": {
+    "noun": "babeskopia"
+  },
+  "backwards compatibility": {
+    "noun": "atzeranzko bateragarritasuna"
+  },
+  "blog": {
+    "noun": "blog"
+  },
+  "bookmark": {
+    "noun": "laster-marka"
+  },
+  "boolean": {
+    "noun": "boolear"
+  },
+  "breadcrumb": {
+    "noun": "nabigazio-ibilbide"
+  },
+  "browse": {
+    "verb": "arakatu"
+  },
+  "built-in": {
+    "noun": "dakarren"
+  },
+  "bulk": {
+    "adjective": "multzokako"
+  },
+  "by default": {
+    "noun": "modu lehenetsian"
+  },
+  "callback": {
+    "noun": "atzeradei"
+  },
+  "Cancel": {
+    "verb": "Utzi"
+  },
+  "cancel": {
+    "verb": "utzi"
+  },
+  "categories": {
+    "noun": "kategoriak"
+  },
+  "Categories": {
+    "noun": "Kategoriak"
+  },
+  "category": {
+    "noun": "kategoria"
+  },
+  "Category": {
+    "noun": "Kategoria"
+  },
+  "certificate": {
+    "noun": "ziurtagiri"
+  },
+  "changeset": {
+    "noun": "aldaketa multzo"
+  },
+  "check": {
+    "verb": "egiaztatu"
+  },
+  "checkbox": {
+    "noun": "kontrol-laukia"
+  },
+  "checksum": {
+    "noun": "egiaztapeneko batura"
+  },
+  "child theme": {
+    "noun": "haur-itxura"
+  },
+  "children": {
+    "noun": "seme-alabak"
+  },
+  "Choose": {
+    "verb": "Aukeratu"
+  },
+  "choose": {
+    "verb": "aukeratu"
+  },
+  "click": {
+    "noun": "klik",
+    "verb": "klikatu"
+  },
+  "Click": {
+    "verb": "Klikatu"
+  },
+  "clipboard": {
+    "noun": "arbela"
+  },
+  "close": {
+    "verb": "itxi"
+  },
+  "Close": {
+    "verb": "Itxi"
+  },
+  "Collapse": {
+    "verb": "Tolestu"
+  },
+  "collect": {
+    "verb": "bildu"
+  },
+  "collection": {
+    "noun": "bilduma"
+  },
+  "color picker": {
+    "noun": "kolore hautatzailea"
+  },
+  "color schema": {
+    "noun": "kolore-eskema"
+  },
+  "comment": {
+    "noun": "iruzkin",
+    "verb": "iruzkindu"
+  },
+  "committer": {
+    "noun": "kolaboratzaile"
+  },
+  "confirm": {
+    "verb": "berretsi"
+  },
+  "confirmation": {
+    "noun": "berrespen"
+  },
+  "constant": {
+    "noun": "konstante"
+  },
+  "content": {
+    "noun": "eduki"
+  },
+  "core": {
+    "noun": "muin"
+  },
+  "Core": {
+    "noun": "Muin"
+  },
+  "critical failure": {
+    "noun": "hutsegite larria"
+  },
+  "crop": {
+    "verb": "moztu"
+  },
+  "currently": {
+    "noun": "egun"
+  },
+  "custom": {
+    "noun": "pertsonalizatu"
+  },
+  "customize": {
+    "verb": "pertsonalizatu"
+  },
+  "Customizer": {
+    "noun": "Pertsonalizatzaile"
+  },
+  "customizer": {
+    "noun": "pertsonalizatzaile"
+  },
+  "dashboard": {
+    "noun": "arbel"
+  },
+  "Dashboard": {
+    "noun": "Arbel"
+  },
+  "data breach": {
+    "noun": "datu arrakala"
+  },
+  "database": {
+    "noun": "datu-base"
+  },
+  "debug": {
+    "verb": "arazketa"
+  },
+  "Default": {
+    "adjective": "Lehenetsi"
+  },
+  "default": {
+    "adjective": "lehenetsi"
+  },
+  "delete": {
+    "verb": "ezabatu"
+  },
+  "Delete": {
+    "verb": "Ezabatu"
+  },
+  "deprecated": {
+    "noun": "zaharkitu"
+  },
+  "description": {
+    "noun": "deskripzioa"
+  },
+  "deselect": {
+    "verb": "desautatu"
+  },
+  "directory": {
+    "noun": "karpeta"
+  },
+  "disable": {
+    "verb": "desgaitu"
+  },
+  "discussion": {
+    "noun": "eztabaida"
+  },
+  "dismiss": {
+    "verb": "baztertu"
+  },
+  "Dismiss": {
+    "verb": "baztertu"
+  },
+  "display": {
+    "adverb": "bistaratze",
+    "verb": "bistaratu"
+  },
+  "Documentation on": {
+    "expression": "buruzko dokumentazioa"
+  },
+  "does not exist": {
+    "expression": "ez da/dira existitzen"
+  },
+  "download": {
+    "verb": "deskargatu"
+  },
+  "Download": {
+    "verb": "Deskargatu"
+  },
+  "draft": {
+    "noun": "zirriborro"
+  },
+  "drag": {
+    "expression": "arrastatu"
+  },
+  "drag and drop": {
+    "verb": "arrastatu eta jaregin"
+  },
+  "drag-and-drop": {
+    "expression": "arrastatu eta jaregin"
+  },
+  "e-mail": {
+    "noun": "e-posta"
+  },
+  "E-mail": {
+    "noun": "E-posta"
+  },
+  "e-mail address": {
+    "expression": "e-posta helbidea"
+  },
+  "E-mail address": {
+    "noun": "E-posta helbidea"
+  },
+  "edit": {
+    "verb": "editatu"
+  },
+  "Edit": {
+    "verb": "Editatu"
+  },
+  "email": {
+    "noun": "e-posta"
+  },
+  "Email": {
+    "noun": "E-posta"
+  },
+  "embed": {
+    "noun": "kapsula",
+    "verb": "kapsulatu"
+  },
+  "Embed": {
+    "verb": "Kapsulatu"
+  },
+  "embed code": {
+    "expression": "kapsulatze-kodea"
+  },
+  "Enable": {
+    "verb": "Gaitu"
+  },
+  "enable": {
+    "verb": "gaitu"
+  },
+  "enter": {
+    "verb": "sartu"
+  },
+  "Enter": {
+    "verb": "Sartu"
+  },
+  "Enter key": {
+    "noun": "Enter tekla"
+  },
+  "error": {
+    "noun": "errore"
+  },
+  "Error": {
+    "noun": "Errore"
+  },
+  "ERROR": {
+    "noun": "ERRORE"
+  },
+  "Esc key": {
+    "noun": "Esc tekla"
+  },
+  "Escape key": {
+    "noun": "Escape tekla"
+  },
+  "event": {
+    "noun": "ekitaldi"
+  },
+  "excerpt": {
+    "noun": "laburpen"
+  },
+  "exclusive": {
+    "noun": "... baino gehiago/gutxiago"
+  },
+  "expire": {
+    "verb": "iraungi"
+  },
+  "expired": {
+    "adjective": "iraungita"
+  },
+  "export": {
+    "verb": "esportatu"
+  },
+  "Export": {
+    "verb": "Esportatu"
+  },
+  "extension": {
+    "noun": "hedapen"
+  },
+  "failed": {
+    "expression": "huts egin du"
+  },
+  "failure": {
+    "noun": "hutsegite"
+  },
+  "feature": {
+    "noun": "ezaugarri"
+  },
+  "featured": {
+    "adjective": "nabarmendutako"
+  },
+  "feed": {
+    "noun": "jario"
+  },
+  "fetch": {
+    "verb": "eskuratu"
+  },
+  "field": {
+    "noun": "eremu"
+  },
+  "file": {
+    "noun": "fitxategi"
+  },
+  "filter": {
+    "verb": "iragazi",
+    "noun": "iragazki"
+  },
+  "fix": {
+    "verb": "konpondu",
+    "noun": "konponketa"
+  },
+  "flag": {
+    "noun": "adierazle"
+  },
+  "Fluid": {
+    "noun": "Jariakor"
+  },
+  "folder": {
+    "noun": "karpeta"
+  },
+  "font": {
+    "noun": "letra-tipoa"
+  },
+  "footer": {
+    "noun": "orri-oin"
+  },
+  "form": {
+    "noun": "inprimakia"
+  },
+  "frame": {
+    "noun": "marko"
+  },
+  "front page": {
+    "noun": "azaleko orrialde"
+  },
+  "frontend": {
+    "noun": "erabiltzaile-interfaze"
+  },
+  "global": {
+    "noun": "orokor"
+  },
+  "Gradient": {
+    "noun": "Gradientea"
+  },
+  "gradients": {
+    "noun": "gradienteak"
+  },
+  "grid": {
+    "noun": "saretxo"
+  },
+  "header": {
+    "noun": "goiburu"
+  },
+  "heading": {
+    "noun": "izenburu"
+  },
+  "height": {
+    "noun": "garaiera"
+  },
+  "hide": {
+    "verb": "ezkutatu"
+  },
+  "Hide": {
+    "verb": "Ezkutatu"
+  },
+  "hint": {
+    "noun": "aholkua"
+  },
+  "home page": {
+    "noun": "hasierako orrialde"
+  },
+  "Home page": {
+    "noun": "Hasierako orrialde"
+  },
+  "homepage": {
+    "noun": "hasierako orrialde"
+  },
+  "Homepage": {
+    "noun": "Hasierako orrialde"
+  },
+  "hook": {
+    "noun": "kako",
+    "verb": "krokatu"
+  },
+  "hosting company": {
+    "noun": "Ostatze-enpresa"
+  },
+  "Howdy": {
+    "expression": "Aupa"
+  },
+  "howdy": {
+    "expression": "aupa"
+  },
+  "human-readable": {
+    "expression": "gizakiek ulertzeko moduko"
+  },
+  "Id": {
+    "noun": "Identifikatzaile"
+  },
+  "ID": {
+    "noun": "Identifikatzaile"
+  },
+  "id": {
+    "noun": "identifikatzaile"
+  },
+  "identifier": {
+    "noun": "identifikatzaile"
+  },
+  "Import": {
+    "verb": "Inportatu"
+  },
+  "import": {
+    "verb": "inportatu"
+  },
+  "importer": {
+    "noun": "inportatzaile"
+  },
+  "inclusive": {
+    "noun": "... edo gehiago/gutxiago"
+  },
+  "Insert": {
+    "verb": "Txertatu"
+  },
+  "insert": {
+    "verb": "txertatu"
+  },
+  "Invalid": {
+    "adjective": "Baliogabe"
+  },
+  "invalid": {
+    "adjective": "baliogabe"
+  },
+  "item": {
+    "noun": "elementu"
+  },
+  "Keyword": {
+    "noun": "Hitz-gakoa"
+  },
+  "Layout": {
+    "noun": "Diseinua"
+  },
+  "layout": {
+    "noun": "diseinua"
+  },
+  "library": {
+    "noun": "liburutegi"
+  },
+  "Limit": {
+    "verb": "Mugatu"
+  },
+  "Link": {
+    "verb": "Estekatu"
+  },
+  "link": {
+    "noun": "esteka",
+    "verb": "estekatu"
+  },
+  "List View": {
+    "noun": "Zerrenda ikuspegia"
+  },
+  "load": {
+    "verb": "kargatu"
+  },
+  "Load": {
+    "verb": "Kargatu"
+  },
+  "locale": {
+    "noun": "eskualde-ezarpen"
+  },
+  "Locale": {
+    "noun": "Eskualde-ezarpen"
+  },
+  "location": {
+    "noun": "kokaleku"
+  },
+  "Log in": {
+    "verb": "Saioa hasi"
+  },
+  "log in": {
+    "verb": "saioa hasi"
+  },
+  "loop": {
+    "noun": "begizta",
+    "verb": "begizta egin"
+  },
+  "loopback": {
+    "noun": "begizta lokal"
+  },
+  "manage": {
+    "verb": "kudeatu"
+  },
+  "media": {
+    "noun": "media"
+  },
+  "Minimum Requirements": {
+    "expression": "Gutxieneko eskakizunak"
+  },
+  "Multisite": {
+    "noun": "Gune-anitz"
+  },
+  "multisite": {
+    "noun": "gune-anitz"
+  },
+  "namespace": {
+    "noun": "izen espazioa"
+  },
+  "nest": {
+    "verb": "habiaratu"
+  },
+  "network": {
+    "noun": "sare"
+  },
+  "Network": {
+    "noun": "Sare"
+  },
+  "nickname": {
+    "noun": "ezizen"
+  },
+  "Nonce": {
+    "noun": "Nonce balio"
+  },
+  "nonce": {
+    "noun": "nonce balio"
+  },
+  "notice": {
+    "noun": "ohar"
+  },
+  "notification": {
+    "noun": "jakinarazpen"
+  },
+  "object": {
+    "noun": "objektu"
+  },
+  "OK": {
+    "noun": "Ados"
+  },
+  "one or more": {
+    "expression": "bat edo batzuk"
+  },
+  "Oops!": {
+    "expression": "Ene!"
+  },
+  "Option key": {
+    "noun": "Option tekla"
+  },
+  "Out of The Box": {
+    "expression": "Laguntzaile"
+  },
+  "Padding": {
+    "noun": "Betegarri"
+  },
+  "page": {
+    "noun": "orrialde"
+  },
+  "panel": {
+    "noun": "panel"
+  },
+  "Panel": {
+    "noun": "panel"
+  },
+  "parent": {
+    "noun": "guraso"
+  },
+  "Parent": {
+    "noun": "Guraso"
+  },
+  "parent theme": {
+    "noun": "guraso-itxura"
+  },
+  "particular": {
+    "noun": "jakin"
+  },
+  "password": {
+    "noun": "pasahitz"
+  },
+  "pattern": {
+    "noun": "eredu"
+  },
+  "perform": {
+    "verb": "egikaritu"
+  },
+  "performance": {
+    "noun": "errendimendu"
+  },
+  "Permalink": {
+    "noun": "Esteka iraunkor"
+  },
+  "permalink": {
+    "noun": "esteka iraunkor"
+  },
+  "persistent": {
+    "adjective": "iraunkor"
+  },
+  "Pingback": {
+    "noun": "Pingback"
+  },
+  "pingback": {
+    "noun": "pingback"
+  },
+  "placeholder": {
+    "noun": "leku-marka"
+  },
+  "plain text": {
+    "noun": "testu arrunt"
+  },
+  "Please": {
+    "noun": "Mesedez"
+  },
+  "please": {
+    "noun": "mesedez"
+  },
+  "Plugin": {
+    "noun": "Plugin"
+  },
+  "plugin": {
+    "noun": "plugin"
+  },
+  "policy": {
+    "noun": "gidalerro"
+  },
+  "Post": {
+    "verb": "Argitaratu",
+    "noun": "Bidalketa"
+  },
+  "post": {
+    "noun": "bidalketa",
+    "verb": "argitaratu"
+  },
+  "preset": {
+    "noun": "aurrezarria"
+  },
+  "Preview": {
+    "verb": "Aurreikusi",
+    "noun": "Aurrebista"
+  },
+  "preview": {
+    "noun": "aurrebista",
+    "verb": "aurreikusi"
+  },
+  "privately": {
+    "expression": "modu pribatuan"
+  },
+  "Publish": {
+    "verb": "Argitaratu"
+  },
+  "publish": {
+    "verb": "argitaratu"
+  },
+  "quey": {
+    "noun": "kontsulta"
+  },
+  "quote": {
+    "noun": "aipua",
+    "verb": "aipatu"
+  },
+  "register": {
+    "verb": "izena eman"
+  },
+  "registration": {
+    "noun": "izen emate"
+  },
+  "release": {
+    "verb": "argitaratu",
+    "noun": "argitalpen"
+  },
+  "Release": {
+    "verb": "Argitaratu",
+    "noun": "Argitalpen"
+  },
+  "remove": {
+    "verb": "kendu"
+  },
+  "Remove": {
+    "verb": "Kendu"
+  },
+  "Replace": {
+    "verb": "Ordezkatu"
+  },
+  "replace": {
+    "verb": "ordezkatu"
+  },
+  "reply": {
+    "noun": "erantzun",
+    "verb": "erantzun"
+  },
+  "required": {
+    "noun": "beharrezko"
+  },
+  "requirement": {
+    "noun": "eskakizun"
+  },
+  "Reset": {
+    "verb": "Berrezarri"
+  },
+  "reset": {
+    "verb": "berrezarri"
+  },
+  "resource": {
+    "noun": "baliabide"
+  },
+  "response": {
+    "noun": "erantzun"
+  },
+  "responsive": {
+    "adjective": "moldagarri"
+  },
+  "Restore": {
+    "verb": "Berrezarri"
+  },
+  "restore": {
+    "verb": "berrezarri"
+  },
+  "result set": {
+    "noun": "emaitzak"
+  },
+  "revert": {
+    "verb": "alderantzizkatu"
+  },
+  "revision": {
+    "noun": "berrikusketa"
+  },
+  "role": {
+    "noun": "role"
+  },
+  "route": {
+    "noun": "bide"
+  },
+  "sample": {
+    "noun": "adibide"
+  },
+  "scope": {
+    "noun": "esparru"
+  },
+  "Scope": {
+    "noun": "Esparru"
+  },
+  "screen": {
+    "noun": "pantaila"
+  },
+  "Screen": {
+    "noun": "Pantaila"
+  },
+  "screenshot": {
+    "noun": "pantaila-argazki"
+  },
+  "Scroll": {
+    "verb": "Korritu"
+  },
+  "scroll": {
+    "verb": "korritu"
+  },
+  "Search": {
+    "verb": "Bilatu"
+  },
+  "search": {
+    "verb": "bilatu",
+    "noun": "bilaketa"
+  },
+  "section": {
+    "noun": "atal"
+  },
+  "secure": {
+    "noun": "seguru"
+  },
+  "Select": {
+    "verb": "Hautatu"
+  },
+  "select": {
+    "verb": "hautatu"
+  },
+  "selected": {
+    "noun": "hautatuta"
+  },
+  "session": {
+    "noun": "saio"
+  },
+  "Set": {
+    "verb": "Ezarri"
+  },
+  "set": {
+    "verb": "ezarri"
+  },
+  "Setting": {
+    "noun": "Ezarpenak"
+  },
+  "settings": {
+    "noun": "ezarpenak"
+  },
+  "setup": {
+    "noun": "ezarpenak"
+  },
+  "share": {
+    "verb": "partekatu"
+  },
+  "Share": {
+    "verb": "Partekatu"
+  },
+  "shift key": {
+    "noun": "maiuskula tekla"
+  },
+  "shortcode": {
+    "noun": "kode-labur"
+  },
+  "Shortcut": {
+    "noun": "Lasterbide"
+  },
+  "shortcut": {
+    "noun": "lasterbide"
+  },
+  "Show": {
+    "verb": "Erakutsi"
+  },
+  "show": {
+    "verb": "erakutsi"
+  },
+  "sidebar": {
+    "noun": "albo-barra"
+  },
+  "Sign up": {
+    "verb": "Izena eman"
+  },
+  "sign up": {
+    "verb": "izena eman"
+  },
+  "site": {
+    "noun": "gune"
+  },
+  "slider": {
+    "noun": "diapositiba-aurkezle"
+  },
+  "Slug": {
+    "noun": "Slug"
+  },
+  "slug": {
+    "noun": "slug"
+  },
+  "social icon": {
+    "noun": "sare sozialetako ikono"
+  },
+  "Sorry": {
+    "noun": "Barkatu"
+  },
+  "spacing": {
+    "verb": "tartekatze"
+  },
+  "Spam": {
+    "noun": "Zabor"
+  },
+  "spam": {
+    "noun": "zabor"
+  },
+  "specific": {
+    "noun": "jakin"
+  },
+  "status": {
+    "noun": "egoera"
+  },
+  "sticky": {
+    "adjective": "itsaskor"
+  },
+  "Stylesheet": {
+    "noun": "Estilo-orri"
+  },
+  "stylesheet": {
+    "noun": "estilo-orri"
+  },
+  "successfully": {
+    "noun": "ondo"
+  },
+  "support": {
+    "verb": "onartu",
+    "noun": "bateragarritasun"
+  },
+  "Support forums": {
+    "noun": "Laguntza foroak"
+  },
+  "tab": {
+    "noun": "erlaitz"
+  },
+  "Tab key": {
+    "noun": "Tab tekla"
+  },
+  "tag": {
+    "noun": "etiketa",
+    "verb": "etiketatu"
+  },
+  "tagline": {
+    "noun": "eslogan"
+  },
+  "tap": {
+    "verb": "tap"
+  },
+  "Taxonomies": {
+    "noun": "Taxonomiak"
+  },
+  "taxonomies": {
+    "noun": "taxonomiak"
+  },
+  "Taxonomy": {
+    "noun": "Taxonomia"
+  },
+  "taxonomy": {
+    "noun": "taxonomia"
+  },
+  "Template": {
+    "noun": "Txantiloi"
+  },
+  "template": {
+    "noun": "txantiloi"
+  },
+  "template part": {
+    "noun": "txantiloi zatia"
+  },
+  "term": {
+    "noun": "termino"
+  },
+  "Theme": {
+    "noun": "Itxura"
+  },
+  "theme": {
+    "noun": "itxura"
+  },
+  "third parties": {
+    "noun": "hirugarren"
+  },
+  "thumbnail": {
+    "noun": "koadro txiki"
+  },
+  "Thumbnail": {
+    "noun": "koadro txiki"
+  },
+  "timestamp": {
+    "noun": "denbora-zigilua"
+  },
+  "timezone": {
+    "noun": "ordu-zona"
+  },
+  "Timezone": {
+    "noun": "Ordu-eremu"
+  },
+  "Title": {
+    "noun": "Izenburu"
+  },
+  "title": {
+    "noun": "izenburu"
+  },
+  "toggle": {
+    "verb": "txandakatu"
+  },
+  "token": {
+    "noun": "token"
+  },
+  "Token": {
+    "noun": "Token"
+  },
+  "Toolbar": {
+    "noun": "Tresna-barra"
+  },
+  "toolbar": {
+    "noun": "tresna-barra"
+  },
+  "Trackback": {
+    "noun": "aipu"
+  },
+  "trackback": {
+    "noun": "aipu"
+  },
+  "Trash": {
+    "noun": "Zakarrontzi"
+  },
+  "trash": {
+    "noun": "zakarrontzi"
+  },
+  "trashed": {
+    "verb": "zakarrontzira bidali da"
+  },
+  "trashing": {
+    "noun": "zakarrontzira botatze"
+  },
+  "treshold": {
+    "noun": "atalase"
+  },
+  "Undo key": {
+    "noun": "Desegin tekla"
+  },
+  "unexpected": {
+    "noun": "ustekabeko"
+  },
+  "unique": {
+    "noun": "bakar"
+  },
+  "Update": {
+    "verb": "Eguneratu"
+  },
+  "update": {
+    "verb": "eguneratu"
+  },
+  "Upgrade": {
+    "verb": "Bertsio-berritu"
+  },
+  "upgrade": {
+    "verb": "bertsio-berritu"
+  },
+  "upload": {
+    "verb": "igo"
+  },
+  "Upload": {
+    "verb": "Igo"
+  },
+  "URL": {
+    "noun": "URL"
+  },
+  "Username": {
+    "noun": "Erabiltzaile-izen"
+  },
+  "username": {
+    "noun": "erabiltzaile-izen"
+  },
+  "version": {
+    "noun": "bertsio"
+  },
+  "View": {
+    "verb": "Ikusi"
+  },
+  "view": {
+    "verb": "ikusi"
+  },
+  "viewport": {
+    "noun": "bistaratze-leiho"
+  },
+  "Warning!": {
+    "noun": "Kontuz!"
+  },
+  "Warning:": {
+    "noun": "Abisua:"
+  },
+  "website": {
+    "noun": "webgune"
+  },
+  "Whether": {
+    "expression": "Ea ... -en."
+  },
+  "Whether or not": {
+    "expression": "Ea ... ala ez."
+  },
+  "Widget": {
+    "noun": "Widget"
+  },
+  "widget": {
+    "noun": "widget"
+  },
+  "width": {
+    "noun": "zabalera"
+  },
+  "wildcard": {
+    "noun": "komodin"
+  },
+  "WordPress": {
+    "noun": "WordPress"
+  },
+  "WordPress.com": {
+    "noun": "WordPress.com"
+  },
+  "workflow": {
+    "noun": "lan-fluxu"
+  },
+  "wrong": {
+    "adjective": "oker"
+  },
+  "you are not allowed to": {
+    "expression": "Ezin duzu ..."
+  },
+  "You are not allowed to": {
+    "expression": "Ezin duzu..."
+  }
+}

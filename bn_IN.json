@@ -1,0 +1,227 @@
+{
+  "alpha": {
+    "noun": "আলফা"
+  },
+  "arrow key": {
+    "noun": "অ্যারো কী"
+  },
+  "arrow keys": {
+    "noun": "অ্যারো কী"
+  },
+  "attachment": {
+    "noun": "এটাচমেন্ট"
+  },
+  "audio": {
+    "noun": "অডিও"
+  },
+  "authorization": {
+    "noun": "অথোরাইজেশন"
+  },
+  "Block": {
+    "noun": "ব্লক"
+  },
+  "blocks": {
+    "noun": "ব্লকসমূহ, ব্লক"
+  },
+  "blog": {
+    "noun": "ব্লগ"
+  },
+  "broadcast": {
+    "noun": "সম্প্রচার"
+  },
+  "Button": {
+    "noun": "বাটন"
+  },
+  "choose": {
+    "verb": "পছন্দ"
+  },
+  "Click": {
+    "noun": "ক্লিক"
+  },
+  "Code": {
+    "noun": "কোড"
+  },
+  "color": {
+    "noun": "রং"
+  },
+  "comment": {
+    "noun": "মন্তব্য"
+  },
+  "comments": {
+    "noun": "মন্তব্যসমূহ"
+  },
+  "content": {
+    "noun": "বিষয়বস্তু"
+  },
+  "default": {
+    "noun": "পূর্বনির্ধারিত"
+  },
+  "down arrow": {
+    "noun": "ডাউন  অ্যারো"
+  },
+  "Edit": {
+    "noun": "সম্পাদনা"
+  },
+  "editor": {
+    "noun": "এডিটর"
+  },
+  "email": {
+    "noun": "ই-মেইল, ইমেইল"
+  },
+  "email address": {
+    "noun": "ইমেইল এড্রেস, ই-মেইল এড্রেস"
+  },
+  "Embed": {
+    "verb": "এমবেড"
+  },
+  "Error": {
+    "noun": "খুঁত"
+  },
+  "excerpt": {
+    "noun": "উদ্ধৃতি"
+  },
+  "feed": {
+    "noun": "ফিড"
+  },
+  "gallery": {
+    "noun": "গ্যাল্যারি"
+  },
+  "hue": {
+    "noun": "হিউ"
+  },
+  "identifier": {
+    "noun": "পরিচায়ক"
+  },
+  "install": {
+    "noun": "ইন্সটল"
+  },
+  "Invalid": {
+    "noun": "সঠিক নয়"
+  },
+  "issue": {
+    "noun": "সমস্যা"
+  },
+  "left arrow": {
+    "noun": "লেফট অ্যারো"
+  },
+  "lightness": {
+    "noun": "লাইটনেস"
+  },
+  "link": {
+    "noun": "লিঙ্ক"
+  },
+  "list": {
+    "noun": "লিস্ট"
+  },
+  "media": {
+    "noun": "মিডিয়া"
+  },
+  "menu": {
+    "noun": "মেনু"
+  },
+  "movie": {
+    "noun": "মুভি"
+  },
+  "object": {
+    "noun": "অবজেক্ট"
+  },
+  "optional": {
+    "adjective": "স্বেচ্ছামূলক"
+  },
+  "password": {
+    "noun": "পাসওয়ার্ড"
+  },
+  "Please": {
+    "noun": "অনুগ্রহ করে"
+  },
+  "Plugin": {
+    "noun": "প্লাগিন"
+  },
+  "Post": {
+    "noun": "প্রকাশনা, পোস্ট"
+  },
+  "post type": {
+    "noun": "পোস্ট টাইপ"
+  },
+  "posts": {
+    "noun": "প্রকাশনাসমূহ"
+  },
+  "release": {
+    "noun": "রিলিজ"
+  },
+  "Response": {
+    "noun": "রেসপন্স"
+  },
+  "right arrow": {
+    "noun": "রাইট অ্যারো"
+  },
+  "saturation": {
+    "noun": "স্যাচুরেশন"
+  },
+  "schedule": {
+    "noun": "শিডিউল"
+  },
+  "security": {
+    "noun": "নিরাপত্তা"
+  },
+  "select": {
+    "verb": "নির্বাচন, বাছাই"
+  },
+  "selected": {
+    "noun": "নির্বাচিত, বাছাইকৃত, বাছাই করা"
+  },
+  "settings": {
+    "noun": "সেটিংস"
+  },
+  "shade": {
+    "noun": "রং"
+  },
+  "Submit": {
+    "noun": "সাবমিট"
+  },
+  "tab": {
+    "noun": "ট্যাব"
+  },
+  "taxonomy": {
+    "noun": "ট্যাক্সোনমি"
+  },
+  "term": {
+    "noun": "টার্ম"
+  },
+  "text": {
+    "noun": "টেক্সট"
+  },
+  "theme": {
+    "noun": "থিম"
+  },
+  "up arrow": {
+    "noun": "আপ অ্যারো"
+  },
+  "update": {
+    "noun": "হালনাগাদ"
+  },
+  "updated": {
+    "noun": "হালনাগাদ করা হয়েছে"
+  },
+  "upload": {
+    "verb": "আপলোড"
+  },
+  "URL": {
+    "noun": "ইউআরএল"
+  },
+  "user": {
+    "noun": "ব্যবহারকারী"
+  },
+  "username": {
+    "noun": "ইউসারনেম"
+  },
+  "video": {
+    "noun": "ভিডিও"
+  },
+  "widget": {
+    "noun": "উইজেট"
+  },
+  "WordPress": {
+    "noun": "ওয়ার্ডপ্রেস"
+  }
+}

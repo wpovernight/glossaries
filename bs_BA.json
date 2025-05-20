@@ -1,0 +1,18 @@
+{
+  "Default": {
+    "noun": "Početno"
+  },
+  "Directory": {
+    "noun": "Folder"
+  },
+  "Feature": {
+    "noun": "Mogućnost"
+  },
+  "File": {
+    "noun": "Fajl"
+  },
+  "Post": {
+    "noun": "Članak",
+    "verb": "Objavi"
+  }
+}

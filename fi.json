@@ -1,0 +1,1339 @@
+{
+  "a11y": {
+    "noun": "helppokäyttö"
+  },
+  "about the user": {
+    "expression": "tietoja käyttäjästä"
+  },
+  "accordion": {
+    "noun": "haitari"
+  },
+  "action": {
+    "noun": "toiminto"
+  },
+  "activate": {
+    "verb": "ota käyttöön"
+  },
+  "active": {
+    "adverb": "käytössä"
+  },
+  "activity": {
+    "noun": "tapahtumat, aktiviteetti"
+  },
+  "add-on": {
+    "noun": "laajennus(osa)"
+  },
+  "admin": {
+    "noun": "pääkäyttäjä"
+  },
+  "advanced": {
+    "adjective": "edistynyt"
+  },
+  "aligment": {
+    "noun": "tasaus"
+  },
+  "align": {
+    "verb": "tasaa"
+  },
+  "anti-spam": {
+    "noun": "roskapostin esto"
+  },
+  "API": {
+    "noun": "rajapinta, rajapinta/API, API"
+  },
+  "appearance": {
+    "noun": "ulkoasu"
+  },
+  "application password": {
+    "noun": "sovellussalasana"
+  },
+  "apply": {
+    "verb": "käytä, hyväksy, sovella"
+  },
+  "archive": {
+    "noun": "arkisto, luettelo"
+  },
+  "archived": {
+    "adjective": "arkistoitu"
+  },
+  "are you sure": {
+    "expression": "haluatko varmasti"
+  },
+  "ascending": {
+    "adjective": "nouseva"
+  },
+  "aside": {
+    "noun": "sivuhuomautus"
+  },
+  "assign": {
+    "verb": "valita, nimetä"
+  },
+  "attach": {
+    "verb": "liitä"
+  },
+  "attachment": {
+    "noun": "liite, liitetiedosto"
+  },
+  "attribute": {
+    "noun": "ominaisuus, attribuutti"
+  },
+  "authenticate": {
+    "verb": "varmenna"
+  },
+  "author": {
+    "noun": "kirjoittaja, tekijä"
+  },
+  "autoplay": {
+    "noun": "automaattinen toisto"
+  },
+  "autosave": {
+    "noun": "automaattisesti tallennettu versio"
+  },
+  "avatar": {
+    "noun": "avatar-kuva"
+  },
+  "backend": {
+    "noun": "hallintapuoli"
+  },
+  "background": {
+    "noun": "tausta"
+  },
+  "badge": {
+    "noun": "tunnusmerkki"
+  },
+  "batch": {
+    "noun": "kimppu, ryväs, massa-"
+  },
+  "block": {
+    "noun": "lohko"
+  },
+  "block bindings": {
+    "noun": "lohkosidos"
+  },
+  "block theme": {
+    "noun": "lohkoteema"
+  },
+  "blogger": {
+    "noun": "blogisti, bloggaaja"
+  },
+  "blurb": {
+    "noun": "mainosteksti & kuva"
+  },
+  "bookmark": {
+    "noun": "kirjanmerkki"
+  },
+  "bookmarklet": {
+    "noun": "sovelluskirjanmerkki"
+  },
+  "box": {
+    "noun": "laatikko, valintaruutu"
+  },
+  "boxed": {
+    "expression": "kehystetty sivusto (rajattu leveys)"
+  },
+  "breadcrumb path": {
+    "noun": "murupolku"
+  },
+  "breadcrumbs": {
+    "noun": "murut"
+  },
+  "browse": {
+    "verb": "selaa"
+  },
+  "browser": {
+    "noun": "selain"
+  },
+  "bug": {
+    "noun": "bugi, virhe/puute koodissa"
+  },
+  "bulk": {
+    "noun": "massa"
+  },
+  "button": {
+    "noun": "painike"
+  },
+  "cache": {
+    "noun": "välimuisti"
+  },
+  "call to action": {
+    "expression": "toimi heti -kehote"
+  },
+  "cancel": {
+    "verb": "peru. peruuta, kumoa"
+  },
+  "canonical URL": {
+    "noun": "alkuperän ilmaiseva verkko-osoite"
+  },
+  "capabilities": {
+    "noun": "kyvyt, oikeudet, käyttöoikeuset"
+  },
+  "captcha": {
+    "noun": "roskapostin esto, kuvavarmenne"
+  },
+  "caption": {
+    "noun": "kuvateksti"
+  },
+  "carousel": {
+    "noun": "karuselli"
+  },
+  "catalog": {
+    "noun": "tuoteluettelo"
+  },
+  "Category": {
+    "noun": "kategoria"
+  },
+  "category": {
+    "noun": "kategoria, osasto"
+  },
+  "CDN": {
+    "noun": "sisällönhajautusverkosto, SHV"
+  },
+  "checkbox": {
+    "noun": "valintaruutu"
+  },
+  "child": {
+    "noun": "alataso, alempi taso"
+  },
+  "child theme": {
+    "noun": "alateema, lapsiteema"
+  },
+  "city": {
+    "noun": "kaupunki, postitoimipaikka"
+  },
+  "clear": {
+    "verb": "pyyhi"
+  },
+  "click": {
+    "verb": "napsauta"
+  },
+  "clone": {
+    "verb": "monista"
+  },
+  "collapse": {
+    "verb": "piilota"
+  },
+  "color scheme": {
+    "noun": "väriasetelma"
+  },
+  "column": {
+    "noun": "palsta, sarake"
+  },
+  "command palette": {
+    "noun": "komentopaletti"
+  },
+  "common settings": {
+    "expression": "tavalliset asetukset, yleiset asetukset"
+  },
+  "configuration": {
+    "noun": "määritykset, asetus"
+  },
+  "configure": {
+    "verb": "määritä"
+  },
+  "confirm": {
+    "verb": "vahvista"
+  },
+  "contact form": {
+    "noun": "yhteydenottolomake"
+  },
+  "contact info": {
+    "noun": "yhteystiedot"
+  },
+  "content": {
+    "noun": "sisältö"
+  },
+  "contributor": {
+    "noun": "avustaja"
+  },
+  "controls": {
+    "noun": "ohjaimet"
+  },
+  "conversion rate": {
+    "noun": "menestysprosentti"
+  },
+  "core": {
+    "noun": "ydin"
+  },
+  "count": {
+    "noun": "lukumäärä"
+  },
+  "countdown": {
+    "adjective": "alaspäin laskeva"
+  },
+  "coupon": {
+    "noun": "kuponki, alennuskoodi"
+  },
+  "coupon code": {
+    "noun": "alennuskoodi"
+  },
+  "create": {
+    "verb": "luo"
+  },
+  "credits": {
+    "noun": "tunnustukset, tekijät"
+  },
+  "crop": {
+    "verb": "rajaa"
+  },
+  "CSS": {
+    "noun": "CSS-tyylitiedosto, CSS-muotoilu"
+  },
+  "CSV": {
+    "noun": "pilkuilla erotettu tiedosto/CSV"
+  },
+  "current": {
+    "noun": "tämä, nykyinen"
+  },
+  "custom": {
+    "adjective": "mukautettu, muokattu"
+  },
+  "Customize": {
+    "verb": "mukauta"
+  },
+  "customize": {
+    "verb": "mukauta"
+  },
+  "Customizer": {
+    "noun": "mukautin"
+  },
+  "customizer": {
+    "noun": "mukautin"
+  },
+  "Dark Mode": {
+    "noun": "tumma tila"
+  },
+  "dashboard": {
+    "noun": "hallintapaneeli, ohjauspaneeli"
+  },
+  "date range": {
+    "noun": "ajanjakso"
+  },
+  "deactivate": {
+    "verb": "poistaa käytöstä"
+  },
+  "debug": {
+    "noun": "testaustila",
+    "verb": "testaa"
+  },
+  "default": {
+    "noun": "oletus"
+  },
+  "delete": {
+    "verb": "poista"
+  },
+  "deprecated": {
+    "adjective": "vanhentunut"
+  },
+  "descending": {
+    "adjective": "laskeva"
+  },
+  "description": {
+    "noun": "kuvaus"
+  },
+  "details": {
+    "noun": "tiedot, lisätiedot"
+  },
+  "Developer reference": {
+    "noun": "Tekninen dokumentaatio"
+  },
+  "developer reference": {
+    "noun": "tekninen dokumentaatio"
+  },
+  "disable": {
+    "verb": "poista käytöstä"
+  },
+  "display": {
+    "verb": "näytä"
+  },
+  "distraction free": {
+    "noun": "häiriötön"
+  },
+  "Distraction-free writing mode": {
+    "noun": "Häiriötön kirjoitustila"
+  },
+  "distraction-free writing mode": {
+    "noun": "häiriötön kirjoitustila"
+  },
+  "documentation": {
+    "noun": "dokumentaatio, ohjeet"
+  },
+  "domain": {
+    "noun": "verkko-osoite, domaini"
+  },
+  "Domain": {
+    "noun": "verkkotunnus, toimialue"
+  },
+  "done": {
+    "adjective": "valmis"
+  },
+  "download": {
+    "verb": "lataa"
+  },
+  "draft": {
+    "noun": "luonnos"
+  },
+  "drag and drop": {
+    "expression": "vedä ja pudota (-menetelmä)"
+  },
+  "dropdown menu": {
+    "noun": "pudotusvalikko"
+  },
+  "duplicate": {
+    "verb": "monista",
+    "noun": "kaksoiskappale"
+  },
+  "Dynamic Menu": {
+    "noun": "Dynaaminen valikko"
+  },
+  "e-mail": {
+    "noun": "sähköposti, s-posti"
+  },
+  "edit": {
+    "verb": "muokkaa"
+  },
+  "editor": {
+    "noun": "editori"
+  },
+  "embed": {
+    "verb": "upottaa"
+  },
+  "emoji": {
+    "noun": "tunnetilamerkit"
+  },
+  "enable": {
+    "verb": "ota käyttöön"
+  },
+  "encoding": {
+    "noun": "merkistö"
+  },
+  "enter": {
+    "verb": "kirjoita"
+  },
+  "entry": {
+    "noun": "vienti, merkintä"
+  },
+  "excerpt": {
+    "noun": "ote"
+  },
+  "existing": {
+    "adjective": "olemassa oleva"
+  },
+  "export": {
+    "verb": "vie"
+  },
+  "extension": {
+    "noun": "laajennus, lisuke, lisäosa"
+  },
+  "F j, Y": {
+    "expression": "j.n.Y"
+  },
+  "FAQ": {
+    "expression": "UKK, FAQ"
+  },
+  "feature": {
+    "verb": "korosta, nosta esille",
+    "noun": "toiminto, ominaisuus"
+  },
+  "feature filter": {
+    "noun": "ominaisuussuodatin"
+  },
+  "featured": {
+    "adjective": "korostettu, esittelyssä oleva, suositeltu"
+  },
+  "featured image": {
+    "expression": "artikkelikuva"
+  },
+  "feed": {
+    "noun": "syöte"
+  },
+  "feedback": {
+    "noun": "palaute"
+  },
+  "field": {
+    "noun": "kenttä"
+  },
+  "filter": {
+    "noun": "suodin, suodatin"
+  },
+  "filter by": {
+    "verb": "suodata käyttäen, suodatus"
+  },
+  "fixed": {
+    "adjective": "kiinnitetty, pysyy paikallaan"
+  },
+  "flexible": {
+    "adjective": "joustava"
+  },
+  "fluid": {
+    "adjective": "joustava"
+  },
+  "fly-out": {
+    "noun": "pudotusikkuna"
+  },
+  "focus": {
+    "verb": "kohdista, kohdenna, tarkenna, fokus"
+  },
+  "font": {
+    "noun": "fontti"
+  },
+  "font color": {
+    "noun": "fontin väri"
+  },
+  "font size": {
+    "noun": "fontin koko"
+  },
+  "font style": {
+    "noun": "fonttityyli"
+  },
+  "footer": {
+    "noun": "alapalkki, alatunniste"
+  },
+  "Footnote": {
+    "noun": "Alaviite"
+  },
+  "format": {
+    "noun": "muoto"
+  },
+  "formatting": {
+    "noun": "muotoilu"
+  },
+  "framework": {
+    "noun": "sovelluskehys, kehikko"
+  },
+  "free": {
+    "adjective": "maksuton, ilmainen"
+  },
+  "front page": {
+    "noun": "etusivu"
+  },
+  "frontend": {
+    "expression": "julkinen puoli, julkinen näkymä"
+  },
+  "full screen": {
+    "expression": "kokonäytön tila"
+  },
+  "full width": {
+    "expression": "täysi leveys"
+  },
+  "gallery": {
+    "noun": "galleria"
+  },
+  "global settings": {
+    "expression": "yleiset asetukset"
+  },
+  "grid": {
+    "noun": "ruudukko"
+  },
+  "GTE": {
+    "noun": "pääkääntäjä"
+  },
+  "guest": {
+    "noun": "vieras"
+  },
+  "h:ia": {
+    "expression": "H:i"
+  },
+  "hashtag": {
+    "noun": "hashtagi, hashtägi"
+  },
+  "header": {
+    "noun": "otsake"
+  },
+  "highest rated": {
+    "expression": "parhaaksi arvotetut"
+  },
+  "home": {
+    "noun": "etusivu"
+  },
+  "home page": {
+    "noun": "etusivu"
+  },
+  "hook": {
+    "noun": "koukku"
+  },
+  "host": {
+    "noun": "isäntä"
+  },
+  "hover": {
+    "adjective": "osoitettaessa, kun kohdistimen alla"
+  },
+  "HTML": {
+    "noun": "HTML-muotoiltu"
+  },
+  "https": {
+    "noun": "https-salattu yhteys"
+  },
+  "i10n": {
+    "noun": "paikallistaminen"
+  },
+  "i18n": {
+    "noun": "kansainvälistäminen"
+  },
+  "icon": {
+    "noun": "kuvake"
+  },
+  "ID": {
+    "noun": "tunniste, tunniste/ID, ID"
+  },
+  "import": {
+    "verb": "tuo"
+  },
+  "importer": {
+    "noun": "tuontityökalu"
+  },
+  "inactive": {
+    "adjective": "ei käytössä"
+  },
+  "inbox": {
+    "adjective": "saapuneet"
+  },
+  "indent": {
+    "verb": "sisennä"
+  },
+  "index": {
+    "noun": "indeksointi"
+  },
+  "inline": {
+    "expression": "rivin sisällä, tekstielementit"
+  },
+  "integration": {
+    "noun": "liitos, palveluliitos"
+  },
+  "invalid": {
+    "adjective": "ei kelpaa, ei ole kelvollinen"
+  },
+  "italics": {
+    "noun": "kursiivi"
+  },
+  "item": {
+    "noun": "kohde, nimike, tuote, kohta, merkintä, jne"
+  },
+  "j M Y": {
+    "expression": "j.n.Y"
+  },
+  "jS F Y": {
+    "expression": "j.n.Y"
+  },
+  "keyword": {
+    "noun": "avainsana"
+  },
+  "label": {
+    "noun": "tunnus, selite, nimi, tunnusmerkki, osoitelappu, teksti"
+  },
+  "language pack": {
+    "noun": "kielipaketti"
+  },
+  "latest": {
+    "adjective": "uusimmat"
+  },
+  "layout": {
+    "noun": "asettelu"
+  },
+  "legend": {
+    "noun": "selite"
+  },
+  "letter spacing": {
+    "noun": "kirjainväli"
+  },
+  "library": {
+    "noun": "kirjasto, mediakirjasto"
+  },
+  "like": {
+    "verb": "tykätä"
+  },
+  "link": {
+    "noun": "linkki"
+  },
+  "list": {
+    "noun": "lista, luettelo"
+  },
+  "localization": {
+    "noun": "paikallistaminen"
+  },
+  "location": {
+    "noun": "sijainti, paikka"
+  },
+  "log": {
+    "noun": "loki"
+  },
+  "log out": {
+    "verb": "kirjaudu ulos"
+  },
+  "logged in": {
+    "adjective": "kirjautunut"
+  },
+  "logged out": {
+    "adjective": "kirjatunut ulos, ei kirjautunut"
+  },
+  "login name": {
+    "noun": "käyttäjätunnus"
+  },
+  "login, log-in": {
+    "verb": "kirjaudu"
+  },
+  "ltr": {
+    "expression": "vasemmalta oikealle"
+  },
+  "M j, Y": {
+    "expression": "j.n.Y"
+  },
+  "M jS": {
+    "expression": "j.n.Y"
+  },
+  "main content": {
+    "noun": "pääsisältö"
+  },
+  "main menu": {
+    "noun": "päävalikko"
+  },
+  "maintenance": {
+    "noun": "ylläpito, ylläpitotila"
+  },
+  "manage": {
+    "verb": "hallinnoi, muokkaa"
+  },
+  "media": {
+    "noun": "media"
+  },
+  "menu": {
+    "noun": "valikko"
+  },
+  "menu order": {
+    "noun": "valikkojärjestys"
+  },
+  "merge": {
+    "verb": "yhdistä"
+  },
+  "message": {
+    "noun": "viesti"
+  },
+  "meta": {
+    "noun": "meta, metatieto"
+  },
+  "metadata": {
+    "noun": "metatieto"
+  },
+  "method": {
+    "noun": "tapa, menettelytapa, menetelmä"
+  },
+  "migrate": {
+    "verb": "siirrä (joku kokonaisuus toisaalle)"
+  },
+  "mobile": {
+    "noun": "mobiililaite"
+  },
+  "modal": {
+    "noun": "keskusteluikkuna, käyttäjää odottava ikkuna"
+  },
+  "moderation": {
+    "noun": "arviointi, tarkastus"
+  },
+  "moderator": {
+    "noun": "valvoja, tarkastaja"
+  },
+  "module": {
+    "noun": "moduuli"
+  },
+  "multisite": {
+    "noun": "monisivusto, multisite"
+  },
+  "n/a": {
+    "adjective": "ei saatavilla, ei käytössä, ei sovelleta, jne."
+  },
+  "navigation": {
+    "noun": "navigointi, navigaatio"
+  },
+  "nested": {
+    "adjective": "sisäkkäin"
+  },
+  "next": {
+    "adjective": "seuraava"
+  },
+  "nonce": {
+    "noun": "kertakäyttöavain"
+  },
+  "note": {
+    "noun": "kommentti, huomautus"
+  },
+  "notes": {
+    "noun": "muistiinpanoja"
+  },
+  "notice": {
+    "noun": "huomautus, huomaa"
+  },
+  "notification": {
+    "noun": "ilmoitus"
+  },
+  "of": {
+    "expression": "/"
+  },
+  "off": {
+    "adjective": "ei käytössä"
+  },
+  "on": {
+    "adjective": "käytössä"
+  },
+  "opt-in": {
+    "noun": "liittyminen, tilaaminen"
+  },
+  "option": {
+    "noun": "valinta, asetus"
+  },
+  "optional": {
+    "noun": "valinnainen"
+  },
+  "options": {
+    "noun": "valinnat, asetukset"
+  },
+  "order": {
+    "noun": "järjestys, tilaus"
+  },
+  "override": {
+    "verb": "yliaja, ohita"
+  },
+  "padding": {
+    "noun": "täyte, reunatäyte"
+  },
+  "page": {
+    "noun": "sivu"
+  },
+  "pagination": {
+    "noun": "sivutus"
+  },
+  "parent": {
+    "noun": "ylempi taso, ylätaso, vanhempi, yläsivu, ylä-"
+  },
+  "path": {
+    "noun": "polku"
+  },
+  "pattern": {
+    "noun": "lohkomalli"
+  },
+  "pending": {
+    "verb": "odottaa"
+  },
+  "permalink": {
+    "noun": "kestolinkki, osoiterakenne"
+  },
+  "permissions": {
+    "noun": "oikeudet"
+  },
+  "pingback": {
+    "noun": "linkki-ilmoitus, paluuviite"
+  },
+  "pings": {
+    "noun": "päivitysilmoitukset"
+  },
+  "placeholder": {
+    "noun": "paikanvaraus"
+  },
+  "please": {
+    "expression": "…, ole hyvä."
+  },
+  "plugin": {
+    "noun": "lisäosa"
+  },
+  "PM": {
+    "noun": "yksityisviesti"
+  },
+  "popup": {
+    "noun": "ponnahdusikkuna"
+  },
+  "portfolio": {
+    "noun": "työnäytteet, portfolio"
+  },
+  "Post": {
+    "noun": "artikkeli",
+    "verb": "julkaise"
+  },
+  "post": {
+    "noun": "artikkeli",
+    "verb": "julkaise, kirjoita viesti, ”postaa”"
+  },
+  "post type": {
+    "noun": "sisältötyyppi"
+  },
+  "post via e-mail": {
+    "expression": "julkaise sähköpostilla, kirjoita artikkeleita sähköpostitse"
+  },
+  "prefix": {
+    "noun": "etuliite"
+  },
+  "premium": {
+    "adjective": "korkealuokkainen; erinomainen; maksullinen"
+  },
+  "preset": {
+    "noun": "oletusasetus"
+  },
+  "Press This": {
+    "noun": "Press This"
+  },
+  "pricing table": {
+    "noun": "hintataulu"
+  },
+  "priority": {
+    "adjective": "etuoikeutettu, tärkeysjärjestys"
+  },
+  "privacy": {
+    "adjective": "yksityisyys, tietosuoja"
+  },
+  "pro": {
+    "noun": "pro"
+  },
+  "profile": {
+    "noun": "profiili"
+  },
+  "proofread": {
+    "noun": "oikoluku"
+  },
+  "PTE": {
+    "noun": "projektikääntäjä"
+  },
+  "Publish": {
+    "verb": "julkaise"
+  },
+  "publish": {
+    "verb": "julkaise"
+  },
+  "QR Code": {
+    "noun": "QR-koodi"
+  },
+  "quantity": {
+    "noun": "määrä"
+  },
+  "query": {
+    "noun": "kysely"
+  },
+  "Query block": {
+    "noun": "Sisältölistaus-lohko"
+  },
+  "quote": {
+    "noun": "lainaus, (hinta)tarjous"
+  },
+  "radio button": {
+    "noun": "valintanappi"
+  },
+  "rate": {
+    "noun": "määrä, nopeus, vero, veroprosentti, hinta",
+    "verb": "arvostella, arvottaa, arvioida, asettaa luokka/-taso"
+  },
+  "rating": {
+    "noun": "arvostelu, arviointi"
+  },
+  "reactivate": {
+    "verb": "ota uudelleen käyttöön"
+  },
+  "recurring": {
+    "adjective": "toistuva"
+  },
+  "redirect": {
+    "verb": "edelleenohjaa, uudelleenohjaa"
+  },
+  "reference": {
+    "noun": "tukiaineisto, viite"
+  },
+  "refresh": {
+    "verb": "päivitä"
+  },
+  "regenerate": {
+    "verb": "valmista uudelleen"
+  },
+  "regeneration": {
+    "noun": "uudelleenvalmistaminen"
+  },
+  "reject": {
+    "verb": "hylkää"
+  },
+  "related": {
+    "adjective": "liittyvä"
+  },
+  "remove": {
+    "verb": "poista"
+  },
+  "reorder": {
+    "verb": "vaihda järjestystä"
+  },
+  "repository": {
+    "noun": "varasto, säilytyspaikka"
+  },
+  "require": {
+    "verb": "tarvitaan, vaaditaan"
+  },
+  "reset": {
+    "verb": "palauta perustilaan, nollaa"
+  },
+  "resolution": {
+    "noun": "tarkkuus, resoluutio"
+  },
+  "resource": {
+    "noun": "tukiaineisto, resurssi, voimavara"
+  },
+  "responsive": {
+    "adjective": "mukautuva"
+  },
+  "REST API": {
+    "noun": "REST-rajapinta"
+  },
+  "restore": {
+    "verb": "palauta [ennalleen]"
+  },
+  "restriction": {
+    "adjective": "rajoitus, rajoitettu"
+  },
+  "resume": {
+    "verb": "jatka"
+  },
+  "review": {
+    "noun": "arviointi, arvio, tarkastus",
+    "verb": "tarkistaa, arvioida"
+  },
+  "revision": {
+    "noun": "versio"
+  },
+  "role": {
+    "noun": "rooli"
+  },
+  "rosetta site": {
+    "expression": "paikallinen sivusto"
+  },
+  "route": {
+    "noun": "reitti"
+  },
+  "rtl": {
+    "expression": "oikealta vasemmalle"
+  },
+  "screen": {
+    "noun": "näyttö"
+  },
+  "screencast": {
+    "noun": "esittelyvideo"
+  },
+  "screenshot": {
+    "noun": "näyttökaappaus, ruutukaappaus"
+  },
+  "scroll": {
+    "verb": "vieritä"
+  },
+  "search": {
+    "verb": "hae, etsi"
+  },
+  "search engine visibility": {
+    "noun": "hakukonenäkyvyys"
+  },
+  "section": {
+    "noun": "jakso, alue, lokero, osa, lohko"
+  },
+  "security release": {
+    "noun": "tietoturvapäivitys"
+  },
+  "select": {
+    "verb": "valitse"
+  },
+  "send to trash": {
+    "expression": "siirrä roskakoriin"
+  },
+  "SEO": {
+    "noun": "hakukoneoptimointi, HKO"
+  },
+  "session": {
+    "noun": "istunto"
+  },
+  "setup": {
+    "noun": "asetukset"
+  },
+  "share": {
+    "verb": "jaa"
+  },
+  "shipping": {
+    "noun": "toimitus"
+  },
+  "shortcode": {
+    "noun": "lyhytkoodi"
+  },
+  "shortcut": {
+    "noun": "oikopolku"
+  },
+  "shortlink": {
+    "noun": "pikalinkki"
+  },
+  "show": {
+    "verb": "näytä"
+  },
+  "sidebar": {
+    "noun": "sivupalkki"
+  },
+  "sign-up": {
+    "verb": "rekisteröidy, tilaa, liity"
+  },
+  "site": {
+    "noun": "sivusto"
+  },
+  "Site Editor": {
+    "noun": "Sivustoeditori"
+  },
+  "site editor": {
+    "noun": "paikallisen sivuston päätoimittaja"
+  },
+  "Site Health": {
+    "noun": "Sivuston eheys"
+  },
+  "sitemap": {
+    "noun": "sivustokartta, sivukartta"
+  },
+  "skip": {
+    "verb": "ohita"
+  },
+  "slider": {
+    "noun": "liukusäädin, kuvaesitys"
+  },
+  "slides": {
+    "noun": "kuvat, diat"
+  },
+  "slideshow": {
+    "noun": "kuvaesitys"
+  },
+  "slug": {
+    "noun": "polkutunnus"
+  },
+  "social": {
+    "noun": "some, sosiaalinen media"
+  },
+  "social icon": {
+    "noun": "some-kuvake"
+  },
+  "sorry": {
+    "noun": "pahoittelemme"
+  },
+  "sort": {
+    "noun": "lajittelu"
+  },
+  "sort method": {
+    "noun": "lajittelutapa"
+  },
+  "sort order": {
+    "noun": "lajittelujärjestys"
+  },
+  "source": {
+    "noun": "lähde"
+  },
+  "Spotlight": {
+    "noun": "Kohdistustila"
+  },
+  "stats": {
+    "noun": "tilastot"
+  },
+  "status": {
+    "noun": "tila"
+  },
+  "sticky": {
+    "adjective": "kiinnitetty, paikallaan pysyvä"
+  },
+  "store manager": {
+    "noun": "kauppias"
+  },
+  "string": {
+    "noun": "merkkijono"
+  },
+  "stylesheet": {
+    "noun": "tyylitiedosto"
+  },
+  "subject": {
+    "noun": "aihe"
+  },
+  "submenu": {
+    "noun": "alavalikko"
+  },
+  "submit": {
+    "verb": "lähetä, toteuta"
+  },
+  "suffix": {
+    "noun": "loppuliite"
+  },
+  "summary": {
+    "noun": "yhteenveto, poiminta"
+  },
+  "swich": {
+    "verb": "vaihda"
+  },
+  "Sync pattern": {
+    "noun": "Synkronoitu lohkomalli"
+  },
+  "tab": {
+    "noun": "välilehti"
+  },
+  "table": {
+    "noun": "taulu, taulukko"
+  },
+  "Tag": {
+    "noun": "avainsana"
+  },
+  "tag": {
+    "noun": "avainsana, tagi, tägi"
+  },
+  "tag cloud": {
+    "noun": "avainsanapilvi"
+  },
+  "tagline": {
+    "noun": "kuvaus"
+  },
+  "tap": {
+    "verb": "kosketa, napsauta"
+  },
+  "target": {
+    "noun": "kohde"
+  },
+  "Taxonomy": {
+    "noun": "taksonomia"
+  },
+  "taxonomy": {
+    "noun": "luokittelu, taksonomia"
+  },
+  "TC": {
+    "noun": "kääntäjä, avustaja, käännösavustaja"
+  },
+  "template": {
+    "noun": "sivupohja, malline, pohja, malli"
+  },
+  "template part": {
+    "noun": "sivupohjan osa"
+  },
+  "Term": {
+    "noun": "termi"
+  },
+  "term": {
+    "noun": "termi, nimitys, arvo"
+  },
+  "testimonial": {
+    "noun": "käyttäjäkokemus"
+  },
+  "text color": {
+    "noun": "tekstin väri"
+  },
+  "Text editor": {
+    "noun": "tekstimuokkain"
+  },
+  "theme": {
+    "noun": "teema"
+  },
+  "thumbnail": {
+    "noun": "pienoiskuva, pikkukuva"
+  },
+  "ticket": {
+    "noun": "tukipyyntö, (pääsy)lippu"
+  },
+  "tile": {
+    "verb": "toista"
+  },
+  "tiled": {
+    "adjective": "vierekkäin"
+  },
+  "tips": {
+    "noun": "vinkit"
+  },
+  "toggle": {
+    "verb": "näytä/piilota, vaihda tila"
+  },
+  "token": {
+    "noun": "merkki"
+  },
+  "toolbar": {
+    "noun": "työkalupalkki"
+  },
+  "tooltip": {
+    "noun": "vihjeteksti"
+  },
+  "top rated": {
+    "noun": "parhaaksi arvotetut"
+  },
+  "trackback": {
+    "noun": "linkki-ilmoitus, paluuviite"
+  },
+  "troubleshooting": {
+    "expression": "ongelmatilanteiden ratkaiseminen"
+  },
+  "tutorial": {
+    "noun": "opas, opastus-"
+  },
+  "type": {
+    "noun": "laji, tyyppi"
+  },
+  "typography": {
+    "noun": "tekstin muotoilu, typografia"
+  },
+  "uncategorized": {
+    "adjective": "yleinen (kategoria), ei-luokiteltu"
+  },
+  "undo": {
+    "verb": "peru, peruuta"
+  },
+  "unsubscribe": {
+    "verb": "peru tilaus"
+  },
+  "update": {
+    "noun": "päivitä"
+  },
+  "upgrade": {
+    "noun": "päivitä (parempaan)"
+  },
+  "upload": {
+    "noun": "siirrä"
+  },
+  "URL": {
+    "noun": "verkko-osoite, verkko-osoite/URL"
+  },
+  "usability": {
+    "expression": "käytettävyys"
+  },
+  "username": {
+    "noun": "käyttäjätunnus"
+  },
+  "UTC": {
+    "expression": "koordinoitu yleisaika/UTC"
+  },
+  "valid": {
+    "adjective": "kelvollinen, validi"
+  },
+  "validator": {
+    "noun": "laaduntarkastaja"
+  },
+  "value": {
+    "noun": "arvo"
+  },
+  "variable": {
+    "noun": "muuttuja"
+  },
+  "variable product": {
+    "noun": "muunnelmatuote"
+  },
+  "verification": {
+    "noun": "varmistus, varmennus"
+  },
+  "view": {
+    "noun": "näkymä",
+    "verb": "näytä"
+  },
+  "visual editor": {
+    "noun": "graafinen muokkain"
+  },
+  "Visual editor": {
+    "noun": "Graafinen muokkain"
+  },
+  "webhook": {
+    "noun": "verkkotoimintokutsu"
+  },
+  "website": {
+    "noun": "sivusto"
+  },
+  "widget": {
+    "noun": "vimpain"
+  },
+  "widgetized area": {
+    "noun": "vimpainalue"
+  },
+  "wildcard": {
+    "noun": "jokerimerkki"
+  },
+  "wizard": {
+    "noun": "velho"
+  }
+}

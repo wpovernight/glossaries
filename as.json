@@ -1,0 +1,1330 @@
+{
+  "Access": {
+    "noun": "প্ৰৱেশাধিকাৰ"
+  },
+  "Accessibility": {
+    "noun": "সহজলভ্যতা"
+  },
+  "Accessible": {
+    "adjective": "সহজলভ্য"
+  },
+  "Account": {
+    "noun": "একাউণ্ট"
+  },
+  "Action": {
+    "noun": "কাৰ্য্য"
+  },
+  "Activate": {
+    "verb": "সক্ৰিয় কৰক"
+  },
+  "Activation": {
+    "noun": "সক্ৰিয়কৰণ"
+  },
+  "Add": {
+    "verb": "যোগ কৰক"
+  },
+  "Address": {
+    "noun": "ঠিকনা"
+  },
+  "Admin": {
+    "noun": "কৰ্তৃপক্ষ"
+  },
+  "Administrative": {
+    "adjective": "প্ৰশাসনিক"
+  },
+  "Administrator": {
+    "noun": "কৰ্তৃপক্ষ"
+  },
+  "Advanced": {
+    "adjective": "উচ্চখাপৰ"
+  },
+  "After": {
+    "preposition": "পাছত"
+  },
+  "Align": {
+    "verb": "সংৰেখিত কৰক"
+  },
+  "Alignment": {
+    "noun": "সংৰেখন"
+  },
+  "Alphanumeric": {
+    "adjective": "বৰ্ণসাংখ্যিক"
+  },
+  "Alternative": {
+    "adjective": "বৈকল্পিক"
+  },
+  "Android": {
+    "noun": "এণ্ড্ৰইড"
+  },
+  "App": {
+    "noun": "এপ"
+  },
+  "Appearance": {
+    "noun": "ৰংৰূপ"
+  },
+  "Application": {
+    "noun": "এপ্লিকেশ্যন"
+  },
+  "Approve": {
+    "verb": "অনুমোদন দিয়ক"
+  },
+  "Approved": {
+    "adjective": "অনুমোদিত"
+  },
+  "Architecture": {
+    "noun": "আকৃতি"
+  },
+  "Archive": {
+    "noun": "আৰ্কাইভ"
+  },
+  "Area": {
+    "noun": "অঞ্চল"
+  },
+  "Argument": {
+    "noun": "আৰ্গ্যুমেণ্ট"
+  },
+  "Array": {
+    "noun": "শৃংখল"
+  },
+  "Arrow": {
+    "noun": "কাঁড়"
+  },
+  "Aspect Ratio": {
+    "noun": "পক্ষানুপাত"
+  },
+  "Attach": {
+    "verb": "জোৰাওক"
+  },
+  "Attachment": {
+    "noun": "সংলগ্ন নথি"
+  },
+  "Attribute": {
+    "noun": "বৈশিষ্ট্য"
+  },
+  "Audio": {
+    "noun": "অডিঅ’"
+  },
+  "Authentication": {
+    "noun": "প্ৰমাণীকৰণ"
+  },
+  "Author": {
+    "noun": "লিখোঁতা"
+  },
+  "Autocomplete": {
+    "noun": "স্বয়ংসম্পূৰ্ণ"
+  },
+  "Automatic": {
+    "adjective": "স্বয়ংক্ৰিয়"
+  },
+  "Automatically": {
+    "adverb": "স্বয়ংক্ৰিয়ভাৱে"
+  },
+  "Autosave": {
+    "noun": "স্বয়ংসঞ্চয়"
+  },
+  "Available": {
+    "adjective": "উপলব্ধ"
+  },
+  "Avatar": {
+    "noun": "অৱতাৰ"
+  },
+  "Background": {
+    "noun": "পটভূমি"
+  },
+  "Backup": {
+    "noun": "বেকআপ"
+  },
+  "Before": {
+    "preposition": "আগত"
+  },
+  "Blacklist": {
+    "noun": "ব্লেকলিষ্ট"
+  },
+  "Block": {
+    "noun": "ব্লক",
+    "verb": "অৱৰোধ কৰক"
+  },
+  "Blog": {
+    "noun": "ব্লগ"
+  },
+  "Blogger": {
+    "noun": "ব্লগাৰ"
+  },
+  "Blogroll": {
+    "noun": "ব্লগৰ’ল"
+  },
+  "Bookmark": {
+    "noun": "বুকমাৰ্ক"
+  },
+  "Border": {
+    "noun": "সীমাৰেখা"
+  },
+  "Browse": {
+    "verb": "ব্ৰাউজ কৰক"
+  },
+  "Browser": {
+    "noun": "ব্ৰাউজাৰ"
+  },
+  "Bulk": {
+    "adjective": "সমূহীয়া"
+  },
+  "Button": {
+    "noun": "বুটাম"
+  },
+  "Cache": {
+    "noun": "কেশ্ব"
+  },
+  "Calendar": {
+    "noun": "কেলেণ্ডাৰ"
+  },
+  "Callback": {
+    "noun": "কল্‌বেক"
+  },
+  "Cancel": {
+    "verb": "বাতিল কৰক"
+  },
+  "Capability": {
+    "noun": "সক্ষমতা"
+  },
+  "Caption": {
+    "noun": "কেপশ্যন"
+  },
+  "Category": {
+    "noun": "শ্ৰেণী"
+  },
+  "Cell": {
+    "noun": "কোষ"
+  },
+  "Certificate": {
+    "noun": "প্ৰমাণপত্ৰ"
+  },
+  "Change": {
+    "verb": "সলনি কৰক"
+  },
+  "Changeset": {
+    "noun": "সলনি-গোট"
+  },
+  "character": {
+    "noun": "বৰ্ণ"
+  },
+  "Charset": {
+    "noun": "বৰ্ণ-গোট"
+  },
+  "Check": {
+    "verb": "পৰীক্ষা কৰক"
+  },
+  "Choose": {
+    "verb": "বাছি লওক"
+  },
+  "Clear": {
+    "verb": "পৰিষ্কাৰ কৰক"
+  },
+  "Clipboard": {
+    "noun": "ক্লিপব’ৰ্ড"
+  },
+  "Close": {
+    "verb": "বন্ধ কৰক"
+  },
+  "Cloud": {
+    "noun": "ক্লাউড"
+  },
+  "Code": {
+    "noun": "ক’ড"
+  },
+  "Collapse": {
+    "verb": "জপাওক"
+  },
+  "Collection": {
+    "noun": "সংগ্ৰহ"
+  },
+  "Column": {
+    "noun": "স্তম্ভ"
+  },
+  "Comment": {
+    "noun": "মন্তব্য"
+  },
+  "Commit": {
+    "verb": "সম্পাদন কৰক"
+  },
+  "Committer": {
+    "noun": "সম্পাদনকাৰী"
+  },
+  "Compact": {
+    "adjective": "সংকুচিত"
+  },
+  "Compatible": {
+    "adjective": "সুসংগত"
+  },
+  "Configuration": {
+    "noun": "কনফিগাৰেশ্যন"
+  },
+  "Configure": {
+    "verb": "কনফিগাৰ কৰক"
+  },
+  "Confirm": {
+    "verb": "নিশ্চিত কৰক"
+  },
+  "Connect": {
+    "verb": "সংযোগ কৰক"
+  },
+  "Constant": {
+    "noun": "ধ্ৰুৱক"
+  },
+  "Container": {
+    "noun": "কণ্টেইনাৰ"
+  },
+  "Content": {
+    "noun": "বিষয়বস্তু"
+  },
+  "Contrast": {
+    "noun": "ৰঙৰ প্ৰভেদ"
+  },
+  "Convert": {
+    "verb": "ৰূপান্তৰ কৰক"
+  },
+  "Copy": {
+    "noun": "প্ৰতিলিপি"
+  },
+  "Cover": {
+    "noun": "কভাৰ"
+  },
+  "Create": {
+    "verb": "সৃষ্টি কৰক"
+  },
+  "Creator": {
+    "noun": "সৃষ্টিকৰ্তা"
+  },
+  "Crop": {
+    "verb": "ক্ৰপ কৰক"
+  },
+  "Current": {
+    "adjective": "বৰ্তমানৰ"
+  },
+  "Currently": {
+    "adverb": "বৰ্তমান"
+  },
+  "Cursor": {
+    "noun": "কাৰ্ছৰ"
+  },
+  "Custom": {
+    "adjective": "কাষ্টম"
+  },
+  "Customization": {
+    "noun": "কাষ্টমাইজেশ্যন"
+  },
+  "Customize": {
+    "verb": "কাষ্টমাইজ কৰক"
+  },
+  "Cut": {
+    "verb": "কাটক"
+  },
+  "Dash": {
+    "noun": "ডেশ্ব"
+  },
+  "Dashboard": {
+    "noun": "ডেশ্বব’ৰ্ড"
+  },
+  "Data": {
+    "noun": "ডেটা"
+  },
+  "Database": {
+    "noun": "ডেটাবে’ছ"
+  },
+  "Deactivate": {
+    "verb": "নিষ্ক্ৰিয় কৰক"
+  },
+  "Decline": {
+    "verb": "নাকচ কৰক"
+  },
+  "Decrease": {
+    "verb": "কমাওক"
+  },
+  "Default": {
+    "noun": "ডিফ’ল্ট"
+  },
+  "Define": {
+    "verb": "নিৰ্ধাৰণ কৰক"
+  },
+  "Delete": {
+    "verb": "মচক"
+  },
+  "Deprecated": {
+    "adjective": "অপ্ৰচলিত"
+  },
+  "Dequeue": {
+    "verb": "শাৰীমুক্ত কৰক"
+  },
+  "Description": {
+    "noun": "বৰ্ণনা"
+  },
+  "Design": {
+    "noun": "ডিজাইন"
+  },
+  "Details": {
+    "noun": "বিশদ বিৱৰণ"
+  },
+  "Device": {
+    "noun": "ডিভাইচ"
+  },
+  "Dimension": {
+    "noun": "মাত্ৰা"
+  },
+  "Directory": {
+    "noun": "ডাইৰেক্টৰী"
+  },
+  "Disable": {
+    "verb": "নিষ্ক্ৰিয় কৰক"
+  },
+  "Discard": {
+    "verb": "খাৰিজ কৰক"
+  },
+  "Disk": {
+    "noun": "ডিস্ক"
+  },
+  "Dismiss": {
+    "noun": "নাকচ কৰক"
+  },
+  "Display": {
+    "noun": "ডিছপ্লে’",
+    "verb": "দেখুৱাওক"
+  },
+  "Document": {
+    "noun": "নথি-পত্ৰ"
+  },
+  "Documentation": {
+    "noun": "তথ্যপত্ৰ"
+  },
+  "Domain": {
+    "noun": "ড’মেইন"
+  },
+  "Download": {
+    "verb": "ডাউনল’ড কৰক",
+    "noun": "ডাউনল’ড"
+  },
+  "Draft": {
+    "noun": "খচৰা"
+  },
+  "Drag": {
+    "noun": "ধৰি টানি আনক"
+  },
+  "Drag and drop": {
+    "expression": "ধৰি টানি আনি এৰি দিয়ক"
+  },
+  "Drag-and-drop": {
+    "noun": "ড্ৰেগ-এণ্ড-ড্ৰপ"
+  },
+  "Drawer": {
+    "noun": "ড্ৰৱাৰ"
+  },
+  "Drop-in": {
+    "noun": "ড্ৰপ-ইন"
+  },
+  "Dropdown": {
+    "noun": "ড্ৰপডাউন"
+  },
+  "Edit": {
+    "noun": "সম্পাদনা",
+    "verb": "সম্পাদনা কৰক"
+  },
+  "Editable": {
+    "adjective": "সম্পাদনাযোগ্য"
+  },
+  "Editor": {
+    "noun": "এডিটৰ"
+  },
+  "Element": {
+    "noun": "উপাদান"
+  },
+  "Email": {
+    "noun": "ইমেইল"
+  },
+  "Embed": {
+    "verb": "সন্নিৱিষ্ট কৰক"
+  },
+  "Emoji": {
+    "noun": "ইম’জি"
+  },
+  "Emoticon": {
+    "noun": "ইম’টিকন"
+  },
+  "Empty": {
+    "adjective": "খালী"
+  },
+  "Enable": {
+    "verb": "সক্ৰিয় কৰক"
+  },
+  "Encoding": {
+    "noun": "এনক’ডিং"
+  },
+  "Enqueue": {
+    "verb": "শাৰীবদ্ধ কৰক"
+  },
+  "Enter": {
+    "verb": "লিখক"
+  },
+  "Entry": {
+    "noun": "এণ্ট্ৰী"
+  },
+  "Erase": {
+    "verb": "মচক"
+  },
+  "Eraser": {
+    "noun": "ইৰেজাৰ"
+  },
+  "Erasure": {
+    "noun": "মচা কাৰ্য্য"
+  },
+  "Error": {
+    "noun": "ত্ৰুটি"
+  },
+  "Exceed": {
+    "verb": "অতিক্ৰম কৰক"
+  },
+  "Excerpt": {
+    "noun": "উদ্ধৃতি"
+  },
+  "Explore": {
+    "verb": "অন্বেষণ কৰক"
+  },
+  "Feature": {
+    "noun": "সুবিধা"
+  },
+  "Featured": {
+    "adjective": "সুবিশিষ্ট"
+  },
+  "Feed": {
+    "noun": "ফীড"
+  },
+  "File": {
+    "noun": "ফাইল"
+  },
+  "Filter": {
+    "verb": "ফিল্টাৰ কৰক"
+  },
+  "Folder": {
+    "noun": "ফ’ল্ডাৰ"
+  },
+  "Font": {
+    "noun": "ফণ্ট"
+  },
+  "Footer": {
+    "noun": "পাদশাৰী"
+  },
+  "Foreground": {
+    "noun": "অগ্ৰভূমি"
+  },
+  "Form": {
+    "noun": "প্র-পত্ৰ"
+  },
+  "Format": {
+    "noun": "সজ্জা"
+  },
+  "Forum": {
+    "noun": "ফ’ৰাম"
+  },
+  "Function": {
+    "noun": "ফাংশ্যন"
+  },
+  "Gallery": {
+    "noun": "গেলেৰী"
+  },
+  "Gap": {
+    "noun": "ব্যৱধান"
+  },
+  "Global": {
+    "adjective": "সৰ্বজনীন"
+  },
+  "Go back": {
+    "verb": "ঘূৰি যাওক"
+  },
+  "Gradient": {
+    "noun": "গ্ৰেডিয়েণ্ট"
+  },
+  "Graphic": {
+    "noun": "গ্ৰাফিক"
+  },
+  "Graphics": {
+    "noun": "গ্ৰাফিক্স"
+  },
+  "Grid": {
+    "noun": "গ্ৰিড"
+  },
+  "Group": {
+    "noun": "গোট"
+  },
+  "Header": {
+    "noun": "শিৰোশাৰী"
+  },
+  "Heading": {
+    "noun": "শিৰোনামা"
+  },
+  "Hide": {
+    "verb": "লুকুৱাওক"
+  },
+  "Hierarchical": {
+    "adjective": "পদানুক্ৰমিক"
+  },
+  "Hierarchy": {
+    "noun": "পদানুক্ৰম"
+  },
+  "Homepage": {
+    "noun": "মুখ্যপৃষ্ঠা"
+  },
+  "Horizontal": {
+    "adjective": "পথালি"
+  },
+  "Horizontally": {
+    "adverb": "পথালিকৈ"
+  },
+  "Host": {
+    "noun": "হ’ষ্ট"
+  },
+  "Hour": {
+    "noun": "ঘণ্টা"
+  },
+  "Icon": {
+    "noun": "আইকন"
+  },
+  "Ignore": {
+    "verb": "আওকাণ কৰক"
+  },
+  "Image": {
+    "noun": "ছবি"
+  },
+  "Import": {
+    "verb": "আমদানি কৰক"
+  },
+  "Inbox": {
+    "noun": "ইনবক্স"
+  },
+  "Inline": {
+    "noun": "ইনলাইন"
+  },
+  "Insert": {
+    "verb": "সুমুৱাওক"
+  },
+  "Install": {
+    "verb": "ইনষ্টল কৰক"
+  },
+  "Integer": {
+    "noun": "পূৰ্ণসংখ্যা"
+  },
+  "Interface": {
+    "noun": "ইণ্টাৰফে’চ"
+  },
+  "Invalid": {
+    "adjective": "অবৈধ"
+  },
+  "Item": {
+    "noun": "বস্তু"
+  },
+  "Justify": {
+    "verb": "দাঁতি সমান কৰক"
+  },
+  "Keyboard": {
+    "noun": "কীব’ৰ্ড"
+  },
+  "Keyword": {
+    "noun": "মূল-শব্দ"
+  },
+  "Label": {
+    "noun": "লেবেল"
+  },
+  "Layout": {
+    "noun": "লে’আউট"
+  },
+  "Letter": {
+    "noun": "আখৰ"
+  },
+  "Library": {
+    "noun": "লাইব্ৰেৰী"
+  },
+  "Linear": {
+    "adjective": "ৰৈখিক"
+  },
+  "Link": {
+    "noun": "লিংক"
+  },
+  "List": {
+    "noun": "তালিকা"
+  },
+  "Loading": {
+    "verb": "ল’ড হৈ আছে"
+  },
+  "Location": {
+    "noun": "অৱস্থান"
+  },
+  "Log in": {
+    "verb": "লগ ইন কৰক"
+  },
+  "Log out": {
+    "verb": "লগ আউট কৰক"
+  },
+  "Login": {
+    "noun": "লগিন"
+  },
+  "Logo": {
+    "noun": "ল’গ’"
+  },
+  "Mail": {
+    "noun": "মেইল"
+  },
+  "Manage": {
+    "verb": "পৰিচালনা কৰক"
+  },
+  "Manual": {
+    "adjective": "মেনুৱেল"
+  },
+  "Manually": {
+    "adverb": "মেনুৱেলী"
+  },
+  "Margin": {
+    "noun": "সীমা"
+  },
+  "Mark": {
+    "verb": "চিন দিয়ক"
+  },
+  "Media": {
+    "noun": "মিডিয়া"
+  },
+  "Media player": {
+    "noun": "মিডিয়া প্লে’য়াৰ"
+  },
+  "Menu": {
+    "noun": "মেন্যু"
+  },
+  "Merge": {
+    "verb": "চামিল কৰক"
+  },
+  "Message": {
+    "noun": "বাৰ্তা"
+  },
+  "Meta": {
+    "noun": "মেটা"
+  },
+  "Metadata": {
+    "noun": "মেটাডেটা"
+  },
+  "Minute": {
+    "noun": "মিনিট"
+  },
+  "Missing": {
+    "adjective": "নিৰুদ্দেশ"
+  },
+  "Mode": {
+    "noun": "ম’ড"
+  },
+  "Moderate": {
+    "verb": "মডাৰেট কৰক"
+  },
+  "Moderation": {
+    "noun": "গ্ৰহণীয়কৰণ"
+  },
+  "Move": {
+    "verb": "লৈ যাওক"
+  },
+  "Movie": {
+    "noun": "বোলছবি"
+  },
+  "Multisite": {
+    "noun": "বহু-ছাইট"
+  },
+  "Navigation": {
+    "noun": "নেভিগেশ্যন"
+  },
+  "Non-empty": {
+    "adjective": "অ-ৰিক্ত"
+  },
+  "Not allowed": {
+    "adjective": "অনুমতি নাই"
+  },
+  "Number": {
+    "noun": "সংখ্যা"
+  },
+  "Oops": {
+    "expression": "উস্"
+  },
+  "Open": {
+    "verb": "খোলক"
+  },
+  "Optimize": {
+    "verb": "অপ্টিমাইজ কৰক"
+  },
+  "Option": {
+    "noun": "বিকল্প"
+  },
+  "Optional": {
+    "adjective": "বৈকল্পিক"
+  },
+  "Order": {
+    "noun": "ক্ৰম"
+  },
+  "Outline": {
+    "noun": "ৰূপৰেখা"
+  },
+  "overview": {
+    "noun": "অৱলোকন"
+  },
+  "Page": {
+    "noun": "পৃষ্ঠা"
+  },
+  "Pagination": {
+    "noun": "পৃষ্ঠাকৰণ"
+  },
+  "Palette": {
+    "noun": "পেলেট"
+  },
+  "Panel": {
+    "noun": "পেনেল"
+  },
+  "Paragraph": {
+    "noun": "অনুচ্ছেদ"
+  },
+  "Parameter": {
+    "noun": "পেৰামিটাৰ"
+  },
+  "Parser": {
+    "noun": "পাৰ্ছাৰ"
+  },
+  "Password": {
+    "noun": "পাছৱৰ্ড"
+  },
+  "Paste": {
+    "verb": "পে’ষ্ট কৰক"
+  },
+  "Pattern": {
+    "noun": "আৰ্হি"
+  },
+  "Pending": {
+    "adjective": "বিচাৰাধীন"
+  },
+  "Phone": {
+    "noun": "ফ’ন"
+  },
+  "Photo": {
+    "noun": "ফটো"
+  },
+  "Pin": {
+    "verb": "পিন মাৰক"
+  },
+  "Pingback": {
+    "noun": "পিংবেক"
+  },
+  "Pixel": {
+    "noun": "পিক্সেল"
+  },
+  "Playlist": {
+    "noun": "প্লে’লিষ্ট"
+  },
+  "Plugin": {
+    "noun": "প্লাগিন"
+  },
+  "Podcast": {
+    "noun": "পডকাষ্ট"
+  },
+  "Podcasts": {
+    "noun": "পড্‌কাষ্ট"
+  },
+  "Post": {
+    "noun": "প’ষ্ট",
+    "verb": "প’ষ্ট কৰক"
+  },
+  "Preformatted": {
+    "adjective": "পূৰ্বসজ্জিত"
+  },
+  "Preset": {
+    "noun": "প্ৰিছেট"
+  },
+  "Preview": {
+    "noun": "পূৰ্বদৰ্শন",
+    "verb": "পূৰ্বদৰ্শন কৰক"
+  },
+  "Print": {
+    "verb": "প্ৰিণ্ট কৰক"
+  },
+  "Privacy": {
+    "noun": "গোপনীয়তা"
+  },
+  "Private": {
+    "adjective": "ব্যক্তিগত"
+  },
+  "Process": {
+    "verb": "সংসাধিত কৰক",
+    "noun": "প্ৰক্ৰিয়া"
+  },
+  "Profile": {
+    "noun": "প্ৰ’ফাইল"
+  },
+  "project": {
+    "noun": "প্ৰকল্প"
+  },
+  "Properties": {
+    "noun": "বৈশিষ্ট্য"
+  },
+  "Protected": {
+    "adjective": "সুৰক্ষিত"
+  },
+  "Public facing": {
+    "adjective": "লোক-মুখী"
+  },
+  "Publish": {
+    "verb": "প্ৰকাশ কৰক"
+  },
+  "Published": {
+    "adjective": "প্ৰকাশিত"
+  },
+  "Pullquote": {
+    "noun": "পুলকুৱট"
+  },
+  "Quality": {
+    "noun": "গুণমান"
+  },
+  "Query": {
+    "noun": "কুৱেৰী"
+  },
+  "Queue": {
+    "verb": "শাৰীবদ্ধ কৰক",
+    "noun": "শাৰী"
+  },
+  "Radial": {
+    "adjective": "ৰেডিয়েল"
+  },
+  "Random": {
+    "adjective": "ওলট-পালট"
+  },
+  "Randomize": {
+    "verb": "ওলট-পালট কৰক"
+  },
+  "Range": {
+    "noun": "পৰিসৰ"
+  },
+  "Recover": {
+    "verb": "পুনৰুদ্ধাৰ কৰক"
+  },
+  "Reduce": {
+    "verb": "কমাওক"
+  },
+  "Register": {
+    "verb": "পঞ্জীয়ন কৰক"
+  },
+  "Registration": {
+    "noun": "পঞ্জীয়ন"
+  },
+  "Release": {
+    "noun": "উন্মোচন"
+  },
+  "Reload": {
+    "verb": "ৰিল’ড কৰক"
+  },
+  "Remove": {
+    "verb": "আঁতৰাওক"
+  },
+  "Render": {
+    "verb": "ৰেণ্ডাৰ কৰক"
+  },
+  "Reorder": {
+    "verb": "ক্ৰম সলাওক"
+  },
+  "Replace": {
+    "noun": "বদলি কৰক"
+  },
+  "Reply": {
+    "noun": "প্ৰত্যুত্তৰ"
+  },
+  "Repository": {
+    "noun": "ৰিপজিটৰী"
+  },
+  "Requires": {
+    "verb": "প্ৰয়োজন"
+  },
+  "Reset": {
+    "verb": "ৰিছেট কৰক"
+  },
+  "Restore": {
+    "verb": "পুনৰুদ্ধাৰ কৰক"
+  },
+  "Result": {
+    "noun": "ফলাফল"
+  },
+  "Reusable": {
+    "adjective": "পুনৰ্ব্যৱহাৰ্য"
+  },
+  "Review": {
+    "noun": "পৰ্য্যালোচনা",
+    "verb": "পৰ্য্যালোচনা কৰক"
+  },
+  "Revision": {
+    "noun": "পুনৰীক্ষণ"
+  },
+  "Rewrite": {
+    "noun": "পুনৰ্লিখন"
+  },
+  "Robot": {
+    "noun": "ৰ’বট"
+  },
+  "Route": {
+    "noun": "মাৰ্গ"
+  },
+  "Row": {
+    "noun": "শাৰী"
+  },
+  "Save": {
+    "verb": "সাঁচি থওক"
+  },
+  "Saved": {
+    "adjective": "সাঁচি থোৱা"
+  },
+  "Schedule": {
+    "verb": "সময়সূচী"
+  },
+  "Scheduled": {
+    "verb": "সময়সূচীভুক্ত"
+  },
+  "Screen": {
+    "noun": "স্ক্ৰীন"
+  },
+  "Script": {
+    "noun": "স্ক্ৰিপ্ট"
+  },
+  "Search": {
+    "noun": "সন্ধান"
+  },
+  "Second": {
+    "noun": "ছেকেণ্ড"
+  },
+  "Section": {
+    "noun": "বিভাগ"
+  },
+  "Select": {
+    "verb": "বাছনি কৰক"
+  },
+  "Selection": {
+    "noun": "বাছনি"
+  },
+  "Sent": {
+    "adjective": "পঠিওৱা"
+  },
+  "Separator": {
+    "noun": "বিভাজক"
+  },
+  "Server": {
+    "noun": "ছাৰ্ভাৰ"
+  },
+  "Session": {
+    "noun": "ছেশ্যন"
+  },
+  "Set": {
+    "verb": "নিৰ্ধাৰণ কৰক"
+  },
+  "Setting": {
+    "noun": "ছেটিং"
+  },
+  "Settings": {
+    "noun": "ছেটিংছ"
+  },
+  "Share": {
+    "verb": "ভাগ-বতৰা কৰক"
+  },
+  "Shortcut": {
+    "noun": "চমুপথ"
+  },
+  "Show": {
+    "verb": "দেখুৱাওক"
+  },
+  "Sidebar": {
+    "noun": "ছাইডবাৰ"
+  },
+  "Sign in": {
+    "verb": "ছাইন ইন কৰক"
+  },
+  "Sign out": {
+    "verb": "ছাইন আউট কৰক"
+  },
+  "Sign up": {
+    "verb": "ছাইন আপ কৰক"
+  },
+  "Site": {
+    "noun": "ছাইট"
+  },
+  "Size": {
+    "noun": "আকাৰ"
+  },
+  "Skip": {
+    "verb": "এৰি যাওক"
+  },
+  "Slash": {
+    "noun": "শ্লেশ্ব"
+  },
+  "Slide": {
+    "noun": "শ্লাইড"
+  },
+  "Slider": {
+    "noun": "শ্লাইডাৰ"
+  },
+  "Slideshow": {
+    "noun": "শ্লাইডশ্ব’"
+  },
+  "Slug": {
+    "noun": "শ্লাগ"
+  },
+  "Snippet": {
+    "noun": "স্নিপেট"
+  },
+  "Social media": {
+    "noun": "ছ’চিয়েল মিডিয়া"
+  },
+  "Software": {
+    "noun": "ছফ্টৱেৰ"
+  },
+  "Sorry": {
+    "adjective": "ক্ষমা কৰিব"
+  },
+  "Sort": {
+    "verb": "ক্ৰমে সজাওক"
+  },
+  "Source": {
+    "noun": "উৎস"
+  },
+  "Source code": {
+    "noun": "ছ’ৰ্চ ক’ড"
+  },
+  "Space": {
+    "noun": "খালী ঠাই"
+  },
+  "Space allocation": {
+    "noun": "ঠাই আবণ্টন"
+  },
+  "Spacer": {
+    "noun": "স্পে’চাৰ"
+  },
+  "Spacing": {
+    "noun": "ব্যৱধান"
+  },
+  "Specify": {
+    "verb": "উল্লেখ কৰক"
+  },
+  "Stack": {
+    "noun": "দ’ম",
+    "verb": "দ’মাওক"
+  },
+  "Standard": {
+    "adjective": "মানবিশিষ্ট"
+  },
+  "Stat": {
+    "noun": "পৰিসংখ্যা"
+  },
+  "Status": {
+    "noun": "স্থিতি"
+  },
+  "String": {
+    "noun": "ষ্ট্ৰিং"
+  },
+  "Style": {
+    "noun": "শৈলী"
+  },
+  "Stylesheet": {
+    "noun": "ষ্টাইলশ্বীট"
+  },
+  "Subdomain": {
+    "noun": "উপ-ড’মেইন"
+  },
+  "Submit": {
+    "verb": "দাখিল কৰক"
+  },
+  "Subtitle": {
+    "noun": "ছাবটাইটেল"
+  },
+  "Suggested": {
+    "adjective": "পৰামৰ্শমূলক"
+  },
+  "Suggestion": {
+    "noun": "পৰামৰ্শ"
+  },
+  "Support": {
+    "noun": "সাহায্য"
+  },
+  "Switch": {
+    "verb": "সলনি কৰক",
+    "noun": "ছুইচ"
+  },
+  "System": {
+    "noun": "ছিষ্টেম"
+  },
+  "Tab": {
+    "noun": "টেব"
+  },
+  "Table": {
+    "noun": "তালিকা"
+  },
+  "Tag": {
+    "noun": "টেগ"
+  },
+  "Taxonomy": {
+    "noun": "বৰ্গীকৰণ"
+  },
+  "Template": {
+    "noun": "টেমপ্লে’ট"
+  },
+  "term": {
+    "noun": "পদ"
+  },
+  "Text": {
+    "noun": "পাঠ"
+  },
+  "Theme": {
+    "noun": "থীম"
+  },
+  "Thumbnail": {
+    "noun": "থাম্বনেইল"
+  },
+  "Time zone": {
+    "noun": "সময়-মণ্ডল"
+  },
+  "Timezone": {
+    "noun": "সময়-মণ্ডল"
+  },
+  "Title": {
+    "noun": "শীৰ্ষক"
+  },
+  "Toggle": {
+    "noun": "ট’গল কৰক"
+  },
+  "Token": {
+    "noun": "ট’কেন"
+  },
+  "Toolbar": {
+    "noun": "টুলবাৰ"
+  },
+  "Top": {
+    "noun": "শীৰ্ষ"
+  },
+  "Trackback": {
+    "noun": "ট্ৰেকবেক"
+  },
+  "Tracklist": {
+    "noun": "ট্ৰেকলিষ্ট"
+  },
+  "Trash": {
+    "noun": "ট্ৰেশ্ব"
+  },
+  "Type": {
+    "verb": "টাইপ কৰক",
+    "noun": "প্ৰকাৰ"
+  },
+  "Typography": {
+    "noun": "টাইপ’গ্ৰাফী"
+  },
+  "Unique": {
+    "noun": "সুকীয়া"
+  },
+  "Universal time": {
+    "noun": "সাৰ্বজনীন সময়"
+  },
+  "Unlink": {
+    "verb": "লিংকবিহীন কৰক"
+  },
+  "Unpublish": {
+    "verb": "অপ্ৰকাশিত কৰক"
+  },
+  "Unsafe": {
+    "adjective": "অসুৰক্ষিত"
+  },
+  "Up to date": {
+    "adjective": "আপ টু ডে’ট"
+  },
+  "Update": {
+    "verb": "আপডে’ট কৰক"
+  },
+  "Upgrade": {
+    "noun": "আপগ্ৰে’ড কৰক"
+  },
+  "Upload": {
+    "noun": "আপল’ড",
+    "verb": "আপল’ড কৰক"
+  },
+  "Uppercase": {
+    "noun": "বৰফলা"
+  },
+  "URL": {
+    "noun": "URL"
+  },
+  "User": {
+    "noun": "ব্যৱহাৰকাৰী"
+  },
+  "User interface": {
+    "noun": "ইউজাৰ ইণ্টাৰফে’চ"
+  },
+  "Username": {
+    "noun": "ব্যৱহাৰকাৰী-নাম"
+  },
+  "Valid": {
+    "adjective": "বৈধ"
+  },
+  "Variable": {
+    "noun": "চলক"
+  },
+  "Variation": {
+    "noun": "ভিন্নতা"
+  },
+  "Verify": {
+    "verb": "সত্যাপন কৰক"
+  },
+  "Version": {
+    "noun": "সংস্কৰণ"
+  },
+  "Vertical": {
+    "adjective": "থিয়"
+  },
+  "Vertically": {
+    "adverb": "থিয়কৈ"
+  },
+  "Video": {
+    "noun": "ভিডিঅ’"
+  },
+  "View": {
+    "verb": "চাওক",
+    "noun": "ভিউ"
+  },
+  "Viewport": {
+    "noun": "ভিউপ’ৰ্ট"
+  },
+  "Visibility": {
+    "noun": "দৃশ্যমানতা"
+  },
+  "Visible": {
+    "adjective": "দৃশ্যমান"
+  },
+  "Visit": {
+    "verb": "-লৈ যাওক"
+  },
+  "Visual": {
+    "adjective": "দৃশ্যগত"
+  },
+  "Visually": {
+    "adverb": "দৃশ্যগতভাৱে"
+  },
+  "Warning": {
+    "noun": "সকীয়নি"
+  },
+  "Web": {
+    "noun": "ৱেব"
+  },
+  "Website": {
+    "noun": "ৱেবছাইট"
+  },
+  "Widget": {
+    "noun": "ৱিজেট"
+  },
+  "Width": {
+    "noun": "প্ৰস্থ"
+  },
+  "Window": {
+    "noun": "ৱিণ্ড’"
+  },
+  "Writable": {
+    "adjective": "লিখনযোগ্য"
+  },
+  "Year": {
+    "noun": "বছৰ"
+  }
+}
